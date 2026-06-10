@@ -34,6 +34,8 @@ Korean summary at the end.
 | `students/<name>/profile.md` | Level, XP, streak, badges, focus skills, current book |
 | `students/<name>/journal/YYYY-MM-DD-<template>.md` | One file per daily session |
 | `students/<name>/feedback/YYYY-MM-DD-weekly.md` | Weekly feedback reports |
+| `index.html`, `assets/` | Portfolio website — renders the journal md files (GitHub Pages) |
+| `scripts/build-manifest.mjs` | Generates `manifest.json` (journal index) for the portfolio |
 
 ## Daily session flow (`/today`)
 
@@ -147,6 +149,11 @@ Commit with message `feedback: <name> weekly YYYY-MM-DD`.
 
 <student's revised sentences, if they did the fix or stretch>
 ```
+
+**Important:** the portfolio website parses journal files by their headings
+(`## My writing`, `## Tutor feedback`, `## Revision (if any)`) and by the
+`- **Book:** <title> (<amount>)` metadata line. Always keep this exact structure
+so entries appear correctly on the website.
 
 ## Game system — quick reference
 

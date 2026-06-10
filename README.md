@@ -26,6 +26,33 @@
    튜터는 절대 대신 써주지 않습니다.
 5. XP 지급, 스트릭 갱신, 배지 확인 → 전부 md로 커밋.
 
+## 포트폴리오 웹 (GitHub Pages)
+
+아이들이 쓴 글(`## My writing`)을 Epic처럼 **책 표지 그리드**로 모아 보는 정적
+웹사이트가 포함되어 있습니다. md 파일을 그대로 읽어 브라우저에서 렌더링합니다.
+
+- **책별 보기** — 글을 쓴 책마다 표지 카드로 그룹핑 (기본 화면)
+- **템플릿별 보기** — Summary, Golden Line 등 템플릿별 히스토리
+- **타임라인** — 월별·날짜별 히스토리
+- **Tutor feedback 토글** — 헤더의 스위치로 피드백 표시/숨김 (설정은 브라우저에 저장)
+- 학생이 여러 명이면 상단 탭으로 전환
+
+### 웹 퍼블리시 설정 (1회)
+
+1. GitHub 리포지토리 → **Settings → Pages → Source**를 **GitHub Actions**로 변경
+2. main 브랜치에 푸시하면 `.github/workflows/pages.yml`이 자동으로
+   `manifest.json`(일기 목록 색인)을 생성하고 배포합니다.
+3. 주소: `https://kyj5482.github.io/tutor.writing/`
+
+매일 `/today` 세션이 커밋·푸시될 때마다 포트폴리오도 자동 갱신됩니다.
+
+### 로컬에서 미리 보기
+
+```bash
+node scripts/build-manifest.mjs   # 일기 색인 생성
+python3 -m http.server 8000       # http://localhost:8000 접속
+```
+
 ## 구조
 
 ```
@@ -38,6 +65,9 @@ students/<이름>/
   profile.md         레벨, XP, 스트릭, 배지, 스킬 Tier, 세션 로그
   journal/           매일의 글 (날짜-템플릿.md) — 아이의 원문 그대로 보존
   feedback/          주간 피드백 리포트
+index.html, assets/  포트폴리오 웹사이트 (md를 읽어 렌더링)
+scripts/build-manifest.mjs  journal 폴더를 스캔해 manifest.json 색인 생성
+.github/workflows/pages.yml GitHub Pages 자동 배포
 ```
 
 ## 설계 원칙

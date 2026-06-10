@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My Writing Portfolio</title>
+<link rel="stylesheet" href="assets/style.css">
+<script src="https://cdn.jsdelivr.net/npm/marked@12/marked.min.js"></script>
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">📚 My Writing Portfolio</div>
+  <div class="controls">
+    <div id="studentTabs" class="student-tabs"></div>
+    <label class="toggle" title="Show or hide tutor feedback">
+      <input type="checkbox" id="feedbackToggle">
+      <span class="slider"></span>
+      <span class="toggle-label">Tutor feedback</span>
+    </label>
+  </div>
+</header>
+
+<nav class="viewbar">
+  <button class="viewbtn active" data-view="books">📚 By Book</button>
+  <button class="viewbtn" data-view="templates">📝 By Template</button>
+  <button class="viewbtn" data-view="timeline">📅 Timeline</button>
+</nav>
+
+<main id="app">
+  <div class="empty-state" id="loading">Loading…</div>
+</main>
+
+<div id="modal" class="modal hidden">
+  <div class="modal-card">
+    <button class="modal-close" id="modalClose" aria-label="Close">✕</button>
+    <div id="modalBody"></div>
+  </div>
+</div>
+
+<footer class="footer">
+  Built from the markdown journals in <code>students/&lt;name&gt;/journal/</code> · tutor.writing
+</footer>
+
+<script src="assets/app.js"></script>
+</body>
+</html>
