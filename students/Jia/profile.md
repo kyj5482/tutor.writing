@@ -7,13 +7,13 @@
 ## Game stats
 
 - **Level:** 1 — ✏️ Scribbler
-- **XP:** 0 (next level at 100)
-- **Current streak:** 0 days (best: 0)
-- **Last entry:** —
+- **XP:** 10 (next level at 100)
+- **Current streak:** 1 day (best: 1)
+- **Last entry:** 2026-06-09
 
 ## Badges
 
-(none yet — first entry earns 🚀 First Words!)
+- 🚀 First Words (earned 2026-06-09)
 
 ## Skill tiers
 
@@ -32,3 +32,4 @@ Structure (beginning–middle–end)
 
 | Date | Template | Tier | XP | Stretch done? | Notes |
 |------|----------|------|----|---------------|-------|
+| 2026-06-09 | 01 Summary | 1 | 10 | No | First entry! 🚀 |
