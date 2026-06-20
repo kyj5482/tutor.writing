@@ -24,4 +24,4 @@ Follow the **Daily session flow** in CLAUDE.md exactly:
    the revision and award the bonus.
 8. Update `profile.md`: XP, streak, session log row, badge/level checks per
    `game/rules.md`. Announce XP earned, and celebrate any badge or level-up.
-9. Commit: `journal: <name> <date> <template>`. Then push to the current branch.
+9. Commit: `journal: <name> <date> <template>`. Then push to the `main` branch with `git push origin HEAD:main`.
