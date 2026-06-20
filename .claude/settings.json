@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git *)",
+      "Bash(node *)",
+      "Write(students/*)",
+      "Edit(students/*)",
+      "Write(manifest.json)",
+      "Edit(.claude/commands/*)"
+    ],
+    "defaultMode": "acceptEdits"
+  }
+}
