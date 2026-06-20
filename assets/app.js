@@ -171,7 +171,7 @@ function renderBooks() {
   for (const [book, es] of books) {
     const h = hashStr(book);
     const [c1, c2] = COVER_GRADIENTS[h % COVER_GRADIENTS.length];
-    const emoji = COVER_EMOJIS[(h >> 4) % COVER_EMOJIS.length];
+    const emoji = COVER_EMOJIS[(h >>> 4) % COVER_EMOJIS.length];
     const cover = document.createElement('button');
     cover.className = 'book-cover';
     cover.style.background = `linear-gradient(150deg, ${c1}, ${c2})`;
