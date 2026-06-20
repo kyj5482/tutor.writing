@@ -7,13 +7,13 @@
 ## Game stats
 
 - **Level:** 1 — ✏️ Scribbler
-- **XP:** 0 (next level at 100)
-- **Current streak:** 0 days (best: 0)
-- **Last entry:** —
+- **XP:** 20 (next level at 100)
+- **Current streak:** 1 day (best: 1)
+- **Last entry:** 2026-06-19 — 04 Opinion
 
 ## Badges
 
-(none yet — first entry earns 🚀 First Words!)
+- 🚀 **First Words** — first journal entry (2026-06-19)
 
 ## Skill tiers
 
@@ -32,3 +32,4 @@ Explanation — after a detail, add a sentence that says *why* it matters or *wh
 
 | Date | Template | Tier | XP | Stretch done? | Notes |
 |------|----------|------|----|---------------|-------|
+| 2026-06-19 | 04 Opinion | 2 | 20 | not yet | Strong claim+explanation; used counterargument; focus skill ✅ |
