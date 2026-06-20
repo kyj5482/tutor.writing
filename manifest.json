@@ -1,6 +1,22 @@
 {
-  "generated": "2026-06-10T18:28:50.545Z",
+  "generated": "2026-06-20T04:22:22.741Z",
   "students": [
+    {
+      "name": "Jaei",
+      "grade": "8",
+      "entries": [
+        {
+          "file": "students/Jaei/journal/2026-06-19-04-opinion.md",
+          "date": "2026-06-19",
+          "slug": "04-opinion",
+          "book": "The Scorch Trials by James Dashner",
+          "reading": "3 chapters",
+          "tier": 2,
+          "xp": 20,
+          "hasRevision": false
+        }
+      ]
+    },
     {
       "name": "Jia",
       "grade": "6",
