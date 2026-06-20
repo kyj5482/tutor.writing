@@ -5,6 +5,8 @@
 import { readdirSync, readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 
+const version = Date.now();
+
 const root = process.cwd();
 const studentsDir = join(root, 'students');
 const students = [];
@@ -67,7 +69,16 @@ if (existsSync(studentsDir)) {
 
 const manifest = { generated: new Date().toISOString(), students };
 writeFileSync(join(root, 'manifest.json'), JSON.stringify(manifest, null, 2) + '\n');
+
+// Stamp index.html with ?v=<timestamp> so mobile browsers always fetch fresh assets.
+const indexPath = join(root, 'index.html');
+let html = readFileSync(indexPath, 'utf8');
+html = html
+  .replace(/(href="assets\/style\.css)(?:\?v=\d+)?(")/g, `$1?v=${version}$2`)
+  .replace(/(src="assets\/app\.js)(?:\?v=\d+)?(")/g, `$1?v=${version}$2`);
+writeFileSync(indexPath, html);
+
 console.log(
   `manifest.json: ${students.length} student(s), ` +
-  `${students.reduce((n, s) => n + s.entries.length, 0)} entr(ies)`
+  `${students.reduce((n, s) => n + s.entries.length, 0)} entr(ies) · cache-bust v=${version}`
 );
