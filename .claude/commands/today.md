@@ -24,4 +24,4 @@ Follow the **Daily session flow** in CLAUDE.md exactly:
    the revision and award the bonus.
 8. Update `profile.md`: XP, streak, session log row, badge/level checks per
    `game/rules.md`. Announce XP earned, and celebrate any badge or level-up.
-9. Commit: `journal: <name> <date> <template>`. Then push to the `main` branch with `git push origin HEAD:main`.
+9. Run `node scripts/build-manifest.mjs` to update the portfolio index. Then commit all changed files with message `journal: <name> <date> <template>` and push to the `main` branch with `git push origin HEAD:main`.
