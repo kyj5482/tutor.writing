@@ -27,7 +27,7 @@ Korean summary at the end.
 
 | Path | Purpose |
 |------|---------|
-| `templates/` | 10 writing templates, each with 3 difficulty tiers |
+| `templates/` | 10 daily writing templates (each 3 tiers) + 11 ACE Write (bonus round) |
 | `examples/grade6.md` | Every template demonstrated using *Hatchet* (ch. 1–3) |
 | `examples/grade8.md` | Every template demonstrated using *The Giver* (ch. 1–4) |
 | `game/rules.md` | XP, levels, streaks, badge rules |
@@ -56,9 +56,17 @@ Korean summary at the end.
    journal entry format below.
 9. Give feedback (see rubric): 2 praises → 1 improvement → 1 stretch challenge.
    If they revise using the improvement or stretch, award bonus XP.
-10. Update `profile.md`: XP, streak, session log row, badge checks (see `game/rules.md`).
+10. **Bonus — ACE Write (optional, always offer).** Once the main entry is done, invite
+    the student to a bonus round using the **11 ACE Write** template. Ask **one** focused
+    question about today's reading (drawn from what they just wrote), then show the
+    matching ACE example from `examples/` and the ACE frame at their tier. They answer in
+    **Answer → Cite → Explain** form. Make clear it's optional and worth bonus XP — never
+    pressure them; a tired day can end at step 9. If they do it, record it in the same
+    journal file under `## Bonus — ACE Write` (question + their writing) and award the
+    ACE bonus from `game/rules.md`.
+11. Update `profile.md`: XP, streak, session log row, badge checks (see `game/rules.md`).
     Announce XP earned and any level-up/badge with enthusiasm.
-11. Commit the new/changed files with message `journal: <name> YYYY-MM-DD <template>`.
+12. Commit the new/changed files with message `journal: <name> YYYY-MM-DD <template>`.
 
 ## Choosing a template
 
@@ -148,12 +156,19 @@ Commit with message `feedback: <name> weekly YYYY-MM-DD`.
 ## Revision (if any)
 
 <student's revised sentences, if they did the fix or stretch>
+
+## Bonus — ACE Write (if they did it)
+
+**Question:** <the question the tutor asked>
+
+<student's ACE answer, exactly as written>
 ```
 
 **Important:** the portfolio website parses journal files by their headings
-(`## My writing`, `## Tutor feedback`, `## Revision (if any)`) and by the
-`- **Book:** <title> (<amount>)` metadata line. Always keep this exact structure
-so entries appear correctly on the website.
+(`## My writing`, `## Tutor feedback`, `## Revision (if any)`, `## Bonus — ACE Write`)
+and by the `- **Book:** <title> (<amount>)` metadata line. Always keep this exact
+structure so entries appear correctly on the website. Omit the Bonus section entirely
+if the student skipped the bonus round.
 
 ## Game system — quick reference
 

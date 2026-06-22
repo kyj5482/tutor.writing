@@ -50,6 +50,8 @@ if (existsSync(studentsDir)) {
       const xp = (md.match(/\*\*XP earned:\*\*\s*(\d+)/) || [])[1];
       const hasRevision = /^## Revision/m.test(md) &&
         (md.split(/^## Revision.*$/m)[1] || '').trim().length > 0;
+      const hasBonus = /^## Bonus/m.test(md) &&
+        (md.split(/^## Bonus.*$/m)[1] || '').trim().length > 0;
 
       entries.push({
         file: `students/${name}/journal/${f}`,
@@ -60,6 +62,7 @@ if (existsSync(studentsDir)) {
         tier: tier ? Number(tier) : null,
         xp: xp ? Number(xp) : null,
         hasRevision,
+        hasBonus,
       });
     }
 

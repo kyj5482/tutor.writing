@@ -189,6 +189,12 @@ body {
   font-family: Georgia, "Times New Roman", serif;
 }
 
+.bonus-body {
+  background: #f1edff; border-radius: 12px; padding: 14px 18px;
+  font-size: 0.98rem; line-height: 1.7;
+  font-family: Georgia, "Times New Roman", serif;
+}
+
 /* hide feedback when toggle is off */
 body.hide-feedback .feedback-section { display: none; }
 

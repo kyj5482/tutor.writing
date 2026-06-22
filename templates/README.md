@@ -1,8 +1,8 @@
 # Writing Templates
 
-Ten templates for daily book-based writing. Each template has **3 tiers** — the tutor
-picks the tier from the student's profile. Higher tiers earn bonus XP (see
-`game/rules.md`).
+Ten daily templates plus a bonus ACE Write round for book-based writing. Each template
+has **3 tiers** — the tutor picks the tier from the student's profile. Higher tiers earn
+bonus XP (see `game/rules.md`).
 
 ## Picking by today's reading amount
 
@@ -27,3 +27,4 @@ picks the tier from the student's profile. Higher tiers earn bonus XP (see
 | 08 | Connection (Text-to-Me/World) | Analysis, personal voice |
 | 09 | Quick Write 3-2-1 | Habit keeper for short days |
 | 10 | Book Review | Evaluation, persuasion |
+| 11 | ACE Write (Bonus) | Answer + Cite + Explain a question |

@@ -65,10 +65,10 @@ function fmtDate(iso) {
   return d.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric', weekday: 'short' });
 }
 
-/* Split a journal md file into { meta, sections: {writing, feedback, revision} } */
+/* Split a journal md file into { meta, sections: {writing, feedback, revision, bonus} } */
 function parseEntry(md) {
   const parts = md.split(/^## +/m);
-  const out = { writing: '', feedback: '', revision: '' };
+  const out = { writing: '', feedback: '', revision: '', bonus: '' };
   for (const part of parts.slice(1)) {
     const nl = part.indexOf('\n');
     const heading = (nl === -1 ? part : part.slice(0, nl)).trim().toLowerCase();
@@ -76,6 +76,7 @@ function parseEntry(md) {
     if (heading.startsWith('my writing')) out.writing = body;
     else if (heading.startsWith('tutor feedback')) out.feedback = body;
     else if (heading.startsWith('revision')) out.revision = body;
+    else if (heading.startsWith('bonus')) out.bonus = body;
   }
   return out;
 }
@@ -124,6 +125,7 @@ function entryCard(e) {
         ${e.tier ? `<span class="chip">Tier ${e.tier}</span>` : ''}
         ${e.xp ? `<span class="chip">+${e.xp} XP</span>` : ''}
         ${e.hasRevision ? '<span class="chip">revised ✏️</span>' : ''}
+        ${e.hasBonus ? '<span class="chip">ACE 🎯</span>' : ''}
       </span>
       <span class="line2">${fmtDate(e.date)} · ${e.book}${e.reading ? ' · ' + e.reading : ''}</span>
     </span>`;
@@ -284,6 +286,11 @@ async function openEntry(e) {
       <div class="entry-section">
         <h2>My revision</h2>
         <div class="revision-body">${renderMd(sections.revision)}</div>
+      </div>` : ''}
+      ${sections.bonus ? `
+      <div class="entry-section bonus-section">
+        <h2>🎯 Bonus — ACE Write</h2>
+        <div class="bonus-body">${renderMd(sections.bonus)}</div>
       </div>` : ''}
     `;
   } catch (err) {

@@ -181,3 +181,14 @@ like a shrug — I wanted one more page.
 It loses half a star because of that ending, but it earns the other 4.5 because no
 other book made me reread my own normal life like a suspicious document. 4.5/5.
 If you liked *The Hunger Games* but wished it was quieter and creepier, read this.
+
+## 11 — ACE Write (Bonus) *(tutor asked: "Why is the word 'release' so important in these chapters?")*
+
+The community relies on the word "release" to hide the truth about what really happens
+to the people it removes. In the early chapters, release is mentioned as something
+ordinary and even pleasant — old people are released, a pilot is released for a mistake,
+and Larissa describes a release at the House of the Old like a cheerful celebration. By
+wrapping such a final act in so gentle a word, the community keeps its citizens from
+ever asking what release actually means. That careful word choice matters because it
+shows the real danger in Jonas's world isn't a cruelty you can point at — it's a
+language built to keep people from feeling anything at all.

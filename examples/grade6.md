@@ -124,3 +124,12 @@ with a problem, so it's really hard to stop reading. One thing that could be
 better is that some parts about the divorce repeat a little too much. I give it
 4.5 out of 5 stars. If you liked *My Side of the Mountain* or any survival show,
 you'll love this book.
+
+## 11 — ACE Write (Bonus) *(tutor asked: "Why can't Brian stop thinking about the Secret?")*
+
+The question asks why Brian keeps thinking about the Secret, and I think it's because
+he saw it with his own eyes and can't make himself forget it. In the book, Brian
+remembers seeing his mom in a station wagon with a man who was not his dad, and the
+words "the Secret" keep popping into his head even while he's on the plane. This shows
+that the divorce hurts Brian even more because he feels like he is carrying his mom's
+secret all alone. That's why the Secret follows him so far away from home.

@@ -22,6 +22,13 @@ Follow the **Daily session flow** in CLAUDE.md exactly:
    the file).
 7. Give 🌟🌟🔧🚀 feedback per their grade's rubric and tier. If they revise, record
    the revision and award the bonus.
-8. Update `profile.md`: XP, streak, session log row, badge/level checks per
+8. **Bonus — ACE Write (always offer, optional).** Ask ONE focused question about
+   today's reading, drawn from what they just wrote. Show the matching ACE example
+   from `examples/grade<n>.md` and the `templates/11-ace-write.md` frame at their tier,
+   then let them answer in Answer → Cite → Explain form. Never pressure — a tired day
+   can stop at step 7. If they do it, append a `## Bonus — ACE Write` section to the
+   journal file (the tutor's question + their writing, verbatim) and award the ACE
+   bonus XP from `game/rules.md`.
+9. Update `profile.md`: XP, streak, session log row, badge/level checks per
    `game/rules.md`. Announce XP earned, and celebrate any badge or level-up.
-9. Run `node scripts/build-manifest.mjs` to update the portfolio index. Then commit all changed files with message `journal: <name> <date> <template>` and push to the `main` branch with `git push origin HEAD:main`.
+10. Run `node scripts/build-manifest.mjs` to update the portfolio index. Then commit all changed files with message `journal: <name> <date> <template>` and push to the `main` branch with `git push origin HEAD:main`.
