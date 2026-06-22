@@ -7,9 +7,9 @@
 ## Game stats
 
 - **Level:** 1 — ✏️ Scribbler
-- **XP:** 20 (next level at 100)
+- **XP:** 50 (next level at 100)
 - **Current streak:** 1 day (best: 1)
-- **Last entry:** 2026-06-19 — 04 Opinion
+- **Last entry:** 2026-06-21 — 01 Summary
 
 ## Badges
 
@@ -33,3 +33,4 @@ Explanation — after a detail, add a sentence that says *why* it matters or *wh
 | Date | Template | Tier | XP | Stretch done? | Notes |
 |------|----------|------|----|---------------|-------|
 | 2026-06-19 | 04 Opinion | 2 | 20 | not yet | Strong claim+explanation; used counterargument; focus skill ✅ |
+| 2026-06-21 | 01 Summary | 2 | 30 | ✅ | Strong topic sentence + transitions; added a real quote (stretch ✅); "because" closer — Explanation focus ✅ |
