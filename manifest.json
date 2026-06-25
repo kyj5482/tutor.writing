@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-24T04:23:54.406Z",
+  "generated": "2026-06-25T04:39:40.079Z",
   "students": [
     {
       "name": "Jaei",
@@ -24,6 +24,17 @@
           "reading": "ch. 27–32",
           "tier": 2,
           "xp": 30,
+          "hasRevision": true,
+          "hasBonus": false
+        },
+        {
+          "file": "students/Jaei/journal/2026-06-23-book-review.md",
+          "date": "2026-06-23",
+          "slug": "book-review",
+          "book": "The Scorch Trials by James Dashner",
+          "reading": "finished — last 5 chapters",
+          "tier": 2,
+          "xp": 45,
           "hasRevision": true,
           "hasBonus": false
         },
