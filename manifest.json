@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-30T15:14:21.115Z",
+  "generated": "2026-07-02T02:13:12.964Z",
   "students": [
     {
       "name": "Jaei",
@@ -83,6 +83,17 @@
           "slug": "06-rewrite-the-scene",
           "book": "Harry Potter and the Goblet of Fire",
           "reading": "about 300 pages",
+          "tier": 1,
+          "xp": 25,
+          "hasRevision": false,
+          "hasBonus": true
+        },
+        {
+          "file": "students/Jia/journal/2026-07-01-01-summary.md",
+          "date": "2026-07-01",
+          "slug": "01-summary",
+          "book": "Harry Potter and the Goblet of Fire",
+          "reading": "to page 458",
           "tier": 1,
           "xp": 25,
           "hasRevision": false,

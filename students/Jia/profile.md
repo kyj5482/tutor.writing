@@ -7,13 +7,14 @@
 ## Game stats
 
 - **Level:** 1 — ✏️ Scribbler
-- **XP:** 70 (next level at 100)
-- **Current streak:** 1 day (best: 1)
-- **Last entry:** 2026-06-30
+- **XP:** 95 (next level at 100)
+- **Current streak:** 2 days (best: 2)
+- **Last entry:** 2026-07-01
 
 ## Badges
 
 - 🚀 First Words (earned 2026-06-09)
+- 🔍 Detail Detective (earned 2026-07-01 — 3 entries in a row packed with specific names & details!)
 
 ## Skill tiers
 
@@ -35,3 +36,4 @@ Structure (beginning–middle–end)
 | 2026-06-09 | 01 Summary | 1 | 10 | No | First entry! 🚀 |
 | 2026-06-21 | 04 Opinion | 1 | 35 | Revised (punctuation) + ACE | New book: HP & Prisoner of Azkaban. Strong evidence! |
 | 2026-06-30 | 06 Rewrite the Scene | 1 | 25 | ACE (no stretch) | Finished Azkaban → started Goblet of Fire. Huge 300-pg day, great recall! |
+| 2026-07-01 | 01 Summary | 1 | 25 | ACE (no stretch) | To p.458. Clean order words! 🔍 Detail Detective earned. |
