@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-02T02:13:12.964Z",
+  "generated": "2026-07-04T20:00:37.621Z",
   "students": [
     {
       "name": "Jaei",
@@ -94,6 +94,17 @@
           "slug": "01-summary",
           "book": "Harry Potter and the Goblet of Fire",
           "reading": "to page 458",
+          "tier": 1,
+          "xp": 25,
+          "hasRevision": false,
+          "hasBonus": true
+        },
+        {
+          "file": "students/Jia/journal/2026-07-04-05-letter-to-character.md",
+          "date": "2026-07-04",
+          "slug": "05-letter-to-character",
+          "book": "Harry Potter and the Order of the Phoenix",
+          "reading": "about 100 pages",
           "tier": 1,
           "xp": 25,
           "hasRevision": false,
