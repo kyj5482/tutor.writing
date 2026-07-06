@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-05T01:58:14.373Z",
+  "generated": "2026-07-06T00:27:23.177Z",
   "students": [
     {
       "name": "Jaei",
@@ -59,6 +59,17 @@
           "xp": 40,
           "hasRevision": true,
           "hasBonus": true
+        },
+        {
+          "file": "students/Jaei/journal/2026-07-05-01-summary.md",
+          "date": "2026-07-05",
+          "slug": "01-summary",
+          "book": "The 39 Clues: Into the Deep by Jude Watson",
+          "reading": "chapters 4–14",
+          "tier": 2,
+          "xp": 30,
+          "hasRevision": true,
+          "hasBonus": false
         }
       ]
     },
