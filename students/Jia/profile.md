@@ -7,9 +7,9 @@
 ## Game stats
 
 - **Level:** 2 — 📝 Sentence Builder
-- **XP:** 120 (next level at 200)
-- **Current streak:** 1 day (best: 2)
-- **Last entry:** 2026-07-04
+- **XP:** 155 (next level at 200)
+- **Current streak:** 2 days (best: 2)
+- **Last entry:** 2026-07-05
 
 ## Badges
 
@@ -38,3 +38,4 @@ Structure (beginning–middle–end)
 | 2026-06-30 | 06 Rewrite the Scene | 1 | 25 | ACE (no stretch) | Finished Azkaban → started Goblet of Fire. Huge 300-pg day, great recall! |
 | 2026-07-01 | 01 Summary | 1 | 25 | ACE (no stretch) | To p.458. Clean order words! 🔍 Detail Detective earned. |
 | 2026-07-04 | 05 Letter to a Character | 1 | 25 | ACE (no stretch) | Finished Goblet → started Order of the Phoenix. 🎉 Leveled up to 2! |
+| 2026-07-05 | 01 Summary | 1 | 35 | Revised (split run-on + "After that") + ACE | To p.170. Free-pick day. Noticed Sirius's mood change! 4 order words. |

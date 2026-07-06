@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-06T00:27:23.177Z",
+  "generated": "2026-07-06T01:51:43.381Z",
   "students": [
     {
       "name": "Jaei",
@@ -130,6 +130,17 @@
           "tier": 1,
           "xp": 25,
           "hasRevision": false,
+          "hasBonus": true
+        },
+        {
+          "file": "students/Jia/journal/2026-07-05-01-summary.md",
+          "date": "2026-07-05",
+          "slug": "01-summary",
+          "book": "Harry Potter and the Order of the Phoenix",
+          "reading": "to page 170",
+          "tier": 1,
+          "xp": 35,
+          "hasRevision": true,
           "hasBonus": true
         }
       ]
