@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-06T23:11:56.448Z",
+  "generated": "2026-07-06T23:31:34.142Z",
   "students": [
     {
       "name": "Jaei",
@@ -151,6 +151,17 @@
           "reading": "to page 170",
           "tier": 1,
           "xp": 35,
+          "hasRevision": true,
+          "hasBonus": true
+        },
+        {
+          "file": "students/Jia/journal/2026-07-06-03-character-diary.md",
+          "date": "2026-07-06",
+          "slug": "03-character-diary",
+          "book": "Harry Potter and the Order of the Phoenix",
+          "reading": "to p.200, ~30 pages",
+          "tier": 1,
+          "xp": 40,
           "hasRevision": true,
           "hasBonus": true
         }

@@ -7,14 +7,15 @@
 ## Game stats
 
 - **Level:** 2 — 📝 Sentence Builder
-- **XP:** 155 (next level at 200)
-- **Current streak:** 2 days (best: 2)
-- **Last entry:** 2026-07-05
+- **XP:** 195 (next level at 200)
+- **Current streak:** 3 days (best: 3)
+- **Last entry:** 2026-07-06
 
 ## Badges
 
 - 🚀 First Words (earned 2026-06-09)
 - 🔍 Detail Detective (earned 2026-07-01 — 3 entries in a row packed with specific names & details!)
+- 🎨 Template Tourist (earned 2026-07-06 — used 5 different templates: Summary, Opinion, Rewrite, Letter, Character Diary!)
 
 ## Skill tiers
 
@@ -39,3 +40,4 @@ Structure (beginning–middle–end)
 | 2026-07-01 | 01 Summary | 1 | 25 | ACE (no stretch) | To p.458. Clean order words! 🔍 Detail Detective earned. |
 | 2026-07-04 | 05 Letter to a Character | 1 | 25 | ACE (no stretch) | Finished Goblet → started Order of the Phoenix. 🎉 Leveled up to 2! |
 | 2026-07-05 | 01 Summary | 1 | 35 | Revised (split run-on + "After that") + ACE | To p.170. Free-pick day. Noticed Sirius's mood change! 4 order words. |
+| 2026-07-06 | 03 Character Diary | 1 | 40 | Revised (added specific detail) + ACE | To p.200. Harry sees dark horse-like creatures Ron can't. 🎨 Template Tourist earned! Day-3 streak. |
