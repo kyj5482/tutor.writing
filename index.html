@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>My Writing Portfolio</title>
-<link rel="stylesheet" href="assets/style.css?v=1783402518343">
+<link rel="stylesheet" href="assets/style.css?v=1783403189614">
 <script src="https://cdn.jsdelivr.net/npm/marked@12/marked.min.js"></script>
 </head>
 <body>
@@ -21,11 +21,13 @@
 </header>
 
 <nav class="viewbar">
-  <button class="viewbtn active" data-view="books">📚 By Book</button>
-  <button class="viewbtn" data-view="templates">📝 By Template</button>
-  <button class="viewbtn" data-view="timeline">📅 Timeline</button>
-  <button class="viewbtn" data-view="stamps">🏅 Stamp Book</button>
-  <button class="viewbtn parent-only" data-view="reports" hidden>📊 Weekly Reports</button>
+  <div class="viewbar-track">
+    <button class="viewbtn active" data-view="books">📚 By Book</button>
+    <button class="viewbtn" data-view="templates">📝 By Template</button>
+    <button class="viewbtn" data-view="timeline">📅 Timeline</button>
+    <button class="viewbtn" data-view="stamps">🏅 Stamp Book</button>
+    <button class="viewbtn parent-only" data-view="reports" hidden>📊 Weekly Reports</button>
+  </div>
 </nav>
 
 <main id="app">
@@ -43,6 +45,6 @@
   Built from the markdown journals in <code>students/&lt;name&gt;/journal/</code> · tutor.writing
 </footer>
 
-<script src="assets/app.js?v=1783402518343"></script>
+<script src="assets/app.js?v=1783403189614"></script>
 </body>
 </html>

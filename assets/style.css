@@ -16,6 +16,7 @@ body {
   font-family: "Segoe UI", -apple-system, "Helvetica Neue", Arial, sans-serif;
   background: var(--bg);
   color: var(--ink);
+  overflow-x: clip; /* safety net: the page itself never scrolls sideways */
 }
 
 /* ---------- header ---------- */
@@ -84,16 +85,29 @@ body {
 
 /* ---------- view bar ---------- */
 .viewbar {
-  display: flex; gap: 8px; padding: 14px 22px 0;
+  position: relative;
+  padding: 14px 22px 0;
   max-width: 1100px; margin: 0 auto;
+}
+/* only this inner track scrolls left-right — never the whole page */
+.viewbar-track {
+  display: flex; gap: 8px;
   flex-wrap: nowrap;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
   scrollbar-width: thin;
+  scroll-padding: 0 22px;
 }
 /* keep the horizontal scrollbar subtle and out of the way */
-.viewbar::-webkit-scrollbar { height: 4px; }
-.viewbar::-webkit-scrollbar-thumb { background: #cfd6e8; border-radius: 999px; }
+.viewbar-track::-webkit-scrollbar { height: 4px; }
+.viewbar-track::-webkit-scrollbar-thumb { background: #cfd6e8; border-radius: 999px; }
+/* right-edge fade: a hint there's more menu to swipe (mobile has no scrollbar) */
+.viewbar::after {
+  content: ""; position: absolute; top: 14px; right: 0; bottom: 0; width: 34px;
+  pointer-events: none; opacity: 0; transition: opacity 0.2s;
+  background: linear-gradient(to right, rgba(244, 246, 251, 0), var(--bg));
+}
+.viewbar.can-scroll-right::after { opacity: 1; }
 
 .viewbtn {
   border: none; background: transparent; color: var(--muted);

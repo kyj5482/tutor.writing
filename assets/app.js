@@ -92,6 +92,15 @@ function templateInfo(slug) {
   return { name: pretty, icon: '📝' };
 }
 
+/* Toggle the right-edge fade on the view menu when there's more to scroll to. */
+function updateMenuFade() {
+  const bar = document.querySelector('.viewbar');
+  const track = bar && bar.querySelector('.viewbar-track');
+  if (!track) return;
+  const more = track.scrollWidth - track.clientWidth - track.scrollLeft > 2;
+  bar.classList.toggle('can-scroll-right', more);
+}
+
 function renderMd(md) {
   if (window.marked) return marked.parse(md);
   // tiny fallback if the CDN is unreachable: escape + paragraphs
@@ -408,6 +417,9 @@ function render() {
   if (!state.student) return renderEmpty();
   document.querySelectorAll('.viewbtn').forEach((b) =>
     b.classList.toggle('active', b.dataset.view === state.view));
+  const activeBtn = document.querySelector('.viewbtn.active');
+  if (activeBtn) activeBtn.scrollIntoView({ block: 'nearest', inline: 'center' });
+  updateMenuFade();
   if (state.view === 'books') renderBooks();
   else if (state.view === 'templates') renderTemplates();
   else if (state.view === 'stamps') renderStamps();
@@ -507,6 +519,9 @@ async function boot() {
   document.querySelectorAll('.viewbtn').forEach((b) => {
     b.onclick = () => { state.view = b.dataset.view; state.bookFilter = null; render(); };
   });
+  const track = document.querySelector('.viewbar-track');
+  if (track) track.addEventListener('scroll', updateMenuFade, { passive: true });
+  window.addEventListener('resize', updateMenuFade);
   try {
     await loadManifest();
     state.student = state.manifest.students[0] || null;
