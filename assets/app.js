@@ -106,7 +106,9 @@ function renderStudentTabs() {
   for (const s of state.manifest.students) {
     const btn = document.createElement('button');
     btn.className = 'student-tab' + (s === state.student ? ' active' : '');
-    btn.textContent = s.grade ? `${s.name} · G${s.grade}` : s.name;
+    const label = s.grade ? `${s.name} · G${s.grade}` : s.name;
+    btn.innerHTML = `<span class="tab-name">${label}</span>` +
+      (s.xp != null ? `<span class="tab-xp">⭐ ${s.xp.toLocaleString()} XP</span>` : '');
     btn.onclick = () => { state.student = s; state.bookFilter = null; render(); };
     wrap.appendChild(btn);
   }

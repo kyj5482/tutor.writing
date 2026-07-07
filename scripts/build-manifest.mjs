@@ -18,10 +18,20 @@ if (existsSync(studentsDir)) {
     if (!existsSync(journalDir)) continue;
 
     let grade = null;
+    let xp = null;
+    let level = null;
+    let streak = null;
     const profilePath = join(studentsDir, name, 'profile.md');
     if (existsSync(profilePath)) {
-      const m = readFileSync(profilePath, 'utf8').match(/\*\*Grade:\*\*\s*(\d+)/);
-      if (m) grade = m[1];
+      const profile = readFileSync(profilePath, 'utf8');
+      const g = profile.match(/\*\*Grade:\*\*\s*(\d+)/);
+      if (g) grade = g[1];
+      const x = profile.match(/\*\*XP:\*\*\s*(\d+)/);
+      if (x) xp = Number(x[1]);
+      const l = profile.match(/\*\*Level:\*\*\s*(\d+)/);
+      if (l) level = Number(l[1]);
+      const s = profile.match(/\*\*Current streak:\*\*\s*(\d+)/);
+      if (s) streak = Number(s[1]);
     }
 
     const entries = [];
@@ -66,7 +76,12 @@ if (existsSync(studentsDir)) {
       });
     }
 
-    students.push({ name, grade, entries });
+    // Prefer the authoritative total from profile.md; fall back to summing entries.
+    if (xp === null) {
+      xp = entries.reduce((n, e) => n + (e.xp || 0), 0);
+    }
+
+    students.push({ name, grade, xp, level, streak, entries });
   }
 }
 

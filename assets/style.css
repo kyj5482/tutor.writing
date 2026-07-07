@@ -40,17 +40,31 @@ body {
 .student-tabs { display: flex; gap: 8px; }
 
 .student-tab {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
   border: 2px solid var(--accent-soft);
   background: var(--accent-soft);
   color: var(--accent);
   font-weight: 700;
-  padding: 6px 14px;
+  padding: 6px 8px 6px 14px;
   border-radius: 999px;
   cursor: pointer;
   font-size: 0.9rem;
 }
 
+.student-tab .tab-xp {
+  font-size: 0.78rem;
+  font-weight: 800;
+  padding: 2px 9px;
+  border-radius: 999px;
+  background: #fff;
+  color: var(--accent);
+  white-space: nowrap;
+}
+
 .student-tab.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+.student-tab.active .tab-xp { background: rgba(255, 255, 255, 0.22); color: #fff; }
 
 /* feedback toggle */
 .toggle { display: flex; align-items: center; gap: 8px; cursor: pointer; user-select: none; }

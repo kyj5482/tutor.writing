@@ -1,9 +1,12 @@
 {
-  "generated": "2026-07-06T23:31:34.142Z",
+  "generated": "2026-07-07T03:21:10.904Z",
   "students": [
     {
       "name": "Jaei",
       "grade": "8",
+      "xp": 240,
+      "level": 3,
+      "streak": 3,
       "entries": [
         {
           "file": "students/Jaei/journal/2026-06-19-04-opinion.md",
@@ -87,6 +90,9 @@
     {
       "name": "Jia",
       "grade": "6",
+      "xp": 195,
+      "level": 2,
+      "streak": 3,
       "entries": [
         {
           "file": "students/Jia/journal/2026-06-09-summary.md",
