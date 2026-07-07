@@ -95,12 +95,24 @@ if (existsSync(studentsDir)) {
       });
     }
 
+    // Weekly feedback reports (parent-only view on the site).
+    const reports = [];
+    const feedbackDir = join(studentsDir, name, 'feedback');
+    if (existsSync(feedbackDir)) {
+      for (const f of readdirSync(feedbackDir).sort()) {
+        if (!f.endsWith('.md')) continue;
+        const date = (f.match(/^(\d{4}-\d{2}-\d{2})/) || [])[1] || null;
+        const kind = f.replace(/^\d{4}-\d{2}-\d{2}-/, '').replace(/\.md$/, '') || 'report';
+        reports.push({ file: `students/${name}/feedback/${f}`, date, kind });
+      }
+    }
+
     // Prefer the authoritative total from profile.md; fall back to summing entries.
     if (xp === null) {
       xp = entries.reduce((n, e) => n + (e.xp || 0), 0);
     }
 
-    students.push({ name, grade, xp, level, streak, badges, entries });
+    students.push({ name, grade, xp, level, streak, badges, entries, reports });
   }
 }
 

@@ -212,6 +212,34 @@ body {
 /* hide feedback when toggle is off */
 body.hide-feedback .feedback-section { display: none; }
 
+/* ---------- parent view ---------- */
+.parent-badge {
+  font-size: 0.72rem; font-weight: 800; vertical-align: middle;
+  background: #fff0f5; color: #c2417a; border: 1px solid #f4c6da;
+  border-radius: 999px; padding: 3px 10px; margin-left: 8px;
+}
+
+.reports-intro {
+  background: #fff0f5; border: 1px solid #f4c6da; color: #8a3560;
+  border-radius: var(--radius); padding: 14px 18px; margin-bottom: 16px;
+  font-size: 0.92rem; line-height: 1.5;
+}
+
+.report-body { font-size: 0.98rem; line-height: 1.7; color: var(--ink); }
+.report-body h1 { font-size: 1.4rem; margin: 0 0 10px; }
+.report-body h2 {
+  font-size: 1.05rem; margin: 22px 0 8px; padding-bottom: 6px;
+  border-bottom: 2px solid var(--accent-soft);
+}
+.report-body h3 { font-size: 0.98rem; margin: 16px 0 6px; }
+.report-body blockquote {
+  margin: 12px 0; padding: 8px 16px; border-left: 4px solid var(--accent);
+  background: var(--accent-soft); border-radius: 0 12px 12px 0;
+  font-family: Georgia, "Times New Roman", serif;
+}
+.report-body ul { padding-left: 20px; }
+.report-body code { background: var(--accent-soft); border-radius: 6px; padding: 1px 6px; }
+
 /* ---------- footer ---------- */
 .footer {
   text-align: center; color: var(--muted); font-size: 0.8rem; padding: 18px;

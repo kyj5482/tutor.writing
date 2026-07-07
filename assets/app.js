@@ -59,10 +59,14 @@ const BADGE_SETS = [
 // Grand prize for filling every card.
 const FULL_HOUSE = { emoji: '🌟', name: 'Full House', bonus: 50 };
 
+/* Parent mode: unlocked with ?parent=true. Reveals the Weekly Reports view,
+   which is kept out of the kids' everyday portfolio. */
+const PARENT = new URLSearchParams(location.search).get('parent') === 'true';
+
 const state = {
   manifest: null,
   student: null,   // selected student object
-  view: 'books',   // books | templates | timeline
+  view: 'books',   // books | templates | timeline | stamps | reports
   bookFilter: null, // when drilled into one book
   mdCache: {},
 };
@@ -354,6 +358,43 @@ function renderStamps() {
   app.appendChild(grand);
 }
 
+function renderReports() {
+  if (!PARENT) return renderEmpty();
+  const reports = [...(state.student.reports || [])]
+    .sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+
+  const intro = document.createElement('div');
+  intro.className = 'reports-intro';
+  intro.innerHTML = `👪 <b>${state.student.name}'s weekly reports</b> — a parent-only view. ` +
+    `Each report covers the last 7 days of writing, growth, focus for next week, and a Korean note.`;
+  app.appendChild(intro);
+
+  if (reports.length === 0) {
+    const div = document.createElement('div');
+    div.className = 'empty-state';
+    div.innerHTML = 'No weekly reports yet.<br>They appear here after a <code>/weekly</code> review. 📊';
+    app.appendChild(div);
+    return;
+  }
+
+  const wrap = document.createElement('div');
+  wrap.className = 'entry-list';
+  for (const r of reports) {
+    const btn = document.createElement('button');
+    btn.className = 'entry-card';
+    const label = r.kind === 'weekly' ? 'Weekly report' : r.kind;
+    btn.innerHTML = `
+      <span class="icon">📊</span>
+      <span class="info">
+        <span class="line1">${label} <span class="chip">week ending ${r.date || '—'}</span></span>
+        <span class="line2">${state.student.name} · click to read the full report</span>
+      </span>`;
+    btn.onclick = () => openReport(r);
+    wrap.appendChild(btn);
+  }
+  app.appendChild(wrap);
+}
+
 function renderEmpty() {
   const div = document.createElement('div');
   div.className = 'empty-state';
@@ -370,6 +411,7 @@ function render() {
   if (state.view === 'books') renderBooks();
   else if (state.view === 'templates') renderTemplates();
   else if (state.view === 'stamps') renderStamps();
+  else if (state.view === 'reports') renderReports();
   else renderTimeline();
 }
 
@@ -417,6 +459,18 @@ async function openEntry(e) {
   }
 }
 
+async function openReport(r) {
+  const body = $('#modalBody');
+  body.innerHTML = '<div class="empty-state">Loading…</div>';
+  $('#modal').classList.remove('hidden');
+  try {
+    const md = await loadEntryMd(r.file);
+    body.innerHTML = `<div class="report-body">${renderMd(md)}</div>`;
+  } catch (err) {
+    body.innerHTML = `<div class="empty-state">Could not load this report.<br><code>${err.message}</code></div>`;
+  }
+}
+
 /* ---------- boot ---------- */
 
 function initFeedbackToggle() {
@@ -444,6 +498,12 @@ function initModal() {
 async function boot() {
   initFeedbackToggle();
   initModal();
+  if (PARENT) {
+    document.body.classList.add('parent-mode');
+    const badge = $('#parentBadge');
+    if (badge) badge.hidden = false;
+    document.querySelectorAll('.parent-only').forEach((el) => { el.hidden = false; });
+  }
   document.querySelectorAll('.viewbtn').forEach((b) => {
     b.onclick = () => { state.view = b.dataset.view; state.bookFilter = null; render(); };
   });

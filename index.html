@@ -4,12 +4,12 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>My Writing Portfolio</title>
-<link rel="stylesheet" href="assets/style.css?v=1783394950600">
+<link rel="stylesheet" href="assets/style.css?v=1783402146274">
 <script src="https://cdn.jsdelivr.net/npm/marked@12/marked.min.js"></script>
 </head>
 <body>
 <header class="topbar">
-  <div class="brand">📚 My Writing Portfolio</div>
+  <div class="brand">📚 My Writing Portfolio <span id="parentBadge" class="parent-badge" hidden>👪 Parent view</span></div>
   <div class="controls">
     <div id="studentTabs" class="student-tabs"></div>
     <label class="toggle" title="Show or hide tutor feedback">
@@ -25,6 +25,7 @@
   <button class="viewbtn" data-view="templates">📝 By Template</button>
   <button class="viewbtn" data-view="timeline">📅 Timeline</button>
   <button class="viewbtn" data-view="stamps">🏅 Stamp Book</button>
+  <button class="viewbtn parent-only" data-view="reports" hidden>📊 Weekly Reports</button>
 </nav>
 
 <main id="app">
@@ -42,6 +43,6 @@
   Built from the markdown journals in <code>students/&lt;name&gt;/journal/</code> · tutor.writing
 </footer>
 
-<script src="assets/app.js?v=1783394950600"></script>
+<script src="assets/app.js?v=1783402146274"></script>
 </body>
 </html>

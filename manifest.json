@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-07T03:29:10.604Z",
+  "generated": "2026-07-07T05:29:06.276Z",
   "students": [
     {
       "name": "Jaei",
@@ -117,13 +117,20 @@
           "hasRevision": true,
           "hasBonus": true
         }
+      ],
+      "reports": [
+        {
+          "file": "students/Jaei/feedback/2026-07-06-weekly.md",
+          "date": "2026-07-06",
+          "kind": "weekly"
+        }
       ]
     },
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 195,
-      "level": 2,
+      "xp": 210,
+      "level": 3,
       "streak": 3,
       "badges": [
         {
@@ -139,6 +146,11 @@
         {
           "name": "Template Tourist",
           "emoji": "🎨",
+          "date": "2026-07-06"
+        },
+        {
+          "name": "Tier Climber",
+          "emoji": "⛰️",
           "date": "2026-07-06"
         }
       ],
@@ -219,6 +231,13 @@
           "xp": 40,
           "hasRevision": true,
           "hasBonus": true
+        }
+      ],
+      "reports": [
+        {
+          "file": "students/Jia/feedback/2026-07-06-weekly.md",
+          "date": "2026-07-06",
+          "kind": "weekly"
         }
       ]
     }
