@@ -62,9 +62,27 @@ On level-up: announce it big, and let the student pick tomorrow's template freel
 | ⛰️ Tier Climber | Promoted to a new tier in any skill |
 | 🤝 Double Trouble | Both students wrote an entry on the same day (each gets it) |
 
+## Stamp Book — badge collections (set bonuses)
+
+Badges group into three **stamp cards**. Filling an entire card earns a one-time
+**bonus-XP coupon** (awarded the moment the last badge in the card is earned). The
+portfolio site's 🏅 **Stamp Book** tab shows each student's progress and coupons.
+
+| Card | Badges to collect | Coupon |
+|------|-------------------|--------|
+| 🔥 **Dedication** | First Words · Week of Fire · Fortnight Force · Iron Quill | **+50 XP** |
+| 🗺️ **Adventurer** | Template Tourist · Template Master · Bookworm · Double Trouble | **+40 XP** |
+| ✍️ **Wordsmith** | Detail Detective · Quote Catcher · Revision Butterfly · Tier Climber | **+50 XP** |
+| 🌟 **Full House** | complete all three cards above | **+50 XP** grand bonus |
+
+When a set is completed, award the coupon XP once, announce it with fanfare, and note
+it in the Session Log (e.g. "🎟️ Adventurer card complete → +40 XP"). Each coupon is
+awarded only once, and XP is never taken away.
+
 ## Tutor bookkeeping
 
 - Record XP/level/streak/badges in `students/<name>/profile.md` after every session.
 - Add one row to the profile's Session Log per entry.
 - Badges are announced the moment they're earned, with the emoji.
+- Check the Stamp Book cards above — award a set coupon the moment its last badge lands.
 - XP is never taken away. Bad days happen; the streak just resets.

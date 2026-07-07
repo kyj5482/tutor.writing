@@ -217,7 +217,77 @@ body.hide-feedback .feedback-section { display: none; }
   text-align: center; color: var(--muted); font-size: 0.8rem; padding: 18px;
 }
 
+/* ---------- Stamp Book ---------- */
+.stamp-summary {
+  display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 16px;
+  background: linear-gradient(135deg, #5b6cff, #8b5bff);
+  color: #fff; border-radius: var(--radius); padding: 18px 22px; box-shadow: var(--shadow);
+  margin-bottom: 22px;
+}
+.stamp-summary-main { display: flex; align-items: center; gap: 14px; }
+.stamp-summary-emoji { font-size: 2.2rem; }
+.stamp-summary-title { font-size: 1.25rem; font-weight: 800; }
+.stamp-summary-sub { font-size: 0.85rem; opacity: 0.9; }
+.stamp-stats { display: flex; gap: 10px; }
+.stamp-stat {
+  background: rgba(255, 255, 255, 0.18); border-radius: 12px; padding: 8px 14px;
+  text-align: center; min-width: 66px;
+}
+.stamp-stat b { display: block; font-size: 1.15rem; font-weight: 800; }
+.stamp-stat span { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.03em; opacity: 0.9; }
+
+.stamp-grid {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 18px;
+}
+.stamp-card {
+  background: var(--card); border-radius: var(--radius); box-shadow: var(--shadow);
+  padding: 16px 16px 0; border: 2px solid transparent; overflow: hidden;
+  display: flex; flex-direction: column;
+}
+.stamp-card.done { border-color: #ffb43a; }
+.stamp-card-head { display: flex; align-items: center; gap: 10px; }
+.stamp-card-emoji { font-size: 1.7rem; }
+.stamp-card-titles { flex: 1; }
+.stamp-card-name { font-weight: 800; font-size: 1.05rem; color: var(--ink); }
+.stamp-card-blurb { font-size: 0.8rem; color: var(--muted); }
+.stamp-card-count {
+  font-weight: 800; font-size: 0.85rem; color: var(--accent);
+  background: var(--accent-soft); border-radius: 999px; padding: 3px 10px;
+}
+.stamp-bar { height: 7px; border-radius: 999px; background: var(--accent-soft); margin: 12px 0 14px; overflow: hidden; }
+.stamp-bar span { display: block; height: 100%; border-radius: 999px; background: linear-gradient(90deg, #5b6cff, #8b5bff); transition: width 0.4s; }
+
+.stamp-slots { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; }
+.stamp {
+  border-radius: 12px; padding: 12px 8px; text-align: center;
+  display: flex; flex-direction: column; align-items: center; gap: 4px; min-height: 92px;
+}
+.stamp.on { background: var(--accent-soft); border: 2px solid var(--accent); }
+.stamp.off { background: #f1f3f9; border: 2px dashed #cfd6e6; }
+.stamp-badge { font-size: 1.7rem; line-height: 1; }
+.stamp.off .stamp-badge { filter: grayscale(1); opacity: 0.4; }
+.stamp-name { font-weight: 800; font-size: 0.82rem; color: var(--ink); }
+.stamp.off .stamp-name { color: var(--muted); }
+.stamp-foot { font-size: 0.68rem; color: var(--muted); line-height: 1.2; }
+.stamp.on .stamp-foot { color: var(--accent); font-weight: 700; }
+
+.coupon {
+  margin: 14px -16px 0; padding: 11px 16px; text-align: center; font-size: 0.9rem;
+  border-top: 2px dashed #dfe4f0;
+}
+.coupon.locked { color: var(--muted); }
+.coupon.unlocked { color: #a15c00; background: linear-gradient(135deg, #fff4d6, #ffe0a3); font-weight: 700; }
+
+.stamp-grand {
+  margin-top: 22px; padding: 16px 20px; border-radius: var(--radius); text-align: center;
+  font-size: 1rem;
+}
+.stamp-grand.locked { color: var(--muted); background: var(--accent-soft); border: 2px dashed #cfd6e6; }
+.stamp-grand.unlocked { color: #7a4b00; background: linear-gradient(135deg, #ffe9a8, #ffc861); box-shadow: var(--shadow); }
+
 @media (max-width: 560px) {
   .modal-card { padding: 22px 18px; }
   .shelf { grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 12px; }
+  .stamp-grid { grid-template-columns: 1fr; }
+  .stamp-summary { justify-content: flex-start; }
 }

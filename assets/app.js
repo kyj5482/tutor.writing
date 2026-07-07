@@ -22,6 +22,43 @@ const COVER_GRADIENTS = [
 ];
 const COVER_EMOJIS = ['📕', '📗', '📘', '📙', '📚', '🦉', '🦊', '🐉', '🚀', '🌋'];
 
+/* Stamp Book — badges grouped into themed collection cards.
+   Fill a whole card and the tutor awards the bonus XP (see game/rules.md). */
+const BADGE_SETS = [
+  {
+    id: 'dedication', name: 'Dedication', emoji: '🔥', bonus: 50,
+    blurb: 'Show up and keep the streak alive.',
+    badges: [
+      { name: 'First Words',     emoji: '🚀', how: 'Write your very first journal entry' },
+      { name: 'Week of Fire',    emoji: '🔥', how: 'Reach a 7-day writing streak' },
+      { name: 'Fortnight Force', emoji: '⚡', how: 'Reach a 14-day writing streak' },
+      { name: 'Iron Quill',      emoji: '🏆', how: 'Reach a 30-day writing streak' },
+    ],
+  },
+  {
+    id: 'adventurer', name: 'Adventurer', emoji: '🗺️', bonus: 40,
+    blurb: 'Explore every kind of writing and finish books.',
+    badges: [
+      { name: 'Template Tourist', emoji: '🎨', how: 'Use 5 different templates' },
+      { name: 'Template Master',  emoji: '🗺️', how: 'Use all 10 templates' },
+      { name: 'Bookworm',         emoji: '📚', how: 'Finish a book and write its Book Review' },
+      { name: 'Double Trouble',   emoji: '🤝', how: 'Both writers post an entry on the same day' },
+    ],
+  },
+  {
+    id: 'wordsmith', name: 'Wordsmith', emoji: '✍️', bonus: 50,
+    blurb: 'Sharpen your craft, one detail at a time.',
+    badges: [
+      { name: 'Detail Detective',   emoji: '🔍', how: '3 entries in a row full of specific details' },
+      { name: 'Quote Catcher',      emoji: '💬', how: 'Use a direct quote from the book in 5 entries' },
+      { name: 'Revision Butterfly', emoji: '🦋', how: 'Complete 5 stretch challenges' },
+      { name: 'Tier Climber',       emoji: '⛰️', how: 'Get promoted to a new tier in any skill' },
+    ],
+  },
+];
+// Grand prize for filling every card.
+const FULL_HOUSE = { emoji: '🌟', name: 'Full House', bonus: 50 };
+
 const state = {
   manifest: null,
   student: null,   // selected student object
@@ -238,6 +275,85 @@ function renderTimeline() {
   }
 }
 
+function renderStamps() {
+  const earned = new Map();
+  for (const b of (state.student.badges || [])) earned.set(b.name.toLowerCase(), b.date || null);
+
+  const allBadges = BADGE_SETS.reduce((n, s) => n + s.badges.length, 0);
+  const earnedInSets = BADGE_SETS.reduce((n, s) =>
+    n + s.badges.filter((b) => earned.has(b.name.toLowerCase())).length, 0);
+  const completedSets = BADGE_SETS.filter((s) =>
+    s.badges.every((b) => earned.has(b.name.toLowerCase())));
+  const allDone = completedSets.length === BADGE_SETS.length;
+  const unlockedXp = completedSets.reduce((n, s) => n + s.bonus, 0) + (allDone ? FULL_HOUSE.bonus : 0);
+
+  // ---- summary banner ----
+  const banner = document.createElement('div');
+  banner.className = 'stamp-summary';
+  banner.innerHTML = `
+    <div class="stamp-summary-main">
+      <span class="stamp-summary-emoji">🏅</span>
+      <div>
+        <div class="stamp-summary-title">${state.student.name}'s Stamp Book</div>
+        <div class="stamp-summary-sub">Fill a card to earn a bonus-XP coupon 🎟️</div>
+      </div>
+    </div>
+    <div class="stamp-stats">
+      <div class="stamp-stat"><b>${earnedInSets}/${allBadges}</b><span>stamps</span></div>
+      <div class="stamp-stat"><b>${completedSets.length}/${BADGE_SETS.length}</b><span>cards done</span></div>
+      <div class="stamp-stat"><b>+${unlockedXp}</b><span>bonus XP</span></div>
+    </div>`;
+  app.appendChild(banner);
+
+  // ---- one card per set ----
+  const grid = document.createElement('div');
+  grid.className = 'stamp-grid';
+  for (const set of BADGE_SETS) {
+    const got = set.badges.filter((b) => earned.has(b.name.toLowerCase())).length;
+    const done = got === set.badges.length;
+    const card = document.createElement('div');
+    card.className = 'stamp-card' + (done ? ' done' : '');
+
+    const stamps = set.badges.map((b) => {
+      const on = earned.has(b.name.toLowerCase());
+      const date = on ? earned.get(b.name.toLowerCase()) : null;
+      return `
+        <div class="stamp ${on ? 'on' : 'off'}" title="${b.name} — ${b.how}">
+          <span class="stamp-badge">${b.emoji}</span>
+          <span class="stamp-name">${b.name}</span>
+          <span class="stamp-foot">${on ? (date ? fmtDate(date) : 'Earned') : b.how}</span>
+        </div>`;
+    }).join('');
+
+    card.innerHTML = `
+      <div class="stamp-card-head">
+        <span class="stamp-card-emoji">${set.emoji}</span>
+        <div class="stamp-card-titles">
+          <div class="stamp-card-name">${set.name}</div>
+          <div class="stamp-card-blurb">${set.blurb}</div>
+        </div>
+        <span class="stamp-card-count">${got}/${set.badges.length}</span>
+      </div>
+      <div class="stamp-bar"><span style="width:${(got / set.badges.length) * 100}%"></span></div>
+      <div class="stamp-slots">${stamps}</div>
+      <div class="coupon ${done ? 'unlocked' : 'locked'}">
+        ${done
+          ? `🎟️ Coupon unlocked — <b>+${set.bonus} XP</b>!`
+          : `🔒 Collect all ${set.badges.length} to unlock <b>+${set.bonus} XP</b>`}
+      </div>`;
+    grid.appendChild(card);
+  }
+  app.appendChild(grid);
+
+  // ---- grand prize ----
+  const grand = document.createElement('div');
+  grand.className = 'stamp-grand ' + (allDone ? 'unlocked' : 'locked');
+  grand.innerHTML = allDone
+    ? `${FULL_HOUSE.emoji} <b>Full House!</b> Every card complete — <b>+${FULL_HOUSE.bonus} XP</b> grand bonus 🎉`
+    : `${FULL_HOUSE.emoji} <b>Full House</b> — fill all ${BADGE_SETS.length} cards for a <b>+${FULL_HOUSE.bonus} XP</b> grand bonus`;
+  app.appendChild(grand);
+}
+
 function renderEmpty() {
   const div = document.createElement('div');
   div.className = 'empty-state';
@@ -253,6 +369,7 @@ function render() {
     b.classList.toggle('active', b.dataset.view === state.view));
   if (state.view === 'books') renderBooks();
   else if (state.view === 'templates') renderTemplates();
+  else if (state.view === 'stamps') renderStamps();
   else renderTimeline();
 }
 

@@ -21,6 +21,7 @@ if (existsSync(studentsDir)) {
     let xp = null;
     let level = null;
     let streak = null;
+    let badges = [];
     const profilePath = join(studentsDir, name, 'profile.md');
     if (existsSync(profilePath)) {
       const profile = readFileSync(profilePath, 'utf8');
@@ -32,6 +33,24 @@ if (existsSync(studentsDir)) {
       if (l) level = Number(l[1]);
       const s = profile.match(/\*\*Current streak:\*\*\s*(\d+)/);
       if (s) streak = Number(s[1]);
+
+      // Parse the "## Badges" section. Handles both list styles used in profiles:
+      //   "- 🚀 **First Words** — first entry (2026-06-19)"
+      //   "- 🚀 First Words (earned 2026-06-09 — note)"
+      const badgeSection = (profile.match(/^##\s+Badges\s*$([\s\S]*?)(?:^##\s|$(?![\r\n]))/m)
+        || profile.match(/^##\s+Badges\s*$([\s\S]*)/m) || [])[1] || '';
+      for (const line of badgeSection.split('\n')) {
+        const m = line.match(/^\s*[-*]\s+(.+)$/);
+        if (!m) continue;
+        let rest = m[1].trim();
+        const emoji = (rest.match(/^(\S+)/) || [])[1] || null;
+        const date = (rest.match(/(\d{4}-\d{2}-\d{2})/) || [])[1] || null;
+        let bname;
+        const bold = rest.match(/\*\*(.+?)\*\*/);
+        if (bold) bname = bold[1].trim();
+        else bname = rest.split(/\s+—|\s+\(| - /)[0].replace(/^[^A-Za-z]+/, '').trim();
+        if (bname) badges.push({ name: bname, emoji, date });
+      }
     }
 
     const entries = [];
@@ -81,7 +100,7 @@ if (existsSync(studentsDir)) {
       xp = entries.reduce((n, e) => n + (e.xp || 0), 0);
     }
 
-    students.push({ name, grade, xp, level, streak, entries });
+    students.push({ name, grade, xp, level, streak, badges, entries });
   }
 }
 

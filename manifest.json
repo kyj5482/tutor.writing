@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-07T03:21:10.904Z",
+  "generated": "2026-07-07T03:29:10.604Z",
   "students": [
     {
       "name": "Jaei",
@@ -7,6 +7,38 @@
       "xp": 240,
       "level": 3,
       "streak": 3,
+      "badges": [
+        {
+          "name": "First Words",
+          "emoji": "🚀",
+          "date": "2026-06-19"
+        },
+        {
+          "name": "Detail Detective",
+          "emoji": "🔍",
+          "date": "2026-06-23"
+        },
+        {
+          "name": "Bookworm",
+          "emoji": "📚",
+          "date": "2026-06-23"
+        },
+        {
+          "name": "Revision Butterfly",
+          "emoji": "🦋",
+          "date": "2026-07-05"
+        },
+        {
+          "name": "Template Tourist",
+          "emoji": "🎨",
+          "date": "2026-07-06"
+        },
+        {
+          "name": "Tier Climber",
+          "emoji": "⛰️",
+          "date": "2026-07-06"
+        }
+      ],
       "entries": [
         {
           "file": "students/Jaei/journal/2026-06-19-04-opinion.md",
@@ -93,6 +125,23 @@
       "xp": 195,
       "level": 2,
       "streak": 3,
+      "badges": [
+        {
+          "name": "First Words",
+          "emoji": "🚀",
+          "date": "2026-06-09"
+        },
+        {
+          "name": "Detail Detective",
+          "emoji": "🔍",
+          "date": "2026-07-01"
+        },
+        {
+          "name": "Template Tourist",
+          "emoji": "🎨",
+          "date": "2026-07-06"
+        }
+      ],
       "entries": [
         {
           "file": "students/Jia/journal/2026-06-09-summary.md",
