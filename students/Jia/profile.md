@@ -6,8 +6,8 @@
 
 ## Game stats
 
-- **Level:** 2 — 📝 Sentence Builder
-- **XP:** 195 (next level at 200)
+- **Level:** 3 — 📖 Storyteller
+- **XP:** 210 (next level at 300)
 - **Current streak:** 3 days (best: 3)
 - **Last entry:** 2026-07-06
 
@@ -16,19 +16,20 @@
 - 🚀 First Words (earned 2026-06-09)
 - 🔍 Detail Detective (earned 2026-07-01 — 3 entries in a row packed with specific names & details!)
 - 🎨 Template Tourist (earned 2026-07-06 — used 5 different templates: Summary, Opinion, Rewrite, Letter, Character Diary!)
+- ⛰️ Tier Climber (earned 2026-07-06 — promoted Structure to Tier 2 in weekly review!)
 
 ## Skill tiers
 
 | Skill | Tier | Notes |
 |-------|------|-------|
-| Structure (beginning–middle–end / paragraphs) | 1 | |
+| Structure (beginning–middle–end / paragraphs) | 2 | Promoted 2026-07-06 — clean First/Then/After that/In the end across 3 entries |
 | Evidence (details & quotes from the book) | 1 | |
 | Explanation (the "because" / "this shows") | 1 | |
 | Style (word choice, sentence variety, voice) | 1 | |
 
 ## Focus skill this week
 
-Structure (beginning–middle–end)
+Explanation — the "So what?": after your evidence, add a sentence that explains *why it matters* (say something new, don't restate)
 
 ## Session log
 
@@ -41,3 +42,4 @@ Structure (beginning–middle–end)
 | 2026-07-04 | 05 Letter to a Character | 1 | 25 | ACE (no stretch) | Finished Goblet → started Order of the Phoenix. 🎉 Leveled up to 2! |
 | 2026-07-05 | 01 Summary | 1 | 35 | Revised (split run-on + "After that") + ACE | To p.170. Free-pick day. Noticed Sirius's mood change! 4 order words. |
 | 2026-07-06 | 03 Character Diary | 1 | 40 | Revised (added specific detail) + ACE | To p.200. Harry sees dark horse-like creatures Ron can't. 🎨 Template Tourist earned! Day-3 streak. |
+| 2026-07-06 | Weekly review | — | +15 | — | 5 entries this week → +15 XP. 🆙 Level 3 Storyteller! ⛰️ Tier Climber (Structure → Tier 2). New focus: Explanation. |
