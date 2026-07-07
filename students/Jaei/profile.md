@@ -18,6 +18,7 @@
 - 📚 **Bookworm** — finished a book and wrote its Book Review (2026-06-23)
 - 🦋 **Revision Butterfly** — completed 5 stretch challenges (2026-07-05)
 - 🎨 **Template Tourist** — used 5 different templates (2026-07-06)
+- ⛰️ **Tier Climber** — promoted Explanation to Tier 2 (2026-07-06 weekly)
 
 ## Skill tiers
 
@@ -25,12 +26,12 @@
 |-------|------|-------|
 | Structure (beginning–middle–end / paragraphs) | 2 | Diagnostic: clear event order, organized paragraph |
 | Evidence (details & quotes from the book) | 2 | Diagnostic: lots of specific names & details |
-| Explanation (the "because" / "this shows") | 1 | Next step — add why it matters |
-| Style (word choice, sentence variety, voice) | 1 | Vary sentence openers & word choice |
+| Explanation (the "because" / "this shows") | 2 | Promoted 2026-07-06 — adds real "why it matters" insight, not just a formula |
+| Style (word choice, sentence variety, voice) | 1 | Vary sentence openers & word choice; watch subject–verb agreement & tense |
 
 ## Focus skill this week
 
-Explanation — after a detail, add a sentence that says *why* it matters or *what it shows* ("This shows…", "because…").
+Verb check (Style) — make the verb match its subject and keep the tense steady ("he know" → "he knows"; "didn't shared" → "didn't share"). Do one read-aloud pass before saving.
 
 ## Session log
 
