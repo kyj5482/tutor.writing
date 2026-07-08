@@ -1,15 +1,15 @@
 # Profile — Jaei
 
 - **Grade:** 8
-- **Current book:** The 39 Clues: In Too Deep by Jude Watson (reading, ch. 20–26)
-- **Books finished:** The Scorch Trials by James Dashner (finished 2026-06-23); Keeper of the Lost Cities: Everblaze by Shannon Messenger (finished 2026-07-04)
+- **Current book:** The 39 Clues: The Viper's Nest by Jude Watson (reading, ch. 1–14)
+- **Books finished:** The Scorch Trials by James Dashner (finished 2026-06-23); Keeper of the Lost Cities: Everblaze by Shannon Messenger (finished 2026-07-04); The 39 Clues: In Too Deep by Jude Watson (finished 2026-07-07)
 
 ## Game stats
 
 - **Level:** 3 — 📖 Storyteller
-- **XP:** 240 (next level at 300)
-- **Current streak:** 3 days (best: 3)
-- **Last entry:** 2026-07-06 — 08 Connection
+- **XP:** 285 (next level at 300)
+- **Current streak:** 4 days (best: 4)
+- **Last entry:** 2026-07-07 — 03 Character Diary
 
 ## Badges
 
@@ -44,3 +44,4 @@ Verb check (Style) — make the verb match its subject and keep the tense steady
 | 2026-07-04 | 04 Opinion | 2 | 40 | Revised claim + ACE | Finished Everblaze! Strong explanation ("This shows…") — Explanation focus ✅. Revised to a bolder claim. ACE with an embedded quote (Brant) — near Tier 3! Fix: subject-verb ("These reason are" → "reasons are"). |
 | 2026-07-05 | 01 Summary | 2 | 30 | ✅ | Started The 39 Clues: Into the Deep. Clear transitions across 11 chapters + strong specific names (Ian, Irina, Hamilton). Added "This matters because…" closer — Explanation focus ✅. Stretch ✅ (kept quote + why-it-matters). 🦋 Revision Butterfly earned (5th stretch). Tip: author attribution placement ("...parents" Watson). |
 | 2026-07-06 | 08 Connection | 2 | 45 | ✅ (fix + stretch) | In Too Deep ch.20–26. Personal connection (sister/privacy) w/ details both sides + difference. Revised to add "I understand Amy better because…" (Explanation ✅) AND named the theme (privacy) — stretch ✅. 🎨 Template Tourist earned; 3-day streak bonus; 🎉 leveled up to 3! ACE tip: add a "This shows…" closer. |
+| 2026-07-07 | 03 Character Diary | 2 | 45 | ✅ (fix + stretch) | Started The Viper's Nest (finished In Too Deep). First Character Diary! Showed feelings in the body ("stood still like a statue") + honest conflict ("I should be glad… But something inside me stopped me"). Revised verb agreement was→were — verb-check focus ✅. Stretch ✅: nailed Dan's voice + a secret thought ("Don't tell Amy…") — Tier 3 voice move, strong Style progress (1 of ~3 toward promotion). ACE ✅ (Hamilton's eye-blink morse). Watch: "send"→"sent", "could have ran"→"run". 🗺️ 6th template. Day-4 streak = new best! |

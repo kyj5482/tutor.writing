@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-07T05:46:29.616Z",
+  "generated": "2026-07-08T04:30:30.448Z",
   "students": [
     {
       "name": "Jaei",
       "grade": "8",
-      "xp": 240,
+      "xp": 285,
       "level": 3,
-      "streak": 3,
+      "streak": 4,
       "badges": [
         {
           "name": "First Words",
@@ -112,6 +112,17 @@
           "slug": "08-connection",
           "book": "The 39 Clues: In Too Deep",
           "reading": "chapters 20–26",
+          "tier": 2,
+          "xp": 45,
+          "hasRevision": true,
+          "hasBonus": true
+        },
+        {
+          "file": "students/Jaei/journal/2026-07-07-03-character-diary.md",
+          "date": "2026-07-07",
+          "slug": "03-character-diary",
+          "book": "The 39 Clues: The Viper's Nest by Jude Watson",
+          "reading": "ch. 1–14",
           "tier": 2,
           "xp": 45,
           "hasRevision": true,
