@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-09T02:21:25.229Z",
+  "generated": "2026-07-09T04:15:35.937Z",
   "students": [
     {
       "name": "Jaei",
       "grade": "8",
-      "xp": 285,
-      "level": 3,
-      "streak": 4,
+      "xp": 325,
+      "level": 4,
+      "streak": 5,
       "badges": [
         {
           "name": "First Words",
@@ -125,6 +125,17 @@
           "reading": "ch. 1–14",
           "tier": 2,
           "xp": 45,
+          "hasRevision": true,
+          "hasBonus": true
+        },
+        {
+          "file": "students/Jaei/journal/2026-07-08-06-rewrite-the-scene.md",
+          "date": "2026-07-08",
+          "slug": "06-rewrite-the-scene",
+          "book": "The 39 Clues: The Viper's Nest by Jude Watson",
+          "reading": "about 4 chapters",
+          "tier": 2,
+          "xp": 40,
           "hasRevision": true,
           "hasBonus": true
         }

@@ -6,10 +6,10 @@
 
 ## Game stats
 
-- **Level:** 3 — 📖 Storyteller
-- **XP:** 285 (next level at 300)
-- **Current streak:** 4 days (best: 4)
-- **Last entry:** 2026-07-07 — 03 Character Diary
+- **Level:** 4 — 🖋️ Wordsmith
+- **XP:** 325 (next level at 400)
+- **Current streak:** 5 days (best: 5)
+- **Last entry:** 2026-07-08 — 06 Rewrite the Scene
 
 ## Badges
 
@@ -45,3 +45,4 @@ Verb check (Style) — make the verb match its subject and keep the tense steady
 | 2026-07-05 | 01 Summary | 2 | 30 | ✅ | Started The 39 Clues: Into the Deep. Clear transitions across 11 chapters + strong specific names (Ian, Irina, Hamilton). Added "This matters because…" closer — Explanation focus ✅. Stretch ✅ (kept quote + why-it-matters). 🦋 Revision Butterfly earned (5th stretch). Tip: author attribution placement ("...parents" Watson). |
 | 2026-07-06 | 08 Connection | 2 | 45 | ✅ (fix + stretch) | In Too Deep ch.20–26. Personal connection (sister/privacy) w/ details both sides + difference. Revised to add "I understand Amy better because…" (Explanation ✅) AND named the theme (privacy) — stretch ✅. 🎨 Template Tourist earned; 3-day streak bonus; 🎉 leveled up to 3! ACE tip: add a "This shows…" closer. |
 | 2026-07-07 | 03 Character Diary | 2 | 45 | ✅ (fix + stretch) | Started The Viper's Nest (finished In Too Deep). First Character Diary! Showed feelings in the body ("stood still like a statue") + honest conflict ("I should be glad… But something inside me stopped me"). Revised verb agreement was→were — verb-check focus ✅. Stretch ✅: nailed Dan's voice + a secret thought ("Don't tell Amy…") — Tier 3 voice move, strong Style progress (1 of ~3 toward promotion). ACE ✅ (Hamilton's eye-blink morse). Watch: "send"→"sent", "could have ran"→"run". 🗺️ 6th template. Day-4 streak = new best! |
+| 2026-07-08 | 06 Rewrite the Scene | 2 | 40 | ✅ (fix + stretch) | The Viper's Nest ch.~4 (Churchill document). First Rewrite the Scene (7th template)! Strong "what if not grandchildren" scene: in-character Dan bluff + Amy's stutter as show-don't-tell. Kept steady past tense — verb-check focus ✅. Fix ✅: rewrote flat ending into a live cliffhanger. Stretch ✅: added body-language "fingers tightened around Dan's sleeve" — Tier 3 voice move (2 of ~3 toward Style promotion). ACE ✅ (Grace helping since Egypt / hints to next clues). Watch verbs: "leaved"→"left", "she want"→"wants". 🎉 Leveled up to 4 — Wordsmith! Day-5 streak = new best! |
