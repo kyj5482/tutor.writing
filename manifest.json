@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-08T04:30:30.448Z",
+  "generated": "2026-07-09T02:21:25.229Z",
   "students": [
     {
       "name": "Jaei",
@@ -140,9 +140,9 @@
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 210,
+      "xp": 245,
       "level": 3,
-      "streak": 3,
+      "streak": 1,
       "badges": [
         {
           "name": "First Words",
@@ -240,6 +240,17 @@
           "reading": "to p.200, ~30 pages",
           "tier": 1,
           "xp": 40,
+          "hasRevision": true,
+          "hasBonus": true
+        },
+        {
+          "file": "students/Jia/journal/2026-07-08-04-opinion.md",
+          "date": "2026-07-08",
+          "slug": "04-opinion",
+          "book": "Harry Potter and the Order of the Phoenix",
+          "reading": "to p.340, ~140 pages",
+          "tier": 1,
+          "xp": 35,
           "hasRevision": true,
           "hasBonus": true
         }

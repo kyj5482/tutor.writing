@@ -7,9 +7,9 @@
 ## Game stats
 
 - **Level:** 3 — 📖 Storyteller
-- **XP:** 210 (next level at 300)
-- **Current streak:** 3 days (best: 3)
-- **Last entry:** 2026-07-06
+- **XP:** 245 (next level at 300)
+- **Current streak:** 1 day (best: 3)
+- **Last entry:** 2026-07-08
 
 ## Badges
 
@@ -43,3 +43,4 @@ Explanation — the "So what?": after your evidence, add a sentence that explain
 | 2026-07-05 | 01 Summary | 1 | 35 | Revised (split run-on + "After that") + ACE | To p.170. Free-pick day. Noticed Sirius's mood change! 4 order words. |
 | 2026-07-06 | 03 Character Diary | 1 | 40 | Revised (added specific detail) + ACE | To p.200. Harry sees dark horse-like creatures Ron can't. 🎨 Template Tourist earned! Day-3 streak. |
 | 2026-07-06 | Weekly review | — | +15 | — | 5 entries this week → +15 XP. 🆙 Level 3 Storyteller! ⛰️ Tier Climber (Structure → Tier 2). New focus: Explanation. |
+| 2026-07-08 | 04 Opinion | 1 | 35 | Stretch ("This shows…" explanation) + ACE | To p.340, 140-pg day! Harry decides to teach the DA. Nailed the Explanation focus. Streak reset after 1 missed day. |
