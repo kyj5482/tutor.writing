@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-09T04:15:35.937Z",
+  "generated": "2026-07-10T22:28:24.603Z",
   "students": [
     {
       "name": "Jaei",
@@ -151,7 +151,7 @@
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 245,
+      "xp": 280,
       "level": 3,
       "streak": 1,
       "badges": [
@@ -174,6 +174,11 @@
           "name": "Tier Climber",
           "emoji": "⛰️",
           "date": "2026-07-06"
+        },
+        {
+          "name": "Revision Butterfly",
+          "emoji": "🦋",
+          "date": "2026-07-10"
         }
       ],
       "entries": [
@@ -260,6 +265,17 @@
           "slug": "04-opinion",
           "book": "Harry Potter and the Order of the Phoenix",
           "reading": "to p.340, ~140 pages",
+          "tier": 1,
+          "xp": 35,
+          "hasRevision": true,
+          "hasBonus": true
+        },
+        {
+          "file": "students/Jia/journal/2026-07-10-08-connection.md",
+          "date": "2026-07-10",
+          "slug": "08-connection",
+          "book": "Harry Potter and the Order of the Phoenix",
+          "reading": "to p.425, ~85 pages",
           "tier": 1,
           "xp": 35,
           "hasRevision": true,

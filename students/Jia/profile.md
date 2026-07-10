@@ -7,9 +7,9 @@
 ## Game stats
 
 - **Level:** 3 — 📖 Storyteller
-- **XP:** 245 (next level at 300)
+- **XP:** 280 (next level at 300)
 - **Current streak:** 1 day (best: 3)
-- **Last entry:** 2026-07-08
+- **Last entry:** 2026-07-10
 
 ## Badges
 
@@ -17,6 +17,7 @@
 - 🔍 Detail Detective (earned 2026-07-01 — 3 entries in a row packed with specific names & details!)
 - 🎨 Template Tourist (earned 2026-07-06 — used 5 different templates: Summary, Opinion, Rewrite, Letter, Character Diary!)
 - ⛰️ Tier Climber (earned 2026-07-06 — promoted Structure to Tier 2 in weekly review!)
+- 🦋 Revision Butterfly (earned 2026-07-10 — completed 5 revisions/stretch challenges!)
 
 ## Skill tiers
 
@@ -44,3 +45,4 @@ Explanation — the "So what?": after your evidence, add a sentence that explain
 | 2026-07-06 | 03 Character Diary | 1 | 40 | Revised (added specific detail) + ACE | To p.200. Harry sees dark horse-like creatures Ron can't. 🎨 Template Tourist earned! Day-3 streak. |
 | 2026-07-06 | Weekly review | — | +15 | — | 5 entries this week → +15 XP. 🆙 Level 3 Storyteller! ⛰️ Tier Climber (Structure → Tier 2). New focus: Explanation. |
 | 2026-07-08 | 04 Opinion | 1 | 35 | Stretch ("This shows…" explanation) + ACE | To p.340, 140-pg day! Harry decides to teach the DA. Nailed the Explanation focus. Streak reset after 1 missed day. |
+| 2026-07-10 | 08 Connection | 1→2 | 35 | Stretch (difference + "I understand better") + ACE | To p.425. Harry banned from Quidditch → connected to friend left out of group chat. Own-words Explanation in ACE. 🦋 Revision Butterfly earned! Streak reset. |
