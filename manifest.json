@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-10T22:28:24.603Z",
+  "generated": "2026-07-12T03:30:04.494Z",
   "students": [
     {
       "name": "Jaei",
@@ -151,9 +151,9 @@
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 280,
-      "level": 3,
-      "streak": 1,
+      "xp": 315,
+      "level": 4,
+      "streak": 2,
       "badges": [
         {
           "name": "First Words",
@@ -276,6 +276,17 @@
           "slug": "08-connection",
           "book": "Harry Potter and the Order of the Phoenix",
           "reading": "to p.425, ~85 pages",
+          "tier": 1,
+          "xp": 35,
+          "hasRevision": true,
+          "hasBonus": true
+        },
+        {
+          "file": "students/Jia/journal/2026-07-11-05-letter-to-character.md",
+          "date": "2026-07-11",
+          "slug": "05-letter-to-character",
+          "book": "Harry Potter and the Order of the Phoenix",
+          "reading": "to p.480, ~55 pages",
           "tier": 1,
           "xp": 35,
           "hasRevision": true,

@@ -6,10 +6,10 @@
 
 ## Game stats
 
-- **Level:** 3 — 📖 Storyteller
-- **XP:** 280 (next level at 300)
-- **Current streak:** 1 day (best: 3)
-- **Last entry:** 2026-07-10
+- **Level:** 4 — 🖋️ Wordsmith
+- **XP:** 315 (next level at 400)
+- **Current streak:** 2 days (best: 3)
+- **Last entry:** 2026-07-11
 
 ## Badges
 
@@ -46,3 +46,4 @@ Explanation — the "So what?": after your evidence, add a sentence that explain
 | 2026-07-06 | Weekly review | — | +15 | — | 5 entries this week → +15 XP. 🆙 Level 3 Storyteller! ⛰️ Tier Climber (Structure → Tier 2). New focus: Explanation. |
 | 2026-07-08 | 04 Opinion | 1 | 35 | Stretch ("This shows…" explanation) + ACE | To p.340, 140-pg day! Harry decides to teach the DA. Nailed the Explanation focus. Streak reset after 1 missed day. |
 | 2026-07-10 | 08 Connection | 1→2 | 35 | Stretch (difference + "I understand better") + ACE | To p.425. Harry banned from Quidditch → connected to friend left out of group chat. Own-words Explanation in ACE. 🦋 Revision Butterfly earned! Streak reset. |
+| 2026-07-11 | 05 Letter to a Character | 1→2 | 35 | Stretch (reaction + reader tease) + ACE | To p.480. Letter to Harry after the snake-vision. Advice-with-"since" + strong ACE ("Harry was the snake"). 🆙 Level 4 Wordsmith! Day-2 streak. |
