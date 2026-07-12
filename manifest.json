@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-12T03:30:04.494Z",
+  "generated": "2026-07-12T04:10:04.482Z",
   "students": [
     {
       "name": "Jaei",
       "grade": "8",
-      "xp": 325,
+      "xp": 385,
       "level": 4,
-      "streak": 5,
+      "streak": 1,
       "badges": [
         {
           "name": "First Words",
@@ -136,6 +136,17 @@
           "reading": "about 4 chapters",
           "tier": 2,
           "xp": 40,
+          "hasRevision": true,
+          "hasBonus": true
+        },
+        {
+          "file": "students/Jaei/journal/2026-07-11-10-book-review.md",
+          "date": "2026-07-11",
+          "slug": "10-book-review",
+          "book": "The 39 Clues: The Viper's Nest by Jude Watson",
+          "reading": "finished the book — read a few chapters today",
+          "tier": 2,
+          "xp": 60,
           "hasRevision": true,
           "hasBonus": true
         }
