@@ -27,11 +27,17 @@
 | Structure (beginning–middle–end / paragraphs) | 2 | Diagnostic: clear event order, organized paragraph |
 | Evidence (details & quotes from the book) | 2 | Diagnostic: lots of specific names & details |
 | Explanation (the "because" / "this shows") | 2 | Promoted 2026-07-06 — adds real "why it matters" insight, not just a formula |
-| Style (word choice, sentence variety, voice) | 1 | Vary sentence openers & word choice; watch subject–verb agreement & tense |
+| Style (word choice, sentence variety, voice) | 2 | Promoted 2026-07-13 weekly — 3 straight strong voice / show-don't-tell moves (Dan's secret thought, Amy's fingers tightening, reader-knowledge tease). Keep polishing verb agreement — last rough edge |
 
 ## Focus skill this week
 
-Verb check (Style) — make the verb match its subject and keep the tense steady ("he know" → "he knows"; "didn't shared" → "didn't share"). Do one read-aloud pass before saving.
+First-draft verb check (Style) — you already fix every verb error on a read-aloud pass, so move the check *before* you save (not after it's flagged), and apply it to the ACE answer too ("it keep telling us" → "keeps"; "she gradually discover" → "discovers"; "Amy have said" → "has said").
+
+## Watch list
+
+- [ ] **Verb agreement & tense** — clean streak: 0/3 · e.g. "it keep telling us" → "keeps", "Amy have said" → "has said", "could have ran" → "run" · **give the ACE answer its own read-aloud — that's where it slips.**
+
+*(Handoff note: verbs also match this week's Focus skill. Once a growth skill takes the Focus slot at the next weekly, this Watch item keeps carrying the verb check.)*
 
 ## Session log
 
@@ -48,3 +54,4 @@ Verb check (Style) — make the verb match its subject and keep the tense steady
 | 2026-07-08 | 06 Rewrite the Scene | 2 | 40 | ✅ (fix + stretch) | The Viper's Nest ch.~4 (Churchill document). First Rewrite the Scene (7th template)! Strong "what if not grandchildren" scene: in-character Dan bluff + Amy's stutter as show-don't-tell. Kept steady past tense — verb-check focus ✅. Fix ✅: rewrote flat ending into a live cliffhanger. Stretch ✅: added body-language "fingers tightened around Dan's sleeve" — Tier 3 voice move (2 of ~3 toward Style promotion). ACE ✅ (Grace helping since Egypt / hints to next clues). Watch verbs: "leaved"→"left", "she want"→"wants". 🎉 Leveled up to 4 — Wordsmith! Day-5 streak = new best! |
 | 2026-07-11 | 10 Book Review | 2 | 60 | ✅ (fix + stretch) | 🎉 Finished The Viper's Nest! Strong question hook + specific read-alike (Keeper of the Lost Cities, "more mystery type"). Fix ✅: verb agreement "the plant that were" → "was" — verb-check focus ✅. Stretch ✅: argued rating ("loses a star because too much action... hard to keep up") — Tier 3 evaluation move. ACE ✅: aloe-as-decoy insight — read as a trap for rival teams w/o Grace's notebook, not just a reader twist. 📚 Bookworm already held. Streak reset to 1 (missed 07-09/10) — welcomed back, no guilt. 15 XP from Level 5! Watch: "embrace yourself"→"brace yourself", "a excellent"→"an excellent". |
 | 2026-07-13 | 05 Letter to a Character | 2 | 40 | ✅ (fix + stretch) | Started The Emperor's Code (Korman). First Letter to a Character (8th template)! Quoted Amy's cruel line directly + strong reader-knowledge tease ("something horrible will happen, trust me I know") — Tier 3 moves. Fix ✅: "control yourself" → "control you" — verb-check focus ✅. Stretch ✅: warm P.S. ("You and Dan are connected") — 3rd strong voice move → check Style Tier 2 promotion at weekly! ACE ✅: traced Amy's cruelty to her whole Madrigal-doubt arc — high-level insight. 🎉 Leveled up to 5 — Page Turner! Streak Day 1 (missed 07-12). Watch present-tense: "keeps telling us", "she gradually discovers". |
+| 2026-07-13 | — weekly — | — | 0 | — | Weekly report (week ending 07-13): 4 entries, 185 XP, 2 level-ups (→ Lv 5 Page Turner). ⛰️ **Style promoted Tier 1 → Tier 2** (3 straight voice moves). No +15 (only 4 entries, not 5+). New focus: first-draft verb check — move the read-aloud pass *before* save, apply to ACE too. Wordsmith stamp card 3/4 (missing 💬 Quote Catcher). |

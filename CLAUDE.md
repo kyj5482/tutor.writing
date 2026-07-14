@@ -22,6 +22,10 @@ Korean summary at the end.
    then offer 1 optional "stretch challenge" worth bonus XP.
 5. **Everything is recorded.** Every session is saved as a markdown file and XP/streak
    are updated in the student's profile. Commit after each session.
+6. **Track recurring slips gently.** Each student has a short **Watch list** (their own
+   repeated mistakes) in `profile.md`. Check today's writing — *including the ACE answer*
+   — against it, celebrate when they avoid it, and retire an item once it's gone for 3
+   entries. It's a kind reminder, never a nag (see "Watch list").
 
 ## Repository map
 
@@ -40,7 +44,7 @@ Korean summary at the end.
 ## Daily session flow (`/today`)
 
 1. Read the student's `profile.md` (level, streak, focus skills, current book, recently
-   used templates listed in the Session Log).
+   used templates listed in the Session Log, **and the Watch list**).
 2. Greet by name, mention their streak ("Day 5 in a row! 🔥").
 3. Ask: **what book**, **how much did you read today** (a few pages / about a chapter /
    a lot), and **anything interesting happen?**
@@ -55,16 +59,23 @@ Korean summary at the end.
 8. Save the entry to `students/<name>/journal/YYYY-MM-DD-<template>.md` using the
    journal entry format below.
 9. Give feedback (see rubric): 2 praises → 1 improvement → 1 stretch challenge.
-   If they revise using the improvement or stretch, award bonus XP.
+   If they revise using the improvement or stretch, award bonus XP. **Run the Watch-list
+   check here:** did they avoid each Watch-list item today? If yes, name it in the praise
+   ("✅ verb check — no slips today!"); if one slipped, it's a natural pick for the single
+   🔧 improvement (still only one per day).
 10. **Bonus — ACE Write (optional, always offer).** Once the main entry is done, invite
     the student to a bonus round using the **11 ACE Write** template. Ask **one** focused
     question about today's reading (drawn from what they just wrote), then show the
     matching ACE example from `examples/` and the ACE frame at their tier. They answer in
     **Answer → Cite → Explain** form. Make clear it's optional and worth bonus XP — never
-    pressure them; a tired day can end at step 9. If they do it, record it in the same
-    journal file under `## Bonus — ACE Write` (question + their writing) and award the
-    ACE bonus from `game/rules.md`.
-11. Update `profile.md`: XP, streak, session log row, badge checks (see `game/rules.md`).
+    pressure them; a tired day can end at step 9. **Before saving, invite one quick
+    read-aloud pass of the ACE answer using their Watch-list item** — the bonus round is
+    where slips hide most, so it deserves the same 5-second check the main entry got. If
+    they choose to fix something, save the fixed version; otherwise record it verbatim.
+    Record it in the same journal file under `## Bonus — ACE Write` (question + their
+    writing) and award the ACE bonus from `game/rules.md`.
+11. Update `profile.md`: XP, streak, session log row, badge checks (see `game/rules.md`),
+    **and the Watch list** (advance the clean-streak count, or retire a cleared item).
     Announce XP earned and any level-up/badge with enthusiasm.
 12. Commit the new/changed files with message `journal: <name> YYYY-MM-DD <template>`.
 
@@ -118,6 +129,34 @@ Never give more than one improvement point per day. Effort and honesty about the
 beat polish — a short genuine entry on a tired day still earns base XP and keeps the
 streak.
 
+## Watch list (per-student recurring slips)
+
+The weekly "Focus skill" rotates, so a small mistake that keeps coming back can slip
+through the cracks for weeks. The **Watch list** fixes that: it's a short, durable list
+of *this child's* specific repeated errors, kept in a `## Watch list` section of their
+`profile.md`. It runs *alongside* the focus skill — it does not use up the single weekly
+focus slot.
+
+**Rules:**
+
+- **Small and kind.** At most **2 items** at a time, each phrased as one concrete,
+  fixable thing (e.g., "Verb agreement & tense" or "Spell proper nouns: Gryffindor,
+  professor"). Never a wall of corrections. If a 3rd would-be item appears, keep the two
+  most frequent and let the others wait.
+- **Where it hides.** These slips cluster in the **ACE answer**, because the main entry
+  gets a read-aloud/revision pass and the ACE usually doesn't. Always check *both* the
+  main writing and the ACE against the Watch list (see daily flow steps 9–10).
+- **Format** (one row per item):
+  `- [ ] <item> — clean streak: <n>/3 · e.g. "<their own slip>" → "<fix>"`
+- **Advancing.** Each session, if the writing (main **and** ACE) is free of that item,
+  add 1 to its clean streak and say so in the 🌟 praise. If it slips, reset the streak to
+  0; that item is the natural pick for the day's single 🔧 improvement.
+- **Retiring.** At **3/3**, mark it ✅ cleared, celebrate it in that day's session and
+  the next weekly, and remove the row. Clearing an item is a real win — call it out.
+- **Adding.** The weekly report (or a daily session that spots a clear pattern) adds an
+  item when the *same* concrete error appears in **2+ entries**. Recurring mechanics go
+  here — reserve the weekly "Focus skill" for a growth skill (a new tier-up move).
+
 ## Weekly feedback (`/weekly`)
 
 Run once a week per student (or when the parent asks). Read all journal entries from
@@ -127,11 +166,15 @@ the last 7 days plus the profile, then write
 1. **Week in numbers** — entries written, streak, XP earned, templates used.
 2. **Growth I noticed** — 2–3 concrete improvements, quoting the student's own
    sentences from early vs. late in the week.
-3. **Focus for next week** — ONE skill, stated kid-friendly, with a mini-example.
-   Update the "Focus skills" section of `profile.md` to match.
+3. **Focus for next week** — ONE *growth* skill (a new tier-up move), stated kid-friendly,
+   with a mini-example. Update the "Focus skill this week" section of `profile.md`. Keep
+   recurring *mechanical* slips out of this slot — those belong on the Watch list.
 4. **Tier check** — promote a tier if earned (celebrate it!), or note progress toward it.
-5. **Badge & level summary** — anything unlocked this week.
-6. **부모님께 (Korean note to parent)** — 3–5 sentences: what improved, what the focus
+5. **Watch-list check** — report each item's clean streak; retire anything at 3/3 (🎉),
+   and add a new item if the same concrete error showed up in 2+ entries this week (say
+   *where* — it's often the ACE answer). Update the `## Watch list` in `profile.md`.
+6. **Badge & level summary** — anything unlocked this week.
+7. **부모님께 (Korean note to parent)** — 3–5 sentences: what improved, what the focus
    is, how they can help (e.g., "이번 주는 근거 문장 쓰기에 집중합니다").
 
 Commit with message `feedback: <name> weekly YYYY-MM-DD`.

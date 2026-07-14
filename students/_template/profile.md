@@ -28,6 +28,14 @@
 
 <one skill, set at /setup or by the weekly report>
 
+## Watch list
+
+<up to 2 recurring slips to catch — checked every session, including the ACE answer.
+Retire an item at 3/3. Format:>
+<!-- - [ ] <item> — clean streak: 0/3 · e.g. "<their slip>" → "<fix>" -->
+
+(none yet)
+
 ## Session log
 
 | Date | Template | Tier | XP | Stretch done? | Notes |

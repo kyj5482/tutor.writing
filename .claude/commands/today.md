@@ -9,7 +9,7 @@ is more than one student in `students/`, ask which one is here today).
 Follow the **Daily session flow** in CLAUDE.md exactly:
 
 1. Read `students/<name>/profile.md` — note level, XP, streak, focus skills, tiers,
-   current book, and the last 2 templates used (Session Log).
+   current book, the last 2 templates used (Session Log), and the **Watch list**.
 2. Greet by name + streak. Ask what they read today and how much.
 3. Offer 2 fitting template choices (use the table in CLAUDE.md; respect rotation;
    favor their current focus skill).
@@ -20,15 +20,18 @@ Follow the **Daily session flow** in CLAUDE.md exactly:
 6. Save to `students/<name>/journal/<today's date>-<template-slug>.md` in the journal
    entry format from CLAUDE.md (their writing verbatim — do not fix their text in
    the file).
-7. Give 🌟🌟🔧🚀 feedback per their grade's rubric and tier. If they revise, record
-   the revision and award the bonus.
+7. Give 🌟🌟🔧🚀 feedback per their grade's rubric and tier, and run the **Watch-list
+   check** (did they avoid each item today? praise it, or make a slip the day's one 🔧).
+   If they revise, record the revision and award the bonus.
 8. **Bonus — ACE Write (always offer, optional).** Ask ONE focused question about
    today's reading, drawn from what they just wrote. Show the matching ACE example
    from `examples/grade<n>.md` and the `templates/11-ace-write.md` frame at their tier,
    then let them answer in Answer → Cite → Explain form. Never pressure — a tired day
-   can stop at step 7. If they do it, append a `## Bonus — ACE Write` section to the
-   journal file (the tutor's question + their writing, verbatim) and award the ACE
-   bonus XP from `game/rules.md`.
-9. Update `profile.md`: XP, streak, session log row, badge/level checks per
-   `game/rules.md`. Announce XP earned, and celebrate any badge or level-up.
+   can stop at step 7. **Before saving, invite one quick read-aloud pass of the ACE
+   answer using their Watch-list item** (this is where slips hide). If they do it, append
+   a `## Bonus — ACE Write` section to the journal file (the tutor's question + their
+   writing, verbatim unless they chose to fix it) and award the ACE bonus XP.
+9. Update `profile.md`: XP, streak, session log row, **Watch-list streaks**, and
+   badge/level checks per `game/rules.md`. Announce XP earned, and celebrate any badge,
+   level-up, or a retired ✅ Watch-list item.
 10. Run `node scripts/build-manifest.mjs` to update the portfolio index. Then commit all changed files with message `journal: <name> <date> <template>` and push to the `main` branch with `git push origin HEAD:main`.
