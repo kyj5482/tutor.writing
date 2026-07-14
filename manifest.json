@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-12T04:10:04.482Z",
+  "generated": "2026-07-14T01:54:29.357Z",
   "students": [
     {
       "name": "Jaei",
@@ -162,9 +162,9 @@
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 315,
+      "xp": 355,
       "level": 4,
-      "streak": 2,
+      "streak": 1,
       "badges": [
         {
           "name": "First Words",
@@ -300,6 +300,17 @@
           "reading": "to p.480, ~55 pages",
           "tier": 1,
           "xp": 35,
+          "hasRevision": true,
+          "hasBonus": true
+        },
+        {
+          "file": "students/Jia/journal/2026-07-13-01-summary.md",
+          "date": "2026-07-13",
+          "slug": "01-summary",
+          "book": "Harry Potter and the Order of the Phoenix",
+          "reading": "to p.585, ~105 pages",
+          "tier": 2,
+          "xp": 40,
           "hasRevision": true,
           "hasBonus": true
         }
