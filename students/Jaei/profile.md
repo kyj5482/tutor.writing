@@ -1,15 +1,15 @@
 # Profile — Jaei
 
 - **Grade:** 8
-- **Current book:** (between books — finished The Viper's Nest 2026-07-11; pick the next one!)
+- **Current book:** The 39 Clues: The Emperor's Code by Gordon Korman (started 2026-07-13)
 - **Books finished:** The Scorch Trials by James Dashner (finished 2026-06-23); Keeper of the Lost Cities: Everblaze by Shannon Messenger (finished 2026-07-04); The 39 Clues: In Too Deep by Jude Watson (finished 2026-07-07); The 39 Clues: The Viper's Nest by Jude Watson (finished 2026-07-11)
 
 ## Game stats
 
-- **Level:** 4 — 🖋️ Wordsmith
-- **XP:** 385 (next level at 400)
+- **Level:** 5 — 📚 Page Turner
+- **XP:** 425 (next level at 500)
 - **Current streak:** 1 day (best: 5)
-- **Last entry:** 2026-07-11 — 10 Book Review
+- **Last entry:** 2026-07-13 — 05 Letter to a Character
 
 ## Badges
 
@@ -47,3 +47,4 @@ Verb check (Style) — make the verb match its subject and keep the tense steady
 | 2026-07-07 | 03 Character Diary | 2 | 45 | ✅ (fix + stretch) | Started The Viper's Nest (finished In Too Deep). First Character Diary! Showed feelings in the body ("stood still like a statue") + honest conflict ("I should be glad… But something inside me stopped me"). Revised verb agreement was→were — verb-check focus ✅. Stretch ✅: nailed Dan's voice + a secret thought ("Don't tell Amy…") — Tier 3 voice move, strong Style progress (1 of ~3 toward promotion). ACE ✅ (Hamilton's eye-blink morse). Watch: "send"→"sent", "could have ran"→"run". 🗺️ 6th template. Day-4 streak = new best! |
 | 2026-07-08 | 06 Rewrite the Scene | 2 | 40 | ✅ (fix + stretch) | The Viper's Nest ch.~4 (Churchill document). First Rewrite the Scene (7th template)! Strong "what if not grandchildren" scene: in-character Dan bluff + Amy's stutter as show-don't-tell. Kept steady past tense — verb-check focus ✅. Fix ✅: rewrote flat ending into a live cliffhanger. Stretch ✅: added body-language "fingers tightened around Dan's sleeve" — Tier 3 voice move (2 of ~3 toward Style promotion). ACE ✅ (Grace helping since Egypt / hints to next clues). Watch verbs: "leaved"→"left", "she want"→"wants". 🎉 Leveled up to 4 — Wordsmith! Day-5 streak = new best! |
 | 2026-07-11 | 10 Book Review | 2 | 60 | ✅ (fix + stretch) | 🎉 Finished The Viper's Nest! Strong question hook + specific read-alike (Keeper of the Lost Cities, "more mystery type"). Fix ✅: verb agreement "the plant that were" → "was" — verb-check focus ✅. Stretch ✅: argued rating ("loses a star because too much action... hard to keep up") — Tier 3 evaluation move. ACE ✅: aloe-as-decoy insight — read as a trap for rival teams w/o Grace's notebook, not just a reader twist. 📚 Bookworm already held. Streak reset to 1 (missed 07-09/10) — welcomed back, no guilt. 15 XP from Level 5! Watch: "embrace yourself"→"brace yourself", "a excellent"→"an excellent". |
+| 2026-07-13 | 05 Letter to a Character | 2 | 40 | ✅ (fix + stretch) | Started The Emperor's Code (Korman). First Letter to a Character (8th template)! Quoted Amy's cruel line directly + strong reader-knowledge tease ("something horrible will happen, trust me I know") — Tier 3 moves. Fix ✅: "control yourself" → "control you" — verb-check focus ✅. Stretch ✅: warm P.S. ("You and Dan are connected") — 3rd strong voice move → check Style Tier 2 promotion at weekly! ACE ✅: traced Amy's cruelty to her whole Madrigal-doubt arc — high-level insight. 🎉 Leveled up to 5 — Page Turner! Streak Day 1 (missed 07-12). Watch present-tense: "keeps telling us", "she gradually discovers". |

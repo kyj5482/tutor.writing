@@ -1,11 +1,11 @@
 {
-  "generated": "2026-07-14T01:54:29.357Z",
+  "generated": "2026-07-14T03:10:41.886Z",
   "students": [
     {
       "name": "Jaei",
       "grade": "8",
-      "xp": 385,
-      "level": 4,
+      "xp": 425,
+      "level": 5,
       "streak": 1,
       "badges": [
         {
@@ -147,6 +147,17 @@
           "reading": "finished the book — read a few chapters today",
           "tier": 2,
           "xp": 60,
+          "hasRevision": true,
+          "hasBonus": true
+        },
+        {
+          "file": "students/Jaei/journal/2026-07-13-05-letter-to-character.md",
+          "date": "2026-07-13",
+          "slug": "05-letter-to-character",
+          "book": "The 39 Clues: The Emperor's Code by Gordon Korman",
+          "reading": "a few chapters",
+          "tier": 2,
+          "xp": 40,
           "hasRevision": true,
           "hasBonus": true
         }
