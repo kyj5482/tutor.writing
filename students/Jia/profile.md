@@ -7,9 +7,9 @@
 ## Game stats
 
 - **Level:** 4 — 🖋️ Wordsmith
-- **XP:** 355 (next level at 400)
-- **Current streak:** 1 day (best: 3)
-- **Last entry:** 2026-07-13
+- **XP:** 390 (next level at 400)
+- **Current streak:** 2 days (best: 3)
+- **Last entry:** 2026-07-14
 
 ## Badges
 
@@ -34,7 +34,7 @@ Catch a quote (Evidence) — use one short quote (3–5 exact words a character 
 
 ## Watch list
 
-- [ ] **Spell the tricky ones (especially in the ACE answer)** — clean streak: 0/3 · e.g. "Griffyndor" → "Gryffindor", "proffesor" → "professor", "their" → "there" · **read the ACE answer aloud before saving — that's where these hide.**
+- [ ] **Spell the tricky ones (especially in the ACE answer)** — clean streak: 0/3 · e.g. "Griffyndor" → "Gryffindor", "proffesor" → "professor", "their" → "there" · **read the ACE answer aloud before saving — that's where these hide.** · 2026-07-14: "Jane" → "James" slipped in the ACE but she caught & fixed it herself on read-aloud — streak stays 0/3 (a first-pass-clean entry earns 1/3).
 
 ## Session log
 
@@ -53,3 +53,4 @@ Catch a quote (Evidence) — use one short quote (3–5 exact words a character 
 | 2026-07-11 | 05 Letter to a Character | 1→2 | 35 | Stretch (reaction + reader tease) + ACE | To p.480. Letter to Harry after the snake-vision. Advice-with-"since" + strong ACE ("Harry was the snake"). 🆙 Level 4 Wordsmith! Day-2 streak. |
 | 2026-07-13 | 01 Summary | 2 | 40 | Revised (stakes ending) + ACE | To p.585, 105-pg day. First Tier-2 base entry! 5 transitions, packed w/ details. Umbridge Headmistress + Occlumency. Own-words Explanation 4 sessions running. Streak reset. |
 | 2026-07-13 | Weekly review | — | 0 | — | Week ending 07-13: 4 entries, 145 XP, 🆙 Level 4 Wordsmith (07-11), 🦋 Revision Butterfly (07-10). ⛰️ **Explanation promoted Tier 1 → Tier 2** (2nd Tier-2 skill). No +15 (only 4 entries, not 5+). New focus: Catch a quote (Evidence) → chases 💬 Quote Catcher to finish the ✍️ Wordsmith stamp card (3/4). |
+| 2026-07-14 | 04 Opinion | 2 | 35 | Stretch (counterargument) + ACE | To p.635. Harry quit Snape's lessons. Full 4-part Tier-2 opinion + Tier-3 counterargument. No quote yet (focus still open). Watch list: caught own "Jane→James" slip on ACE read-aloud (0/3). Day-2 streak. |

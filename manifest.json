@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-14T03:10:41.886Z",
+  "generated": "2026-07-14T20:52:53.592Z",
   "students": [
     {
       "name": "Jaei",
@@ -167,15 +167,20 @@
           "file": "students/Jaei/feedback/2026-07-06-weekly.md",
           "date": "2026-07-06",
           "kind": "weekly"
+        },
+        {
+          "file": "students/Jaei/feedback/2026-07-13-weekly.md",
+          "date": "2026-07-13",
+          "kind": "weekly"
         }
       ]
     },
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 355,
+      "xp": 390,
       "level": 4,
-      "streak": 1,
+      "streak": 2,
       "badges": [
         {
           "name": "First Words",
@@ -324,12 +329,28 @@
           "xp": 40,
           "hasRevision": true,
           "hasBonus": true
+        },
+        {
+          "file": "students/Jia/journal/2026-07-14-04-opinion.md",
+          "date": "2026-07-14",
+          "slug": "04-opinion",
+          "book": "Harry Potter and the Order of the Phoenix",
+          "reading": "to p.635, ~50 pages",
+          "tier": 2,
+          "xp": 35,
+          "hasRevision": true,
+          "hasBonus": true
         }
       ],
       "reports": [
         {
           "file": "students/Jia/feedback/2026-07-06-weekly.md",
           "date": "2026-07-06",
+          "kind": "weekly"
+        },
+        {
+          "file": "students/Jia/feedback/2026-07-13-weekly.md",
+          "date": "2026-07-13",
           "kind": "weekly"
         }
       ]
