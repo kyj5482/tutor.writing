@@ -1,11 +1,11 @@
 {
-  "generated": "2026-07-14T21:35:53.788Z",
+  "generated": "2026-07-14T21:41:18.920Z",
   "students": [
     {
       "name": "Jaei",
       "grade": "8",
-      "xp": 480,
-      "level": 5,
+      "xp": 530,
+      "level": 6,
       "streak": 2,
       "badges": [
         {
@@ -37,6 +37,11 @@
           "name": "Tier Climber",
           "emoji": "⛰️",
           "date": "2026-07-06"
+        },
+        {
+          "name": "Quote Catcher",
+          "emoji": "💬",
+          "date": "2026-07-14"
         }
       ],
       "entries": [
@@ -168,7 +173,7 @@
           "book": "The 39 Clues: The Emperor's Code by Gordon Korman",
           "reading": "finished the book",
           "tier": 2,
-          "xp": 55,
+          "xp": 105,
           "hasRevision": true,
           "hasBonus": true
         }
