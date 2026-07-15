@@ -18,6 +18,7 @@
 - 🎨 Template Tourist (earned 2026-07-06 — used 5 different templates: Summary, Opinion, Rewrite, Letter, Character Diary!)
 - ⛰️ Tier Climber (earned 2026-07-06 — promoted Structure to Tier 2 in weekly review!)
 - 🦋 Revision Butterfly (earned 2026-07-10 — completed 5 revisions/stretch challenges!)
+- 🤝 Double Trouble (earned 2026-07-15 — both students wrote the same day, with Jaei!)
 
 ## Skill tiers
 
