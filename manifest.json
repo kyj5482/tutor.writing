@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-14T21:41:18.920Z",
+  "generated": "2026-07-15T20:07:33.694Z",
   "students": [
     {
       "name": "Jaei",
@@ -194,9 +194,9 @@
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 390,
-      "level": 4,
-      "streak": 2,
+      "xp": 425,
+      "level": 5,
+      "streak": 3,
       "badges": [
         {
           "name": "First Words",
@@ -356,6 +356,17 @@
           "xp": 35,
           "hasRevision": true,
           "hasBonus": true
+        },
+        {
+          "file": "students/Jia/journal/2026-07-15-08-connection.md",
+          "date": "2026-07-15",
+          "slug": "08-connection",
+          "book": "Harry Potter and the Order of the Phoenix",
+          "reading": "to p.661, ~26 pages",
+          "tier": 2,
+          "xp": 35,
+          "hasRevision": true,
+          "hasBonus": false
         }
       ],
       "reports": [
