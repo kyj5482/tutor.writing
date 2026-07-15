@@ -1,15 +1,15 @@
 # Profile — Jaei
 
 - **Grade:** 8
-- **Current book:** (between books — finished The Emperor's Code 2026-07-14; pick the next one!)
+- **Current book:** Storm Warning by Linda Sue Park (The 39 Clues #9) — started 2026-07-15
 - **Books finished:** The Scorch Trials by James Dashner (finished 2026-06-23); Keeper of the Lost Cities: Everblaze by Shannon Messenger (finished 2026-07-04); The 39 Clues: In Too Deep by Jude Watson (finished 2026-07-07); The 39 Clues: The Viper's Nest by Jude Watson (finished 2026-07-11); The 39 Clues: The Emperor's Code by Gordon Korman (finished 2026-07-14)
 
 ## Game stats
 
 - **Level:** 6 — ✨ Style Seeker
-- **XP:** 530 (next level at 600)
-- **Current streak:** 2 days (best: 5)
-- **Last entry:** 2026-07-14 — 10 Book Review
+- **XP:** 575 (next level at 600)
+- **Current streak:** 3 days (best: 5)
+- **Last entry:** 2026-07-15 — 09 Quick Write 3-2-1
 
 ## Badges
 
@@ -38,7 +38,7 @@ First-draft verb check (Style) — you already fix every verb error on a read-al
 
 ## Watch list
 
-- [ ] **Verb agreement & tense** — clean streak: 0/3 · e.g. "Dan and Amy goes" → "go", "trust and loyalty is" → "are" (both plural subjects) · **the ACE is where it hides — caught it only on the read-aloud pass, not first draft. Goal: catch it *before* save.**
+- [ ] **Verb agreement & tense** — clean streak: 0/3 · e.g. "Dan and Amy goes" → "go", "to described" → "to describe" (base form after "to") · **still caught on review, not first draft (07-15: slipped in the "2 words" section, not the ACE this time — the ACE was clean). Goal: give the word/detail sections their own 5-second verb read too.**
 
 *(Handoff note: verbs also match this week's Focus skill. Once a growth skill takes the Focus slot at the next weekly, this Watch item keeps carrying the verb check.)*
 
@@ -58,4 +58,5 @@ First-draft verb check (Style) — you already fix every verb error on a read-al
 | 2026-07-11 | 10 Book Review | 2 | 60 | ✅ (fix + stretch) | 🎉 Finished The Viper's Nest! Strong question hook + specific read-alike (Keeper of the Lost Cities, "more mystery type"). Fix ✅: verb agreement "the plant that were" → "was" — verb-check focus ✅. Stretch ✅: argued rating ("loses a star because too much action... hard to keep up") — Tier 3 evaluation move. ACE ✅: aloe-as-decoy insight — read as a trap for rival teams w/o Grace's notebook, not just a reader twist. 📚 Bookworm already held. Streak reset to 1 (missed 07-09/10) — welcomed back, no guilt. 15 XP from Level 5! Watch: "embrace yourself"→"brace yourself", "a excellent"→"an excellent". |
 | 2026-07-13 | 05 Letter to a Character | 2 | 40 | ✅ (fix + stretch) | Started The Emperor's Code (Korman). First Letter to a Character (8th template)! Quoted Amy's cruel line directly + strong reader-knowledge tease ("something horrible will happen, trust me I know") — Tier 3 moves. Fix ✅: "control yourself" → "control you" — verb-check focus ✅. Stretch ✅: warm P.S. ("You and Dan are connected") — 3rd strong voice move → check Style Tier 2 promotion at weekly! ACE ✅: traced Amy's cruelty to her whole Madrigal-doubt arc — high-level insight. 🎉 Leveled up to 5 — Page Turner! Streak Day 1 (missed 07-12). Watch present-tense: "keeps telling us", "she gradually discovers". |
 | 2026-07-13 | — weekly — | — | 0 | — | Weekly report (week ending 07-13): 4 entries, 185 XP, 2 level-ups (→ Lv 5 Page Turner). ⛰️ **Style promoted Tier 1 → Tier 2** (3 straight voice moves). No +15 (only 4 entries, not 5+). New focus: first-draft verb check — move the read-aloud pass *before* save, apply to ACE too. Wordsmith stamp card 3/4 (missing 💬 Quote Catcher). |
+| 2026-07-15 | 09 Quick Write 3-2-1 | 3 | 45 | ✅ (fix + stretch) | Started Storm Warning (39 Clues #9)! First Quick Write — **9th unique template** (only 07 Golden Line left for 🗺️ Template Master!). Wrote at Tier 3 (added the "So what?"). Sharp reads: noticed Nellie "was like almost trained for this hunt" + caught that "Azturpealean" is a word Amy *made up*. Fix ✅: "to described" → "to describe". Stretch ✅: added "on the other hand" counter to the question — Tier 3 both-sides move. ACE ✅ (Tier 3): claim + embedded quote ("report to Mr. McIntyre") + "Some might say… but…" counter; self-polished all verbs on read-aloud. Watch: verb slipped in the "2 words" section (main entry first draft), caught on review not first draft → streak stays 0/3; ACE itself was clean. Day-3 streak = +5 bonus. XP 45 (10 + T3 10 + stretch 10 + ACE 10 + streak 5). |
 | 2026-07-14 | 10 Book Review | 2 | 105 | ✅ (fix + stretch) | 🎉 Finished The Emperor's Code (Korman)! Strong stakes-question hook + argued rating ("loses half a star because of how it ends, but earns 4.5 because...") — Tier 3 move; noticed craft ("mixing third and first person POV"). Fix ✅: "Dan and Amy goes" → "go". Stretch ✅: named the theme ("trust and loyalty") — Tier 3 big-idea move. ACE ✅: traced the fight to Amy's Madrigal doubt. Watch: verb slipped in BOTH main ("goes") and ACE ("trust and loyalty is" → "are") — caught only on read-aloud, not first draft → streak stays 0/3, no +5 focus XP. 💬 **Quote Catcher earned** (5th direct-quote entry: 06-21, 06-23, 07-04, 07-13, 07-14). ✍️ **Wordsmith stamp card COMPLETE → 🎟️ +50 XP coupon.** XP 55 (entry) + 50 (coupon) = 105. 🎉 **Leveled up to 6 — ✨ Style Seeker** (crossed 500). Streak Day 2. (Student flagged the Quote Catcher count — was correct; tutor had under-called it.) |
