@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-17T00:23:05.261Z",
+  "generated": "2026-07-17T00:49:11.825Z",
   "students": [
     {
       "name": "Jaei",
@@ -236,9 +236,9 @@
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 435,
+      "xp": 470,
       "level": 5,
-      "streak": 3,
+      "streak": 4,
       "badges": [
         {
           "name": "First Words",
@@ -412,6 +412,17 @@
           "reading": "to p.661, ~26 pages",
           "tier": 2,
           "xp": 45,
+          "hasRevision": true,
+          "hasBonus": true
+        },
+        {
+          "file": "students/Jia/journal/2026-07-16-06-rewrite-the-scene.md",
+          "date": "2026-07-16",
+          "slug": "06-rewrite-the-scene",
+          "book": "Harry Potter and the Order of the Phoenix",
+          "reading": "to p.740, ~79 pages",
+          "tier": 2,
+          "xp": 35,
           "hasRevision": true,
           "hasBonus": true
         }
