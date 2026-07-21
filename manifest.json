@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-21T04:00:36.118Z",
+  "generated": "2026-07-21T04:25:37.917Z",
   "students": [
     {
       "name": "Jaei",
@@ -247,9 +247,9 @@
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 470,
-      "level": 5,
-      "streak": 4,
+      "xp": 525,
+      "level": 6,
+      "streak": 1,
       "badges": [
         {
           "name": "First Words",
@@ -280,6 +280,11 @@
           "name": "Double Trouble",
           "emoji": "🤝",
           "date": "2026-07-15"
+        },
+        {
+          "name": "Bookworm",
+          "emoji": "📚",
+          "date": "2026-07-20"
         }
       ],
       "entries": [
@@ -434,6 +439,17 @@
           "reading": "to p.740, ~79 pages",
           "tier": 2,
           "xp": 35,
+          "hasRevision": true,
+          "hasBonus": true
+        },
+        {
+          "file": "students/Jia/journal/2026-07-20-10-book-review.md",
+          "date": "2026-07-20",
+          "slug": "10-book-review",
+          "book": "Harry Potter and the Order of the Phoenix",
+          "reading": "FINISHED! 766 pages — also started Half-Blood Prince, ~100 pages",
+          "tier": 2,
+          "xp": 55,
           "hasRevision": true,
           "hasBonus": true
         }

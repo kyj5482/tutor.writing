@@ -1,15 +1,15 @@
 # Profile — Jia
 
 - **Grade:** 6
-- **Current book:** Harry Potter and the Order of the Phoenix by J.K. Rowling (started 2026-07-04)
-- **Books finished:** Harry Potter and the Prisoner of Azkaban, Harry Potter and the Goblet of Fire
+- **Current book:** Harry Potter and the Half-Blood Prince by J.K. Rowling (started 2026-07-20)
+- **Books finished:** Harry Potter and the Prisoner of Azkaban, Harry Potter and the Goblet of Fire, Harry Potter and the Order of the Phoenix (finished 2026-07-20 — 766 pages!)
 
 ## Game stats
 
-- **Level:** 5 — 📚 Page Turner
-- **XP:** 470 (next level at 500)
-- **Current streak:** 4 days (best: 4)
-- **Last entry:** 2026-07-16
+- **Level:** 6 — ✨ Style Seeker
+- **XP:** 525 (next level at 600)
+- **Current streak:** 1 day (best: 4)
+- **Last entry:** 2026-07-20
 
 ## Badges
 
@@ -19,6 +19,7 @@
 - ⛰️ Tier Climber (earned 2026-07-06 — promoted Structure to Tier 2 in weekly review!)
 - 🦋 Revision Butterfly (earned 2026-07-10 — completed 5 revisions/stretch challenges!)
 - 🤝 Double Trouble (earned 2026-07-15 — both students wrote the same day, with Jaei!)
+- 📚 Bookworm (earned 2026-07-20 — finished Order of the Phoenix, all 766 pages, and wrote its Book Review!)
 
 ## Skill tiers
 
@@ -35,7 +36,8 @@ Catch a quote (Evidence) — use one short quote (3–5 exact words a character 
 
 ## Watch list
 
-- [ ] **Spell the tricky ones (especially in the ACE answer)** — clean streak: 0/3 · e.g. "Griffyndor" → "Gryffindor", "proffesor" → "professor", "their" → "there" · **read the ACE answer aloud before saving — that's where these hide.** · 2026-07-14: "Jane" → "James" slipped in the ACE but she caught & fixed it herself on read-aloud — streak stays 0/3 (a first-pass-clean entry earns 1/3). · 2026-07-15: "Hermonian" → "Hermione", "examinator" → "examiner" slipped in the main entry; she fixed all of them when prompted — streak stays 0/3, but self-editing is getting strong. · 2026-07-16: "Nevile"→"Neville" + fast-draft misspellings (fhighing/replises/Sudlenly) in the rewrite, and "becasue" in the ACE; fixed all when prompted. Streak stays 0/3. Pattern to note: slips cluster in fast creative drafts — the read-aloud pass is catching them every time.
+- [ ] **Spell the tricky ones (especially in the ACE answer)** — clean streak: **1/3** 🎉 · e.g. "Griffyndor" → "Gryffindor", "proffesor" → "professor", "their" → "there" · **read the ACE answer aloud before saving — that's where these hide.** · 2026-07-14: "Jane"→"James" slipped in the ACE, self-caught on read-aloud (0/3). · 2026-07-15: "Hermonian"→"Hermione", "examinator"→"examiner" in the main entry, fixed when prompted (0/3). · 2026-07-16: "Nevile"→"Neville" + fast-draft misspellings and "becasue" in the ACE, all fixed when prompted (0/3). · **2026-07-20: FIRST CLEAN ENTRY — "Gryffindor" and "Professor" both spelled right on the first try, plus Dumbledore/Umbridge/Hogwarts/Voldemort/Sirius. → 1/3!**
+- [ ] **Verb endings (-ed / -s)** — clean streak: 0/3 · e.g. "Have you ever wonder" → "wondered", "if no one believe you" → "believes", "Sirius Black die" → "died", "fighted" → "fought" · **read it aloud and listen for the ending sound.** · Added 2026-07-20 after the same slip appeared in 2 entries (07-16 rewrite, 07-20 review).
 
 ## Session log
 
@@ -57,3 +59,4 @@ Catch a quote (Evidence) — use one short quote (3–5 exact words a character 
 | 2026-07-14 | 04 Opinion | 2 | 35 | Stretch (counterargument) + ACE | To p.635. Harry quit Snape's lessons. Full 4-part Tier-2 opinion + Tier-3 counterargument. No quote yet (focus still open). Watch list: caught own "Jane→James" slip on ACE read-aloud (0/3). Day-2 streak. |
 | 2026-07-15 | 08 Connection | 2 | 45 | Stretch (real-life takeaway) + spelling fix + ACE | To p.661, O.W.L. exams. 💬 **First quote caught** (Hermione, "Is that the examiner?") → Quote Catcher 1/5. Connected exam nerves to own math test. ACE: even Hermione scared "because it affects her future." Fixed all spelling slips when prompted (Hermonian→Hermione) + caught "THis"→"This" on ACE read-aloud. 🆙 Level 5 Page Turner! Day-3 streak (ties best). |
 | 2026-07-16 | 06 Rewrite the Scene | 2 | 35 | Revised (spelling fix) + ACE | To p.740, Ministry of Magic battle (climax). Tier-2 scene: "What if Voldemort fought Harry" — 2 lines of dialogue, in-character villain line, cliffhanger. ACE paraphrased (no quote, still 1/5). Fixed all spelling slips on read-aloud (Nevile→Neville, becasue→because). 🔥 **Day-4 streak — NEW personal best!** |
+| 2026-07-20 | 10 Book Review | 2 | 55 | Stretch (argued rating) + ACE | 🎉 **FINISHED Order of the Phoenix (766 pp)** + started Half-Blood Prince (~100 pp). Great hook ("what if no one believe you?"), honest strength/weakness, read-alike. 📚 **Bookworm badge** + 🆙 **Level 6 Style Seeker!** ✅ Watch list: first clean spelling entry → 1/3. New watch item added: verb endings. Kept a spoiler (Sirius) after being offered the choice. Streak reset to 1 after 3 days off. |
