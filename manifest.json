@@ -1,11 +1,11 @@
 {
-  "generated": "2026-07-21T04:25:37.917Z",
+  "generated": "2026-07-23T01:41:12.996Z",
   "students": [
     {
       "name": "Jaei",
       "grade": "8",
-      "xp": 695,
-      "level": 7,
+      "xp": 735,
+      "level": 8,
       "streak": 1,
       "badges": [
         {
@@ -229,6 +229,17 @@
           "xp": 40,
           "hasRevision": true,
           "hasBonus": true
+        },
+        {
+          "file": "students/Jaei/journal/2026-07-23-10-book-review.md",
+          "date": "2026-07-23",
+          "slug": "10-book-review",
+          "book": "The 39 Clues: Storm Warning by Linda Sue Park",
+          "reading": "finished the book — a few chapters today",
+          "tier": 3,
+          "xp": 40,
+          "hasRevision": false,
+          "hasBonus": false
         }
       ],
       "reports": [
