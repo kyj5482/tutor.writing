@@ -7,9 +7,9 @@
 ## Game stats
 
 - **Level:** 6 — ✨ Style Seeker
-- **XP:** 525 (next level at 600)
+- **XP:** 565 (next level at 600)
 - **Current streak:** 1 day (best: 4)
-- **Last entry:** 2026-07-20
+- **Last entry:** 2026-07-22
 
 ## Badges
 
@@ -32,12 +32,12 @@
 
 ## Focus skill this week
 
-Catch a quote (Evidence) — use one short quote (3–5 exact words a character said, in quotation marks) as proof. Earns 💬 Quote Catcher after 5 entries → completes the ✍️ Wordsmith stamp card. **Progress: 1/5** (first quote caught 2026-07-15 — Hermione, "Is that the examiner?").
+Catch a quote (Evidence) — use one short quote (3–5 exact words a character said, in quotation marks) as proof. Earns 💬 Quote Catcher after 5 entries → completes the ✍️ Wordsmith stamp card. **Progress: 2/5** (07-15 Hermione "Is that the examiner?"; 07-22 Golden Line — used a quote, though it blended two speakers → next step: copy ONE character's exact words).
 
 ## Watch list
 
 - [ ] **Spell the tricky ones (especially in the ACE answer)** — clean streak: **1/3** 🎉 · e.g. "Griffyndor" → "Gryffindor", "proffesor" → "professor", "their" → "there" · **read the ACE answer aloud before saving — that's where these hide.** · 2026-07-14: "Jane"→"James" slipped in the ACE, self-caught on read-aloud (0/3). · 2026-07-15: "Hermonian"→"Hermione", "examinator"→"examiner" in the main entry, fixed when prompted (0/3). · 2026-07-16: "Nevile"→"Neville" + fast-draft misspellings and "becasue" in the ACE, all fixed when prompted (0/3). · **2026-07-20: FIRST CLEAN ENTRY — "Gryffindor" and "Professor" both spelled right on the first try, plus Dumbledore/Umbridge/Hogwarts/Voldemort/Sirius. → 1/3!**
-- [ ] **Verb endings (-ed / -s)** — clean streak: 0/3 · e.g. "Have you ever wonder" → "wondered", "if no one believe you" → "believes", "Sirius Black die" → "died", "fighted" → "fought" · **read it aloud and listen for the ending sound.** · Added 2026-07-20 after the same slip appeared in 2 entries (07-16 rewrite, 07-20 review).
+- [ ] **Verb endings (-ed / -s)** — clean streak: **1/3** 🎉 · e.g. "Have you ever wonder" → "wondered", "if no one believe you" → "believes", "Sirius Black die" → "died", "fighted" → "fought" · **read it aloud and listen for the ending sound.** · Added 2026-07-20 after the same slip appeared in 2 entries (07-16 rewrite, 07-20 review). · **2026-07-22: clean in both the Golden Line and the ACE → 1/3!** (Note for next time: possessive 's — "Voldemort past" → "Voldemort's past" — watch if it recurs.)
 
 ## Session log
 
@@ -60,3 +60,4 @@ Catch a quote (Evidence) — use one short quote (3–5 exact words a character 
 | 2026-07-15 | 08 Connection | 2 | 45 | Stretch (real-life takeaway) + spelling fix + ACE | To p.661, O.W.L. exams. 💬 **First quote caught** (Hermione, "Is that the examiner?") → Quote Catcher 1/5. Connected exam nerves to own math test. ACE: even Hermione scared "because it affects her future." Fixed all spelling slips when prompted (Hermonian→Hermione) + caught "THis"→"This" on ACE read-aloud. 🆙 Level 5 Page Turner! Day-3 streak (ties best). |
 | 2026-07-16 | 06 Rewrite the Scene | 2 | 35 | Revised (spelling fix) + ACE | To p.740, Ministry of Magic battle (climax). Tier-2 scene: "What if Voldemort fought Harry" — 2 lines of dialogue, in-character villain line, cliffhanger. ACE paraphrased (no quote, still 1/5). Fixed all spelling slips on read-aloud (Nevile→Neville, becasue→because). 🔥 **Day-4 streak — NEW personal best!** |
 | 2026-07-20 | 10 Book Review | 2 | 55 | Stretch (argued rating) + ACE | 🎉 **FINISHED Order of the Phoenix (766 pp)** + started Half-Blood Prince (~100 pp). Great hook ("what if no one believe you?"), honest strength/weakness, read-alike. 📚 **Bookworm badge** + 🆙 **Level 6 Style Seeker!** ✅ Watch list: first clean spelling entry → 1/3. New watch item added: verb endings. Kept a spoiler (Sirius) after being offered the choice. Streak reset to 1 after 3 days off. |
+| 2026-07-22 | 07 Golden Line | 2 | 40 | Stretch (single-word zoom-in) + ACE | To p.215, Half-Blood Prince — Harry learning Voldemort's past. First-ever use of the Golden Line template (8/10 templates used — still to try: 02 Prediction, 09 Quick Write). Full Tier-2 (quote+context+craft+wonder) + Tier-3 word zoom-in. 💬 Quote 2/5 (blended two speakers — coach exact single-speaker quote). Verb endings clean → 1/3. Spelling held at 1/3 ("pharphy"→prophecy, but names clean). Streak reset to 1. |

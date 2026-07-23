@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-21T04:25:37.917Z",
+  "generated": "2026-07-23T02:20:22.736Z",
   "students": [
     {
       "name": "Jaei",
@@ -247,7 +247,7 @@
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 525,
+      "xp": 565,
       "level": 6,
       "streak": 1,
       "badges": [
@@ -450,6 +450,17 @@
           "reading": "FINISHED! 766 pages — also started Half-Blood Prince, ~100 pages",
           "tier": 2,
           "xp": 55,
+          "hasRevision": true,
+          "hasBonus": true
+        },
+        {
+          "file": "students/Jia/journal/2026-07-22-07-golden-line.md",
+          "date": "2026-07-22",
+          "slug": "07-golden-line",
+          "book": "Harry Potter and the Half-Blood Prince",
+          "reading": "to p.215, ~115 pages",
+          "tier": 2,
+          "xp": 40,
           "hasRevision": true,
           "hasBonus": true
         }
