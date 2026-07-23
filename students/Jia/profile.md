@@ -7,9 +7,9 @@
 ## Game stats
 
 - **Level:** 6 — ✨ Style Seeker
-- **XP:** 565 (next level at 600)
-- **Current streak:** 1 day (best: 4)
-- **Last entry:** 2026-07-22
+- **XP:** 590 (next level at 600)
+- **Current streak:** 2 days (best: 4)
+- **Last entry:** 2026-07-23
 
 ## Badges
 
@@ -36,8 +36,8 @@ Catch a quote (Evidence) — use one short quote (3–5 exact words a character 
 
 ## Watch list
 
-- [ ] **Spell the tricky ones (especially in the ACE answer)** — clean streak: **1/3** 🎉 · e.g. "Griffyndor" → "Gryffindor", "proffesor" → "professor", "their" → "there" · **read the ACE answer aloud before saving — that's where these hide.** · 2026-07-14: "Jane"→"James" slipped in the ACE, self-caught on read-aloud (0/3). · 2026-07-15: "Hermonian"→"Hermione", "examinator"→"examiner" in the main entry, fixed when prompted (0/3). · 2026-07-16: "Nevile"→"Neville" + fast-draft misspellings and "becasue" in the ACE, all fixed when prompted (0/3). · **2026-07-20: FIRST CLEAN ENTRY — "Gryffindor" and "Professor" both spelled right on the first try, plus Dumbledore/Umbridge/Hogwarts/Voldemort/Sirius. → 1/3!**
-- [ ] **Verb endings (-ed / -s)** — clean streak: **1/3** 🎉 · e.g. "Have you ever wonder" → "wondered", "if no one believe you" → "believes", "Sirius Black die" → "died", "fighted" → "fought" · **read it aloud and listen for the ending sound.** · Added 2026-07-20 after the same slip appeared in 2 entries (07-16 rewrite, 07-20 review). · **2026-07-22: clean in both the Golden Line and the ACE → 1/3!** (Note for next time: possessive 's — "Voldemort past" → "Voldemort's past" — watch if it recurs.)
+- [ ] **Spell the tricky ones (especially in the ACE answer)** — clean streak: **1/3** 🎉 · e.g. "Griffyndor" → "Gryffindor", "proffesor" → "professor", "their" → "there" · **read the ACE answer aloud before saving — that's where these hide.** · 2026-07-14: "Jane"→"James" slipped in the ACE, self-caught on read-aloud (0/3). · 2026-07-15: "Hermonian"→"Hermione", "examinator"→"examiner" in the main entry, fixed when prompted (0/3). · 2026-07-16: "Nevile"→"Neville" + fast-draft misspellings and "becasue" in the ACE, all fixed when prompted (0/3). · **2026-07-20: FIRST CLEAN ENTRY — "Gryffindor" and "Professor" both spelled right on the first try, plus Dumbledore/Umbridge/Hogwarts/Voldemort/Sirius. → 1/3!** · 2026-07-22: held at 1/3 (names clean but "pharphy"→prophecy). · **2026-07-23: clean in both prediction and ACE — Voldemort/Dumbledore perfect throughout → 2/3!** (One more clean entry clears it!)
+- [ ] **Verb endings (-ed / -s)** — clean streak: **0/3** · e.g. "Have you ever wonder" → "wondered", "if no one believe you" → "believes", "Sirius Black die" → "died", "fighted" → "fought", "stoled" → "stole" · **read it aloud and listen for the ending sound.** · Added 2026-07-20 after the same slip appeared in 2 entries (07-16 rewrite, 07-20 review). · 2026-07-22: clean → 1/3. · **2026-07-23: slipped — "stoled"→"stole" in the prediction, and "ask"→"asked"/"show"→"shows" in the ACE (fixed the ACE ones herself on read-aloud). Reset to 0/3, but her ear is catching them fast.** (Possessive 's still worth watching: "Voldemort past".)
 
 ## Session log
 
@@ -61,3 +61,4 @@ Catch a quote (Evidence) — use one short quote (3–5 exact words a character 
 | 2026-07-16 | 06 Rewrite the Scene | 2 | 35 | Revised (spelling fix) + ACE | To p.740, Ministry of Magic battle (climax). Tier-2 scene: "What if Voldemort fought Harry" — 2 lines of dialogue, in-character villain line, cliffhanger. ACE paraphrased (no quote, still 1/5). Fixed all spelling slips on read-aloud (Nevile→Neville, becasue→because). 🔥 **Day-4 streak — NEW personal best!** |
 | 2026-07-20 | 10 Book Review | 2 | 55 | Stretch (argued rating) + ACE | 🎉 **FINISHED Order of the Phoenix (766 pp)** + started Half-Blood Prince (~100 pp). Great hook ("what if no one believe you?"), honest strength/weakness, read-alike. 📚 **Bookworm badge** + 🆙 **Level 6 Style Seeker!** ✅ Watch list: first clean spelling entry → 1/3. New watch item added: verb endings. Kept a spoiler (Sirius) after being offered the choice. Streak reset to 1 after 3 days off. |
 | 2026-07-22 | 07 Golden Line | 2 | 40 | Stretch (single-word zoom-in) + ACE | To p.215, Half-Blood Prince — Harry learning Voldemort's past. First-ever use of the Golden Line template (8/10 templates used — still to try: 02 Prediction, 09 Quick Write). Full Tier-2 (quote+context+craft+wonder) + Tier-3 word zoom-in. 💬 Quote 2/5 (blended two speakers — coach exact single-speaker quote). Verb endings clean → 1/3. Spelling held at 1/3 ("pharphy"→prophecy, but names clean). Streak reset to 1. |
+| 2026-07-23 | 02 Prediction | 2 | 25 | ACE (declined stretch) | To p.270, Half-Blood Prince — memories of Voldemort's/Dumbledore's past. First-ever Prediction template (9/10 — only 09 Quick Write left). Specific prediction + 2 real clues + confidence. No quote (still 2/5). ✅ Spelling clean → **2/3** (one more clears it!). Verb endings slipped ("stoled"; "ask"/"show" in ACE, self-fixed on read-aloud) → reset 0/3. Day-2 streak. |

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-23T02:20:22.736Z",
+  "generated": "2026-07-23T20:42:42.179Z",
   "students": [
     {
       "name": "Jaei",
@@ -247,9 +247,9 @@
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 565,
+      "xp": 590,
       "level": 6,
-      "streak": 1,
+      "streak": 2,
       "badges": [
         {
           "name": "First Words",
@@ -462,6 +462,17 @@
           "tier": 2,
           "xp": 40,
           "hasRevision": true,
+          "hasBonus": true
+        },
+        {
+          "file": "students/Jia/journal/2026-07-23-02-prediction.md",
+          "date": "2026-07-23",
+          "slug": "02-prediction",
+          "book": "Harry Potter and the Half-Blood Prince",
+          "reading": "to p.270, ~55 pages",
+          "tier": 2,
+          "xp": 25,
+          "hasRevision": false,
           "hasBonus": true
         }
       ],
