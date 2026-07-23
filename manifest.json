@@ -1,10 +1,10 @@
 {
-  "generated": "2026-07-23T01:41:12.996Z",
+  "generated": "2026-07-23T01:44:16.881Z",
   "students": [
     {
       "name": "Jaei",
       "grade": "8",
-      "xp": 735,
+      "xp": 745,
       "level": 8,
       "streak": 1,
       "badges": [
@@ -237,8 +237,8 @@
           "book": "The 39 Clues: Storm Warning by Linda Sue Park",
           "reading": "finished the book — a few chapters today",
           "tier": 3,
-          "xp": 40,
-          "hasRevision": false,
+          "xp": 50,
+          "hasRevision": true,
           "hasBonus": false
         }
       ],
