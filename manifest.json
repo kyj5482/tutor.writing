@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-23T01:44:16.881Z",
+  "generated": "2026-07-23T01:52:55.293Z",
   "students": [
     {
       "name": "Jaei",
@@ -239,7 +239,7 @@
           "tier": 3,
           "xp": 50,
           "hasRevision": true,
-          "hasBonus": false
+          "hasBonus": true
         }
       ],
       "reports": [
