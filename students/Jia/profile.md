@@ -7,7 +7,7 @@
 ## Game stats
 
 - **Level:** 7 — 🎯 Evidence Expert
-- **XP:** 625 (next level at 700)
+- **XP:** 665 (next level at 700 — 35 to go)
 - **Current streak:** 3 days (best: 4)
 - **Last entry:** 2026-07-24
 
@@ -22,23 +22,37 @@
 - 📚 Bookworm (earned 2026-07-20 — finished Order of the Phoenix, all 766 pages, and wrote its Book Review!)
 - 🗺️ Template Master (earned 2026-07-24 — used all 10 daily templates!)
 
+**Stamp cards:**
+- 🗺️ **Adventurer card COMPLETE** (2026-07-24) — Template Tourist · Template Master · Bookworm · Double Trouble → 🎟️ **+40 XP coupon** awarded 2026-07-25 weekly (card completed when Template Master landed on 07-24; coupon was missed in that session and paid out at the weekly).
+
+*In progress: ✍️ Wordsmith card 3/4 — Detail Detective ✅ · Revision Butterfly ✅ · Tier Climber ✅ · 💬 Quote Catcher ⏳ (3/5 entries) → +50 XP waiting. 🔥 Dedication card 1/4 — First Words ✅, the other three are streak badges.*
+
 ## Skill tiers
 
 | Skill | Tier | Notes |
 |-------|------|-------|
 | Structure (beginning–middle–end / paragraphs) | 2 | Promoted 2026-07-06 — clean First/Then/After that/In the end across 3 entries |
-| Evidence (details & quotes from the book) | 1 | Details are strong (🔍 Detail Detective); next step is a short direct quote — this week's focus |
+| Evidence (details & quotes from the book) | 1 | **2026-07-25: promotion pending — 2 of ~3 clean quotes.** Clean single-speaker quotes on 07-15 (Hermione, "Is that the examiner?") and 07-24 (Snape, "I can't break the Unbreakable Vow", with who-said-it-to-whom + "This shows…"); 07-22 was a near-miss (blended two speakers). **Promote as soon as one lands in a MAIN entry** — all quotes so far have been in the ACE or Golden Line |
 | Explanation (the "because" / "this shows") | 2 | Promoted 2026-07-13 weekly — own-words "since/because" adding new ideas across 4 straight entries |
-| Style (word choice, sentence variety, voice) | 1 | |
+| Style (word choice, sentence variety, voice) | 1 | **Started climbing 07-25 weekly — 2 of ~3 word-choice moves:** 07-22 zoomed into a repeated word ("The word 'important' repeats, which shows…"); 07-24 noticed *which name* a character uses reveals whose side he's on ("no one else says Dark Lord they all say you know who"). One more and check for promotion |
 
 ## Focus skill this week
 
-Catch a quote (Evidence) — use one short quote (3–5 exact words a character said, in quotation marks) as proof. Earns 💬 Quote Catcher after 5 entries → completes the ✍️ Wordsmith stamp card. **Progress: 3/5** (07-15 Hermione "Is that the examiner?"; 07-22 Golden Line — blended two speakers; 07-24 ACE — first clean SINGLE-speaker quote: Snape told Malfoy, "I can't break the Unbreakable Vow"). Two more to earn 💬 Quote Catcher.
+**Put the quote in the MAIN entry (Evidence)** — she has proved she can catch a clean quote, but *every* one so far has landed in the ACE bonus or a Golden Line; the main entries on 07-20, 07-23 and 07-24 had none. New target: **one short exact quote (3–5 words, in "quotation marks") inside the main paragraph.**
+
+Mini-example built from her own 07-23 prediction: *"they saw how Dumbledore asked Voldemort to give all the things back"* → *In the memory, Dumbledore told Voldemort to **"return them to their owners"** — which shows he saw right through him from the very first day.*
+
+Payoff: 💬 Quote Catcher at 5 entries (**progress 3/5** — 07-15, 07-22, 07-24) → completes the ✍️ Wordsmith card → 🎟️ +50 XP. Also unlocks the pending Evidence Tier 2 promotion.
 
 ## Watch list
 
-- [x] ✅ **CLEARED 2026-07-24 — Spell the tricky ones** (was: names/homophones like Gryffindor, professor, there/their). Went 0/3 → 3/3 with clean entries on 07-20, 07-23, and 07-24 (Snape/Malfoy/Death Eater/Unbreakable Vow all perfect in both the Quick Write and its ACE). 🎉 The read-aloud habit did it. Retiring this row — celebrate in the next weekly!
-- [ ] **Verb endings (-ed / -s)** — clean streak: **0/3** · e.g. "Have you ever wonder" → "wondered", "if no one believe you" → "believes", "Sirius Black die" → "died", "fighted" → "fought", "stoled" → "stole" · **read it aloud and listen for the ending sound.** · Added 2026-07-20 after the same slip appeared in 2 entries (07-16 rewrite, 07-20 review). · 2026-07-22: clean → 1/3. · **2026-07-23: slipped — "stoled"→"stole" in the prediction, and "ask"→"asked"/"show"→"shows" in the ACE (fixed the ACE ones herself on read-aloud). Reset to 0/3, but her ear is catching them fast.** (Possessive 's still worth watching: "Voldemort past".) · 2026-07-24: -ed/-s endings all correct, BUT subject-verb agreement slipped — "Snape and Malfoy IS a Death Eater" → "are." Holding at 0/3. Consider widening this item to "verb agreement" if is/are recurs.
+*(🎉 **Retired 2026-07-25 weekly — "Spell the tricky ones" ✅ CLEARED 3/3.** Clean on 07-20 (Gryffindor, Professor, Umbridge, Hogwarts, Sirius Black), 07-23 (Voldemort, Dumbledore) and 07-24 (Snape, Malfoy, Death Eater, Unbreakable Vow — main entry **and** ACE). The read-aloud-before-saving habit did it. Celebrated in the 07-25 weekly.)*
+
+- [ ] **Verb check — endings AND matching the doer** — clean streak: **0/3** · endings: "Have you ever wonder" → "wonder**ed**", "Sirius Black die" → "die**d**", "what he stoled" → "**stole**" · matching: "Snape and Malfoy **is** a Death Eater" → "**are** Death Eater**s**" · **Read it aloud, and at each verb ask: who is doing this — one, or more than one?**
+  - Added 2026-07-20 (same -ed/-s slip in 07-16 and 07-20). **Widened 2026-07-25 weekly** from "verb endings (-ed/-s)" to include subject–verb matching, after 07-24 showed it's one skill wearing two hats.
+  - History: 07-20 slipped (wonder/believe/die) · 07-22 clean → 1/3 · 07-23 slipped ("stoled") → reset 0/3 · 07-24 endings clean but "Snape and Malfoy is" → held 0/3.
+  - **What's working:** her ear is fast — she self-fixed "ask"→"asked" and "show"→"shows" in the 07-23 ACE the moment she read it aloud. Same habit that just cleared the spelling row; it only needs to happen *before* saving.
+  - *(Not yet an item, but watching: missing possessive 's — "Voldemort past", "his parents past", both in 07-22. Only one session so far, so it waits.)*
 
 ## Session log
 
@@ -64,3 +78,4 @@ Catch a quote (Evidence) — use one short quote (3–5 exact words a character 
 | 2026-07-22 | 07 Golden Line | 2 | 40 | Stretch (single-word zoom-in) + ACE | To p.215, Half-Blood Prince — Harry learning Voldemort's past. First-ever use of the Golden Line template (8/10 templates used — still to try: 02 Prediction, 09 Quick Write). Full Tier-2 (quote+context+craft+wonder) + Tier-3 word zoom-in. 💬 Quote 2/5 (blended two speakers — coach exact single-speaker quote). Verb endings clean → 1/3. Spelling held at 1/3 ("pharphy"→prophecy, but names clean). Streak reset to 1. |
 | 2026-07-23 | 02 Prediction | 2 | 25 | ACE (declined stretch) | To p.270, Half-Blood Prince — memories of Voldemort's/Dumbledore's past. First-ever Prediction template (9/10 — only 09 Quick Write left). Specific prediction + 2 real clues + confidence. No quote (still 2/5). ✅ Spelling clean → **2/3** (one more clears it!). Verb endings slipped ("stoled"; "ask"/"show" in ACE, self-fixed on read-aloud) → reset 0/3. Day-2 streak. |
 | 2026-07-24 | 09 Quick Write 3-2-1 | 2 | 35 | ACE (declined stretch) | A few chapters — Harry suspects Snape & Malfoy are Death Eaters. Last unused template → 🗺️ **Template Master (all 10)!** Sharp word work ("Dark Lord" vs "You-Know-Who"). 💬 **First clean single-speaker quote** in ACE (Snape "I can't break the Unbreakable Vow") → Quote 3/5. ✅ **Spelling item CLEARED → 3/3!** Verb endings held 0/3 ("Snape and Malfoy is"→are; -ed/-s were fine). 🆙 **Level 7 Evidence Expert!** Day-3 streak. |
+| 2026-07-25 | Weekly review | — | +40 | — | Weekly report (week ending 07-25): 4 entries (07-20, 07-22, 07-23, 07-24), 155 XP, 📚 Bookworm + 🗺️ Template Master + 🆙 Level 7. No +15 (only 4 entries, not 5+). 🎟️ **Adventurer stamp card COMPLETE → +40 XP coupon** — card was finished by Template Master on 07-24 but the coupon was missed that session; paid out here (XP 625 → 665). ✅ **Watch item "Spell the tricky ones" CLEARED 3/3 and retired** 🎉. Verb item **widened** to "endings AND matching the doer" (holds 0/3). Tiers: Evidence promotion **pending** (2 of ~3 clean quotes — needs one in a MAIN entry); Style climbing (2 word-choice moves). New focus: **put the quote in the main entry**. |
