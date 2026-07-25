@@ -8,8 +8,8 @@ student who has journal entries this week).
 
 Follow the **Weekly feedback** section of CLAUDE.md:
 
-1. Read the student's `profile.md` and ALL journal entries from the last 7 days in
-   `students/<name>/journal/`.
+1. Read the student's `profile.md`, their `tutor.md`, and ALL journal entries from the
+   last 7 days in `students/<name>/journal/`.
 2. Write `students/<name>/feedback/<today's date>-weekly.md` with the 7 required
    sections: Week in numbers · Growth I noticed (quote their early-week vs.
    late-week sentences) · Focus for next week (ONE growth skill + mini-example) · Tier
@@ -18,6 +18,11 @@ Follow the **Weekly feedback** section of CLAUDE.md:
 3. Apply updates to `profile.md`: new focus skill, any tier promotions, the **Watch
    list** (advance/retire/add items), and the +15 XP bonus if they wrote 5+ entries
    this week.
-4. Share the report in chat — the growth section and the Korean parent note are the
+4. **If a Watch item has been stuck at 0/3 for three sessions, stop reporting it** —
+   schedule the mini-lesson from `lessons/` and say so in the report.
+5. Update `students/<name>/tutor.md` with anything new you learned about *how they
+   work*, and re-curate `library/reading-ladder.md` if they finished or dropped a book.
+6. Share the report in chat — the growth section and the Korean parent note are the
    highlights.
-5. Commit: `feedback: <name> weekly <date>`, then push with `git push origin HEAD:main`.
+7. Run `node scripts/build-manifest.mjs`, then commit: `feedback: <name> weekly <date>`,
+   and push with `git push origin HEAD:main`.

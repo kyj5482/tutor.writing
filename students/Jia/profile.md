@@ -46,6 +46,17 @@ Payoff: 💬 Quote Catcher at 5 entries (**progress 3/5** — 07-15, 07-22, 07-2
 
 ## Watch list
 
+> 📌 **NEXT SESSION: run a mini-lesson.** This item has been at 0/3 for three sessions
+> (07-20, 07-23, 07-24) and the slips go back to her very first entry (06-09). Per
+> CLAUDE.md → "When a mistake won't go away", teach the rule instead of correcting again.
+> **Two different problems hide in this one row — pick by what slipped:**
+> - *matching the doer* ("Snape and Malfoy **is**") → **`lessons/compound-subjects.md`**.
+>   ⚠️ Reading aloud will **not** catch this one — it sounds fine. Same lesson Jaei needs.
+> - *endings (-ed / -s)* → **`lessons/verb-endings.md`**. Her ear fixes these instantly;
+>   the trick is the 🔊 verb-only read, run *before* saving.
+>
+> Never both in one session. See `tutor.md` — she learns through **sound**, not sight.
+
 *(🎉 **Retired 2026-07-25 weekly — "Spell the tricky ones" ✅ CLEARED 3/3.** Clean on 07-20 (Gryffindor, Professor, Umbridge, Hogwarts, Sirius Black), 07-23 (Voldemort, Dumbledore) and 07-24 (Snape, Malfoy, Death Eater, Unbreakable Vow — main entry **and** ACE). The read-aloud-before-saving habit did it. Celebrated in the 07-25 weekly.)*
 
 - [ ] **Verb check — endings AND matching the doer** — clean streak: **0/3** · endings: "Have you ever wonder" → "wonder**ed**", "Sirius Black die" → "die**d**", "what he stoled" → "**stole**" · matching: "Snape and Malfoy **is** a Death Eater" → "**are** Death Eater**s**" · **Read it aloud, and at each verb ask: who is doing this — one, or more than one?**

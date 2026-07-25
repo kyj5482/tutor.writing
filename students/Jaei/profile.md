@@ -42,6 +42,13 @@
 
 ## Watch list
 
+> 📌 **NEXT SESSION: run the mini-lesson.** This item has sat at 0/3 for three straight
+> sessions (07-21, 07-23, 07-25), and the same error has now been corrected **seven times
+> since 06-23** without sticking. Per CLAUDE.md → "When a mistake won't go away": stop
+> correcting it and teach the rule once → **`lessons/compound-subjects.md`** (3 min, +5 XP).
+> Diagnosis: he matches the verb to the **nearest noun**, not the whole subject. See
+> `tutor.md`.
+
 - [ ] **"and" between two doers → plural verb** — clean streak: **0/3** · e.g. "Amy and Dan **was** watching" → "**were**", "the plot and the action **is**" → "**are**", "trust and loyalty **is**" → "**are**" · **The rule is narrow enough to beat by eye: spot the word "and" between two doers, make the verb plural.** (Umbrella: general verb check — tense & endings — still applies, e.g. 07-21 "to betray… and joined" → "and join".)
   - **Sharpened 2026-07-25 weekly.** Same exact shape three times: 07-14, 07-23, 07-25. Previously logged as broad "verb agreement & tense" — narrowed to the one pattern that keeps recurring.
   - **What's working:** he fixes every one instantly once he looks, and self-caught "become"→"became" (07-23 ACE) and "make"→"makes" (07-21 ACE) on his own read-aloud. The skill is there; the *timing* is one step behind.
