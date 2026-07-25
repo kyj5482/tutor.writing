@@ -6,10 +6,10 @@
 
 ## Game stats
 
-- **Level:** 6 — ✨ Style Seeker
-- **XP:** 525 (next level at 600)
-- **Current streak:** 1 day (best: 4)
-- **Last entry:** 2026-07-20
+- **Level:** 7 — 🎯 Evidence Expert
+- **XP:** 625 (next level at 700)
+- **Current streak:** 3 days (best: 4)
+- **Last entry:** 2026-07-24
 
 ## Badges
 
@@ -20,6 +20,7 @@
 - 🦋 Revision Butterfly (earned 2026-07-10 — completed 5 revisions/stretch challenges!)
 - 🤝 Double Trouble (earned 2026-07-15 — both students wrote the same day, with Jaei!)
 - 📚 Bookworm (earned 2026-07-20 — finished Order of the Phoenix, all 766 pages, and wrote its Book Review!)
+- 🗺️ Template Master (earned 2026-07-24 — used all 10 daily templates!)
 
 ## Skill tiers
 
@@ -32,12 +33,12 @@
 
 ## Focus skill this week
 
-Catch a quote (Evidence) — use one short quote (3–5 exact words a character said, in quotation marks) as proof. Earns 💬 Quote Catcher after 5 entries → completes the ✍️ Wordsmith stamp card. **Progress: 1/5** (first quote caught 2026-07-15 — Hermione, "Is that the examiner?").
+Catch a quote (Evidence) — use one short quote (3–5 exact words a character said, in quotation marks) as proof. Earns 💬 Quote Catcher after 5 entries → completes the ✍️ Wordsmith stamp card. **Progress: 3/5** (07-15 Hermione "Is that the examiner?"; 07-22 Golden Line — blended two speakers; 07-24 ACE — first clean SINGLE-speaker quote: Snape told Malfoy, "I can't break the Unbreakable Vow"). Two more to earn 💬 Quote Catcher.
 
 ## Watch list
 
-- [ ] **Spell the tricky ones (especially in the ACE answer)** — clean streak: **1/3** 🎉 · e.g. "Griffyndor" → "Gryffindor", "proffesor" → "professor", "their" → "there" · **read the ACE answer aloud before saving — that's where these hide.** · 2026-07-14: "Jane"→"James" slipped in the ACE, self-caught on read-aloud (0/3). · 2026-07-15: "Hermonian"→"Hermione", "examinator"→"examiner" in the main entry, fixed when prompted (0/3). · 2026-07-16: "Nevile"→"Neville" + fast-draft misspellings and "becasue" in the ACE, all fixed when prompted (0/3). · **2026-07-20: FIRST CLEAN ENTRY — "Gryffindor" and "Professor" both spelled right on the first try, plus Dumbledore/Umbridge/Hogwarts/Voldemort/Sirius. → 1/3!**
-- [ ] **Verb endings (-ed / -s)** — clean streak: 0/3 · e.g. "Have you ever wonder" → "wondered", "if no one believe you" → "believes", "Sirius Black die" → "died", "fighted" → "fought" · **read it aloud and listen for the ending sound.** · Added 2026-07-20 after the same slip appeared in 2 entries (07-16 rewrite, 07-20 review).
+- [x] ✅ **CLEARED 2026-07-24 — Spell the tricky ones** (was: names/homophones like Gryffindor, professor, there/their). Went 0/3 → 3/3 with clean entries on 07-20, 07-23, and 07-24 (Snape/Malfoy/Death Eater/Unbreakable Vow all perfect in both the Quick Write and its ACE). 🎉 The read-aloud habit did it. Retiring this row — celebrate in the next weekly!
+- [ ] **Verb endings (-ed / -s)** — clean streak: **0/3** · e.g. "Have you ever wonder" → "wondered", "if no one believe you" → "believes", "Sirius Black die" → "died", "fighted" → "fought", "stoled" → "stole" · **read it aloud and listen for the ending sound.** · Added 2026-07-20 after the same slip appeared in 2 entries (07-16 rewrite, 07-20 review). · 2026-07-22: clean → 1/3. · **2026-07-23: slipped — "stoled"→"stole" in the prediction, and "ask"→"asked"/"show"→"shows" in the ACE (fixed the ACE ones herself on read-aloud). Reset to 0/3, but her ear is catching them fast.** (Possessive 's still worth watching: "Voldemort past".) · 2026-07-24: -ed/-s endings all correct, BUT subject-verb agreement slipped — "Snape and Malfoy IS a Death Eater" → "are." Holding at 0/3. Consider widening this item to "verb agreement" if is/are recurs.
 
 ## Session log
 
@@ -60,3 +61,6 @@ Catch a quote (Evidence) — use one short quote (3–5 exact words a character 
 | 2026-07-15 | 08 Connection | 2 | 45 | Stretch (real-life takeaway) + spelling fix + ACE | To p.661, O.W.L. exams. 💬 **First quote caught** (Hermione, "Is that the examiner?") → Quote Catcher 1/5. Connected exam nerves to own math test. ACE: even Hermione scared "because it affects her future." Fixed all spelling slips when prompted (Hermonian→Hermione) + caught "THis"→"This" on ACE read-aloud. 🆙 Level 5 Page Turner! Day-3 streak (ties best). |
 | 2026-07-16 | 06 Rewrite the Scene | 2 | 35 | Revised (spelling fix) + ACE | To p.740, Ministry of Magic battle (climax). Tier-2 scene: "What if Voldemort fought Harry" — 2 lines of dialogue, in-character villain line, cliffhanger. ACE paraphrased (no quote, still 1/5). Fixed all spelling slips on read-aloud (Nevile→Neville, becasue→because). 🔥 **Day-4 streak — NEW personal best!** |
 | 2026-07-20 | 10 Book Review | 2 | 55 | Stretch (argued rating) + ACE | 🎉 **FINISHED Order of the Phoenix (766 pp)** + started Half-Blood Prince (~100 pp). Great hook ("what if no one believe you?"), honest strength/weakness, read-alike. 📚 **Bookworm badge** + 🆙 **Level 6 Style Seeker!** ✅ Watch list: first clean spelling entry → 1/3. New watch item added: verb endings. Kept a spoiler (Sirius) after being offered the choice. Streak reset to 1 after 3 days off. |
+| 2026-07-22 | 07 Golden Line | 2 | 40 | Stretch (single-word zoom-in) + ACE | To p.215, Half-Blood Prince — Harry learning Voldemort's past. First-ever use of the Golden Line template (8/10 templates used — still to try: 02 Prediction, 09 Quick Write). Full Tier-2 (quote+context+craft+wonder) + Tier-3 word zoom-in. 💬 Quote 2/5 (blended two speakers — coach exact single-speaker quote). Verb endings clean → 1/3. Spelling held at 1/3 ("pharphy"→prophecy, but names clean). Streak reset to 1. |
+| 2026-07-23 | 02 Prediction | 2 | 25 | ACE (declined stretch) | To p.270, Half-Blood Prince — memories of Voldemort's/Dumbledore's past. First-ever Prediction template (9/10 — only 09 Quick Write left). Specific prediction + 2 real clues + confidence. No quote (still 2/5). ✅ Spelling clean → **2/3** (one more clears it!). Verb endings slipped ("stoled"; "ask"/"show" in ACE, self-fixed on read-aloud) → reset 0/3. Day-2 streak. |
+| 2026-07-24 | 09 Quick Write 3-2-1 | 2 | 35 | ACE (declined stretch) | A few chapters — Harry suspects Snape & Malfoy are Death Eaters. Last unused template → 🗺️ **Template Master (all 10)!** Sharp word work ("Dark Lord" vs "You-Know-Who"). 💬 **First clean single-speaker quote** in ACE (Snape "I can't break the Unbreakable Vow") → Quote 3/5. ✅ **Spelling item CLEARED → 3/3!** Verb endings held 0/3 ("Snape and Malfoy is"→are; -ed/-s were fine). 🆙 **Level 7 Evidence Expert!** Day-3 streak. |

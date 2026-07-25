@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-23T01:57:00.486Z",
+  "generated": "2026-07-25T05:29:29.620Z",
   "students": [
     {
       "name": "Jaei",
@@ -258,9 +258,9 @@
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 525,
-      "level": 6,
-      "streak": 1,
+      "xp": 625,
+      "level": 7,
+      "streak": 3,
       "badges": [
         {
           "name": "First Words",
@@ -296,6 +296,11 @@
           "name": "Bookworm",
           "emoji": "📚",
           "date": "2026-07-20"
+        },
+        {
+          "name": "Template Master",
+          "emoji": "🗺️",
+          "date": "2026-07-24"
         }
       ],
       "entries": [
@@ -462,6 +467,39 @@
           "tier": 2,
           "xp": 55,
           "hasRevision": true,
+          "hasBonus": true
+        },
+        {
+          "file": "students/Jia/journal/2026-07-22-07-golden-line.md",
+          "date": "2026-07-22",
+          "slug": "07-golden-line",
+          "book": "Harry Potter and the Half-Blood Prince",
+          "reading": "to p.215, ~115 pages",
+          "tier": 2,
+          "xp": 40,
+          "hasRevision": true,
+          "hasBonus": true
+        },
+        {
+          "file": "students/Jia/journal/2026-07-23-02-prediction.md",
+          "date": "2026-07-23",
+          "slug": "02-prediction",
+          "book": "Harry Potter and the Half-Blood Prince",
+          "reading": "to p.270, ~55 pages",
+          "tier": 2,
+          "xp": 25,
+          "hasRevision": false,
+          "hasBonus": true
+        },
+        {
+          "file": "students/Jia/journal/2026-07-24-09-quick-write-321.md",
+          "date": "2026-07-24",
+          "slug": "09-quick-write-321",
+          "book": "Harry Potter and the Half-Blood Prince",
+          "reading": "a few chapters",
+          "tier": 2,
+          "xp": 35,
+          "hasRevision": false,
           "hasBonus": true
         }
       ],
