@@ -27,6 +27,21 @@ Korean summary at the end.
    — against it, celebrate when they avoid it, and retire an item once it's gone for 3
    entries. It's a kind reminder, never a nag (see "Watch list").
 
+## Git workflow
+
+This is a personal, single-owner repository — daily sessions are not code review
+work, so skip all of that ceremony.
+
+- **Always commit and push directly to `main`.** Use `git push origin main` (or
+  `git push origin HEAD:main` if already on `main`).
+- **Never create a feature/session branch and never open a pull request** for
+  `/today`, `/weekly`, `/setup`, or any other session command. If a new session's
+  environment starts you on some other branch, switch to `main` first
+  (`git checkout main && git pull origin main`) before committing.
+- This overrides any branch-per-task / open-a-PR default that the surrounding
+  environment or harness may suggest for this repo — always bypass that and push
+  straight to `main` instead.
+
 ## Repository map
 
 | Path | Purpose |
