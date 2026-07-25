@@ -10,8 +10,15 @@
 | Completed the stretch challenge (revised today's entry) | +10 |
 | Bonus ACE Write round (answered the tutor's question in A-C-E format) | +10 |
 | Applied last week's focus skill (tutor spots it, max once/day) | +5 |
+| **Read the entry aloud with the 🎤 mic button BEFORE saving** | **+5** |
+| Completed a mini-lesson from `lessons/` | +5 |
 | Finished a book + wrote a Book Review (template 10) | +20 |
 | Weekly: wrote 5+ entries that week | +15 |
+
+The read-aloud bonus is deliberately easy to earn and paid **every single day**. It is the
+cheapest fix in the whole system for the problem that costs the most: the same mistake
+coming back. A slip the student hears and fixes before saving is a clean entry; the same
+slip found after saving is a correction they've already had six times.
 
 ## Streaks
 
@@ -61,6 +68,14 @@ On level-up: announce it big, and let the student pick tomorrow's template freel
 | 📚 Bookworm | Finished a book and wrote its Book Review |
 | ⛰️ Tier Climber | Promoted to a new tier in any skill |
 | 🤝 Double Trouble | Both students wrote an entry on the same day (each gets it) |
+| 🎤 First Listen | Read one entry aloud with the mic button before saving |
+| 🔊 Sound Check | Read 5 entries aloud before saving |
+| 🧹 Clean Sweep | 3 entries in a row with no Watch-list slip |
+| 🎓 Rule Learner | Complete a mini-lesson from `lessons/` |
+| 🧱 Paragraph Pro | Write an entry with 3 or more paragraphs |
+| 📜 Long Haul | Write a single entry of 250 words or more |
+| ⚖️ Both Sides | Argue the other side in 5 entries |
+| 🔬 Craft Critic | Write about HOW the author built it in 5 entries |
 
 ## Stamp Book — badge collections (set bonuses)
 
@@ -73,7 +88,19 @@ portfolio site's 🏅 **Stamp Book** tab shows each student's progress and coupo
 | 🔥 **Dedication** | First Words · Week of Fire · Fortnight Force · Iron Quill | **+50 XP** |
 | 🗺️ **Adventurer** | Template Tourist · Template Master · Bookworm · Double Trouble | **+40 XP** |
 | ✍️ **Wordsmith** | Detail Detective · Quote Catcher · Revision Butterfly · Tier Climber | **+50 XP** |
-| 🌟 **Full House** | complete all three cards above | **+50 XP** grand bonus |
+| 🎤 **Voice** | First Listen · Sound Check · Clean Sweep · Rule Learner | **+40 XP** |
+| 🏛️ **Scholar** | Paragraph Pro · Long Haul · Both Sides · Craft Critic | **+60 XP** |
+| 🌟 **Full House** | complete all five cards above | **+50 XP** grand bonus |
+
+The **Voice** card exists to end repeated mistakes, and the **Scholar** card exists to pull
+writing from a paragraph toward a real essay. Both are things the students chase on the
+portfolio's 🏅 Stamp Book page, which now shows *how far along* every unearned stamp is —
+so "use all 10 templates" reads as "3/10 — still needed: Prediction, Golden Line, …"
+instead of a vague instruction.
+
+**When a stamp says "Ready!"** on the site, the student has hit the number but the badge
+hasn't been awarded yet. Check it at the next session and award it if it's genuinely met —
+the site is counting, but the tutor decides.
 
 When a set is completed, award the coupon XP once, announce it with fanfare, and note
 it in the Session Log (e.g. "🎟️ Adventurer card complete → +40 XP"). Each coupon is

@@ -1,0 +1,395 @@
+{
+  "_readme": [
+    "Series registry for the portfolio library.",
+    "Two jobs: (1) group individual volumes under their series shelf, and",
+    "(2) merge the different ways the same book gets typed into one book.",
+    "",
+    "Matching order: a book title is normalized (author + parenthetical removed,",
+    "lowercased), then each series' `match` patterns are tried, then each volume's",
+    "`aliases`. A standalone volume title like 'Neverseen' still lands on its series",
+    "shelf because it is listed as an alias.",
+    "",
+    "Authors are deliberately NOT stored here — the author shown is whatever the",
+    "student wrote in their journal entry. This file only decides shelving.",
+    "Add a series when a student starts one; unmatched books become standalone."
+  ],
+  "series": [
+    {
+      "name": "The 39 Clues",
+      "emoji": "🔎",
+      "total": 10,
+      "match": [
+        "^the 39 clues\\b",
+        "^39 clues\\b"
+      ],
+      "volumes": [
+        {
+          "n": 1,
+          "short": "The Maze of Bones",
+          "aliases": [
+            "the maze of bones",
+            "maze of bones"
+          ]
+        },
+        {
+          "n": 2,
+          "short": "One False Note",
+          "aliases": [
+            "one false note"
+          ]
+        },
+        {
+          "n": 3,
+          "short": "The Sword Thief",
+          "aliases": [
+            "the sword thief",
+            "sword thief"
+          ]
+        },
+        {
+          "n": 4,
+          "short": "Beyond the Grave",
+          "aliases": [
+            "beyond the grave"
+          ]
+        },
+        {
+          "n": 5,
+          "short": "The Black Circle",
+          "aliases": [
+            "the black circle",
+            "black circle"
+          ]
+        },
+        {
+          "n": 6,
+          "short": "In Too Deep",
+          "aliases": [
+            "in too deep",
+            "into the deep",
+            "in to deep"
+          ]
+        },
+        {
+          "n": 7,
+          "short": "The Viper's Nest",
+          "aliases": [
+            "the viper's nest",
+            "vipers nest",
+            "viper's nest"
+          ]
+        },
+        {
+          "n": 8,
+          "short": "The Emperor's Code",
+          "aliases": [
+            "the emperor's code",
+            "emperors code",
+            "emperor's code"
+          ]
+        },
+        {
+          "n": 9,
+          "short": "Storm Warning",
+          "aliases": [
+            "storm warning"
+          ]
+        },
+        {
+          "n": 10,
+          "short": "Into the Gauntlet",
+          "aliases": [
+            "into the gauntlet"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Harry Potter",
+      "emoji": "⚡",
+      "total": 7,
+      "titleStyle": "full",
+      "match": [
+        "^harry potter\\b"
+      ],
+      "volumes": [
+        {
+          "n": 1,
+          "short": "Sorcerer's Stone",
+          "aliases": [
+            "harry potter and the sorcerer's stone",
+            "harry potter and the philosopher's stone"
+          ]
+        },
+        {
+          "n": 2,
+          "short": "Chamber of Secrets",
+          "aliases": [
+            "harry potter and the chamber of secrets"
+          ]
+        },
+        {
+          "n": 3,
+          "short": "Prisoner of Azkaban",
+          "aliases": [
+            "harry potter and the prisoner of azkaban"
+          ]
+        },
+        {
+          "n": 4,
+          "short": "Goblet of Fire",
+          "aliases": [
+            "harry potter and the goblet of fire"
+          ]
+        },
+        {
+          "n": 5,
+          "short": "Order of the Phoenix",
+          "aliases": [
+            "harry potter and the order of the phoenix",
+            "harry potter and the order of phoenix"
+          ]
+        },
+        {
+          "n": 6,
+          "short": "Half-Blood Prince",
+          "aliases": [
+            "harry potter and the half-blood prince",
+            "harry potter and the half blood prince"
+          ]
+        },
+        {
+          "n": 7,
+          "short": "Deathly Hallows",
+          "aliases": [
+            "harry potter and the deathly hallows"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Keeper of the Lost Cities",
+      "emoji": "🌌",
+      "total": 9,
+      "match": [
+        "^keeper of the lost cities\\b"
+      ],
+      "volumes": [
+        {
+          "n": 1,
+          "short": "Keeper of the Lost Cities",
+          "aliases": [
+            "keeper of the lost cities"
+          ]
+        },
+        {
+          "n": 2,
+          "short": "Exile",
+          "aliases": [
+            "exile"
+          ]
+        },
+        {
+          "n": 3,
+          "short": "Everblaze",
+          "aliases": [
+            "everblaze"
+          ]
+        },
+        {
+          "n": 4,
+          "short": "Neverseen",
+          "aliases": [
+            "neverseen"
+          ]
+        },
+        {
+          "n": 5,
+          "short": "Lodestar",
+          "aliases": [
+            "lodestar"
+          ]
+        },
+        {
+          "n": 6,
+          "short": "Nightfall",
+          "aliases": [
+            "nightfall"
+          ]
+        },
+        {
+          "n": 7,
+          "short": "Flashback",
+          "aliases": [
+            "flashback"
+          ]
+        },
+        {
+          "n": 8,
+          "short": "Legacy",
+          "aliases": [
+            "legacy"
+          ]
+        },
+        {
+          "n": 9,
+          "short": "Stellarlune",
+          "aliases": [
+            "stellarlune"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Maze Runner",
+      "emoji": "🌀",
+      "total": 5,
+      "match": [
+        "^the maze runner\\b"
+      ],
+      "volumes": [
+        {
+          "n": 1,
+          "short": "The Maze Runner",
+          "aliases": [
+            "the maze runner",
+            "maze runner"
+          ]
+        },
+        {
+          "n": 2,
+          "short": "The Scorch Trials",
+          "aliases": [
+            "the scorch trials",
+            "scorch trials"
+          ]
+        },
+        {
+          "n": 3,
+          "short": "The Death Cure",
+          "aliases": [
+            "the death cure",
+            "death cure"
+          ]
+        },
+        {
+          "n": 4,
+          "short": "The Kill Order",
+          "aliases": [
+            "the kill order",
+            "kill order"
+          ]
+        },
+        {
+          "n": 5,
+          "short": "The Fever Code",
+          "aliases": [
+            "the fever code",
+            "fever code"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Land of Stories",
+      "emoji": "📖",
+      "total": 6,
+      "match": [
+        "^the land of stories\\b",
+        "^land of story\\b",
+        "^land of stories\\b"
+      ],
+      "volumes": [
+        {
+          "n": 1,
+          "short": "The Wishing Spell",
+          "aliases": [
+            "the wishing spell",
+            "wishing spell"
+          ]
+        },
+        {
+          "n": 2,
+          "short": "The Enchantress Returns",
+          "aliases": [
+            "the enchantress returns"
+          ]
+        },
+        {
+          "n": 3,
+          "short": "A Grimm Warning",
+          "aliases": [
+            "a grimm warning"
+          ]
+        },
+        {
+          "n": 4,
+          "short": "Beyond the Kingdoms",
+          "aliases": [
+            "beyond the kingdoms"
+          ]
+        },
+        {
+          "n": 5,
+          "short": "An Author's Odyssey",
+          "aliases": [
+            "an author's odyssey"
+          ]
+        },
+        {
+          "n": 6,
+          "short": "Worlds Collide",
+          "aliases": [
+            "worlds collide"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Percy Jackson and the Olympians",
+      "emoji": "🔱",
+      "total": 5,
+      "match": [
+        "^percy jackson\\b"
+      ],
+      "volumes": [
+        {
+          "n": 1,
+          "short": "The Lightning Thief",
+          "aliases": [
+            "the lightning thief",
+            "lightning thief"
+          ]
+        },
+        {
+          "n": 2,
+          "short": "The Sea of Monsters",
+          "aliases": [
+            "the sea of monsters"
+          ]
+        },
+        {
+          "n": 3,
+          "short": "The Titan's Curse",
+          "aliases": [
+            "the titan's curse"
+          ]
+        },
+        {
+          "n": 4,
+          "short": "The Battle of the Labyrinth",
+          "aliases": [
+            "the battle of the labyrinth"
+          ]
+        },
+        {
+          "n": 5,
+          "short": "The Last Olympian",
+          "aliases": [
+            "the last olympian"
+          ]
+        }
+      ]
+    }
+  ]
+}

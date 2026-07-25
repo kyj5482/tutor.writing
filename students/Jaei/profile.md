@@ -40,6 +40,16 @@
 
 **Let them talk (Style)** — when a character says something important, give them a real spoken line in quotation marks instead of reporting it. 07-25 reported the rival team's threat ("They told them that they knew what they were doing and should hand them over the lead") — Tier 3 wants us to *hear* it: *"We know exactly what you found," the tall one said. "Hand it over."* He already proved he can do this (07-08 Dan/Amy dialogue). This is the last big move standing between Style and Tier 3. Aim for **one spoken line per entry**.
 
+## Writing goal
+
+- **Aiming for:** _(not chosen yet — let him pick it himself)_
+- **Where he is now:** 🔍 **Evidence Writer** (ladder stage 3 of 7), and **3 of 4** into
+  🏛️ Essay Writer. Evidence Tier 3 ✅ · 5 Tier-3 entries ✅ · a 4-paragraph entry ✅.
+- **The one thing left for Essay Writer:** a full essay — **3+ paragraphs AND 200+ words**
+  in one entry. His longest so far is 181 words. He is genuinely one good session away.
+- **Next session:** open the 🪜 My Ladder page, show him he's one step off, and ask if he
+  wants Essay Writer as his goal. Don't assign it — he picks. If he says yes, set the "Aiming for" line to `essay`.
+
 ## Watch list
 
 > 📌 **NEXT SESSION: run the mini-lesson.** This item has sat at 0/3 for three straight

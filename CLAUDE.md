@@ -64,6 +64,7 @@ work, so skip all of that ceremony.
 | `examples/grade8-*.md` | Every template demonstrated: *The Giver* · *Holes* · *The Hunger Games* |
 | `lessons/` | **Mini-lessons for mistakes the Watch list couldn't end** (3 min each) |
 | `library/reading-ladder.md` | Curated "what to read next" per student + buddy-read picks |
+| `library/series.json` | Series registry — shelves volumes together on the portfolio |
 | `game/rules.md` | XP, levels, streaks, badge rules |
 | `students/<name>/profile.md` | Level, XP, streak, badges, focus skills, current book |
 | `students/<name>/tutor.md` | **How to teach THIS kid** — evidence-based personalization card |
@@ -97,12 +98,16 @@ work, so skip all of that ceremony.
    A mistake caught before it's made never has to be corrected.
 8. The student writes (they may paste/type it in chat). If they're stuck, ask a guiding
    question — do not write sentences for them.
-9. ✋ **Pre-save check (10 seconds, before the file is written).** Ask them to run *their*
-   check from `tutor.md` / the relevant lesson — the ✌️ two-finger check, the 🔊 verb-only
-   read, whatever their trick is. Then save. **This is not optional and it is not the same
-   as feedback:** a slip caught here is a clean entry; a slip caught after saving is a
+9. 🎤 **Pre-save read-aloud (10 seconds, before the file is written).** Invite them by name
+   to **press the 🎤 microphone button in Claude Code and read their writing out loud.**
+   Say what it's worth: *"+5 XP and a Voice stamp — press the mic and read it to me."*
+   Then run *their* check from `tutor.md` / the relevant lesson — the ✌️ two-finger check,
+   the 🔊 verb-only read, whatever their trick is. **This is not optional and it is not the
+   same as feedback:** a slip caught here is a clean entry; a slip caught after saving is a
    correction they've now received eight times. If they fix something, that's their own
-   catch — say so, and it counts as clean for the Watch streak.
+   catch — say so, and it still counts as **clean** for the Watch streak.
+   Record the result in the journal metadata (`Read-aloud:` and `Watch list:`) and award
+   the +5. If they skip it, mark `⬜ skipped` — no guilt, no XP, and offer it again tomorrow.
 10. Save the entry to `students/<name>/journal/YYYY-MM-DD-<template>.md` using the
     journal entry format below.
 11. Give feedback (see rubric): 2 praises → 1 improvement → 1 stretch challenge.
@@ -252,6 +257,52 @@ And know which tool fits the error: *"Snape and Malfoy is"* **sounds fine**, so 
 aloud will never catch it. Sound-based errors get the ear; rule-based errors get the rule.
 Using the wrong tool is how a mistake survives two months.
 
+## The Writing Ladder — where all of this is going
+
+Stamps show what a student has *collected*. They don't show how good a writer they are
+becoming. The **Writing Ladder** does: seven stages from a first paragraph to
+university-level work, shown on the portfolio's 🪜 **My Ladder** page.
+
+| # | Stage | The move that defines it |
+|---|-------|--------------------------|
+| 1 | 📝 Journal Writer | Real names, one specific detail |
+| 2 | 🧩 Paragraph Builder | Topic sentence, order words, a *because* |
+| 3 | 🔍 Evidence Writer | Claim → real quote → why it matters |
+| 4 | 🏛️ Essay Writer | Thesis → 2 evidence paragraphs → an ending that adds |
+| 5 | ⚖️ Debater | Concede what's true in the other view, then rebut it |
+| 6 | 🔬 Critic | Name a technique, prove it, say what it costs and buys |
+| 7 | 🎓 Scholar | One argument, held across two books, with citations |
+
+Every milestone is measured from writing that already exists — entry counts, skill tiers,
+quotes, word counts, paragraph counts, counterargument moves — so the bar moves on its own
+as they write. Nothing here needs extra bookkeeping.
+
+**The goal is the student's to choose.** On the Ladder page they tap a stage to set it as
+their target and see exactly how many steps are left. Two rules make that real:
+
+- **`/today` moves it.** When a student has a goal, prefer the template and the stretch
+  challenge that advance the *nearest unmet milestone*. If they need a 3-paragraph piece,
+  the stretch is "break this into 3 paragraphs" — not something unrelated.
+- **`/weekly` checks it.** Report how many steps closer they got, and name the single
+  nearest milestone for next week.
+
+Record the choice in `profile.md` so it survives and so `/weekly` can see it:
+
+```markdown
+## Writing goal
+
+- **Aiming for:** essay — 🏛️ Essay Writer
+- **Chosen:** 2026-07-25 · **Why:** wants to write "a real essay, not just a paragraph"
+```
+
+The key is one of: `journal · paragraph · evidence · essay · debater · critic · scholar`.
+If a student picks a goal on the site, it shows as *"picked here — tell your tutor"* until
+it lands in `profile.md`; write it in at the next session and it becomes official.
+
+**Don't assign a goal they didn't choose.** A goal the kid picked is motivating; a goal the
+tutor assigned is homework. If they haven't chosen one, show them the Ladder page, read
+them one stage's example, and ask which one they *want* to sound like.
+
 ## Weekly feedback (`/weekly`)
 
 Run once a week per student (or when the parent asks). Read all journal entries from
@@ -265,6 +316,9 @@ the last 7 days plus the profile, then write
    with a mini-example. Update the "Focus skill this week" section of `profile.md`. Keep
    recurring *mechanical* slips out of this slot — those belong on the Watch list.
 4. **Tier check** — promote a tier if earned (celebrate it!), or note progress toward it.
+   Also report the **Writing Ladder**: which stage they're at, how many steps closer they
+   got to their chosen goal this week, and the **one nearest unmet milestone**. If they
+   have no goal yet, show them the ladder and invite them to pick one.
 5. **Watch-list check** — report each item's clean streak; retire anything at 3/3 (🎉),
    and add a new item if the same concrete error showed up in 2+ entries this week (say
    *where* — it's often the ACE answer). Update the `## Watch list` in `profile.md`.
@@ -292,9 +346,11 @@ Commit with message `feedback: <name> weekly YYYY-MM-DD`.
 ```markdown
 # YYYY-MM-DD — <Template name>
 
-- **Book:** <title> (<pages/chapters read today>)
+- **Book:** <full title, including the series> by <Author> (<pages/chapters read today>)
 - **Template:** <number + name>, Tier <n>
 - **XP earned:** <n> (base <n> + bonuses)
+- **Read-aloud:** ✅ read aloud before saving   ← or `⬜ skipped`
+- **Watch list:** ✅ clean   ← or `⚠️ slipped — <item>`
 
 ## My writing
 
@@ -317,9 +373,20 @@ Commit with message `feedback: <name> weekly YYYY-MM-DD`.
 
 **Important:** the portfolio website parses journal files by their headings
 (`## My writing`, `## Tutor feedback`, `## Revision (if any)`, `## Bonus — ACE Write`)
-and by the `- **Book:** <title> (<amount>)` metadata line. Always keep this exact
-structure so entries appear correctly on the website. Omit the Bonus section entirely
-if the student skipped the bonus round.
+and by the metadata lines above. Always keep this exact structure so entries appear
+correctly on the website. Omit the Bonus section entirely if the student skipped the
+bonus round.
+
+Three things the metadata drives, so they're worth getting right:
+
+- **Write the book's full title, with the series name in it** — *"The 39 Clues: Storm
+  Warning by Linda Sue Park"*, not *"Storm Warning"*. The site shelves volumes under
+  their series (`library/series.json`) and merges spellings of the same book. If a new
+  series shows up, add it to that file so its volumes group instead of scattering.
+- **`Read-aloud: ✅`** earns +5 XP and drives the 🎤 Voice stamp card. Only mark it ✅ if
+  they actually read it out loud *before* the file was saved.
+- **`Watch list: ✅ clean`** feeds the 🧹 Clean Sweep stamp. A slip the student caught
+  themselves during the read-aloud still counts as **clean** — that's the whole point.
 
 ## Game system — quick reference
 

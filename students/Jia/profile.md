@@ -44,6 +44,19 @@ Mini-example built from her own 07-23 prediction: *"they saw how Dumbledore aske
 
 Payoff: 💬 Quote Catcher at 5 entries (**progress 3/5** — 07-15, 07-22, 07-24) → completes the ✍️ Wordsmith card → 🎟️ +50 XP. Also unlocks the pending Evidence Tier 2 promotion.
 
+## Writing goal
+
+- **Aiming for:** _(not chosen yet — let her pick it herself)_
+- **Where she is now:** 🧩 **Paragraph Builder** (ladder stage 2 of 7), and **2 of 4** into
+  🔍 Evidence Writer. 17 ACE rounds ✅ · a 162-word entry ✅.
+- **The two things left for Evidence Writer:** Evidence skill at Tier 2, and **one more
+  entry with a real quote** (4 of 5). Both are exactly this week's focus — put the quote in
+  a MAIN entry and they land together.
+- **Note for later:** 🏛️ Essay Writer needs a 3-paragraph entry, and she has **never used a
+  paragraph break** (max 1 across all 18 entries). That's `lessons/paragraph-breaks.md`,
+  already queued — and it's the single biggest jump available to her.
+- **Next session:** show her the 🪜 My Ladder page and let her choose. If she picks, set the "Aiming for" line to `evidence`.
+
 ## Watch list
 
 > 📌 **NEXT SESSION: run a mini-lesson.** This item has been at 0/3 for three sessions

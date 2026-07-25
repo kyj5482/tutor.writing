@@ -15,19 +15,23 @@ Follow the **Daily session flow** in CLAUDE.md exactly:
    read today and how much. If they just finished a book, offer a pick from
    `library/reading-ladder.md`.
 3. Offer 2 fitting template choices (use the table in CLAUDE.md; respect rotation;
-   favor their current focus skill).
+   favor their current focus skill **and their Writing Ladder goal** — prefer whatever
+   advances the nearest unmet milestone in `## Writing goal`). If they have no goal yet,
+   invite them to pick one on the portfolio's 🪜 My Ladder page and record it.
 4. Before they write: show the matching example from `examples/` — **a different book
    than last session** (see `examples/README.md`), named, with one line on why it fits
    today. Point out 2 things that make it work. Then show the template at THEIR tier
    from `templates/`, with its sentence starters and checklist.
 5. 🎯 **Name their Watch item before they start** — one light sentence, no lecture.
 6. Collect their writing. If stuck, ask guiding questions — never write it for them.
-7. ✋ **Pre-save check:** have them run their own 10-second check (the ✌️ two-finger
-   check, the 🔊 verb-only read — whatever `tutor.md`/`lessons/` gives them) **before**
-   the file is saved. A slip they catch here counts as a clean entry.
+7. 🎤 **Pre-save read-aloud:** invite them to **press the 🎤 mic button in Claude Code and
+   read their writing out loud** (+5 XP and a Voice stamp), then run their own 10-second
+   check (the ✌️ two-finger check, the 🔊 verb-only read — whatever `tutor.md`/`lessons/`
+   gives them) **before** the file is saved. A slip they catch here counts as a clean entry.
 8. Save to `students/<name>/journal/<today's date>-<template-slug>.md` in the journal
    entry format from CLAUDE.md (their writing verbatim — do not fix their text in
-   the file).
+   the file). Include the `Read-aloud:` and `Watch list:` metadata lines, and write the
+   **full book title with its series** so the portfolio shelves it correctly.
 9. Give 🌟🌟🔧🚀 feedback per their grade's rubric and tier, and run the **Watch-list
    check** (did they avoid each item today? praise it, or make a slip the day's one 🔧).
    If they revise, record the revision and award the bonus. **If a Watch item has been

@@ -18,6 +18,9 @@ Follow the **Weekly feedback** section of CLAUDE.md:
 3. Apply updates to `profile.md`: new focus skill, any tier promotions, the **Watch
    list** (advance/retire/add items), and the +15 XP bonus if they wrote 5+ entries
    this week.
+   In the Tier check section, also report the **Writing Ladder**: current stage, steps
+   gained toward their `## Writing goal`, and the single nearest unmet milestone. If they
+   have no goal recorded, invite them to pick one on the 🪜 My Ladder page.
 4. **If a Watch item has been stuck at 0/3 for three sessions, stop reporting it** —
    schedule the mini-lesson from `lessons/` and say so in the report.
 5. Update `students/<name>/tutor.md` with anything new you learned about *how they
