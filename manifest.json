@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-25T05:45:42.152Z",
+  "generated": "2026-07-25T12:45:26.913Z",
   "students": [
     {
       "name": "Jaei",
@@ -263,13 +263,18 @@
           "file": "students/Jaei/feedback/2026-07-13-weekly.md",
           "date": "2026-07-13",
           "kind": "weekly"
+        },
+        {
+          "file": "students/Jaei/feedback/2026-07-25-weekly.md",
+          "date": "2026-07-25",
+          "kind": "weekly"
         }
       ]
     },
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 625,
+      "xp": 665,
       "level": 7,
       "streak": 3,
       "badges": [
@@ -310,6 +315,11 @@
         },
         {
           "name": "Template Master",
+          "emoji": "🗺️",
+          "date": "2026-07-24"
+        },
+        {
+          "name": "Adventurer card COMPLETE",
           "emoji": "🗺️",
           "date": "2026-07-24"
         }
@@ -523,6 +533,11 @@
         {
           "file": "students/Jia/feedback/2026-07-13-weekly.md",
           "date": "2026-07-13",
+          "kind": "weekly"
+        },
+        {
+          "file": "students/Jia/feedback/2026-07-25-weekly.md",
+          "date": "2026-07-25",
           "kind": "weekly"
         }
       ]
