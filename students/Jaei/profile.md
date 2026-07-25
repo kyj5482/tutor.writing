@@ -1,15 +1,15 @@
 # Profile — Jaei
 
 - **Grade:** 8
-- **Current book:** The 39 Clues: Into the Gauntlet by Margaret Peterson Haddix — started 2026-07-25 (Neverseen by Shannon Messenger set aside, in progress since 2026-07-16)
-- **Books finished:** The Scorch Trials by James Dashner (finished 2026-06-23); Keeper of the Lost Cities: Everblaze by Shannon Messenger (finished 2026-07-04); The 39 Clues: In Too Deep by Jude Watson (finished 2026-07-07); The 39 Clues: The Viper's Nest by Jude Watson (finished 2026-07-11); The 39 Clues: The Emperor's Code by Gordon Korman (finished 2026-07-14); The 39 Clues: Storm Warning by Linda Sue Park (finished 2026-07-23)
+- **Current book:** _between books_ — 🎉 **finished the entire 10-book 39 Clues series** on 2026-07-25. Next pick offered from the reading ladder: **Holes** (Louis Sachar, top pick — he saw the essay example from it today) or **A Single Shard** (Linda Sue Park, the Newbery bridge). *Neverseen* still set aside.
+- **Books finished:** The Scorch Trials by James Dashner (finished 2026-06-23); Keeper of the Lost Cities: Everblaze by Shannon Messenger (finished 2026-07-04); The 39 Clues: In Too Deep by Jude Watson (finished 2026-07-07); The 39 Clues: The Viper's Nest by Jude Watson (finished 2026-07-11); The 39 Clues: The Emperor's Code by Gordon Korman (finished 2026-07-14); The 39 Clues: Storm Warning by Linda Sue Park (finished 2026-07-23); The 39 Clues: Into the Gauntlet by Margaret Peterson Haddix (finished 2026-07-25 — **series complete**)
 
 ## Game stats
 
-- **Level:** 8 — 🪶 Voice Finder
-- **XP:** 775 (next level at 800 — 25 to go)
+- **Level:** 9 — 🌟 Author-in-Training
+- **XP:** 810 (next level at 900 — 90 to go)
 - **Current streak:** 1 day (best: 5)
-- **Last entry:** 2026-07-25 — 06 Rewrite the Scene
+- **Last entry:** 2026-07-25 — 12 Essay (build day 1 of 3)
 
 ## Badges
 
@@ -22,10 +22,13 @@
 - 💬 **Quote Catcher** — used a direct quote from the book in 5 entries (2026-07-14)
 - 🤝 **Double Trouble** — both students wrote an entry the same day (2026-07-15, with Jia)
 - 🗺️ **Template Master** — used all 10 daily templates (2026-07-16)
+- 🎓 **Rule Learner** — completed the compound-subjects mini-lesson (2026-07-25)
+- 🎤 **First Listen** — read an entry aloud with the mic *before* saving (2026-07-25) — **first time in 19 entries**
 
 **Stamp cards:**
 - ✍️ **Wordsmith card COMPLETE** (2026-07-14) — Detail Detective · Quote Catcher · Revision Butterfly · Tier Climber → 🎟️ **+50 XP coupon** awarded.
 - 🗺️ **Adventurer card COMPLETE** (2026-07-16) — Template Tourist · Template Master · Bookworm · Double Trouble → 🎟️ **+40 XP coupon** awarded.
+- 🎤 **Voice card 2/4** (2026-07-25) — 🎤 First Listen ✅ · 🎓 Rule Learner ✅ · 🔊 Sound Check (1 of 5 read-alouds) · 🧹 Clean Sweep (1 of 3 clean entries).
 
 ## Skill tiers
 
@@ -42,34 +45,40 @@
 
 ## Writing goal
 
-- **Aiming for:** _(not chosen yet — let him pick it himself)_
+- **Aiming for:** `essay` — 🏛️ **Essay Writer**
+- **Chosen:** 2026-07-25 · **Why:** offered the choice between 12 Essay (day 1 of a build) and
+  10 Book Review, he picked the essay — **and it was the option worth less XP today.** He chose
+  the ladder over the points. *(He picked it by action, not in so many words: confirm the
+  wording with him next session, but treat the goal as live.)*
 - **Where he is now:** 🔍 **Evidence Writer** (ladder stage 3 of 7), and **3 of 4** into
   🏛️ Essay Writer. Evidence Tier 3 ✅ · 5 Tier-3 entries ✅ · a 4-paragraph entry ✅.
 - **The one thing left for Essay Writer:** a full essay — **3+ paragraphs AND 200+ words**
-  in one entry. His longest so far is 181 words, so this is ~20 words and two Enter keys
-  away from what he already writes.
-- **How to get it:** run **`templates/12-essay.md`** as a **3-day build** — thesis + first
-  paragraph, then the second paragraph, then the ending and a read-aloud pass. Each day is
-  a normal-sized session. Show him `examples/grade8-growth.md` first; the Camp Green Lake
-  essay there is very close to arguments he already makes unprompted.
-- **The site says:** ~3 sessions to 🏛️ Essay Writer, and 🎓 Scholar by around Apr 2027 at
+  in one entry. **In progress:** the 3-day Essay build started 2026-07-25 (day 1 = thesis +
+  first evidence paragraph, ~85 words). Day 3's `## My writing` must hold the **whole**
+  assembled essay — that's the entry the site measures.
+- **The build, where it stands:**
+  - **Day 1 ✅ (07-25)** — thesis (*"not about the bloodthirsty battle… it's about the ending"*)
+    + first evidence paragraph (the Olivia Cahill wish / the enemy who was never a Cahill).
+  - **Day 2 — next session:** the **second, stronger** evidence paragraph (Tier 3 = strongest
+    reason last). Open by re-reading day 1 aloud, then write one paragraph. That's the session.
+  - **Day 3:** the closing "so what" + a concession (*"Some might say… and that's fair, but…"*
+    — a move he already makes unprompted), then paste the whole essay together, read it aloud,
+    fix it. **+25 build bonus on day 3**, and 🏛️ Essay Writer unlocks.
+- **The site says:** ~2 sessions to 🏛️ Essay Writer now, and 🎓 Scholar by around Apr 2027 at
   his current 3×/week. Worth showing him — he's a kid who moves when there's a target.
-- **Next session:** open the 🪜 My Ladder page, show him he's one step off, and ask if he
-  wants Essay Writer as his goal. Don't assign it — he picks. If he says yes, set the "Aiming for" line to `essay`.
 
 ## Watch list
 
-> 📌 **NEXT SESSION: run the mini-lesson.** This item has sat at 0/3 for three straight
-> sessions (07-21, 07-23, 07-25), and the same error has now been corrected **seven times
-> since 06-23** without sticking. Per CLAUDE.md → "When a mistake won't go away": stop
-> correcting it and teach the rule once → **`lessons/compound-subjects.md`** (3 min, +5 XP).
-> Diagnosis: he matches the verb to the **nearest noun**, not the whole subject. See
-> `tutor.md`.
+> ✅ **MINI-LESSON RUN 2026-07-25** — `lessons/compound-subjects.md`, +5 XP, 🎓 Rule Learner.
+> He diagnosed his own pattern on the **first guess**: *"the verb matches the word right
+> before it."* Then wrote **two** compound subjects clean in the very next paragraph, with no
+> flag from me. **From here on, do not re-explain this rule.** If it slips, say two words:
+> *"two fingers."* His trick is the ✌️ **Two-Finger Check** (see the lesson, Step 5).
 
-- [ ] **"and" between two doers → plural verb** — clean streak: **0/3** · e.g. "Amy and Dan **was** watching" → "**were**", "the plot and the action **is**" → "**are**", "trust and loyalty **is**" → "**are**" · **The rule is narrow enough to beat by eye: spot the word "and" between two doers, make the verb plural.** (Umbrella: general verb check — tense & endings — still applies, e.g. 07-21 "to betray… and joined" → "and join".)
-  - **Sharpened 2026-07-25 weekly.** Same exact shape three times: 07-14, 07-23, 07-25. Previously logged as broad "verb agreement & tense" — narrowed to the one pattern that keeps recurring.
-  - **What's working:** he fixes every one instantly once he looks, and self-caught "become"→"became" (07-23 ACE) and "make"→"makes" (07-21 ACE) on his own read-aloud. The skill is there; the *timing* is one step behind.
-  - **The gap:** the read-aloud happens *after* saving, or gets skipped entirely on short days (07-25 — no revision, so the slip stayed in the file). Goal: read aloud **before** save, main entry **and** ACE.
+- [ ] **"and" between two doers → plural verb** — clean streak: **1/3** · e.g. "Amy and Dan **was** watching" → "**were**", "the plot and the action **is**" → "**are**" · **Trick: ✌️ two fingers on every "and" in a subject → plural verb, no -s.** (Umbrella: general verb check — tense & endings — still applies.)
+  - **Rule taught 2026-07-25** after 7 corrections and three sessions stalled at 0/3. Streak restarted from 0 that same session and immediately went to **1/3** (07-25 essay: "Amy and Dan earned", "Amy and Dan full fill" — both correct first draft).
+  - **What's working:** the read-aloud finally happened **before** the save (07-25) and he self-caught "ingredient" → "ingredients". Keep protecting that step — it is the cheapest win in the system.
+  - **The real cause of the old gap, found 07-25:** he did not know the 🎤 mic button existed. He asked *"how do i read it to you"*. It was never reluctance — it was a missing instruction. Point at the button, every time.
 
 ## Session log
 
@@ -93,4 +102,5 @@
 | 2026-07-23 | 10 Book Review | 3 | 60 | ✅ (stretch + ACE) | 🎉 Finished The 39 Clues: Storm Warning (Linda Sue Park)! Strong Tier-3 hook question naming three stakes ("give up your life, home, and friends") + no-spoiler setup (Caribbean, Madrigal problem). Sharp craft read: noticed the 1st-person/3rd-person POV shift AND quoted it as proof ("While Ian Kabra is watching the Cahills....") — same POV-craft eye as the 07-14 review. Stretch ✅: rewrote flat 5/5 into an argued rating ("It could lose a star because of it's hasty ending but... deserves a full 5 because the plot and the action..."). Watch: verb slipped on COMPOUND subject "the plot and the action is" → "are" (same pattern as 07-14 "trust and loyalty is"→"are"), and stayed uncorrected in the revision → streak stays 0/3, no +5 focus XP; but ACE tense slip "become"→"became" WAS self-fixed on read-aloud when prompted (habit landing). ACE ✅ (Tier 3): claim + embedded quote ("the man in the black gave Dan and Amy the 7 clues") + theme closer (one step closer to their parents' secrets). 🎉 **Leveled up to 8 — 🪶 Voice Finder** (crossed 700). Streak reset to Day 1 (missed 07-22) — welcomed back. XP 60 (10 + T3 10 + finished-book 20 + stretch 10 + ACE 10). (Tutor bookkeeping note: stretch was briefly mis-dropped from the XP tally mid-session and restored — student correctly flagged it.) |
 | 2026-07-14 | 10 Book Review | 2 | 105 | ✅ (fix + stretch) | 🎉 Finished The Emperor's Code (Korman)! Strong stakes-question hook + argued rating ("loses half a star because of how it ends, but earns 4.5 because...") — Tier 3 move; noticed craft ("mixing third and first person POV"). Fix ✅: "Dan and Amy goes" → "go". Stretch ✅: named the theme ("trust and loyalty") — Tier 3 big-idea move. ACE ✅: traced the fight to Amy's Madrigal doubt. Watch: verb slipped in BOTH main ("goes") and ACE ("trust and loyalty is" → "are") — caught only on read-aloud, not first draft → streak stays 0/3, no +5 focus XP. 💬 **Quote Catcher earned** (5th direct-quote entry: 06-21, 06-23, 07-04, 07-13, 07-14). ✍️ **Wordsmith stamp card COMPLETE → 🎟️ +50 XP coupon.** XP 55 (entry) + 50 (coupon) = 105. 🎉 **Leveled up to 6 — ✨ Style Seeker** (crossed 500). Streak Day 2. (Student flagged the Quote Catcher count — was correct; tutor had under-called it.) |
 | 2026-07-25 | 06 Rewrite the Scene | 3 | 20 | not today | Started The 39 Clues: Into the Gauntlet (set aside Neverseen). A few chapters — the Gauntlet, cornered while getting a lead to the next clue. Strong show-don't-tell ("trembling hand, clutched to each other") and an earned cornered-ending (sealed exit). Fix flagged, not revised: "Amy and Dan was watching" → "were" — 3rd time on this exact compound-subject pattern (07-14, 07-23) → Watch streak stays 0/3. Stopped after main entry — no revision, no ACE — a solid, honest entry, streak restarts at Day 1 (missed 07-24), no guilt. XP 20 (10 + Tier 3 10). |
+| 2026-07-25 | 12 Essay (build day 1 of 3) | 3 | 35 | offered, not today | 🎉 **Finished The 39 Clues: Into the Gauntlet — the whole 10-book series done.** Example shown: ***Holes*** (grade8-growth, the Camp Green Lake essay) — first use of the example library, and doubles as his top reading-ladder pick. 🎓 **Mini-lesson run: compound subjects** (+5) — he diagnosed his own pattern first guess (*"the verb matches the word right before it"*), then wrote "Amy and Dan earned" and "Amy and Dan full fill" **both correct, first draft, unflagged** → Watch streak **0/3 → 1/3** after six weeks stuck. 🎤 **First-ever pre-save read-aloud** (+5) — self-caught "ingredient"→"ingredients". Cause of the old gap found: *he didn't know the mic button existed.* Real Tier-3 thesis ("not about the bloodthirsty battle… it's about the ending") + a structural read most adults miss ("their enemy, who wasn't Cahill but was in the 39 clue hunt for over a century"). 🔧 given (quote dropped in, needs its context) — not revised today, offered for day 2. Chose the essay over the higher-XP Book Review → 🏛️ Essay Writer set as his goal. Badges: 🎓 Rule Learner, 🎤 First Listen → 🎤 Voice card 2/4. 🎉 **Leveled up to 9 — 🌟 Author-in-Training** (crossed 800). 2nd entry of the day — streak already counted. XP 35 (10 + T3 10 + build 5 + lesson 5 + read-aloud 5). |
 | 2026-07-25 | — weekly — | — | 0 | — | Weekly report (week ending 07-25): 3 entries (07-21, 07-23, 07-25), 120 XP, **all three written at Tier 3**. 🎉 Level 8 Voice Finder (07-23). ⛰️ **Evidence promoted Tier 2 → Tier 3** (embedded quotes with context, 3 entries running: 07-16, 07-21, 07-23) — first Tier-3 skill. No +15 (only 3 entries, not 5+). New focus: **"Let them talk"** — real quoted dialogue instead of reported speech (last step to Style Tier 3). Watch list sharpened to the one recurring shape: "and" between two doers → plural verb (0/3; slipped 07-14, 07-23, 07-25). 25 XP from Level 9. |

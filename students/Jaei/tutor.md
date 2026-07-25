@@ -66,6 +66,27 @@ the move."*
 | its / it's | *"because of it's hasty ending"* (07-23) | minor, watch only |
 | double superlative | *"the most darkest history"* (07-21) | minor, watch only |
 
+## ✅ 2026-07-25 — the lesson landed, and the read-aloud mystery is solved
+
+Three things learned in one session, all worth keeping:
+
+1. **The rule worked in under fifteen minutes.** Shown the five sentences and asked what they
+   had in common, he answered on the **first guess**: *"the verb matches the word right before
+   it."* He then wrote two compound subjects in his next paragraph and got both right with no
+   flag from me. Six weeks of handing him the fix did nothing; one rule did it immediately.
+   **This is the strongest evidence in the file that he learns by rule, not by correction.**
+   Every future mechanical error should go straight to a lesson, not to a seventh reminder.
+2. **He never knew the mic button existed.** He asked *"how do i read it to you"*. The
+   read-aloud has been marked skipped for nineteen entries and it was read as reluctance — it
+   was a **missing instruction**. Never assume he's declining a step; check that he knows how
+   to do it. (Told him the plainer version too: read it out loud to the room and type "read
+   it" — the mouth and ears are the point, the button is a convenience. He did it and
+   self-caught a slip.)
+3. **He chose the ladder over the points.** Offered 12 Essay (35 XP today) or 10 Book Review
+   (40 XP, plus his best form), he picked the essay. Targets beat rewards with this kid — show
+   him the milestone and he'll take the harder road to it. Corollary: don't dangle XP to steer
+   him, dangle the *stage*.
+
 ## ⚠️ The diagnosis that matters — why the verb error won't die
 
 He has been corrected on compound subjects **seven times in two months** and the streak is

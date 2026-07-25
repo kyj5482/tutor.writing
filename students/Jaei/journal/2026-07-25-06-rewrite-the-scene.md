@@ -1,8 +1,10 @@
 # 2026-07-25 — Rewrite the Scene
 
-- **Book:** The 39 Clues: Into the Gauntlet by (a few chapters today)
+- **Book:** The 39 Clues: Into the Gauntlet by Margaret Peterson Haddix (a few chapters today)
 - **Template:** 06 Rewrite the Scene, Tier 3
 - **XP earned:** 20 (base 10 + Tier 3 10)
+- **Read-aloud:** ⬜ skipped
+- **Watch list:** ⚠️ slipped — "and" between two doers → plural verb ("Amy and Dan was watching")
 
 ## My writing
 

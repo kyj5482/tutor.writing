@@ -1,11 +1,11 @@
 {
-  "generated": "2026-07-25T13:58:35.943Z",
+  "generated": "2026-07-25T17:50:00.251Z",
   "students": [
     {
       "name": "Jaei",
       "grade": "8",
-      "xp": 775,
-      "level": 8,
+      "xp": 810,
+      "level": 9,
       "streak": 1,
       "badges": [
         {
@@ -54,6 +54,16 @@
           "date": "2026-07-16"
         },
         {
+          "name": "Rule Learner",
+          "emoji": "🎓",
+          "date": "2026-07-25"
+        },
+        {
+          "name": "First Listen",
+          "emoji": "🎤",
+          "date": "2026-07-25"
+        },
+        {
           "name": "Wordsmith card COMPLETE",
           "emoji": "✍️",
           "date": "2026-07-14"
@@ -62,6 +72,11 @@
           "name": "Adventurer card COMPLETE",
           "emoji": "🗺️",
           "date": "2026-07-16"
+        },
+        {
+          "name": "Voice card 2/4",
+          "emoji": "🎤",
+          "date": "2026-07-25"
         }
       ],
       "tiers": {
@@ -75,11 +90,11 @@
         {
           "item": "\"and\" between two doers → plural verb",
           "cleared": false,
-          "streak": 0
+          "streak": 1
         }
       ],
       "stats": {
-        "entries": 17,
+        "entries": 18,
         "activeDays": 16,
         "templatesUsed": [
           "01-summary",
@@ -95,21 +110,21 @@
         ],
         "revisions": 15,
         "ace": 11,
-        "quotes": 10,
+        "quotes": 11,
         "counter": 6,
         "craft": 2,
         "compare": 0,
-        "tier3": 5,
-        "readAlouds": 0,
-        "cleanEntries": 0,
-        "cleanStreak": 0,
-        "bestCleanStreak": 0,
+        "tier3": 6,
+        "readAlouds": 1,
+        "cleanEntries": 1,
+        "cleanStreak": 1,
+        "bestCleanStreak": 1,
         "lessons": 0,
         "bookReviews": 4,
         "booksStarted": 8,
-        "booksFinished": 6,
+        "booksFinished": 7,
         "maxWords": 181,
-        "totalWords": 1987,
+        "totalWords": 2069,
         "maxParagraphs": 4,
         "essayShaped": 0,
         "debateShaped": 1,
@@ -125,12 +140,12 @@
           "seriesEmoji": "🔎",
           "seriesTotal": 10,
           "volume": 10,
-          "author": null,
-          "entries": 1,
-          "words": 79,
+          "author": "Margaret Peterson Haddix",
+          "entries": 2,
+          "words": 161,
           "first": "2026-07-25",
           "last": "2026-07-25",
-          "finished": false
+          "finished": true
         },
         {
           "key": "the 39 clues#9",
@@ -697,7 +712,7 @@
           "series": "The 39 Clues",
           "seriesEmoji": "🔎",
           "volume": 10,
-          "author": null,
+          "author": "Margaret Peterson Haddix",
           "reading": "a few chapters today",
           "tier": 3,
           "xp": 20,
@@ -711,9 +726,37 @@
           "compare": false,
           "readAloud": false,
           "watchClean": false,
-          "watchSlip": false,
+          "watchSlip": true,
           "build": null,
           "excerpt": "Amy and Dan was watching the other team with a trembling hand, clutched to each other. They all asked the same thing, or I must say force. They told them that they knew what they w"
+        },
+        {
+          "file": "students/Jaei/journal/2026-07-25-12-essay.md",
+          "date": "2026-07-25",
+          "slug": "12-essay",
+          "book": "The 39 Clues: Into the Gauntlet",
+          "bookKey": "the 39 clues#10",
+          "bookShort": "Into the Gauntlet",
+          "series": "The 39 Clues",
+          "seriesEmoji": "🔎",
+          "volume": 10,
+          "author": "Margaret Peterson Haddix",
+          "reading": "finished the book — and the whole 10-book series",
+          "tier": 3,
+          "xp": 35,
+          "words": 82,
+          "paragraphs": 1,
+          "hasRevision": false,
+          "hasBonus": false,
+          "quote": true,
+          "counter": false,
+          "craft": false,
+          "compare": false,
+          "readAloud": true,
+          "watchClean": true,
+          "watchSlip": false,
+          "build": "Essay — day 1 of 3",
+          "excerpt": "The 39 Clues is not about the bloodthirsty battle between the family to win, it's about the ending when Amy and Dan earned the trust from everyone and got all the ingredients to th"
         }
       ],
       "reports": [
