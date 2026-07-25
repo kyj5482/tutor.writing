@@ -1,10 +1,10 @@
 {
-  "generated": "2026-07-25T17:50:00.251Z",
+  "generated": "2026-07-25T17:58:50.903Z",
   "students": [
     {
       "name": "Jaei",
       "grade": "8",
-      "xp": 810,
+      "xp": 820,
       "level": 9,
       "streak": 1,
       "badges": [
@@ -109,7 +109,7 @@
           "10-book-review"
         ],
         "revisions": 15,
-        "ace": 11,
+        "ace": 12,
         "quotes": 11,
         "counter": 6,
         "craft": 2,
@@ -743,11 +743,11 @@
           "author": "Margaret Peterson Haddix",
           "reading": "finished the book — and the whole 10-book series",
           "tier": 3,
-          "xp": 35,
+          "xp": 45,
           "words": 82,
           "paragraphs": 1,
           "hasRevision": false,
-          "hasBonus": false,
+          "hasBonus": true,
           "quote": true,
           "counter": false,
           "craft": false,
