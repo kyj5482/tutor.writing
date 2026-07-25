@@ -86,6 +86,21 @@ Three things learned in one session, all worth keeping:
    (40 XP, plus his best form), he picked the essay. Targets beat rewards with this kid — show
    him the milestone and he'll take the harder road to it. Corollary: don't dangle XP to steer
    him, dangle the *stage*.
+4. **He asked for help instead of skipping.** *"i want to do the strech but dont know how to
+   do it."* In 19 entries he has never said that before — he either does a stretch or lets it
+   go. **Read it as trust, and answer it with a method, not encouragement.** What worked was a
+   numbered procedure (pick the moment → scan the page for the ragged right edge where dialogue
+   lives → copy it exactly → graft it with *who + saying-verb + the words*), plus a stated
+   fail-safe: *"if there's no dialogue there, that's a craft finding and still earns the +10."*
+   He went and **hunted the actual page** instead of paraphrasing from memory. Give him
+   procedures — vague creative prompts are the one thing that stalls him.
+5. **When he quotes at length, he over-copies.** His stretch came back as three sentences of
+   Haddix and one of his own. Not laziness — he doesn't yet know the ratio an essay wants. Say
+   it as a ratio (*"mostly you, her words where they hit hardest"*), not as "too long."
+6. **"Done" means done, and he means it kindly.** Asked one more optional question at the end
+   of a long session, he answered *"done"* — no excuse, no drop in engagement. Honor it
+   immediately and bank the day. He'd already done a mini-lesson, an essay day, a bonus round
+   and a stretch. Pushing past that would cost more than the sentence was worth.
 
 ## ⚠️ The diagnosis that matters — why the verb error won't die
 
