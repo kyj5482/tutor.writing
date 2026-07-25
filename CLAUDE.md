@@ -58,7 +58,7 @@ work, so skip all of that ceremony.
 
 | Path | Purpose |
 |------|---------|
-| `templates/` | 10 daily writing templates (each 3 tiers) + 11 ACE Write (bonus round) |
+| `templates/` | 10 daily templates + 11 ACE Write (bonus) + **12–15 growth templates** |
 | `examples/README.md` | **The example library index — how to pick and rotate a book** |
 | `examples/grade6-*.md` | Every template demonstrated: *Hatchet* · *Percy Jackson* · *A Wrinkle in Time* |
 | `examples/grade8-*.md` | Every template demonstrated: *The Giver* · *Holes* · *The Hunger Games* |
@@ -148,6 +148,35 @@ work, so skip all of that ceremony.
 | Re-reading / slow content day | 07 Golden Line, 08 Connection |
 
 Rotate: avoid repeating the same template within 2 sessions unless the student asks.
+
+### Growth templates (12–15) — the top of the ladder
+
+| Template | Ladder stage | Build over |
+|----------|--------------|-----------|
+| **12 Essay** | 🏛️ Essay Writer | 3 days |
+| **13 Debate** | ⚖️ Debater | 1–2 days |
+| **14 Craft Analysis** | 🔬 Critic | 1–2 days |
+| **15 Comparative Essay** | 🎓 Scholar | 4 days |
+
+**These are built across several days, one normal-sized piece per day.** That is the whole
+design: the daily effort never grows, but the pieces add up into an essay. Do not ask a
+student to write 350 words in one sitting — ask for a thesis and one paragraph, which is
+what they already write every day.
+
+Running a build:
+
+- Each day is its own journal entry, its own XP, its own streak day. Nothing is "on hold".
+- Add a metadata line: `- **Build:** Essay — day 2 of 3`
+- On the **final day** the student pastes the whole piece together, reads it aloud, and
+  fixes it. That last entry's `## My writing` holds the **complete** essay — that's what
+  the portfolio measures for word and paragraph counts.
+- Award the build bonus from `game/rules.md` on the final day.
+
+**When to run one:** about **once a week**, or when a student finishes a book. Never two in
+a row, and never at the cost of the daily habit — the habit is what makes the ladder work.
+
+**Never gate them.** If a student wants to try template 12 before they've "finished"
+stage 3, let them, at Tier 1, with the frame. Ambition is not something to ration.
 
 ## Feedback rubric
 
@@ -273,6 +302,16 @@ university-level work, shown on the portfolio's 🪜 **My Ladder** page.
 | 6 | 🔬 Critic | Name a technique, prove it, say what it costs and buys |
 | 7 | 🎓 Scholar | One argument, held across two books, with citations |
 
+Stages 4–7 each have a **template that unlocks them** (12–15), built over a few days.
+
+**The site also projects where daily writing leads.** The Ladder page estimates, from the
+student's *own* observed rates, how many more sessions each stage needs and roughly when
+they'd reach it at 3, 5 or 7 sessions a week. This exists because these two students are
+goal-driven: knowing that steady daily writing reaches university-level work in about a
+year is a completely different experience from writing without knowing where it goes. Treat
+the dates as encouragement, never as a deadline — and say so if a student sounds anxious
+about one. Missing a week moves a date; it never loses progress.
+
 Every milestone is measured from writing that already exists — entry counts, skill tiers,
 quotes, word counts, paragraph counts, counterargument moves — so the bar moves on its own
 as they write. Nothing here needs extra bookkeeping.
@@ -385,6 +424,8 @@ Three things the metadata drives, so they're worth getting right:
   series shows up, add it to that file so its volumes group instead of scattering.
 - **`Read-aloud: ✅`** earns +5 XP and drives the 🎤 Voice stamp card. Only mark it ✅ if
   they actually read it out loud *before* the file was saved.
+- **`Build: <Template> — day N of M`** (growth templates only) marks a multi-day build, so
+  the portfolio shows "day 2 of 3" on the entry. Omit it on ordinary days.
 - **`Watch list: ✅ clean`** feeds the 🧹 Clean Sweep stamp. A slip the student caught
   themselves during the read-aloud still counts as **clean** — that's the whole point.
 

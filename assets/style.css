@@ -579,3 +579,52 @@ body.hide-feedback .feedback-section { display: none; }
   text-align: center; font-size: 0.82rem; font-weight: 700; color: #1f9d6b;
   background: #e9fbf3; border-radius: 10px; padding: 9px;
 }
+
+/* ---------- projection: "where this takes you" ---------- */
+.proj {
+  background: linear-gradient(135deg, #0f1b3d, #2c2a6b); color: #fff;
+  border-radius: var(--radius); padding: 20px 22px; box-shadow: var(--shadow); margin-bottom: 22px;
+}
+.proj-head { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; justify-content: space-between; }
+.proj-title { font-size: 1.15rem; font-weight: 800; }
+.proj-sub { font-size: 0.82rem; opacity: 0.78; margin-top: 3px; }
+.pace-picker { display: flex; gap: 6px; background: rgba(255,255,255,0.1); padding: 4px; border-radius: 999px; }
+.pace-btn {
+  border: none; font-family: inherit; cursor: pointer; font-size: 0.78rem; font-weight: 700;
+  padding: 7px 14px; border-radius: 999px; background: transparent; color: rgba(255,255,255,0.72);
+}
+.pace-btn.active { background: #fff; color: #2c2a6b; }
+.proj-headline {
+  background: rgba(255,255,255,0.1); border-radius: 12px; padding: 14px 16px;
+  margin: 16px 0 14px; font-size: 0.95rem; line-height: 1.6;
+}
+.proj-rows { display: grid; gap: 2px; }
+.proj-row {
+  display: grid; grid-template-columns: 28px 1fr auto auto; gap: 10px; align-items: center;
+  padding: 10px 4px; border-bottom: 1px solid rgba(255,255,255,0.09); font-size: 0.9rem;
+}
+.proj-row:last-child { border-bottom: none; }
+.proj-emoji { font-size: 1.15rem; }
+.proj-name { font-weight: 700; display: flex; flex-direction: column; gap: 2px; }
+.proj-tpl { font-size: 0.68rem; font-weight: 600; opacity: 0.6; }
+.proj-sessions { font-size: 0.78rem; opacity: 0.72; white-space: nowrap; }
+.proj-when {
+  font-weight: 800; font-size: 0.82rem; white-space: nowrap; background: rgba(255,255,255,0.16);
+  padding: 4px 11px; border-radius: 999px;
+}
+.proj-row:last-child .proj-when { background: #ffd66b; color: #4a3300; }
+.proj-foot { font-size: 0.76rem; opacity: 0.7; line-height: 1.55; margin-top: 14px; }
+.proj-top { font-size: 0.95rem; margin-top: 12px; }
+
+.stage-tpl {
+  font-size: 0.8rem; background: var(--accent-soft); color: #3b4767;
+  border-radius: 10px; padding: 9px 12px; margin-bottom: 10px; line-height: 1.5;
+}
+
+@media (max-width: 620px) {
+  .proj-row { grid-template-columns: 24px 1fr auto; }
+  .proj-sessions { grid-column: 2; font-size: 0.72rem; }
+  .pace-picker { width: 100%; }
+  .pace-btn { flex: 1; }
+}
+.chip.build { background: #fff1d6; color: #8a5b00; }

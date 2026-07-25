@@ -54,7 +54,11 @@ Payoff: 💬 Quote Catcher at 5 entries (**progress 3/5** — 07-15, 07-22, 07-2
   a MAIN entry and they land together.
 - **Note for later:** 🏛️ Essay Writer needs a 3-paragraph entry, and she has **never used a
   paragraph break** (max 1 across all 18 entries). That's `lessons/paragraph-breaks.md`,
-  already queued — and it's the single biggest jump available to her.
+  already queued — and it's the single biggest jump available to her. Once it lands, run
+  **`templates/12-essay.md`** at **Tier 1** as a 3-day build; the Tier-1 frame is literally
+  three fill-in-the-blank paragraphs, which is exactly the scaffold she does best with.
+- **The site says:** ~6 sessions to 🔍 Evidence Writer (about 2 weeks at her pace). Show her
+  that number — she's close, and she's a kid who finishes what she can see the end of.
 - **Next session:** show her the 🪜 My Ladder page and let her choose. If she picks, set the "Aiming for" line to `evidence`.
 
 ## Watch list

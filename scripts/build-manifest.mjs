@@ -264,6 +264,8 @@ if (existsSync(studentsDir)) {
       const xp = (md.match(/\*\*XP earned:\*\*\s*(\d+)/) || [])[1];
 
       // Optional session-check metadata (see CLAUDE.md journal format).
+      // "- **Build:** Essay — day 2 of 3" (multi-day growth templates)
+      const build = ((md.match(/\*\*Build:\*\*\s*(.+)/) || [])[1] || '').trim() || null;
       const readAloud = /\*\*Read-aloud:\*\*\s*✅/.test(md);
       const watchClean = /\*\*Watch list:\*\*\s*✅/.test(md);
       const watchSlip = /\*\*Watch list:\*\*\s*⚠️/.test(md);
@@ -280,7 +282,7 @@ if (existsSync(studentsDir)) {
         words: a.words, paragraphs: a.paragraphs,
         hasRevision: a.hasRevision, hasBonus: a.hasBonus,
         quote: a.quote, counter: a.counter, craft: a.craft, compare: a.compare,
-        readAloud, watchClean, watchSlip,
+        readAloud, watchClean, watchSlip, build,
         excerpt: a.excerpt,
       };
       entries.push(entry);

@@ -21,6 +21,18 @@ write, so they know what the finished thing looks like.
 | `grade8-holes.md` | *Holes* — Louis Sachar | puzzle-box plot, braided timelines, dry humor | **The 39 Clues, mysteries, anything with clues that click together** |
 | `grade8-the-hunger-games.md` | *The Hunger Games* — Suzanne Collins | dystopia, spectacle, moral traps | **Maze Runner / Scorch Trials, survival, high-stakes series** |
 
+### Growth templates (12–15) — both grades
+
+| File | Covers | Books used |
+|------|--------|-----------|
+| `grade6-growth.md` | 12 Essay · 13 Debate · 14 Craft Analysis · 15 Comparative | *Percy Jackson* (+ *Hatchet* for the comparison) |
+| `grade8-growth.md` | 12 Essay · 13 Debate · 14 Craft Analysis · 15 Comparative | *Holes* (+ *The Hunger Games* for the comparison) |
+
+These deliberately reuse books the student has already seen shorter examples of, so they can
+flip back and see the same thinking at journal length and at essay length. **Each example
+notes the day-by-day build** it came from — show that line. A 340-word essay looks
+impossible until you see it labelled "three normal sessions."
+
 ## Rules for picking one
 
 1. **Never use the same example book two sessions in a row.** This is the whole reason the

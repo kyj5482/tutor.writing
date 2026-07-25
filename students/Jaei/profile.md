@@ -46,7 +46,14 @@
 - **Where he is now:** 🔍 **Evidence Writer** (ladder stage 3 of 7), and **3 of 4** into
   🏛️ Essay Writer. Evidence Tier 3 ✅ · 5 Tier-3 entries ✅ · a 4-paragraph entry ✅.
 - **The one thing left for Essay Writer:** a full essay — **3+ paragraphs AND 200+ words**
-  in one entry. His longest so far is 181 words. He is genuinely one good session away.
+  in one entry. His longest so far is 181 words, so this is ~20 words and two Enter keys
+  away from what he already writes.
+- **How to get it:** run **`templates/12-essay.md`** as a **3-day build** — thesis + first
+  paragraph, then the second paragraph, then the ending and a read-aloud pass. Each day is
+  a normal-sized session. Show him `examples/grade8-growth.md` first; the Camp Green Lake
+  essay there is very close to arguments he already makes unprompted.
+- **The site says:** ~3 sessions to 🏛️ Essay Writer, and 🎓 Scholar by around Apr 2027 at
+  his current 3×/week. Worth showing him — he's a kid who moves when there's a target.
 - **Next session:** open the 🪜 My Ladder page, show him he's one step off, and ask if he
   wants Essay Writer as his goal. Don't assign it — he picks. If he says yes, set the "Aiming for" line to `essay`.
 

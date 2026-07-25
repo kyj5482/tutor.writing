@@ -20,8 +20,14 @@ const TEMPLATES = {
   '08-connection':         { name: 'Connection',            icon: '🔗' },
   '09-quick-write-321':    { name: 'Quick Write 3-2-1',     icon: '⚡' },
   '10-book-review':        { name: 'Book Review',           icon: '⭐' },
+  // Growth templates — these climb the top of the ladder. Not part of "all 10 templates".
+  '12-essay':              { name: 'Essay',                 icon: '🏛️', growth: true },
+  '13-debate':             { name: 'Debate',                icon: '⚖️', growth: true },
+  '14-craft-analysis':     { name: 'Craft Analysis',        icon: '🔬', growth: true },
+  '15-comparative-essay':  { name: 'Comparative Essay',     icon: '🎓', growth: true },
 };
-const TEMPLATE_IDS = Object.keys(TEMPLATES);
+/* The ten DAILY templates only — this is what "Template Master" counts. */
+const TEMPLATE_IDS = Object.keys(TEMPLATES).filter((k) => !TEMPLATES[k].growth);
 
 const COVER_GRADIENTS = [
   ['#667eea', '#764ba2'], ['#f0648c', '#f9a26c'], ['#11998e', '#38ef7d'],
@@ -79,6 +85,8 @@ const LADDER = [
     tagline: 'More than a paragraph — an argument with a shape.',
     move: 'Thesis → 2 evidence paragraphs → an ending that adds something new.',
     sample: 'Camp Green Lake is not a rehabilitation program, it is unpaid labor with a slogan on top.<br><br>The adults repeat that digging "turns a bad boy into a good boy" — but notice what that lets them skip. Nobody ever asks a boy what he did, or whether he did it.<br><br>That is the real function of the motto: it turns a question about justice into a question about sweat.',
+    template: '12-essay',
+    build: 3,
     milestones: [
       { label: 'Evidence skill at Tier 3', now: (s) => s.tiers.evidence || 0, need: 3, unit: 'tier' },
       { label: 'Write 5 Tier-3 entries', now: (s) => s.stats.tier3, need: 5 },
@@ -91,6 +99,8 @@ const LADDER = [
     tagline: 'Argue the other side better than they can — then answer it.',
     move: 'Concede what\'s true in the other view, then show why yours still wins.',
     sample: '<b>Some might argue</b> this makes Katniss less heroic, and I understand the objection: choosing freely is what makes a sacrifice mean something. <b>But I\'d say the opposite.</b> A person who has to weigh saving their sister has a choice. Katniss has a reflex — and the Capitol installed it.',
+    template: '13-debate',
+    build: 2,
     milestones: [
       { label: 'Style skill at Tier 3', now: (s) => s.tiers.style || 0, need: 3, unit: 'tier' },
       { label: 'Argue the other side in 5 entries', now: (s) => s.stats.counter, need: 5 },
@@ -103,6 +113,8 @@ const LADDER = [
     tagline: 'Not what happened — how the author built it.',
     move: 'Name a technique, prove it with the text, say what it costs and buys.',
     sample: 'Sachar runs three timelines and never explains how they connect. That changes what suspense means here: we aren\'t waiting to find out what happened, we\'re waiting for Stanley to catch up to what we already know. It costs him pacing in the middle — and buys an ending you feel a beat before he does.',
+    template: '14-craft-analysis',
+    build: 2,
     milestones: [
       { label: 'All four skills at Tier 3', now: (s) => [ 'structure', 'evidence', 'explanation', 'style' ].filter((k) => (s.tiers[k] || 0) >= 3).length, need: 4, unit: 'skills' },
       { label: 'Analyze the author\'s craft in 5 entries', now: (s) => s.stats.craft, need: 5 },
@@ -115,6 +127,8 @@ const LADDER = [
     tagline: 'One argument, held across two books. This is university writing.',
     move: 'A question worth asking, answered with evidence from more than one text.',
     sample: 'Both <i>Holes</i> and <i>The Hunger Games</i> hand their heroes a system that claims to be fair. Sachar hides the unfairness in a slogan; Collins broadcasts it as entertainment. The difference is who is asked to look away — and in Collins, it turns out to be us.',
+    template: '15-comparative-essay',
+    build: 4,
     milestones: [
       { label: 'Compare two books in 2 entries', now: (s) => s.stats.compare, need: 2 },
       { label: 'Write 10 full essays', now: (s) => s.stats.essayShaped, need: 10 },
@@ -333,6 +347,102 @@ function currentStage(s) {
   return cur;
 }
 
+/* ---------- "how far can I get?" projection ----------
+   Estimates how many more sessions each remaining stage needs, using the student's OWN
+   observed rates — how often they actually land a quote, an ACE round, a Tier-3 entry.
+   It is an estimate and the UI says so, but it is built from their real history, not a
+   guess, and its whole job is to answer: if I keep doing this every day, where does it go? */
+
+/** How often this student produces X per entry (floored so nothing reads as "never"). */
+function rateOf(s, key) {
+  if (!s.stats.entries) return 0.3;
+  return Math.max(0.12, (s.stats[key] || 0) / s.stats.entries);
+}
+
+/** Which stat a milestone accumulates, so we can use that stat's real rate. */
+const MILESTONE_STAT = {
+  'Write 3 entries': 'entries', 'Write 10 entries': 'entries',
+  'Use a real quote in 5 entries': 'quotes',
+  'Finish 10 ACE bonus rounds': 'ace',
+  'Write 5 Tier-3 entries': 'tier3',
+  'Write a full essay (3 paragraphs, 200+ words)': 'essayShaped',
+  'Write 10 full essays': 'essayShaped',
+  'Argue the other side in 5 entries': 'counter',
+  'Write 3 argued, multi-paragraph pieces': 'debateShaped',
+  'Analyze the author\'s craft in 5 entries': 'craft',
+  'Review 3 books you finished': 'bookReviews',
+  'Compare two books in 2 entries': 'compare',
+  'Finish 15 books': 'booksFinished',
+};
+
+/** Sessions still needed for one milestone.
+    `stage` matters: if a milestone needs something the student has literally never done,
+    their observed rate is 0 — which means "hasn't tried yet", not "can't". When the stage
+    has a growth template, we estimate one success per build instead. */
+function sessionsFor(m, s, stage) {
+  if (m.now >= m.need) return 0;
+  const gap = m.need - m.now;
+
+  // A tier promotion takes ~3 entries showing the skill, plus the weekly that confirms it.
+  if (m.unit === 'tier' || m.unit === 'skills') return gap * 4;
+
+  // "Longest entry" / "most paragraphs" aren't collected — they're stretched.
+  // Assume each attempt grows the ceiling ~20%, and they attempt every other session.
+  if (m.unit === 'words' || m.unit === 'paragraphs') {
+    const from = Math.max(m.now, 1);
+    const attempts = Math.max(1, Math.ceil(Math.log(m.need / from) / Math.log(1.2)));
+    return attempts * 2;
+  }
+
+  // Everything else accumulates — divide the gap by how often they actually land it.
+  const stat = MILESTONE_STAT[m.label];
+  let rate = stat ? rateOf(s, stat) : 0.5;
+  // Never done it, but a template exists for it → one success per build, not "never".
+  if (stat && !s.stats[stat] && stage && stage.build) rate = 1 / stage.build;
+  return Math.ceil(gap / rate);
+}
+
+/** Sessions to finish a stage. Milestones progress in parallel, but not perfectly. */
+function stageSessions(stage, s) {
+  const list = stageState(stage, s).ms.map((m) => sessionsFor(m, s, stage));
+  if (!list.length) return 0;
+  const max = Math.max(...list);
+  const rest = list.reduce((n, x) => n + x, 0) - max;
+  return Math.round(max + rest * 0.3);
+}
+
+/** Entries per week over the last 8 weeks — their actual current habit. */
+function observedPace(s) {
+  const dates = s.entries.map((e) => e.date).filter(Boolean).sort();
+  if (dates.length < 2) return 3;
+  const cutoff = new Date(Date.now() - 56 * 864e5).toISOString().slice(0, 10);
+  const recent = dates.filter((d) => d >= cutoff);
+  if (recent.length < 2) return 3;
+  const span = (new Date(recent[recent.length - 1]) - new Date(recent[0])) / 864e5 + 1;
+  return Math.max(1, Math.min(7, (recent.length / span) * 7));
+}
+
+function paceKey(s) { return `pace:${s.name}`; }
+
+/** Cumulative roadmap: every stage above the current one, with a projected date. */
+function projection(s, perWeek) {
+  const cur = currentStage(s);
+  let cumulative = 0;
+  return LADDER.filter((st) => st.id > cur).map((st) => {
+    const need = stageSessions(st, s);
+    cumulative += need;
+    const weeks = cumulative / perWeek;
+    const when = new Date(Date.now() + weeks * 7 * 864e5);
+    return { stage: st, sessions: need, total: cumulative, weeks, when };
+  });
+}
+
+function fmtWhen(d, weeks) {
+  if (weeks < 1.5) return 'this week';
+  if (weeks < 5) return `${Math.round(weeks)} weeks`;
+  return d.toLocaleDateString('en-US', { year: 'numeric', month: 'short' });
+}
+
 function goalKey(s) { return `goal:${s.name}`; }
 
 function chosenGoal(s) {
@@ -385,6 +495,7 @@ function entryCard(e) {
         ${e.hasRevision ? '<span class="chip">revised ✏️</span>' : ''}
         ${e.hasBonus ? '<span class="chip">ACE 🎯</span>' : ''}
         ${e.readAloud ? '<span class="chip voice">read aloud 🎤</span>' : ''}
+        ${e.build ? `<span class="chip build">🧱 ${esc(e.build)}</span>` : ''}
       </span>
       <span class="line2">${fmtDate(e.date)} · ${esc(e.book)}${e.reading ? ' · ' + esc(e.reading) : ''}</span>
     </span>`;
@@ -647,6 +758,9 @@ function renderLadder() {
     }
   }
 
+  // ---- where daily writing actually takes you ----
+  renderProjection(s);
+
   // ---- the ladder itself ----
   app.appendChild(el('div', 'section-title',
     '🪜 The whole climb <span class="count">tap a level to make it your goal</span>'));
@@ -675,6 +789,9 @@ function renderLadder() {
         </div>
         ${bar(st.pct)}
         <div class="stage-move">🔑 <b>The move:</b> ${esc(stage.move)}</div>
+        ${stage.template ? `<div class="stage-tpl">📄 Unlocked with template
+          <b>${TEMPLATES[stage.template].icon} ${esc(TEMPLATES[stage.template].name)}</b>
+          — built over a few days, one normal-sized piece each day.</div>` : ''}
         <details class="stage-sample">
           <summary>👀 See what this level sounds like</summary>
           <blockquote>${stage.sample}</blockquote>
@@ -700,6 +817,65 @@ function renderLadder() {
     `<code>/today</code> — so your tutor writes it into your profile and aims every ` +
     `session at it. Then <code>/weekly</code> checks how much closer you got.`;
   app.appendChild(tip);
+}
+
+/** "If I keep writing N days a week, how far do I actually get?" */
+function renderProjection(s) {
+  const observed = observedPace(s);
+  const saved = Number(localStorage.getItem(paceKey(s)));
+  const perWeek = [3, 5, 7].includes(saved) ? saved
+    : [3, 5, 7].reduce((a, b) => (Math.abs(b - observed) < Math.abs(a - observed) ? b : a));
+
+  const rows = projection(s, perWeek);
+  const wrap = el('div', 'proj');
+
+  if (!rows.length) {
+    wrap.innerHTML = `<div class="proj-head"><div class="proj-title">📈 Where this takes you</div></div>
+      <div class="proj-top">🎓 You've reached the top of the ladder. Now it's about depth, not level.</div>`;
+    app.appendChild(wrap);
+    return;
+  }
+
+  const last = rows[rows.length - 1];
+  wrap.innerHTML = `
+    <div class="proj-head">
+      <div>
+        <div class="proj-title">📈 Where this takes you</div>
+        <div class="proj-sub">You're writing about <b>${observed.toFixed(1)} days a week</b> right now.
+          What if you kept it up?</div>
+      </div>
+      <div class="pace-picker">
+        ${[3, 5, 7].map((n) => `<button class="pace-btn${n === perWeek ? ' active' : ''}" data-pace="${n}">${n}×/week</button>`).join('')}
+      </div>
+    </div>
+
+    <div class="proj-headline">
+      Write <b>${perWeek} days a week</b> and you'll be writing
+      <b>${last.stage.emoji} ${esc(last.stage.name)}</b>-level work
+      — ${last.stage.id === 7 ? 'a university-level comparative essay' : esc(last.stage.tagline)} —
+      by <b>${fmtWhen(last.when, last.weeks)}</b>.
+    </div>
+
+    <div class="proj-rows">
+      ${rows.map((r) => `
+        <div class="proj-row">
+          <span class="proj-emoji">${r.stage.emoji}</span>
+          <span class="proj-name">${esc(r.stage.name)}
+            ${r.stage.template ? `<span class="proj-tpl">${TEMPLATES[r.stage.template].name}</span>` : ''}
+          </span>
+          <span class="proj-sessions">~${r.total} session${r.total === 1 ? '' : 's'}</span>
+          <span class="proj-when">${fmtWhen(r.when, r.weeks)}</span>
+        </div>`).join('')}
+    </div>
+
+    <div class="proj-foot">These are estimates from <i>your own</i> pace — how often you
+      actually land a quote, an ACE round, a Tier-3 entry. Write more often and every date
+      moves closer. Skip a week and nothing is lost; the dates just shift.</div>`;
+
+  wrap.querySelectorAll('.pace-btn').forEach((b) => {
+    b.onclick = () => { localStorage.setItem(paceKey(s), b.dataset.pace); render(); };
+  });
+  app.appendChild(wrap);
 }
 
 /* ============================================================================
@@ -1034,6 +1210,7 @@ async function openEntry(e) {
         ${e.tier ? `<span class="chip">Tier ${e.tier}</span>` : ''}
         ${e.xp ? `<span class="chip">+${e.xp} XP</span>` : ''}
         <span class="chip">${e.words} words · ${e.paragraphs} ${e.paragraphs === 1 ? 'paragraph' : 'paragraphs'}</span>
+        ${e.build ? `<span class="chip build">🧱 ${esc(e.build)}</span>` : ''}
         ${e.readAloud ? '<span class="chip voice">🎤 read aloud before saving</span>' : ''}
         ${e.watchClean ? '<span class="chip clean">✅ watch-list clean</span>' : ''}
       </div>

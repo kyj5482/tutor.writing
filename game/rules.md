@@ -13,7 +13,13 @@
 | **Read the entry aloud with the 🎤 mic button BEFORE saving** | **+5** |
 | Completed a mini-lesson from `lessons/` | +5 |
 | Finished a book + wrote a Book Review (template 10) | +20 |
+| **Growth template (12–15) — each day of the build** | **+5** |
+| **Finished a multi-day build (final assembled piece)** | **+25** |
 | Weekly: wrote 5+ entries that week | +15 |
+
+Growth templates pay **per day of the build**, so a 3-day essay earns on all three days and
+the streak never pauses. The daily effort stays exactly the same size as always — the build
+bonus rewards *finishing*, not writing more in one sitting.
 
 The read-aloud bonus is deliberately easy to earn and paid **every single day**. It is the
 cheapest fix in the whole system for the problem that costs the most: the same mistake
