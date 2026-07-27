@@ -66,7 +66,7 @@ predictions backed by two real clues · ACE format.
 
 | Gap | Evidence | Status |
 |-----|----------|--------|
-| **A quote in the MAIN entry** — all 3 of her quotes so far are in the ACE or a Golden Line | 07-20, 07-23, 07-24 main entries: no quote | ← current focus |
+| ~~**A quote in the MAIN entry**~~ | ✅ **landed 07-27** — *in the book, Dumbledore said, "Of course I didn't trust him"* | **done — Evidence → Tier 2** |
 | **Verb endings & agreement** | present from day one — see below | ← Watch list |
 | **Paragraph breaks** — every long entry is one solid block | 06-30, 07-20, 07-24 are walls of text | **not yet raised — next after the verb item** |
 | possessive **'s** | *"Voldemort past"*, *"his parents past"* (07-22) | watching, needs one more session to qualify |
@@ -111,6 +111,31 @@ Two different things are hiding in one Watch item, and they need different fixes
   thing — and it's a one-minute fix that will make her writing look twice as strong.
 - **Don't rush her off Harry Potter.** She has two books left in the series. Recommend
   read-alongside books (see `library/reading-ladder.md`) rather than replacements.
+
+## What 07-27 taught us (the mini-lesson session)
+
+**1. Teach a new rule with its OFF switch, or she will over-apply it.** Ten minutes after
+learning "and joins two doers → plural verb," she ran the check on a paragraph with no
+compound subject at all and offered to change *was→were, is→are*. She had learned "this rule
+means change is to are" instead of "this rule means **look for the word *and***." Teaching the
+trigger — *no "and" → nothing to change, that's a clean pass* — is what made it stick, and she
+then ran it correctly herself. ➡️ **For any future rule, say when it does NOT apply, in the
+same breath.** She is a rule-applier; give her the boundary or she'll apply it everywhere.
+
+**2. She thinks verbs pluralize like nouns.** She answered *"Sophie and her friends **knows**"*
+— she knew it was a group and *added* the -s. Nouns take -s for plural; verbs take -s for
+**singular**. That flip is not obvious and had never been said to her. Worth repeating once.
+
+**3. Her limit on a single correction is about two rounds.** After two nudges toward
+*"Dumbledore take risk"* she wrote *"cna i just do ace"* — typo and all, which is the tell.
+That was not laziness; it was the ninth minute on one verb. ➡️ **Two guesses, then hand her
+the answer and move on.** The correction is worth less than her staying in the session.
+
+**4. She now argues the other side unprompted.** Nobody asked for a counterargument and her
+closing line handled the strongest objection to her own claim: *"even though Voldemort wasn't
+dangerous back then, Dumbledore knew he would be dangerous one day."* On 07-14 this was a
+Tier-3 stretch she had to be handed a frame for. Six weeks later it's just how she ends a
+paragraph. **Stop offering it as a stretch — start expecting it and praising it by name.**
 
 ## Talk to her like this
 

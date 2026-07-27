@@ -7,9 +7,9 @@
 ## Game stats
 
 - **Level:** 7 — 🎯 Evidence Expert
-- **XP:** 665 (next level at 700 — 35 to go)
-- **Current streak:** 3 days (best: 4)
-- **Last entry:** 2026-07-24
+- **XP:** 695 (next level at 700 — 5 to go)
+- **Current streak:** 1 day (best: 4)
+- **Last entry:** 2026-07-27
 
 ## Badges
 
@@ -21,18 +21,20 @@
 - 🤝 Double Trouble (earned 2026-07-15 — both students wrote the same day, with Jaei!)
 - 📚 Bookworm (earned 2026-07-20 — finished Order of the Phoenix, all 766 pages, and wrote its Book Review!)
 - 🗺️ Template Master (earned 2026-07-24 — used all 10 daily templates!)
+- 🎤 First Listen (earned 2026-07-27 — ran the read-aloud checks before saving)
+- 🎓 Rule Learner (earned 2026-07-27 — completed the compound-subjects mini-lesson)
 
 **Stamp cards:**
 - 🗺️ **Adventurer card COMPLETE** (2026-07-24) — Template Tourist · Template Master · Bookworm · Double Trouble → 🎟️ **+40 XP coupon** awarded 2026-07-25 weekly (card completed when Template Master landed on 07-24; coupon was missed in that session and paid out at the weekly).
 
-*In progress: ✍️ Wordsmith card 3/4 — Detail Detective ✅ · Revision Butterfly ✅ · Tier Climber ✅ · 💬 Quote Catcher ⏳ (3/5 entries) → +50 XP waiting. 🔥 Dedication card 1/4 — First Words ✅, the other three are streak badges.*
+*In progress: ✍️ Wordsmith card 3/4 — Detail Detective ✅ · Revision Butterfly ✅ · Tier Climber ✅ · 💬 Quote Catcher ⏳ (**4/5 entries** — 07-15, 07-22, 07-24, 07-27) → +50 XP waiting, **one entry away**. 🎤 Voice card 2/4 — First Listen ✅ · Rule Learner ✅ · 🔊 Sound Check ⏳ (1/5 read-alouds) · 🧹 Clean Sweep ⏳ (0/3) → +40 XP waiting. 🔥 Dedication card 1/4 — First Words ✅, the other three are streak badges.*
 
 ## Skill tiers
 
 | Skill | Tier | Notes |
 |-------|------|-------|
 | Structure (beginning–middle–end / paragraphs) | 2 | Promoted 2026-07-06 — clean First/Then/After that/In the end across 3 entries |
-| Evidence (details & quotes from the book) | 1 | **2026-07-25: promotion pending — 2 of ~3 clean quotes.** Clean single-speaker quotes on 07-15 (Hermione, "Is that the examiner?") and 07-24 (Snape, "I can't break the Unbreakable Vow", with who-said-it-to-whom + "This shows…"); 07-22 was a near-miss (blended two speakers). **Promote as soon as one lands in a MAIN entry** — all quotes so far have been in the ACE or Golden Line |
+| Evidence (details & quotes from the book) | **2** | 🎉 **PROMOTED 2026-07-27** — the pending condition was "one clean quote in a MAIN entry", and 07-27 delivered it: *in the book, Dumbledore said, "Of course I didn't trust him"* — embedded mid-sentence, single speaker, followed by its own "This shows…". Third clean quote after 07-15 (Hermione) and 07-24 (Snape) |
 | Explanation (the "because" / "this shows") | 2 | Promoted 2026-07-13 weekly — own-words "since/because" adding new ideas across 4 straight entries |
 | Style (word choice, sentence variety, voice) | 1 | **Started climbing 07-25 weekly — 2 of ~3 word-choice moves:** 07-22 zoomed into a repeated word ("The word 'important' repeats, which shows…"); 07-24 noticed *which name* a character uses reveals whose side he's on ("no one else says Dark Lord they all say you know who"). One more and check for promotion |
 
@@ -42,43 +44,63 @@
 
 Mini-example built from her own 07-23 prediction: *"they saw how Dumbledore asked Voldemort to give all the things back"* → *In the memory, Dumbledore told Voldemort to **"return them to their owners"** — which shows he saw right through him from the very first day.*
 
-Payoff: 💬 Quote Catcher at 5 entries (**progress 3/5** — 07-15, 07-22, 07-24) → completes the ✍️ Wordsmith card → 🎟️ +50 XP. Also unlocks the pending Evidence Tier 2 promotion.
+Payoff: 💬 Quote Catcher at 5 entries (**progress 4/5** — 07-15, 07-22, 07-24, **07-27**) → completes the ✍️ Wordsmith card → 🎟️ +50 XP. Also unlocks the pending Evidence Tier 2 promotion.
+
+✅ **ACHIEVED 2026-07-27.** First entry ever with the quote in the main paragraph. Evidence
+promoted to Tier 2 the same session. Keep asking for a main-entry quote until it's automatic,
+but this slot is free for a new growth skill at the next weekly — **paragraph breaks** is the
+one queued (see Writing goal).
 
 ## Writing goal
 
-- **Aiming for:** _(not chosen yet — let her pick it herself)_
-- **Where she is now:** 🧩 **Paragraph Builder** (ladder stage 2 of 7), and **2 of 4** into
-  🔍 Evidence Writer. 17 ACE rounds ✅ · a 162-word entry ✅.
-- **The two things left for Evidence Writer:** Evidence skill at Tier 2, and **one more
-  entry with a real quote** (4 of 5). Both are exactly this week's focus — put the quote in
-  a MAIN entry and they land together.
+- **Aiming for:** _(still not chosen — shown the ladder on 07-27, she went for the writing
+  first. Offer it again, briefly, at the top of the next session.)_
+- **Where she is now:** 🔍 **Evidence Writer** territory as of **2026-07-27** — both remaining
+  conditions landed in one session: Evidence promoted to **Tier 2**, and the first **real
+  quote inside a main entry**. Let the site confirm the stage; the writing is there.
+- **What did it:** *in the book, Dumbledore said, "Of course I didn't trust him" This shows
+  that…* — claim → real quote → why it matters, the exact stage-3 move.
 - **Note for later:** 🏛️ Essay Writer needs a 3-paragraph entry, and she has **never used a
   paragraph break** (max 1 across all 18 entries). That's `lessons/paragraph-breaks.md`,
   already queued — and it's the single biggest jump available to her. Once it lands, run
   **`templates/12-essay.md`** at **Tier 1** as a 3-day build; the Tier-1 frame is literally
   three fill-in-the-blank paragraphs, which is exactly the scaffold she does best with.
-- **The site says:** ~6 sessions to 🔍 Evidence Writer (about 2 weeks at her pace). Show her
-  that number — she's close, and she's a kid who finishes what she can see the end of.
-- **Next session:** show her the 🪜 My Ladder page and let her choose. If she picks, set the "Aiming for" line to `evidence`.
+- **The site said ~6 sessions to 🔍 Evidence Writer on 07-25. It took one.** Worth telling her
+  — she's a kid who finishes what she can see the end of, and she just beat the estimate.
+- **Next milestone is 🏛️ Essay Writer**, and the blocker is unchanged: **paragraph breaks.**
+  That's the next lesson to run, then `templates/12-essay.md` at Tier 1 as a 3-day build.
+- **Next session:** show her the 🪜 My Ladder page again and let her choose. If she picks, set the "Aiming for" line to `evidence` (or whatever she names).
 
 ## Watch list
 
-> 📌 **NEXT SESSION: run a mini-lesson.** This item has been at 0/3 for three sessions
-> (07-20, 07-23, 07-24) and the slips go back to her very first entry (06-09). Per
-> CLAUDE.md → "When a mistake won't go away", teach the rule instead of correcting again.
-> **Two different problems hide in this one row — pick by what slipped:**
-> - *matching the doer* ("Snape and Malfoy **is**") → **`lessons/compound-subjects.md`**.
->   ⚠️ Reading aloud will **not** catch this one — it sounds fine. Same lesson Jaei needs.
-> - *endings (-ed / -s)* → **`lessons/verb-endings.md`**. Her ear fixes these instantly;
->   the trick is the 🔊 verb-only read, run *before* saving.
+> ✅ **MINI-LESSON DONE 2026-07-27** — `lessons/compound-subjects.md` taught (the
+> *matching the doer* half). **Do not re-explain this rule.** If it slips, say two words:
+> ***"two-finger check"*** and let her find it herself.
 >
-> Never both in one session. See `tutor.md` — she learns through **sound**, not sight.
+> How it went: she got practice items 1–2 right, then missed #3 (*"Sophie and her friends
+> **knows**"* — thought plural verbs take -s, like plural nouns; taught the flip) and #4, the
+> sneaky one (*"The box of clues **were**"* — she matched to *clues*, **the nearest noun,
+> exactly her own error running in the opposite direction**). That miss was the best teaching
+> moment of the session; she saw her own habit from the outside.
+>
+> Then she over-applied it on her own paragraph — offered *"was→were, is→are"* where there was
+> no compound subject at all. Correcting that turned out to be the half of the rule that
+> actually stuck: **the check only fires when there's an "and" joining two doers.** She then
+> ran it herself, found none, and left her verbs alone.
+>
+> ⏭️ **Still queued, one at a time, never two in a session:** `lessons/verb-endings.md`
+> (the -ed/-s half — her ear fixes these, the trick is the 🔊 verb-only read *before* saving)
+> and then `lessons/paragraph-breaks.md`, which is the biggest single jump available to her.
 
 *(🎉 **Retired 2026-07-25 weekly — "Spell the tricky ones" ✅ CLEARED 3/3.** Clean on 07-20 (Gryffindor, Professor, Umbridge, Hogwarts, Sirius Black), 07-23 (Voldemort, Dumbledore) and 07-24 (Snape, Malfoy, Death Eater, Unbreakable Vow — main entry **and** ACE). The read-aloud-before-saving habit did it. Celebrated in the 07-25 weekly.)*
 
 - [ ] **Verb check — endings AND matching the doer** — clean streak: **0/3** · endings: "Have you ever wonder" → "wonder**ed**", "Sirius Black die" → "die**d**", "what he stoled" → "**stole**" · matching: "Snape and Malfoy **is** a Death Eater" → "**are** Death Eater**s**" · **Read it aloud, and at each verb ask: who is doing this — one, or more than one?**
   - Added 2026-07-20 (same -ed/-s slip in 07-16 and 07-20). **Widened 2026-07-25 weekly** from "verb endings (-ed/-s)" to include subject–verb matching, after 07-24 showed it's one skill wearing two hats.
-  - History: 07-20 slipped (wonder/believe/die) · 07-22 clean → 1/3 · 07-23 slipped ("stoled") → reset 0/3 · 07-24 endings clean but "Snape and Malfoy is" → held 0/3.
+  - History: 07-20 slipped (wonder/believe/die) · 07-22 clean → 1/3 · 07-23 slipped ("stoled") → reset 0/3 · 07-24 endings clean but "Snape and Malfoy is" → held 0/3 · **07-27 rule taught (compound subjects); matching half clean — she ran the ✌️ check and correctly found nothing to change — but endings slipped ("Dumbledore take risk") → holds 0/3.**
+  - **Split this row at the next weekly.** 07-27 proved they are two separate skills with two
+    separate cures, and scoring them as one row means the *matching* half can never show a
+    clean streak even when she nails it. Suggested rows: **"✌️ and → plural verb"** (rule
+    taught, needs 3 clean) and **"🔊 verb endings -ed/-s"** (ear, needs the verb-only read).
   - **What's working:** her ear is fast — she self-fixed "ask"→"asked" and "show"→"shows" in the 07-23 ACE the moment she read it aloud. Same habit that just cleared the spelling row; it only needs to happen *before* saving.
   - *(Not yet an item, but watching: missing possessive 's — "Voldemort past", "his parents past", both in 07-22. Only one session so far, so it waits.)*
 
@@ -107,3 +129,4 @@ Payoff: 💬 Quote Catcher at 5 entries (**progress 3/5** — 07-15, 07-22, 07-2
 | 2026-07-23 | 02 Prediction | 2 | 25 | ACE (declined stretch) | To p.270, Half-Blood Prince — memories of Voldemort's/Dumbledore's past. First-ever Prediction template (9/10 — only 09 Quick Write left). Specific prediction + 2 real clues + confidence. No quote (still 2/5). ✅ Spelling clean → **2/3** (one more clears it!). Verb endings slipped ("stoled"; "ask"/"show" in ACE, self-fixed on read-aloud) → reset 0/3. Day-2 streak. |
 | 2026-07-24 | 09 Quick Write 3-2-1 | 2 | 35 | ACE (declined stretch) | A few chapters — Harry suspects Snape & Malfoy are Death Eaters. Last unused template → 🗺️ **Template Master (all 10)!** Sharp word work ("Dark Lord" vs "You-Know-Who"). 💬 **First clean single-speaker quote** in ACE (Snape "I can't break the Unbreakable Vow") → Quote 3/5. ✅ **Spelling item CLEARED → 3/3!** Verb endings held 0/3 ("Snape and Malfoy is"→are; -ed/-s were fine). 🆙 **Level 7 Evidence Expert!** Day-3 streak. |
 | 2026-07-25 | Weekly review | — | +40 | — | Weekly report (week ending 07-25): 4 entries (07-20, 07-22, 07-23, 07-24), 155 XP, 📚 Bookworm + 🗺️ Template Master + 🆙 Level 7. No +15 (only 4 entries, not 5+). 🎟️ **Adventurer stamp card COMPLETE → +40 XP coupon** — card was finished by Template Master on 07-24 but the coupon was missed that session; paid out here (XP 625 → 665). ✅ **Watch item "Spell the tricky ones" CLEARED 3/3 and retired** 🎉. Verb item **widened** to "endings AND matching the doer" (holds 0/3). Tiers: Evidence promotion **pending** (2 of ~3 clean quotes — needs one in a MAIN entry); Style climbing (2 word-choice moves). New focus: **put the quote in the main entry**. |
+| 2026-07-27 | 04 Opinion (+ lesson: compound subjects) | 2 | 30 | — | To p.400, Half-Blood Prince — 130-pg day. Dumbledore's memory of refusing Voldemort the teaching job. 💬 **FIRST QUOTE IN A MAIN ENTRY** (Dumbledore, "Of course I didn't trust him") → Quote 4/5, and **Evidence PROMOTED to Tier 2** 🎉. Unprompted counterargument in the closing line. 🎓 **Mini-lesson run — compound subjects** (0/3 for 3 sessions); got 2/4 practice items, and missing the sneaky "box of clues" one showed her her own nearest-noun habit. 🎤 **First Listen** + 🎓 **Rule Learner** badges. Watch list: matching clean, endings slipped ("take") → holds 0/3. Streak reset to 1 after 2 days off. |
