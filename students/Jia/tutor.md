@@ -126,10 +126,18 @@ same breath.** She is a rule-applier; give her the boundary or she'll apply it e
 — she knew it was a group and *added* the -s. Nouns take -s for plural; verbs take -s for
 **singular**. That flip is not obvious and had never been said to her. Worth repeating once.
 
-**3. Her limit on a single correction is about two rounds.** After two nudges toward
-*"Dumbledore take risk"* she wrote *"cna i just do ace"* — typo and all, which is the tell.
-That was not laziness; it was the ninth minute on one verb. ➡️ **Two guesses, then hand her
-the answer and move on.** The correction is worth less than her staying in the session.
+**3. Her limit on a single correction is about two rounds — and it shrinks as she tires.**
+After two nudges toward *"Dumbledore take risk"* she wrote *"cna i just do ace"* — typo and
+all, which is the tell. Later, on the identical slip in her ACE (*"he want"*), she declined
+after **one** nudge: *"save it."* Neither was laziness; it was the ninth minute on one verb.
+➡️ **Two guesses maximum, then hand her the answer in one line and move on** — and take
+"save it" at face value, immediately, with no second ask. The correction is worth far less
+than her staying in the session, and she has never once refused the *writing*.
+
+⚠️ **The real lesson from that:** the -ed/-s half of her Watch item has now slipped four
+sessions running, and today it slipped **twice in one session**. Correcting it in the moment
+is not working — she needs `lessons/verb-endings.md` taught as a rule, exactly like compound
+subjects, with a check she runs *herself* before either piece is saved. Run it next session.
 
 **4. She now argues the other side unprompted.** Nobody asked for a counterargument and her
 closing line handled the strongest objection to her own claim: *"even though Voldemort wasn't

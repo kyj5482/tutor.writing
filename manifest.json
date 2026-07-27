@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-27T03:54:16.816Z",
+  "generated": "2026-07-27T03:56:50.659Z",
   "students": [
     {
       "name": "Jaei",
@@ -780,8 +780,8 @@
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 695,
-      "level": 7,
+      "xp": 705,
+      "level": 8,
       "streak": 1,
       "badges": [
         {
@@ -869,7 +869,7 @@
           "10-book-review"
         ],
         "revisions": 12,
-        "ace": 17,
+        "ace": 18,
         "quotes": 5,
         "counter": 4,
         "craft": 2,
@@ -1486,11 +1486,11 @@
           "author": "J.K. Rowling",
           "reading": "to p.400 — about 130 pages today",
           "tier": 2,
-          "xp": 30,
+          "xp": 40,
           "words": 76,
           "paragraphs": 1,
           "hasRevision": false,
-          "hasBonus": false,
+          "hasBonus": true,
           "quote": true,
           "counter": true,
           "craft": false,
