@@ -1,10 +1,10 @@
 {
-  "generated": "2026-07-27T03:56:50.659Z",
+  "generated": "2026-07-27T04:17:52.670Z",
   "students": [
     {
       "name": "Jaei",
       "grade": "8",
-      "xp": 835,
+      "xp": 865,
       "level": 9,
       "streak": 1,
       "badges": [
@@ -90,12 +90,12 @@
         {
           "item": "\"and\" between two doers → plural verb",
           "cleared": false,
-          "streak": 1
+          "streak": 2
         }
       ],
       "stats": {
-        "entries": 18,
-        "activeDays": 16,
+        "entries": 19,
+        "activeDays": 17,
         "templatesUsed": [
           "01-summary",
           "02-prediction",
@@ -110,21 +110,21 @@
         ],
         "revisions": 16,
         "ace": 12,
-        "quotes": 11,
+        "quotes": 12,
         "counter": 6,
         "craft": 2,
         "compare": 0,
-        "tier3": 6,
-        "readAlouds": 1,
-        "cleanEntries": 1,
-        "cleanStreak": 1,
-        "bestCleanStreak": 1,
+        "tier3": 7,
+        "readAlouds": 2,
+        "cleanEntries": 2,
+        "cleanStreak": 2,
+        "bestCleanStreak": 2,
         "lessons": 0,
         "bookReviews": 4,
         "booksStarted": 8,
         "booksFinished": 7,
         "maxWords": 181,
-        "totalWords": 2069,
+        "totalWords": 2130,
         "maxParagraphs": 4,
         "essayShaped": 0,
         "debateShaped": 1,
@@ -141,10 +141,10 @@
           "seriesTotal": 10,
           "volume": 10,
           "author": "Margaret Peterson Haddix",
-          "entries": 2,
-          "words": 161,
+          "entries": 3,
+          "words": 222,
           "first": "2026-07-25",
-          "last": "2026-07-25",
+          "last": "2026-07-27",
           "finished": true
         },
         {
@@ -757,6 +757,34 @@
           "watchSlip": false,
           "build": "Essay — day 1 of 3",
           "excerpt": "The 39 Clues is not about the bloodthirsty battle between the family to win, it's about the ending when Amy and Dan earned the trust from everyone and got all the ingredients to th"
+        },
+        {
+          "file": "students/Jaei/journal/2026-07-27-12-essay.md",
+          "date": "2026-07-27",
+          "slug": "12-essay",
+          "book": "The 39 Clues: Into the Gauntlet",
+          "bookKey": "the 39 clues#10",
+          "bookShort": "Into the Gauntlet",
+          "series": "The 39 Clues",
+          "seriesEmoji": "🔎",
+          "volume": 10,
+          "author": "Margaret Peterson Haddix",
+          "reading": "essay build day 2; today's reading was a chapter of Keeper of the Lost Cities: Lodestar by Shannon Messenger",
+          "tier": 3,
+          "xp": 30,
+          "words": 61,
+          "paragraphs": 1,
+          "hasRevision": false,
+          "hasBonus": false,
+          "quote": true,
+          "counter": false,
+          "craft": false,
+          "compare": false,
+          "readAloud": true,
+          "watchClean": true,
+          "watchSlip": false,
+          "build": "Essay — day 2 of 3",
+          "excerpt": "What really shows this is the trust in this bloody and backstabbing hunt. This was designed so that people would betray each other until the end: that is what \"Grace planned\" at le"
         }
       ],
       "reports": [
