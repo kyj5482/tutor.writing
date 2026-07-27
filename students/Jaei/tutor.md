@@ -102,6 +102,44 @@ Three things learned in one session, all worth keeping:
    immediately and bank the day. He'd already done a mini-lesson, an essay day, a bonus round
    and a stretch. Pushing past that would cost more than the sentence was worth.
 
+## 🧭 2026-07-27 — he builds forward; he does not go back
+
+The clearest new pattern in the file, and it changes how to write the 🔧.
+
+He has completed **13 of 17 stretch challenges**. But the 🔧 improvement has now gone untaken
+**two sessions running** — 07-25 (give the Olivia Cahill quote its context) and 07-27 (put
+Alistair's line in the paragraph), both offered, both declined with a calm *"done."* On 07-25
+he did the **stretch** the same day he skipped the 🔧.
+
+So it isn't effort and it isn't avoidance. **A stretch is new construction; a 🔧 is going back
+to a room he's already finished.** He'll happily do more work — he just won't do it backwards.
+
+**What to do with that:**
+
+- **Fold the 🔧 into the next day's forward motion** instead of asking for a revision. On a
+  build, day 3 reassembles the essay anyway — the fix arrives as part of *writing the final
+  version*, and he'll do it without noticing it was ever a correction.
+- **Phrase repairs as construction.** Not *"go back and add the context"* but *"when you write
+  the final version, the quote needs one clause telling us what Olivia's wish was."*
+- Don't read the declined 🔧 as disengagement. Both times he'd already done a full session's
+  work and said so plainly. Take him at his word — it has been accurate every time.
+
+**Also today:**
+
+1. **He chose the target over the fresh material.** Offered day 2 of the essay or a Quick Write
+   on *Lodestar* — the book actually in his head, read an hour earlier — he took the essay.
+   That's the second straight session where the **stage beat the easier/newer option**. The
+   07-25 note said "dangle the stage, not the XP." Confirmed twice now; treat it as settled.
+2. **The read-aloud is a habit, not an event.** Second session running, before the save, and
+   this time it turned up **nothing — because there was nothing to find.** That's the goal
+   state. Keep pointing at the 🎤 button; keep it as the step that never gets cut.
+3. **He skipped *Neverseen* and started *Lodestar* (#5).** He didn't abandon the series, he
+   abandoned the *book*. Worth knowing: with him, a set-aside book is not a set-aside series.
+   Don't offer him "book 4 again" — offer him whatever is moving.
+4. **Quotation marks as emphasis, not citation.** He wrote *that is what "Grace planned" at
+   least* — his own words in quotes. First time this has shown up. Not a Watch item yet (once),
+   but if it recurs, it's a rule-shaped error and therefore a **lesson**, not a correction.
+
 ## ⚠️ The diagnosis that matters — why the verb error won't die
 
 He has been corrected on compound subjects **seven times in two months** and the streak is
