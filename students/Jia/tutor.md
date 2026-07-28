@@ -139,7 +139,34 @@ sessions running, and today it slipped **twice in one session**. Correcting it i
 is not working — she needs `lessons/verb-endings.md` taught as a rule, exactly like compound
 subjects, with a check she runs *herself* before either piece is saved. Run it next session.
 
-**4. She now argues the other side unprompted.** Nobody asked for a counterargument and her
+## What 07-28 taught us (the verb-endings lesson session)
+
+**1. The read-aloud must be ONE pass with ONE question.** On 07-27 she gave up after two
+correction rounds. On 07-28 she gave up at the *ask* — I offered three passes (verbs only ·
+two-finger · whole thing) and she replied *"Can I just do ACE"* before running any of them.
+Not tiredness: she had just written her diary in one go. **The menu itself was the problem.**
+➡️ Ask for exactly one pass, name the one thing to listen for, and stop talking. The
+read-aloud is a 10-second habit; the moment it looks like a checklist she opts out of all of it.
+
+**2. She learns a rule from her own live error, not from the statement of it.** Twice now the
+teaching moment has been a *miss*, not an explanation: 07-27's "box of clues" (she matched the
+nearest noun and saw her own habit from outside) and 07-28's #4, where she was asked yes/no,
+instead tried to fix *"Snape and Malfoy is Death Eaters"*, corrected the **noun** and left the
+**verb** — performing the exact point of the question. ➡️ **Build one deliberate near-miss into
+every rule lesson.** Getting it wrong in front of her is worth more than three clean examples.
+
+**3. Worksheet ≠ writing, and writing is what counts.** She answered *"stoled"* on a practice
+item and then wrote *gave, kept, did* correctly in her own diary minutes later. Don't read a
+missed practice item as "the lesson failed" — check the actual entry before concluding anything.
+
+**4. Give her a character with a secret and she goes straight to the guilt.** As Slughorn she
+skipped the plot entirely and wrote *"I was a part of the reason why everyone is scared."*
+Character Diary is her strongest template for the *noticing* she's best at — but note she
+**names** feelings rather than showing them in the body. That's the next Tier-2 craft nudge,
+and it needs a fill-in-the-blank frame (*"When I gave it to him, my ______"*), like everything
+else that gets done.
+
+**5. She now argues the other side unprompted.** Nobody asked for a counterargument and her
 closing line handled the strongest objection to her own claim: *"even though Voldemort wasn't
 dangerous back then, Dumbledore knew he would be dangerous one day."* On 07-14 this was a
 Tier-3 stretch she had to be handed a frame for. Six weeks later it's just how she ends a

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-27T04:20:27.677Z",
+  "generated": "2026-07-28T02:58:52.999Z",
   "students": [
     {
       "name": "Jaei",
@@ -808,9 +808,9 @@
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 705,
+      "xp": 725,
       "level": 8,
-      "streak": 1,
+      "streak": 2,
       "badges": [
         {
           "name": "First Words",
@@ -878,12 +878,12 @@
         {
           "item": "Verb check — endings AND matching the doer",
           "cleared": false,
-          "streak": 0
+          "streak": 1
         }
       ],
       "stats": {
-        "entries": 19,
-        "activeDays": 19,
+        "entries": 20,
+        "activeDays": 20,
         "templatesUsed": [
           "01-summary",
           "02-prediction",
@@ -904,20 +904,20 @@
         "compare": 0,
         "tier3": 0,
         "readAlouds": 1,
-        "cleanEntries": 0,
-        "cleanStreak": 0,
-        "bestCleanStreak": 0,
-        "lessons": 1,
+        "cleanEntries": 1,
+        "cleanStreak": 1,
+        "bestCleanStreak": 1,
+        "lessons": 2,
         "bookReviews": 1,
         "booksStarted": 5,
         "booksFinished": 3,
         "maxWords": 162,
-        "totalWords": 1432,
+        "totalWords": 1490,
         "maxParagraphs": 1,
         "essayShaped": 0,
         "debateShaped": 0,
         "bestStreak": 4,
-        "streak": 1
+        "streak": 2
       },
       "books": [
         {
@@ -929,10 +929,10 @@
           "seriesTotal": 7,
           "volume": 6,
           "author": "J.K. Rowling",
-          "entries": 4,
-          "words": 341,
+          "entries": 5,
+          "words": 399,
           "first": "2026-07-22",
-          "last": "2026-07-27",
+          "last": "2026-07-28",
           "finished": false
         },
         {
@@ -1528,6 +1528,34 @@
           "watchSlip": true,
           "build": null,
           "excerpt": "I think it was right for Dumbledore to reject Voldemort as a teacher because he is dangerous. My evidence is that in the book, Dumbledore said, \"Of course I didn't trust him\" This "
+        },
+        {
+          "file": "students/Jia/journal/2026-07-28-03-character-diary.md",
+          "date": "2026-07-28",
+          "slug": "03-character-diary",
+          "book": "Harry Potter and the Half-Blood Prince",
+          "bookKey": "harry potter#6",
+          "bookShort": "Half-Blood Prince",
+          "series": "Harry Potter",
+          "seriesEmoji": "⚡",
+          "volume": 6,
+          "author": "J.K. Rowling",
+          "reading": "several chapters — Harry finally gets Slughorn's real memory",
+          "tier": 2,
+          "xp": 20,
+          "words": 58,
+          "paragraphs": 1,
+          "hasRevision": false,
+          "hasBonus": false,
+          "quote": false,
+          "counter": false,
+          "craft": false,
+          "compare": false,
+          "readAloud": false,
+          "watchClean": true,
+          "watchSlip": false,
+          "build": null,
+          "excerpt": "Dear Diary, today I gave Harry my memory. I kept thinking about wha I just did. I'm afraid that Harry would hate me and Dumbledore is going to be really disapointed in me. I hope n"
         }
       ],
       "reports": [
