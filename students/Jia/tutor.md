@@ -141,12 +141,18 @@ subjects, with a check she runs *herself* before either piece is saved. Run it n
 
 ## What 07-28 taught us (the verb-endings lesson session)
 
-**1. The read-aloud must be ONE pass with ONE question.** On 07-27 she gave up after two
-correction rounds. On 07-28 she gave up at the *ask* — I offered three passes (verbs only ·
-two-finger · whole thing) and she replied *"Can I just do ACE"* before running any of them.
-Not tiredness: she had just written her diary in one go. **The menu itself was the problem.**
-➡️ Ask for exactly one pass, name the one thing to listen for, and stop talking. The
-read-aloud is a 10-second habit; the moment it looks like a checklist she opts out of all of it.
+**1. The read-aloud must be ONE pass with ONE question — and this was proved twice in one
+session.** I offered three passes on her diary (verbs only · two-finger · whole thing) and she
+replied *"Can I just do ACE"* before running any of them. Later I re-offered the identical
+task on her ACE as **one pass, one question** (*"does anything sound wrong? 'Nope' is a real
+answer"*) — and she picked up the mic immediately. Same kid, same session, same fatigue level.
+**The menu was the problem, not the reading.** ➡️ Ask for exactly one pass, name the one thing
+to listen for, say that "nothing's wrong" counts, and stop talking.
+
+**1b. Read the mic transcript as speech, not as writing.** Her read-aloud came back as
+*"Floodhorn"*, *"Dumblr"*, *"their memory"* — speech-to-text mishearing her, not errors she
+made. Treating those as slips would punish her for doing the exact habit we want. Compare the
+**verbs** against what she typed and ignore everything else.
 
 **2. She learns a rule from her own live error, not from the statement of it.** Twice now the
 teaching moment has been a *miss*, not an explanation: 07-27's "box of clues" (she matched the

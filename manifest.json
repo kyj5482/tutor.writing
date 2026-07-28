@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28T02:58:52.999Z",
+  "generated": "2026-07-28T03:04:32.674Z",
   "students": [
     {
       "name": "Jaei",
@@ -808,7 +808,7 @@
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 725,
+      "xp": 790,
       "level": 8,
       "streak": 2,
       "badges": [
@@ -863,9 +863,19 @@
           "date": "2026-07-27"
         },
         {
+          "name": "Quote Catcher",
+          "emoji": "💬",
+          "date": "2026-07-28"
+        },
+        {
           "name": "Adventurer card COMPLETE",
           "emoji": "🗺️",
           "date": "2026-07-24"
+        },
+        {
+          "name": "Wordsmith card COMPLETE",
+          "emoji": "✍️",
+          "date": "2026-07-28"
         }
       ],
       "tiers": {
@@ -897,13 +907,13 @@
           "10-book-review"
         ],
         "revisions": 12,
-        "ace": 18,
-        "quotes": 5,
+        "ace": 19,
+        "quotes": 6,
         "counter": 4,
         "craft": 2,
         "compare": 0,
         "tier3": 0,
-        "readAlouds": 1,
+        "readAlouds": 2,
         "cleanEntries": 1,
         "cleanStreak": 1,
         "bestCleanStreak": 1,
@@ -1542,16 +1552,16 @@
           "author": "J.K. Rowling",
           "reading": "several chapters — Harry finally gets Slughorn's real memory",
           "tier": 2,
-          "xp": 20,
+          "xp": 35,
           "words": 58,
           "paragraphs": 1,
           "hasRevision": false,
-          "hasBonus": false,
-          "quote": false,
+          "hasBonus": true,
+          "quote": true,
           "counter": false,
           "craft": false,
           "compare": false,
-          "readAloud": false,
+          "readAloud": true,
           "watchClean": true,
           "watchSlip": false,
           "build": null,

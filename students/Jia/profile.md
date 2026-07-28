@@ -7,7 +7,7 @@
 ## Game stats
 
 - **Level:** 8 — 🪶 Voice Finder 🎉 *(leveled up 2026-07-27)*
-- **XP:** 725 (next level at 800 — 75 to go)
+- **XP:** 790 (next level at 800 — **10 to go**)
 - **Current streak:** 2 days (best: 4)
 - **Last entry:** 2026-07-28
 
@@ -23,11 +23,14 @@
 - 🗺️ Template Master (earned 2026-07-24 — used all 10 daily templates!)
 - 🎤 First Listen (earned 2026-07-27 — ran the read-aloud checks before saving)
 - 🎓 Rule Learner (earned 2026-07-27 — completed the compound-subjects mini-lesson)
+- 💬 Quote Catcher (earned 2026-07-28 — a real quote in 5 entries: 07-15, 07-22, 07-24, 07-27, 07-28!)
 
 **Stamp cards:**
 - 🗺️ **Adventurer card COMPLETE** (2026-07-24) — Template Tourist · Template Master · Bookworm · Double Trouble → 🎟️ **+40 XP coupon** awarded 2026-07-25 weekly (card completed when Template Master landed on 07-24; coupon was missed in that session and paid out at the weekly).
 
-*In progress: ✍️ Wordsmith card 3/4 — Detail Detective ✅ · Revision Butterfly ✅ · Tier Climber ✅ · 💬 Quote Catcher ⏳ (**4/5 entries** — 07-15, 07-22, 07-24, 07-27) → +50 XP waiting, **one entry away**. 🎤 Voice card 2/4 — First Listen ✅ · Rule Learner ✅ · 🔊 Sound Check ⏳ (1/5 read-alouds) · 🧹 Clean Sweep ⏳ (0/3) → +40 XP waiting. 🔥 Dedication card 1/4 — First Words ✅, the other three are streak badges.*
+- ✍️ **Wordsmith card COMPLETE** (2026-07-28) — Detail Detective · Revision Butterfly · Tier Climber · 💬 Quote Catcher → 🎟️ **+50 XP coupon** paid the same session (XP 735 → 785).
+
+*In progress: 🎤 Voice card 2/4 — First Listen ✅ · Rule Learner ✅ · 🔊 Sound Check ⏳ (**2/5** read-alouds) · 🧹 Clean Sweep ⏳ (**1/3**) → +40 XP waiting. 🔥 Dedication card 1/4 — First Words ✅, the other three are streak badges. 🏛️ Scholar card 0/4 — Paragraph Pro · Long Haul · Both Sides · Craft Critic → +60 XP; **Paragraph Pro is the one to chase**, and it's the same thing 🏛️ Essay Writer needs.*
 
 ## Skill tiers
 
@@ -141,4 +144,4 @@ one queued (see Writing goal).
 | 2026-07-24 | 09 Quick Write 3-2-1 | 2 | 35 | ACE (declined stretch) | A few chapters — Harry suspects Snape & Malfoy are Death Eaters. Last unused template → 🗺️ **Template Master (all 10)!** Sharp word work ("Dark Lord" vs "You-Know-Who"). 💬 **First clean single-speaker quote** in ACE (Snape "I can't break the Unbreakable Vow") → Quote 3/5. ✅ **Spelling item CLEARED → 3/3!** Verb endings held 0/3 ("Snape and Malfoy is"→are; -ed/-s were fine). 🆙 **Level 7 Evidence Expert!** Day-3 streak. |
 | 2026-07-25 | Weekly review | — | +40 | — | Weekly report (week ending 07-25): 4 entries (07-20, 07-22, 07-23, 07-24), 155 XP, 📚 Bookworm + 🗺️ Template Master + 🆙 Level 7. No +15 (only 4 entries, not 5+). 🎟️ **Adventurer stamp card COMPLETE → +40 XP coupon** — card was finished by Template Master on 07-24 but the coupon was missed that session; paid out here (XP 625 → 665). ✅ **Watch item "Spell the tricky ones" CLEARED 3/3 and retired** 🎉. Verb item **widened** to "endings AND matching the doer" (holds 0/3). Tiers: Evidence promotion **pending** (2 of ~3 clean quotes — needs one in a MAIN entry); Style climbing (2 word-choice moves). New focus: **put the quote in the main entry**. |
 | 2026-07-27 | 04 Opinion (+ lesson: compound subjects) | 2 | 40 | ACE (declined stretch) | 🆙 **Level 8 Voice Finder!** To p.400, Half-Blood Prince — 130-pg day. Dumbledore's memory of refusing Voldemort the teaching job. 💬 **FIRST QUOTE IN A MAIN ENTRY** (Dumbledore, "Of course I didn't trust him") → Quote 4/5, and **Evidence PROMOTED to Tier 2** 🎉. Unprompted counterargument in the closing line. 🎓 **Mini-lesson run — compound subjects** (0/3 for 3 sessions); got 2/4 practice items, and missing the sneaky "box of clues" one showed her her own nearest-noun habit. 🎤 **First Listen** + 🎓 **Rule Learner** badges. Watch list: matching clean, endings slipped ("take") → holds 0/3. Streak reset to 1 after 2 days off. |
-| 2026-07-28 | 03 Character Diary (+ lesson: verb endings) | 2 | 20 | — | Several chapters — Harry finally gets Slughorn's memory. Wrote as **Slughorn**, and found his real feeling: not embarrassment but guilt ("I was a part of the reason why everyone is scared"). 🎓 **Mini-lesson run — verb endings** (0/3 for 4 sessions); answered "stoled" one screen below where **stole** was written, which proved the error is in her ear not her eye. ✅ **Watch list CLEAN → 1/3** — first clean verb entry since 07-22, and the irregular pasts (*gave/kept/did*) she'd just missed in practice were all correct in her own writing. Read-aloud ⬜ skipped (I asked for 3 passes — too many; see tutor.md). No quote → Quote Catcher still 4/5. Day-2 streak. |
+| 2026-07-28 | 03 Character Diary (+ lesson: verb endings) | 2 | 35 (+🎟️50) | ACE (stretch open) | Several chapters — Harry finally gets Slughorn's memory. Wrote as **Slughorn**, and found his real feeling: not embarrassment but guilt ("I was a part of the reason why everyone is scared"). 🎓 **Mini-lesson run — verb endings** (0/3 for 4 sessions); answered "stoled" one screen below where **stole** was written, which proved the error is in her ear not her eye. ✅ **Watch list CLEAN → 1/3** — first clean verb entry since 07-22, and the irregular pasts (*gave/kept/did*) she'd just missed in practice were all correct in her own writing. Read-aloud ✅ on the ACE (declined it first when offered as 3 passes; did it immediately when re-offered as **one** pass — see tutor.md). 💬 **Quote Catcher 5/5 EARNED** on the ACE quote → ✍️ **Wordsmith stamp card COMPLETE → 🎟️ +50 XP**. That quote also contained a compound subject she got right unprompted (*"Dumbledore and I need"*), one day after the ✌️ lesson. Day-2 streak. **10 XP from Level 9.** |

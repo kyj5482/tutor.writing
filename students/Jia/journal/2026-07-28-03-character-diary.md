@@ -2,9 +2,9 @@
 
 - **Book:** Harry Potter and the Half-Blood Prince by J.K. Rowling (several chapters — Harry finally gets Slughorn's real memory)
 - **Template:** 03 Character Diary, Tier 2 — written as Slughorn
-- **XP earned:** 20 (base 10 + Tier 2 bonus 5 + mini-lesson 5)
-- **Read-aloud:** ⬜ skipped
-- **Watch list:** ✅ clean — verb endings all correct (*gave, kept, did, regret*), including three irregular pasts; no compound subject, so the ✌️ check correctly didn't fire
+- **XP earned:** 35 (base 10 + Tier 2 bonus 5 + mini-lesson 5 + ACE 10 + read-aloud 5) — plus a 🎟️ +50 XP coupon for completing the ✍️ Wordsmith stamp card
+- **Read-aloud:** ✅ read aloud before saving (the ACE, on the mic — the transcript came back as "Floodhorn" and "Dumblr", which is the microphone's hearing, not her writing; nothing was changed)
+- **Watch list:** ✅ clean — verb endings all correct in the diary (*gave, kept, did, regret*, three of them irregular pasts) **and** in the ACE (*gave, was touched, told, said, need, shows, cares*); no compound subject in the diary, so the ✌️ check correctly didn't fire, and the one that *did* appear in the ACE — *"Dumbledore and I need"* — she got right
 - **Mini-lesson:** 🎓 `lessons/verb-endings.md` — rule taught 2026-07-28
 
 ## My writing
@@ -28,3 +28,11 @@ One sentence. Fill in this frame: *When I gave it to him, my ______.*
 *"I keep hearing ______ say, '______.'"*
 
 That's 💬 Quote Catcher **5/5** → the ✍️ Wordsmith stamp card completes → 🎟️ **+50 XP.**
+
+## Bonus — ACE Write
+
+**Question:** Slughorn refused to give up that memory for months. Why did he finally hand it over?
+
+Slughorn finally gave the memory because he was touched by what Harry told him. In the book, Harry said, "Dumbledore and I need this so that I don't have to die." This shows that Slughorn cares about Harry defeating Voldemort.
+
+**Tutor note:** 💬 fifth entry with a real quote → **Quote Catcher earned**, completing the ✍️ Wordsmith card. And the quote she chose happens to contain a compound subject — *"Dumbledore and I **need**"* — which she got right, one day after the ✌️ lesson, with nobody asking her to check it.
