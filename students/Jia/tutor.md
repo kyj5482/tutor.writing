@@ -172,7 +172,14 @@ Character Diary is her strongest template for the *noticing* she's best at — b
 and it needs a fill-in-the-blank frame (*"When I gave it to him, my ______"*), like everything
 else that gets done.
 
-**5. She now argues the other side unprompted.** Nobody asked for a counterargument and her
+**5. Offer her a menu of *choices*, not a menu of *tasks*.** The three-pass read-aloud died
+instantly; but "whose voice is stuck in Slughorn's head — Harry's? Dumbledore's? young Tom
+Riddle's? Lily's?" got the stretch done in under a minute, after she'd declined stretches on
+07-23 and 07-24. Same session, opposite results. **A list of things to do reads as homework;
+a list of things to pick from reads as a game.** And she picked the most interesting option on
+the list — Riddle's *"sir"* — not the easiest one.
+
+**6. She now argues the other side unprompted.** Nobody asked for a counterargument and her
 closing line handled the strongest objection to her own claim: *"even though Voldemort wasn't
 dangerous back then, Dumbledore knew he would be dangerous one day."* On 07-14 this was a
 Tier-3 stretch she had to be handed a frame for. Six weeks later it's just how she ends a

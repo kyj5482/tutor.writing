@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28T03:04:32.674Z",
+  "generated": "2026-07-28T03:06:55.075Z",
   "students": [
     {
       "name": "Jaei",
@@ -808,8 +808,8 @@
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 790,
-      "level": 8,
+      "xp": 800,
+      "level": 9,
       "streak": 2,
       "badges": [
         {
@@ -906,7 +906,7 @@
           "09-quick-write-321",
           "10-book-review"
         ],
-        "revisions": 12,
+        "revisions": 13,
         "ace": 19,
         "quotes": 6,
         "counter": 4,
@@ -1552,10 +1552,10 @@
           "author": "J.K. Rowling",
           "reading": "several chapters — Harry finally gets Slughorn's real memory",
           "tier": 2,
-          "xp": 35,
+          "xp": 45,
           "words": 58,
           "paragraphs": 1,
-          "hasRevision": false,
+          "hasRevision": true,
           "hasBonus": true,
           "quote": true,
           "counter": false,

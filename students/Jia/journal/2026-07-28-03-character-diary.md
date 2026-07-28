@@ -2,7 +2,7 @@
 
 - **Book:** Harry Potter and the Half-Blood Prince by J.K. Rowling (several chapters — Harry finally gets Slughorn's real memory)
 - **Template:** 03 Character Diary, Tier 2 — written as Slughorn
-- **XP earned:** 35 (base 10 + Tier 2 bonus 5 + mini-lesson 5 + ACE 10 + read-aloud 5) — plus a 🎟️ +50 XP coupon for completing the ✍️ Wordsmith stamp card
+- **XP earned:** 45 (base 10 + Tier 2 bonus 5 + mini-lesson 5 + ACE 10 + read-aloud 5 + stretch 10) — plus a 🎟️ +50 XP coupon for completing the ✍️ Wordsmith stamp card
 - **Read-aloud:** ✅ read aloud before saving (the ACE, on the mic — the transcript came back as "Floodhorn" and "Dumblr", which is the microphone's hearing, not her writing; nothing was changed)
 - **Watch list:** ✅ clean — verb endings all correct in the diary (*gave, kept, did, regret*, three of them irregular pasts) **and** in the ACE (*gave, was touched, told, said, need, shows, cares*); no compound subject in the diary, so the ✌️ check correctly didn't fire, and the one that *did* appear in the ACE — *"Dumbledore and I need"* — she got right
 - **Mini-lesson:** 🎓 `lessons/verb-endings.md` — rule taught 2026-07-28
@@ -28,6 +28,14 @@ One sentence. Fill in this frame: *When I gave it to him, my ______.*
 *"I keep hearing ______ say, '______.'"*
 
 That's 💬 Quote Catcher **5/5** → the ✍️ Wordsmith stamp card completes → 🎟️ **+50 XP.**
+
+## Revision (if any)
+
+**Stretch completed** — one line added to Slughorn's diary:
+
+I kept hearing Voldemort say "sir" to Slughorn
+
+**Tutor note:** of every line Tom Riddle speaks in that memory, she picked the *politeness*. A single word — **"sir"** — and it's the most damning thing in the chapter: the boy was respectful, Slughorn liked him, and that is exactly why he answered the question. She was offered Harry's voice, Dumbledore's, Lily's, or Riddle's, and chose the one that hurts. *(Small thing to raise another day, not today — the diary slips out of first person at the end: "to Slughorn" should be "to me." One improvement per day, and today's was already spent on showing feelings in the body.)*
 
 ## Bonus — ACE Write
 
