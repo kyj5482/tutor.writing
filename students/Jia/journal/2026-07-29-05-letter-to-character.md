@@ -2,7 +2,7 @@
 
 - **Book:** Harry Potter and the Half-Blood Prince by J.K. Rowling (the Horcrux chapter — Dumbledore explains the ring and Voldemort's split soul)
 - **Template:** 05 Letter to a Character, Tier 2
-- **XP earned:** 25 (base 10 + Tier 2 bonus 5 + read-aloud 5 + day-3 streak bonus 5)
+- **XP earned:** 35 (base 10 + Tier 2 bonus 5 + read-aloud 5 + day-3 streak bonus 5 + ACE bonus 10)
 - **Read-aloud:** ✅ read aloud before saving — caught her own missing word ("the person you can absolutely **trust**")
 - **Watch list:** ✅ clean
 
@@ -35,3 +35,13 @@ Add ONE more line where you quote something someone actually said, and talk back
 > *You said "______" — but ______.*
 
 Pick whose line you want to answer: **Dumbledore's** · **Harry's** · **Snape's**
+
+*(Jia went straight to the ACE round instead — both the 🔧 and the 🚀 stayed open.)*
+
+## Bonus — ACE Write
+
+**Question:** You wrote that Dumbledore is "the person you can absolutely trust." Why does Dumbledore deserve that trust in *this* chapter — what does he actually do here that other adults in Harry's life don't do?
+
+Dumbledore deserves Harry's trust because he tells him all the truth. In the book, Dumbledore shared his memory and all the information he has about Voldemort to Harry, and Harry shared all of the information he had to Dumbledore. This shows that Dumbledore and Harry could trust each other because they are not keeping any secret. It also means that Harry will have support while he's fighting with Voldemort.
+
+*Read-aloud on the ACE: ✅ ran the ✌️ two-finger check on "Dumbledore and Harry could trust" and correctly found nothing to change — a clean pass, not a miss.*

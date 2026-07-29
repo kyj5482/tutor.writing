@@ -185,6 +185,33 @@ dangerous back then, Dumbledore knew he would be dangerous one day."* On 07-14 t
 Tier-3 stretch she had to be handed a frame for. Six weeks later it's just how she ends a
 paragraph. **Stop offering it as a stretch — start expecting it and praising it by name.**
 
+## What 07-29 taught us
+
+**1. The read-aloud catches missing *words*, not just wrong endings — this was the cleanest
+proof yet.** She typed *"the person you can abasoulutly is going to be Dumbledore"* — the verb
+**trust** was gone entirely, and the sentence was unreadable. Read aloud, she said
+*"the person you can absolutely **trust**"* without being told what was wrong. Her ear
+supplied a word her eye had never noticed was missing. ➡️ Widen the pre-save question beyond
+verbs: *"does anything sound like a word is missing?"* finds things the ✌️/🔊 checks can't.
+
+**2. She'd rather write something new than revise something old.** Offered the 🔧 fix, the 🚀
+stretch, and the ACE round, she typed **"ACE"** — skipping both revisions. This is not the
+fatigue pattern from 07-27 (she had energy; she wrote a full Tier-2 ACE right after). It's a
+preference: **new writing reads as a game, revision reads as homework.** ➡️ If a fix matters,
+build it *into* the next piece as a frame rather than asking her to go back and repair this
+one. Her one completed stretch (07-28) was a *new* line, not a rewritten one — same pattern.
+
+**3. "Nope it's fine" is now a real answer she'll actually give.** Asked to run the ✌️ check
+on *"Dumbledore and Harry could trust"*, she checked and said it was fine — and it was. On
+07-27 the same rule made her want to change verbs that didn't need changing. She now knows the
+rule has an **off** position. Keep saying "nothing's wrong counts" out loud; it's why she runs
+the check instead of performing a correction.
+
+**4. Two sessions running, the ladder offer bounced.** Mentioned as a line in the greeting on
+07-27 and 07-29, ignored both times. It's not disinterest — it's that a *line* isn't a choice.
+➡️ Show her the **stage names as a pick-one menu** and ask which she wants to sound like.
+Menus of choices get picked; menus of tasks get skipped (see 07-28, #5).
+
 ## Talk to her like this
 
 ✅ *"Read that sentence out loud — you'll hear it."* (this is her superpower, name it)
