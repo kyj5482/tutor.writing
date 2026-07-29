@@ -1,11 +1,11 @@
 {
-  "generated": "2026-07-29T02:15:20.716Z",
+  "generated": "2026-07-29T03:00:08.344Z",
   "students": [
     {
       "name": "Jaei",
       "grade": "8",
-      "xp": 865,
-      "level": 9,
+      "xp": 935,
+      "level": 10,
       "streak": 1,
       "badges": [
         {
@@ -64,6 +64,16 @@
           "date": "2026-07-25"
         },
         {
+          "name": "Clean Sweep",
+          "emoji": "🧹",
+          "date": "2026-07-29"
+        },
+        {
+          "name": "Paragraph Pro",
+          "emoji": "🧱",
+          "date": "2026-07-29"
+        },
+        {
           "name": "Wordsmith card COMPLETE",
           "emoji": "✍️",
           "date": "2026-07-14"
@@ -74,9 +84,14 @@
           "date": "2026-07-16"
         },
         {
-          "name": "Voice card 2/4",
+          "name": "Voice card 3/4",
           "emoji": "🎤",
-          "date": "2026-07-25"
+          "date": "2026-07-29"
+        },
+        {
+          "name": "Scholar card 1/4",
+          "emoji": "🏛️",
+          "date": "2026-07-29"
         }
       ],
       "tiers": {
@@ -86,16 +101,10 @@
         "style": 2
       },
       "goal": null,
-      "watch": [
-        {
-          "item": "\"and\" between two doers → plural verb",
-          "cleared": false,
-          "streak": 2
-        }
-      ],
+      "watch": [],
       "stats": {
-        "entries": 19,
-        "activeDays": 17,
+        "entries": 20,
+        "activeDays": 18,
         "templatesUsed": [
           "01-summary",
           "02-prediction",
@@ -108,26 +117,26 @@
           "09-quick-write-321",
           "10-book-review"
         ],
-        "revisions": 16,
+        "revisions": 17,
         "ace": 12,
-        "quotes": 12,
-        "counter": 6,
+        "quotes": 13,
+        "counter": 7,
         "craft": 2,
         "compare": 0,
-        "tier3": 7,
-        "readAlouds": 2,
-        "cleanEntries": 2,
-        "cleanStreak": 2,
-        "bestCleanStreak": 2,
+        "tier3": 8,
+        "readAlouds": 3,
+        "cleanEntries": 3,
+        "cleanStreak": 3,
+        "bestCleanStreak": 3,
         "lessons": 0,
         "bookReviews": 4,
         "booksStarted": 8,
         "booksFinished": 7,
-        "maxWords": 181,
-        "totalWords": 2130,
+        "maxWords": 240,
+        "totalWords": 2370,
         "maxParagraphs": 4,
-        "essayShaped": 0,
-        "debateShaped": 1,
+        "essayShaped": 1,
+        "debateShaped": 2,
         "bestStreak": 5,
         "streak": 1
       },
@@ -141,10 +150,10 @@
           "seriesTotal": 10,
           "volume": 10,
           "author": "Margaret Peterson Haddix",
-          "entries": 3,
-          "words": 222,
+          "entries": 4,
+          "words": 462,
           "first": "2026-07-25",
-          "last": "2026-07-27",
+          "last": "2026-07-29",
           "finished": true
         },
         {
@@ -785,6 +794,34 @@
           "watchSlip": false,
           "build": "Essay — day 2 of 3",
           "excerpt": "What really shows this is the trust in this bloody and backstabbing hunt. This was designed so that people would betray each other until the end: that is what \"Grace planned\" at le"
+        },
+        {
+          "file": "students/Jaei/journal/2026-07-29-12-essay.md",
+          "date": "2026-07-29",
+          "slug": "12-essay",
+          "book": "The 39 Clues: Into the Gauntlet",
+          "bookKey": "the 39 clues#10",
+          "bookShort": "Into the Gauntlet",
+          "series": "The 39 Clues",
+          "seriesEmoji": "🔎",
+          "volume": 10,
+          "author": "Margaret Peterson Haddix",
+          "reading": "essay build day 3 — the complete assembled essay; today's reading was Keeper of the Lost Cities: Lodestar by Shannon Messenger",
+          "tier": 3,
+          "xp": 70,
+          "words": 240,
+          "paragraphs": 3,
+          "hasRevision": true,
+          "hasBonus": false,
+          "quote": true,
+          "counter": true,
+          "craft": false,
+          "compare": false,
+          "readAloud": true,
+          "watchClean": true,
+          "watchSlip": false,
+          "build": "Essay — day 3 of 3 ✅ **COMPLETE** (240 words, 3 paragraphs · day 1 = thesis + paragraph 1 · day 2 = paragraph 2 · day 3 = concession + ending + assembly)",
+          "excerpt": "The 39 Clues is not about the bloodthirsty battle between the family to win, it's about the ending when Amy and Dan earned the trust from everyone and got all the ingredients to th"
         }
       ],
       "reports": [

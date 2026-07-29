@@ -140,6 +140,35 @@ to a room he's already finished.** He'll happily do more work — he just won't 
    least* — his own words in quotes. First time this has shown up. Not a Watch item yet (once),
    but if it recurs, it's a rule-shaped error and therefore a **lesson**, not a correction.
 
+## ✅ 2026-07-29 — the 07-27 theory was right, and it's now a technique
+
+The prediction two days ago was: *he won't do a 🔧, but he'll do the same work if you call it
+building instead of fixing.* Tested today. **It held, completely.**
+
+The Alistair quote had been declined twice as a repair (07-25, 07-27). Today it was asked for as
+*"the final version needs it"*, with the insertion point shown — and he did it **immediately, and
+then did it a second time** when handed a frame to sharpen it. Same task, same kid, two refusals
+and then two rounds of willing work. The only variable was the word.
+
+> **Never say "go back and fix." Say "the next version needs."** Write it into every 🔧 from here.
+
+He also, unprompted, cleaned up the thing nobody re-mentioned: the quotation marks he'd put around
+his **own** words on day 2 (*"Grace planned"*) are gone from the final essay. Flagged once, in
+passing, two days earlier. **He carries corrections forward on his own — he just won't walk
+backward to apply them.** That is a completely different thing from not listening, and the file
+should say so plainly.
+
+**Two more things from today:**
+
+1. **He under-writes the last sentence of a paragraph and over-writes the good one.** His Alistair
+   sentence does four jobs in one breath (who, what he did before, what he said, what followed).
+   It's his best sentence and it's overloaded. He has no instinct yet for *rhythm* — long, long,
+   **short**. That's the next craft move, and it's small enough to land in one session.
+2. **The compound-subject error is dead** (3/3, retired). The replacement candidate is
+   **a/an before a vowel** — *four* sightings since 07-11 and **never once addressed.** Do not
+   correct it a first time. This kid has now produced two months of evidence that corrections
+   don't take and rules do: **write the lesson and run it.** `lessons/` needs an `a-an.md`.
+
 ## ⚠️ The diagnosis that matters — why the verb error won't die
 
 He has been corrected on compound subjects **seven times in two months** and the streak is
