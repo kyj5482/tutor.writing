@@ -7,9 +7,9 @@
 ## Game stats
 
 - **Level:** 9 — 🌟 Author-in-Training 🎉 *(leveled up 2026-07-28 — two levels in two days)*
-- **XP:** 800 (next level at 900 — 100 to go)
-- **Current streak:** 2 days (best: 4)
-- **Last entry:** 2026-07-28
+- **XP:** 825 (next level at 900 — 75 to go)
+- **Current streak:** 3 days 🔥 (best: 4 — one more ties it)
+- **Last entry:** 2026-07-29
 
 ## Badges
 
@@ -30,7 +30,7 @@
 
 - ✍️ **Wordsmith card COMPLETE** (2026-07-28) — Detail Detective · Revision Butterfly · Tier Climber · 💬 Quote Catcher → 🎟️ **+50 XP coupon** paid the same session (XP 735 → 785).
 
-*In progress: 🎤 Voice card 2/4 — First Listen ✅ · Rule Learner ✅ · 🔊 Sound Check ⏳ (**2/5** read-alouds) · 🧹 Clean Sweep ⏳ (**1/3**) → +40 XP waiting. 🔥 Dedication card 1/4 — First Words ✅, the other three are streak badges. 🏛️ Scholar card 0/4 — Paragraph Pro · Long Haul · Both Sides · Craft Critic → +60 XP; **Paragraph Pro is the one to chase**, and it's the same thing 🏛️ Essay Writer needs.*
+*In progress: 🎤 Voice card 2/4 — First Listen ✅ · Rule Learner ✅ · 🔊 Sound Check ⏳ (**3/5** read-alouds) · 🧹 Clean Sweep ⏳ (**2/3**) → +40 XP waiting. 🔥 Dedication card 1/4 — First Words ✅, the other three are streak badges. 🏛️ Scholar card 0/4 — Paragraph Pro · Long Haul · Both Sides · Craft Critic → +60 XP; **Paragraph Pro is the one to chase**, and it's the same thing 🏛️ Essay Writer needs.*
 
 ## Skill tiers
 
@@ -73,6 +73,12 @@ one queued (see Writing goal).
 - **Next milestone is 🏛️ Essay Writer**, and the blocker is unchanged: **paragraph breaks.**
   That's the next lesson to run, then `templates/12-essay.md` at Tier 1 as a 3-day build.
 - **Next session:** show her the 🪜 My Ladder page again and let her choose. If she picks, set the "Aiming for" line to `evidence` (or whatever she names).
+- **07-29: offered again, skipped again.** Mentioned in one line at the top of the session and
+  she went straight past it to the writing — same as 07-27. That's now twice. **Stop offering
+  it as a line in the greeting; it doesn't land there.** Next time show her the *stage names
+  themselves* as a pick-one menu (⚖️ Debater · 🔬 Critic · 🎓 Scholar) — she takes menus of
+  choices and declines menus of tasks (see `tutor.md`), and "which one do you want to sound
+  like?" is a choice.
 
 ## Watch list
 
@@ -108,9 +114,9 @@ one queued (see Writing goal).
 
 *(🎉 **Retired 2026-07-25 weekly — "Spell the tricky ones" ✅ CLEARED 3/3.** Clean on 07-20 (Gryffindor, Professor, Umbridge, Hogwarts, Sirius Black), 07-23 (Voldemort, Dumbledore) and 07-24 (Snape, Malfoy, Death Eater, Unbreakable Vow — main entry **and** ACE). The read-aloud-before-saving habit did it. Celebrated in the 07-25 weekly.)*
 
-- [ ] **Verb check — endings AND matching the doer** — clean streak: **1/3** · endings: "Have you ever wonder" → "wonder**ed**", "Sirius Black die" → "die**d**", "what he stoled" → "**stole**" · matching: "Snape and Malfoy **is** a Death Eater" → "**are** Death Eater**s**" · **Read it aloud, and at each verb ask: who is doing this — one, or more than one?**
+- [ ] **Verb check — endings AND matching the doer** — clean streak: **2/3** · endings: "Have you ever wonder" → "wonder**ed**", "Sirius Black die" → "die**d**", "what he stoled" → "**stole**" · matching: "Snape and Malfoy **is** a Death Eater" → "**are** Death Eater**s**" · **Read it aloud, and at each verb ask: who is doing this — one, or more than one?**
   - Added 2026-07-20 (same -ed/-s slip in 07-16 and 07-20). **Widened 2026-07-25 weekly** from "verb endings (-ed/-s)" to include subject–verb matching, after 07-24 showed it's one skill wearing two hats.
-  - History: 07-20 slipped (wonder/believe/die) · 07-22 clean → 1/3 · 07-23 slipped ("stoled") → reset 0/3 · 07-24 endings clean but "Snape and Malfoy is" → held 0/3 · **07-27 rule taught (compound subjects); matching half clean — she ran the ✌️ check and correctly found nothing to change — but endings slipped in BOTH the main entry ("Dumbledore take risk") and the ACE ("he want to keep it private") → holds 0/3.** · **07-28 rule taught (verb endings); ✅ CLEAN — *gave, kept, did, regret*, three of them irregular pasts, and no compound subject so the ✌️ check correctly stayed silent → 1/3.**
+  - History: 07-20 slipped (wonder/believe/die) · 07-22 clean → 1/3 · 07-23 slipped ("stoled") → reset 0/3 · 07-24 endings clean but "Snape and Malfoy is" → held 0/3 · **07-27 rule taught (compound subjects); matching half clean — she ran the ✌️ check and correctly found nothing to change — but endings slipped in BOTH the main entry ("Dumbledore take risk") and the ACE ("he want to keep it private") → holds 0/3.** · **07-28 rule taught (verb endings); ✅ CLEAN — *gave, kept, did, regret*, three of them irregular pasts, and no compound subject so the ✌️ check correctly stayed silent → 1/3.** · **07-29 ✅ CLEAN → 2/3 — *told, felt, can trust, did feel, could find* all correct, and the compound subject *"you and Dumbledore could find"* handled unprompted for the second session running. One more clean entry clears this item.**
   - **Split this row at the next weekly.** 07-27 proved they are two separate skills with two
     separate cures, and scoring them as one row means the *matching* half can never show a
     clean streak even when she nails it. Suggested rows: **"✌️ and → plural verb"** (rule
@@ -145,3 +151,4 @@ one queued (see Writing goal).
 | 2026-07-25 | Weekly review | — | +40 | — | Weekly report (week ending 07-25): 4 entries (07-20, 07-22, 07-23, 07-24), 155 XP, 📚 Bookworm + 🗺️ Template Master + 🆙 Level 7. No +15 (only 4 entries, not 5+). 🎟️ **Adventurer stamp card COMPLETE → +40 XP coupon** — card was finished by Template Master on 07-24 but the coupon was missed that session; paid out here (XP 625 → 665). ✅ **Watch item "Spell the tricky ones" CLEARED 3/3 and retired** 🎉. Verb item **widened** to "endings AND matching the doer" (holds 0/3). Tiers: Evidence promotion **pending** (2 of ~3 clean quotes — needs one in a MAIN entry); Style climbing (2 word-choice moves). New focus: **put the quote in the main entry**. |
 | 2026-07-27 | 04 Opinion (+ lesson: compound subjects) | 2 | 40 | ACE (declined stretch) | 🆙 **Level 8 Voice Finder!** To p.400, Half-Blood Prince — 130-pg day. Dumbledore's memory of refusing Voldemort the teaching job. 💬 **FIRST QUOTE IN A MAIN ENTRY** (Dumbledore, "Of course I didn't trust him") → Quote 4/5, and **Evidence PROMOTED to Tier 2** 🎉. Unprompted counterargument in the closing line. 🎓 **Mini-lesson run — compound subjects** (0/3 for 3 sessions); got 2/4 practice items, and missing the sneaky "box of clues" one showed her her own nearest-noun habit. 🎤 **First Listen** + 🎓 **Rule Learner** badges. Watch list: matching clean, endings slipped ("take") → holds 0/3. Streak reset to 1 after 2 days off. |
 | 2026-07-28 | 03 Character Diary (+ lesson: verb endings) | 2 | 45 (+🎟️50) | **Stretch done** (Riddle's "sir") + ACE | 🆙 **Level 9 Author-in-Training!** Several chapters — Harry finally gets Slughorn's memory. Wrote as **Slughorn**, and found his real feeling: not embarrassment but guilt ("I was a part of the reason why everyone is scared"). 🎓 **Mini-lesson run — verb endings** (0/3 for 4 sessions); answered "stoled" one screen below where **stole** was written, which proved the error is in her ear not her eye. ✅ **Watch list CLEAN → 1/3** — first clean verb entry since 07-22, and the irregular pasts (*gave/kept/did*) she'd just missed in practice were all correct in her own writing. Read-aloud ✅ on the ACE (declined it first when offered as 3 passes; did it immediately when re-offered as **one** pass — see tutor.md). 💬 **Quote Catcher 5/5 EARNED** on the ACE quote → ✍️ **Wordsmith stamp card COMPLETE → 🎟️ +50 XP**. That quote also contained a compound subject she got right unprompted (*"Dumbledore and I need"*), one day after the ✌️ lesson. 🚀 **Stretch done:** asked whose voice haunts Slughorn, she chose young Tom Riddle's *politeness* — *I kept hearing Voldemort say "sir"* — a one-word quote that indicts the whole chapter. Day-2 streak. 🆙 **Level 9 at 800 XP.** *(Watch for next time, not corrected today: the diary slid out of first person — "to Slughorn" → "to me".)* |
+| 2026-07-29 | 05 Letter to a Character | 2 | 25 | *(pending — stretch & ACE offered)* | Amount unknown ("I don't really know how much I read") — the Horcrux chapter, Dumbledore explaining the ring and Voldemort's split soul. Letter to Harry. **Nailed the reader-knows-more tease in four words — "Be careful about Snape."** ✅ **Watch list CLEAN → 2/3** (one more clears it): all verb endings correct, and the compound subject *"you and Dumbledore could find"* right without a reminder, two sessions running. 🎤 **Read-aloud found her own missing word** — she typed *"the person you can abasoulutly is going to be Dumbledore"* and read *"can absolutely **trust**"*, supplying the dropped verb by ear. Textbook proof of the ear-not-eye pattern; saved with her fix. 🔧 given: *"all of the truth"* is the whole chapter — name the one exact moment (the ring). Day-3 streak (+5). 🔊 Sound Check 3/5 · 🧹 Clean Sweep 2/3. |

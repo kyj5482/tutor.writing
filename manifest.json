@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28T03:06:55.075Z",
+  "generated": "2026-07-29T02:10:11.499Z",
   "students": [
     {
       "name": "Jaei",
@@ -808,9 +808,9 @@
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 800,
+      "xp": 825,
       "level": 9,
-      "streak": 2,
+      "streak": 3,
       "badges": [
         {
           "name": "First Words",
@@ -888,12 +888,12 @@
         {
           "item": "Verb check — endings AND matching the doer",
           "cleared": false,
-          "streak": 1
+          "streak": 2
         }
       ],
       "stats": {
-        "entries": 20,
-        "activeDays": 20,
+        "entries": 21,
+        "activeDays": 21,
         "templatesUsed": [
           "01-summary",
           "02-prediction",
@@ -913,21 +913,21 @@
         "craft": 2,
         "compare": 0,
         "tier3": 0,
-        "readAlouds": 2,
-        "cleanEntries": 1,
-        "cleanStreak": 1,
-        "bestCleanStreak": 1,
+        "readAlouds": 3,
+        "cleanEntries": 2,
+        "cleanStreak": 2,
+        "bestCleanStreak": 2,
         "lessons": 2,
         "bookReviews": 1,
         "booksStarted": 5,
         "booksFinished": 3,
         "maxWords": 162,
-        "totalWords": 1490,
+        "totalWords": 1547,
         "maxParagraphs": 1,
         "essayShaped": 0,
         "debateShaped": 0,
-        "bestStreak": 4,
-        "streak": 2
+        "bestStreak": null,
+        "streak": 3
       },
       "books": [
         {
@@ -939,10 +939,10 @@
           "seriesTotal": 7,
           "volume": 6,
           "author": "J.K. Rowling",
-          "entries": 5,
-          "words": 399,
+          "entries": 6,
+          "words": 456,
           "first": "2026-07-22",
-          "last": "2026-07-28",
+          "last": "2026-07-29",
           "finished": false
         },
         {
@@ -1566,6 +1566,34 @@
           "watchSlip": false,
           "build": null,
           "excerpt": "Dear Diary, today I gave Harry my memory. I kept thinking about wha I just did. I'm afraid that Harry would hate me and Dumbledore is going to be really disapointed in me. I hope n"
+        },
+        {
+          "file": "students/Jia/journal/2026-07-29-05-letter-to-character.md",
+          "date": "2026-07-29",
+          "slug": "05-letter-to-character",
+          "book": "Harry Potter and the Half-Blood Prince",
+          "bookKey": "harry potter#6",
+          "bookShort": "Half-Blood Prince",
+          "series": "Harry Potter",
+          "seriesEmoji": "⚡",
+          "volume": 6,
+          "author": "J.K. Rowling",
+          "reading": "the Horcrux chapter — Dumbledore explains the ring and Voldemort's split soul",
+          "tier": 2,
+          "xp": 25,
+          "words": 57,
+          "paragraphs": 1,
+          "hasRevision": false,
+          "hasBonus": false,
+          "quote": false,
+          "counter": false,
+          "craft": false,
+          "compare": false,
+          "readAloud": true,
+          "watchClean": true,
+          "watchSlip": false,
+          "build": null,
+          "excerpt": "Dear Harry, When Dumbledore told you about all of the truth, I felt like the person you can absolutely trust is going to be Dumbledore. How did you feel when he told you about the "
         }
       ],
       "reports": [
