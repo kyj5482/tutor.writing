@@ -218,6 +218,19 @@ cities." He caught none of these himself (why would he — he said the right wor
 wrong) and needed them pointed out before saving. Worth a heads-up before future read-alouds on
 books with invented names: check the proper nouns after any mic pass, not just the grammar.
 
+**The dialogue skill generalized past the essay.** All the profile's evidence toward Style Tier 3
+came from the same essay, revised across three days. Today, in a completely different template
+(Book Review) and a completely different book (Lodestar, not Into the Gauntlet), he reached for
+real quoted dialogue again, unprompted, in the ACE bonus — *"when Sophie said, 'Oh! That's why
+you did that!'"* That's the proof this isn't a trick he learned for one essay; it's a move he now
+reaches for. Good sign for the 07-27/07-29 "he carries things forward, he just won't walk
+backward" theory too — this is carrying forward into new material, which is the harder version.
+
+**He still checks the ledger.** Asked outright *"do i get additional xp"* for a second read-aloud
+pass. Told plainly no — the bonus is once per day, already earned — he accepted it immediately and
+moved on. Consistent with the 07-14/07-23 pattern (he's caught the tutor's bookkeeping mistakes
+twice before): keep being exact and fast with the correction, even when the answer is "no."
+
 ## How to run a session with him
 
 - **Skip the warm-up.** He wants the template and the writing. Long lead-ins lose him.

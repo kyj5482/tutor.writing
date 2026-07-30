@@ -1,11 +1,11 @@
 {
-  "generated": "2026-07-30T01:10:28.235Z",
+  "generated": "2026-07-30T01:16:47.571Z",
   "students": [
     {
       "name": "Jaei",
       "grade": "8",
-      "xp": 990,
-      "level": 10,
+      "xp": 1000,
+      "level": 11,
       "streak": 2,
       "badges": [
         {
@@ -124,10 +124,10 @@
           "10-book-review"
         ],
         "revisions": 18,
-        "ace": 12,
-        "quotes": 13,
+        "ace": 13,
+        "quotes": 14,
         "counter": 8,
-        "craft": 2,
+        "craft": 3,
         "compare": 0,
         "tier3": 9,
         "readAlouds": 4,
@@ -857,14 +857,14 @@
           "author": "Shannon Messenger",
           "reading": "#5 — finished the book today!",
           "tier": 3,
-          "xp": 55,
+          "xp": 65,
           "words": 161,
           "paragraphs": 1,
           "hasRevision": true,
-          "hasBonus": false,
-          "quote": false,
+          "hasBonus": true,
+          "quote": true,
           "counter": true,
-          "craft": false,
+          "craft": true,
           "compare": false,
           "readAloud": true,
           "watchClean": false,
