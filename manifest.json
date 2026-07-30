@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-30T00:12:22.367Z",
+  "generated": "2026-07-30T01:10:28.235Z",
   "students": [
     {
       "name": "Jaei",
       "grade": "8",
-      "xp": 935,
+      "xp": 990,
       "level": 10,
-      "streak": 1,
+      "streak": 2,
       "badges": [
         {
           "name": "First Words",
@@ -101,10 +101,16 @@
         "style": 2
       },
       "goal": null,
-      "watch": [],
+      "watch": [
+        {
+          "item": "Quotation marks = the book's exact words only",
+          "cleared": false,
+          "streak": 0
+        }
+      ],
       "stats": {
-        "entries": 20,
-        "activeDays": 18,
+        "entries": 21,
+        "activeDays": 19,
         "templatesUsed": [
           "01-summary",
           "02-prediction",
@@ -117,30 +123,45 @@
           "09-quick-write-321",
           "10-book-review"
         ],
-        "revisions": 17,
+        "revisions": 18,
         "ace": 12,
         "quotes": 13,
-        "counter": 7,
+        "counter": 8,
         "craft": 2,
         "compare": 0,
-        "tier3": 8,
-        "readAlouds": 3,
+        "tier3": 9,
+        "readAlouds": 4,
         "cleanEntries": 3,
-        "cleanStreak": 3,
+        "cleanStreak": 0,
         "bestCleanStreak": 3,
         "lessons": 0,
-        "bookReviews": 4,
-        "booksStarted": 8,
-        "booksFinished": 7,
+        "bookReviews": 5,
+        "booksStarted": 9,
+        "booksFinished": 8,
         "maxWords": 240,
-        "totalWords": 2370,
+        "totalWords": 2531,
         "maxParagraphs": 4,
         "essayShaped": 1,
         "debateShaped": 2,
         "bestStreak": 5,
-        "streak": 1
+        "streak": 2
       },
       "books": [
+        {
+          "key": "keeper of the lost cities#5",
+          "title": "Keeper of the Lost Cities: Lodestar",
+          "short": "Lodestar",
+          "series": "Keeper of the Lost Cities",
+          "seriesEmoji": "🌌",
+          "seriesTotal": 9,
+          "volume": 5,
+          "author": "Shannon Messenger",
+          "entries": 1,
+          "words": 161,
+          "first": "2026-07-30",
+          "last": "2026-07-30",
+          "finished": true
+        },
         {
           "key": "the 39 clues#10",
           "title": "The 39 Clues: Into the Gauntlet",
@@ -822,6 +843,34 @@
           "watchSlip": false,
           "build": "Essay — day 3 of 3 ✅ **COMPLETE** (240 words, 3 paragraphs · day 1 = thesis + paragraph 1 · day 2 = paragraph 2 · day 3 = concession + ending + assembly)",
           "excerpt": "The 39 Clues is not about the bloodthirsty battle between the family to win, it's about the ending when Amy and Dan earned the trust from everyone and got all the ingredients to th"
+        },
+        {
+          "file": "students/Jaei/journal/2026-07-30-10-book-review.md",
+          "date": "2026-07-30",
+          "slug": "10-book-review",
+          "book": "Keeper of the Lost Cities: Lodestar",
+          "bookKey": "keeper of the lost cities#5",
+          "bookShort": "Lodestar",
+          "series": "Keeper of the Lost Cities",
+          "seriesEmoji": "🌌",
+          "volume": 5,
+          "author": "Shannon Messenger",
+          "reading": "#5 — finished the book today!",
+          "tier": 3,
+          "xp": 55,
+          "words": 161,
+          "paragraphs": 1,
+          "hasRevision": true,
+          "hasBonus": false,
+          "quote": false,
+          "counter": true,
+          "craft": false,
+          "compare": false,
+          "readAloud": true,
+          "watchClean": false,
+          "watchSlip": true,
+          "build": null,
+          "excerpt": "What would you do in a new world when everything that happens is more than anyone has ever done? Sophie is in the Lost cities and are new to this world, but she is involved with th"
         }
       ],
       "reports": [

@@ -193,6 +193,31 @@ handed the corrected sentence.
 He is an analyst. Give him the *why* and he will apply it; give him the fix and he will
 nod and repeat the error next week. Six weeks of evidence says so.
 
+## 🧭 2026-07-30 — two things that need watching, one operational note
+
+**The compound-subject fix may not be as solid as the 3/3 retirement suggested.** In a brand-new
+sentence (Book Review, not the essay he'd mastered it in), he wrote *"She and her friend is up
+against the Neverseen"* — the classic proximity-agreement shape. Pointed at it directly, twice,
+by name (✌️ two-finger check), he **did not fix it either time** — the first miss on this error
+since the lesson landed. Two honest readings: either the skill hasn't fully generalized past the
+essay context it was drilled in, or on a night with a lot of other corrections already in flight
+(names, "anyone has," the quote) verb-checking just didn't get another pass. Don't re-teach the
+rule and don't add it back to the Watch list on one slip — but if it shows up in the next entry,
+that's a real pattern, not a fluke, and it goes straight back on the list.
+
+**The quotation-marks-as-emphasis pattern is confirmed, not a one-off.** First seen 07-27 (*"Grace
+planned"*), and today he did it again — wrapped his own paraphrase (*"everyone lost their trust in
+Keefe..."*) in quotes instead of finding a real line from the book, even right after being asked
+directly for a real quote. This is now a proper Watch item. He doesn't yet have a working model of
+what quotation marks are *for* — worth a short, direct rule statement next time it comes up
+("quotes mean these are the author's exact words"), not a lesson-length production yet.
+
+**Operational note: the mic mishears fantasy names.** Reading Lodestar aloud, the transcription
+turned Sophie → "Salvation," Keefe → "Kofi," Neverseen → "never seen," Lost Cities → "last
+cities." He caught none of these himself (why would he — he said the right word, the mic heard it
+wrong) and needed them pointed out before saving. Worth a heads-up before future read-alouds on
+books with invented names: check the proper nouns after any mic pass, not just the grammar.
+
 ## How to run a session with him
 
 - **Skip the warm-up.** He wants the template and the writing. Long lead-ins lose him.
