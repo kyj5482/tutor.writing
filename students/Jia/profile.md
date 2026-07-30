@@ -1,15 +1,15 @@
 # Profile — Jia
 
 - **Grade:** 6
-- **Current book:** Harry Potter and the Half-Blood Prince by J.K. Rowling (started 2026-07-20)
-- **Books finished:** Harry Potter and the Prisoner of Azkaban, Harry Potter and the Goblet of Fire, Harry Potter and the Order of the Phoenix (finished 2026-07-20 — 766 pages!)
+- **Current book:** _(between books as of 2026-07-30 — **finished Half-Blood Prince**. Deathly Hallows is the obvious next, but she has never been offered a non-fantasy book; see `library/reading-ladder.md` and ask at the top of the next session.)_
+- **Books finished:** Harry Potter and the Prisoner of Azkaban, Harry Potter and the Goblet of Fire, Harry Potter and the Order of the Phoenix (finished 2026-07-20 — 766 pages!), **Harry Potter and the Half-Blood Prince (finished 2026-07-30)**
 
 ## Game stats
 
-- **Level:** 9 — 🌟 Author-in-Training 🎉 *(leveled up 2026-07-28 — two levels in two days)*
-- **XP:** 835 (next level at 900 — 65 to go)
-- **Current streak:** 3 days 🔥 (best: 4 — one more ties it)
-- **Last entry:** 2026-07-29
+- **Level:** **10 — 👑 Master Author** 🎉 *(leveled up 2026-07-30 — **three levels in three days**, 8 → 9 → 10)*
+- **XP:** 900 (next level at 1000 — 100 to go)
+- **Current streak:** 4 days 🔥 (**ties her all-time best**)
+- **Last entry:** 2026-07-30
 
 ## Badges
 
@@ -24,19 +24,21 @@
 - 🎤 First Listen (earned 2026-07-27 — ran the read-aloud checks before saving)
 - 🎓 Rule Learner (earned 2026-07-27 — completed the compound-subjects mini-lesson)
 - 💬 Quote Catcher (earned 2026-07-28 — a real quote in 5 entries: 07-15, 07-22, 07-24, 07-27, 07-28!)
+- 🧹 Clean Sweep (earned 2026-07-30 — 3 entries in a row with no Watch-list slip: 07-28, 07-29, 07-30)
+- 🧱 Paragraph Pro (earned 2026-07-30 — **the first paragraph break in 20 entries.** Found both breaks herself in under a minute after the mini-lesson)
 
 **Stamp cards:**
 - 🗺️ **Adventurer card COMPLETE** (2026-07-24) — Template Tourist · Template Master · Bookworm · Double Trouble → 🎟️ **+40 XP coupon** awarded 2026-07-25 weekly (card completed when Template Master landed on 07-24; coupon was missed in that session and paid out at the weekly).
 
 - ✍️ **Wordsmith card COMPLETE** (2026-07-28) — Detail Detective · Revision Butterfly · Tier Climber · 💬 Quote Catcher → 🎟️ **+50 XP coupon** paid the same session (XP 735 → 785).
 
-*In progress: 🎤 Voice card 2/4 — First Listen ✅ · Rule Learner ✅ · 🔊 Sound Check ⏳ (**3/5** read-alouds) · 🧹 Clean Sweep ⏳ (**2/3**) → +40 XP waiting. 🔥 Dedication card 1/4 — First Words ✅, the other three are streak badges. 🏛️ Scholar card 0/4 — Paragraph Pro · Long Haul · Both Sides · Craft Critic → +60 XP; **Paragraph Pro is the one to chase**, and it's the same thing 🏛️ Essay Writer needs.*
+*In progress: 🎤 Voice card **3/4** — First Listen ✅ · Rule Learner ✅ · 🧹 Clean Sweep ✅ (2026-07-30) · 🔊 Sound Check ⏳ (**4/5** read-alouds) → **+40 XP is one read-aloud away.** 🔥 Dedication card 1/4 — First Words ✅, the other three are streak badges. 🏛️ Scholar card **1/4** — 🧱 Paragraph Pro ✅ (2026-07-30) · Long Haul (250 words) · Both Sides (5 entries) · Craft Critic (5 entries) → +60 XP. This is now her **goal card** — she chose 🎓 Scholar on 07-30.*
 
 ## Skill tiers
 
 | Skill | Tier | Notes |
 |-------|------|-------|
-| Structure (beginning–middle–end / paragraphs) | 2 | Promoted 2026-07-06 — clean First/Then/After that/In the end across 3 entries |
+| Structure (beginning–middle–end / paragraphs) | 2 | Promoted 2026-07-06 — clean First/Then/After that/In the end across 3 entries. **2026-07-30: the paragraph-break ceiling is gone** — `lessons/paragraph-breaks.md` taught, and she split her own review into 3 correct paragraphs (telling → judging → rating), naming the reason for each. **Tier 3 check: needs 2 more entries where she breaks paragraphs without being asked.** |
 | Evidence (details & quotes from the book) | **2** | 🎉 **PROMOTED 2026-07-27** — the pending condition was "one clean quote in a MAIN entry", and 07-27 delivered it: *in the book, Dumbledore said, "Of course I didn't trust him"* — embedded mid-sentence, single speaker, followed by its own "This shows…". Third clean quote after 07-15 (Hermione) and 07-24 (Snape) |
 | Explanation (the "because" / "this shows") | 2 | Promoted 2026-07-13 weekly — own-words "since/because" adding new ideas across 4 straight entries |
 | Style (word choice, sentence variety, voice) | 1 | **Started climbing 07-25 weekly — 2 of ~3 word-choice moves:** 07-22 zoomed into a repeated word ("The word 'important' repeats, which shows…"); 07-24 noticed *which name* a character uses reveals whose side he's on ("no one else says Dark Lord they all say you know who"). One more and check for promotion |
@@ -56,29 +58,33 @@ one queued (see Writing goal).
 
 ## Writing goal
 
-- **Aiming for:** _(still not chosen — shown the ladder on 07-27, she went for the writing
-  first. Offer it again, briefly, at the top of the next session.)_
+- **Aiming for:** `scholar` — 🎓 **Scholar**
+- **Chosen:** 2026-07-30 · **Why:** offered the four stages above her as a pick-one menu with a
+  one-line sample of what each *sounds* like, and she went **straight to the top of the ladder**
+  — the hardest one on the list, not the nearest. Same instinct as 07-28, when she picked Riddle's
+  *"sir"* over the three easier stretch options. **She picks the most interesting option, never
+  the easiest one.** Do not talk her down from it; show her the path instead.
+- **The path she needs to see** (she is a kid who finishes what she can see the end of):
+  `🔍 Evidence Writer (here) → 🏛️ Essay Writer → ⚖️ Debater → 🔬 Critic → 🎓 Scholar`
+- **Nearest unmet milestone: 🏛️ Essay Writer** — a 3-paragraph, 200+ word argued piece.
+  **The paragraph blocker is now GONE (07-30).** The remaining gap is length: her entries run
+  ~90 words and Essay Writer wants 200+. That is exactly what `templates/12-essay.md` at Tier 1
+  as a **3-day build** is for — one normal-sized paragraph a day. **Offer it next session**
+  (she chose Book Review over it on 07-30, so it's already on her radar).
+  📜 Long Haul (250 words) falls out of the same build for free.
+- **How it went with the ladder offer:** a *line in the greeting* bounced twice (07-27, 07-29);
+  a **pick-one menu of stage names with sample sentences** worked on the first try. Confirms the
+  07-28 finding — menus of *choices* get picked, menus of *tasks* get skipped.
 - **Where she is now:** 🔍 **Evidence Writer** territory as of **2026-07-27** — both remaining
   conditions landed in one session: Evidence promoted to **Tier 2**, and the first **real
   quote inside a main entry**. Let the site confirm the stage; the writing is there.
 - **What did it:** *in the book, Dumbledore said, "Of course I didn't trust him" This shows
   that…* — claim → real quote → why it matters, the exact stage-3 move.
-- **Note for later:** 🏛️ Essay Writer needs a 3-paragraph entry, and she has **never used a
-  paragraph break** (max 1 across all 18 entries). That's `lessons/paragraph-breaks.md`,
-  already queued — and it's the single biggest jump available to her. Once it lands, run
-  **`templates/12-essay.md`** at **Tier 1** as a 3-day build; the Tier-1 frame is literally
-  three fill-in-the-blank paragraphs, which is exactly the scaffold she does best with.
+- ✅ **RESOLVED 2026-07-30 — the paragraph blocker.** It had been the single biggest jump
+  available to her since 07-25: never one break in 19 entries. `lessons/paragraph-breaks.md`
+  ran in about three minutes and she found both breaks in her own review herself. 🧱 Paragraph Pro.
 - **The site said ~6 sessions to 🔍 Evidence Writer on 07-25. It took one.** Worth telling her
   — she's a kid who finishes what she can see the end of, and she just beat the estimate.
-- **Next milestone is 🏛️ Essay Writer**, and the blocker is unchanged: **paragraph breaks.**
-  That's the next lesson to run, then `templates/12-essay.md` at Tier 1 as a 3-day build.
-- **Next session:** show her the 🪜 My Ladder page again and let her choose. If she picks, set the "Aiming for" line to `evidence` (or whatever she names).
-- **07-29: offered again, skipped again.** Mentioned in one line at the top of the session and
-  she went straight past it to the writing — same as 07-27. That's now twice. **Stop offering
-  it as a line in the greeting; it doesn't land there.** Next time show her the *stage names
-  themselves* as a pick-one menu (⚖️ Debater · 🔬 Critic · 🎓 Scholar) — she takes menus of
-  choices and declines menus of tasks (see `tutor.md`), and "which one do you want to sound
-  like?" is a choice.
 
 ## Watch list
 
@@ -109,12 +115,45 @@ one queued (see Writing goal).
 > live: she was listening, and "Snape and Malfoy is" sounds fine. Naming it that way
 > (🔊 catches endings · ✌️ catches *and*) landed better than any explanation would have.
 >
-> ⏭️ **Still queued:** `lessons/paragraph-breaks.md` — now the only lesson left in the queue,
-> and the single biggest jump available to her (it unlocks 🏛️ Essay Writer).
+> ✅ **MINI-LESSON DONE 2026-07-30** — `lessons/paragraph-breaks.md` taught. **Do not re-explain
+> this rule.** If a long entry comes back as one block, say five words:
+> ***"where did the job change?"*** and let her find it.
+>
+> How it went: the queue condition was "run it after the verb item clears" — it cleared the same
+> session, so it ran immediately after. Showed her **her own 07-20 Book Review** twice, once as
+> written and once with two blank lines and **not one word changed**, and asked "which one looks
+> like a real book review?" She never answered in words — she just did the task, which is worth
+> knowing: **with her, showing beats asking-then-showing.** Taught the OFF switch in the same
+> breath (per the 07-27 finding), using her own sentence *"Dumbledore and Harry work together."*
+> → same job, clean pass, nothing to change.
+>
+> Then handed her tonight's review as 7 numbered sentences: find the two spots where the job
+> changes. **First guess "after 5"** — correct, and the *easier* of the two (verdict → rating).
+> She missed the bigger one until asked the trick question — ***"where did you stop TELLING and
+> start JUDGING?"*** — and then got it instantly: **"after 3."** That phrasing is the whole
+> lesson for her; it's the one to reuse.
+>
+> 🎉 **The lesson queue is now EMPTY.** Every lesson that was queued for her has been run:
+> compound subjects (07-27), verb endings (07-28), paragraph breaks (07-30).
+> *Next candidates if a pattern earns one:* `lessons/a-vs-an.md` (never once addressed —
+> *"a O.W.L.S. test"*, *"a unbreakable vow"* ×2) and possessive **'s**.
 
 *(🎉 **Retired 2026-07-25 weekly — "Spell the tricky ones" ✅ CLEARED 3/3.** Clean on 07-20 (Gryffindor, Professor, Umbridge, Hogwarts, Sirius Black), 07-23 (Voldemort, Dumbledore) and 07-24 (Snape, Malfoy, Death Eater, Unbreakable Vow — main entry **and** ACE). The read-aloud-before-saving habit did it. Celebrated in the 07-25 weekly.)*
 
-- [ ] **Verb check — endings AND matching the doer** — clean streak: **2/3** · endings: "Have you ever wonder" → "wonder**ed**", "Sirius Black die" → "die**d**", "what he stoled" → "**stole**" · matching: "Snape and Malfoy **is** a Death Eater" → "**are** Death Eater**s**" · **Read it aloud, and at each verb ask: who is doing this — one, or more than one?**
+*(🎉 **Retired 2026-07-30 — "Verb check — endings AND matching the doer" ✅ CLEARED 3/3.** Clean
+on 07-28 (*gave, kept, did, regret*), 07-29 (*told, felt, can trust, could find* + the compound
+subject *"you and Dumbledore could find"*), and 07-30 (*wondered, work, are, didn't die, fought,
+give* + *"Dumbledore and Harry **work** together"*). **The proof it's really gone:** the item was
+opened on 07-20 for *"Have you ever **wonder**"* — and on 07-30 she wrote the same sentence, in
+the same template, about the next book in the same series, as *"Have you ever **wondered**."*
+Ten days. Two mini-lessons (07-27 compound subjects, 07-28 verb endings) and one read-aloud habit
+did it. **The compound subject was handled unprompted three sessions running.** Never split into
+two rows in the end — the rule lessons closed both halves before the weekly got to it.
+🧹 **Clean Sweep badge** earned on the same entry. Do not reopen this without a genuine new
+pattern, and if one appears, it's `"verb-only read"` / `"two-finger check"` — never a re-explanation.)*
+
+<!-- ✅ CLEARED AND RETIRED 2026-07-30 — kept for the record only:
+- [x] **Verb check — endings AND matching the doer** — clean streak: **3/3 ✅** · endings: "Have you ever wonder" → "wonder**ed**", "Sirius Black die" → "die**d**", "what he stoled" → "**stole**" · matching: "Snape and Malfoy **is** a Death Eater" → "**are** Death Eater**s**" · **Read it aloud, and at each verb ask: who is doing this — one, or more than one?**
   - Added 2026-07-20 (same -ed/-s slip in 07-16 and 07-20). **Widened 2026-07-25 weekly** from "verb endings (-ed/-s)" to include subject–verb matching, after 07-24 showed it's one skill wearing two hats.
   - History: 07-20 slipped (wonder/believe/die) · 07-22 clean → 1/3 · 07-23 slipped ("stoled") → reset 0/3 · 07-24 endings clean but "Snape and Malfoy is" → held 0/3 · **07-27 rule taught (compound subjects); matching half clean — she ran the ✌️ check and correctly found nothing to change — but endings slipped in BOTH the main entry ("Dumbledore take risk") and the ACE ("he want to keep it private") → holds 0/3.** · **07-28 rule taught (verb endings); ✅ CLEAN — *gave, kept, did, regret*, three of them irregular pasts, and no compound subject so the ✌️ check correctly stayed silent → 1/3.** · **07-29 ✅ CLEAN → 2/3 — *told, felt, can trust, did feel, could find* all correct, and the compound subject *"you and Dumbledore could find"* handled unprompted for the second session running. One more clean entry clears this item.**
   - **Split this row at the next weekly.** 07-27 proved they are two separate skills with two
@@ -122,7 +161,25 @@ one queued (see Writing goal).
     clean streak even when she nails it. Suggested rows: **"✌️ and → plural verb"** (rule
     taught, needs 3 clean) and **"🔊 verb endings -ed/-s"** (ear, needs the verb-only read).
   - **What's working:** her ear is fast — she self-fixed "ask"→"asked" and "show"→"shows" in the 07-23 ACE the moment she read it aloud. Same habit that just cleared the spelling row; it only needs to happen *before* saving.
-  - *(Not yet an item, but watching: missing possessive 's — "Voldemort past", "his parents past", both in 07-22. Only one session so far, so it waits.)*
+  - History: 07-20 slipped · 07-22 clean 1/3 · 07-23 slipped 0/3 · 07-24 held 0/3 · 07-27 held 0/3
+    (lesson 1) · **07-28 clean 1/3** (lesson 2) · **07-29 clean 2/3** · **07-30 clean 3/3 → CLEARED.**
+-->
+
+**Watch list is currently EMPTY.** 🎉 Nothing is being tracked against her right now — first time
+since 2026-07-20. Don't fill it just to have something in it; the rule is 2+ entries with the
+*same* concrete error. Two candidates are half-qualified and both should wait for a second
+sighting:
+
+- **a / an before a vowel** — *"a O.W.L.S. test"* (07-15), *"a unbreakable vow"* ×2 (07-24).
+  Three sightings, but never once addressed, and `lessons/a-vs-an.md` already exists. This is the
+  most-earned unopened item. *(Note it's a **rule** error, not a sound error — the ear won't catch
+  it, so it needs the lesson, not the read-aloud.)*
+- **missing possessive 's** — *"Voldemort past"*, *"his parents past"* (07-22, one session only).
+
+*(Also seen once each and deliberately not corrected, per one-improvement-a-day: the diary sliding
+out of first person (07-28); *"so much changes"* → *so many* and a missing *out* in *"finding out
+about"* (07-30); a hook written as a question but punctuated with a period (07-30 — she read it
+aloud **with** question intonation, so her ear has it; her eye doesn't).)*
 
 ## Session log
 
@@ -152,3 +209,4 @@ one queued (see Writing goal).
 | 2026-07-27 | 04 Opinion (+ lesson: compound subjects) | 2 | 40 | ACE (declined stretch) | 🆙 **Level 8 Voice Finder!** To p.400, Half-Blood Prince — 130-pg day. Dumbledore's memory of refusing Voldemort the teaching job. 💬 **FIRST QUOTE IN A MAIN ENTRY** (Dumbledore, "Of course I didn't trust him") → Quote 4/5, and **Evidence PROMOTED to Tier 2** 🎉. Unprompted counterargument in the closing line. 🎓 **Mini-lesson run — compound subjects** (0/3 for 3 sessions); got 2/4 practice items, and missing the sneaky "box of clues" one showed her her own nearest-noun habit. 🎤 **First Listen** + 🎓 **Rule Learner** badges. Watch list: matching clean, endings slipped ("take") → holds 0/3. Streak reset to 1 after 2 days off. |
 | 2026-07-28 | 03 Character Diary (+ lesson: verb endings) | 2 | 45 (+🎟️50) | **Stretch done** (Riddle's "sir") + ACE | 🆙 **Level 9 Author-in-Training!** Several chapters — Harry finally gets Slughorn's memory. Wrote as **Slughorn**, and found his real feeling: not embarrassment but guilt ("I was a part of the reason why everyone is scared"). 🎓 **Mini-lesson run — verb endings** (0/3 for 4 sessions); answered "stoled" one screen below where **stole** was written, which proved the error is in her ear not her eye. ✅ **Watch list CLEAN → 1/3** — first clean verb entry since 07-22, and the irregular pasts (*gave/kept/did*) she'd just missed in practice were all correct in her own writing. Read-aloud ✅ on the ACE (declined it first when offered as 3 passes; did it immediately when re-offered as **one** pass — see tutor.md). 💬 **Quote Catcher 5/5 EARNED** on the ACE quote → ✍️ **Wordsmith stamp card COMPLETE → 🎟️ +50 XP**. That quote also contained a compound subject she got right unprompted (*"Dumbledore and I need"*), one day after the ✌️ lesson. 🚀 **Stretch done:** asked whose voice haunts Slughorn, she chose young Tom Riddle's *politeness* — *I kept hearing Voldemort say "sir"* — a one-word quote that indicts the whole chapter. Day-2 streak. 🆙 **Level 9 at 800 XP.** *(Watch for next time, not corrected today: the diary slid out of first person — "to Slughorn" → "to me".)* |
 | 2026-07-29 | 05 Letter to a Character | 2 | 35 | ACE (skipped 🔧 and 🚀) | Amount unknown ("I don't really know how much I read") — the Horcrux chapter, Dumbledore explaining the ring and Voldemort's split soul. Letter to Harry. **Nailed the reader-knows-more tease in four words — "Be careful about Snape."** ✅ **Watch list CLEAN → 2/3** (one more clears it): all verb endings correct, and the compound subject *"you and Dumbledore could find"* right without a reminder, two sessions running. 🎤 **Read-aloud found her own missing word** — she typed *"the person you can abasoulutly is going to be Dumbledore"* and read *"can absolutely **trust**"*, supplying the dropped verb by ear. Textbook proof of the ear-not-eye pattern; saved with her fix. 🔧 given: *"all of the truth"* is the whole chapter — name the one exact moment (the ring). Day-3 streak (+5). 🔊 Sound Check 3/5 · 🧹 Clean Sweep 2/3. **ACE clean too** — a *second* compound subject right (*"Dumbledore and Harry could trust"*), and on the ✌️ check she correctly answered "nope it's fine," which is the no-change-needed half of the rule she over-applied on 07-27. **Skipped both the 🔧 and the 🚀 and asked for the ACE instead** — she'd rather write something new than revise something old (see `tutor.md`). |
+| 2026-07-30 | 10 Book Review (+ lesson: paragraph breaks) | 2 | 55 | **Stretch done** (split her own review into 3 paragraphs) | 📚 **FINISHED Half-Blood Prince** — book 6 of 7, her 4th Harry Potter in ~7 weeks. *Second session of the 07-29/07-30 night; it crossed midnight, so it counts as a new day.* 🎯 **CHOSE HER LADDER GOAL: 🎓 Scholar** — the top of the ladder, picked off a menu of stage names with sample sentences after the same offer had bounced twice as a greeting line (07-27, 07-29). She took the hardest option on the list, not the nearest. ✅ **WATCH ITEM CLEARED 3/3 AND RETIRED** 🎉 — the verb row open since 07-20; *"Have you ever **wondered**"* against 07-20's *"Have you ever **wonder**"*, same template, same series, ten days apart, plus *"Dumbledore and Harry **work** together"* (compound subject unprompted, 3rd session running). 🧹 **Clean Sweep badge.** 🎓 **Mini-lesson run — paragraph breaks**, the last one in her queue: shown her own 07-20 review with two blank lines and not one word changed. 🚀 **Stretch done → 🧱 Paragraph Pro** — **the first paragraph break in 20 entries.** Found "after 5" alone, then "after 3" the moment she was asked *"where did you stop telling and start judging?"* → 🏛️ Scholar card 1/4, her own goal card. 🎤 Read-aloud ✅ caught *"there **were** a lot of exicitment"* → *"there **was** a lot of excitement"* (3rd straight session her ear did the work) → 🔊 Sound Check **4/5**, 🎤 Voice card 3/4. Strong hook naming the book's *idea* (*"how the villains became so evil"*), honest weakness (wanted Dumbledore to **fight**). 🏆 **ACE done** — asked what turned Riddle into Voldemort, she answered with a real quoted line (*Voldemort asked, "Wouldn't you be more evil if you separated your heart in seven pieces?"*) and got the causality right: Slughorn told him, and *"Voldemort knew exactly what to do."* Her E was one sentence where Tier 2 wants two — noted, not corrected (one 🔧 a day, and it was already spent on the lesson). Day-**4** streak 🔥 — ties her all-time best. 🆙 **XP 835 → 900 → LEVEL 10 👑 MASTER AUTHOR**, three levels in three days. |

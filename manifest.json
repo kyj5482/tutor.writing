@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-29T03:00:08.344Z",
+  "generated": "2026-07-30T00:12:22.367Z",
   "students": [
     {
       "name": "Jaei",
@@ -845,9 +845,9 @@
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 835,
-      "level": 9,
-      "streak": 3,
+      "xp": 900,
+      "level": null,
+      "streak": 4,
       "badges": [
         {
           "name": "First Words",
@@ -905,6 +905,16 @@
           "date": "2026-07-28"
         },
         {
+          "name": "Clean Sweep",
+          "emoji": "🧹",
+          "date": "2026-07-30"
+        },
+        {
+          "name": "the first paragraph break in 20 entries.",
+          "emoji": "🧱",
+          "date": "2026-07-30"
+        },
+        {
           "name": "Adventurer card COMPLETE",
           "emoji": "🗺️",
           "date": "2026-07-24"
@@ -924,13 +934,13 @@
       "watch": [
         {
           "item": "Verb check — endings AND matching the doer",
-          "cleared": false,
-          "streak": 2
+          "cleared": true,
+          "streak": 3
         }
       ],
       "stats": {
-        "entries": 21,
-        "activeDays": 21,
+        "entries": 22,
+        "activeDays": 22,
         "templatesUsed": [
           "01-summary",
           "02-prediction",
@@ -943,28 +953,28 @@
           "09-quick-write-321",
           "10-book-review"
         ],
-        "revisions": 13,
-        "ace": 20,
-        "quotes": 7,
+        "revisions": 14,
+        "ace": 21,
+        "quotes": 8,
         "counter": 4,
         "craft": 2,
         "compare": 0,
         "tier3": 0,
-        "readAlouds": 3,
-        "cleanEntries": 2,
-        "cleanStreak": 2,
-        "bestCleanStreak": 2,
-        "lessons": 2,
-        "bookReviews": 1,
+        "readAlouds": 4,
+        "cleanEntries": 3,
+        "cleanStreak": 3,
+        "bestCleanStreak": 3,
+        "lessons": 3,
+        "bookReviews": 2,
         "booksStarted": 5,
-        "booksFinished": 3,
+        "booksFinished": 4,
         "maxWords": 162,
-        "totalWords": 1547,
-        "maxParagraphs": 1,
+        "totalWords": 1641,
+        "maxParagraphs": 3,
         "essayShaped": 0,
         "debateShaped": 0,
         "bestStreak": null,
-        "streak": 3
+        "streak": 4
       },
       "books": [
         {
@@ -976,11 +986,11 @@
           "seriesTotal": 7,
           "volume": 6,
           "author": "J.K. Rowling",
-          "entries": 6,
-          "words": 456,
+          "entries": 7,
+          "words": 550,
           "first": "2026-07-22",
-          "last": "2026-07-29",
-          "finished": false
+          "last": "2026-07-30",
+          "finished": true
         },
         {
           "key": "harry potter#5",
@@ -1631,6 +1641,34 @@
           "watchSlip": false,
           "build": null,
           "excerpt": "Dear Harry, When Dumbledore told you about all of the truth, I felt like the person you can absolutely trust is going to be Dumbledore. How did you feel when he told you about the "
+        },
+        {
+          "file": "students/Jia/journal/2026-07-30-10-book-review.md",
+          "date": "2026-07-30",
+          "slug": "10-book-review",
+          "book": "Harry Potter and the Half-Blood Prince",
+          "bookKey": "harry potter#6",
+          "bookShort": "Half-Blood Prince",
+          "series": "Harry Potter",
+          "seriesEmoji": "⚡",
+          "volume": 6,
+          "author": "J.K. Rowling",
+          "reading": "🎉 FINISHED — book 6 of 7",
+          "tier": 2,
+          "xp": 65,
+          "words": 94,
+          "paragraphs": 3,
+          "hasRevision": true,
+          "hasBonus": true,
+          "quote": true,
+          "counter": false,
+          "craft": false,
+          "compare": false,
+          "readAloud": true,
+          "watchClean": true,
+          "watchSlip": false,
+          "build": null,
+          "excerpt": "Have you ever wondered how the villains became so evil. Harry Potter and the Half Blood Prince by J.K. Rowling is about Dumbledore and Harry finding about Voldemort's past. Dumbled"
         }
       ],
       "reports": [

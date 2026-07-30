@@ -1,11 +1,42 @@
 # Mini-lesson — One idea, one paragraph
 
-**For:** Jia. **Status: QUEUED** — run this *after* her verb Watch item clears.
+**For:** Jia. **Status: ✅ TAUGHT 2026-07-30.** **Do not re-explain the rule.**
 **Time:** 3 minutes. **Reward:** +5 XP.
 
 ---
 
-## Why it's queued and not running now
+## ✅ How it went (2026-07-30)
+
+Ran exactly as written below, on her **Book Review for *Half-Blood Prince*** — the same template
+as the 07-20 review used in Step 1, which made the before/after land harder than planned.
+
+**What worked, and what to reuse:**
+
+1. **Step 1 as written is the whole lesson.** Her own 07-20 review, twice, two blank lines added,
+   not one word changed. She never answered "which one looks like a real book review?" in words —
+   she just went and did the task. ➡️ **With her, showing beats asking-then-showing.** Don't wait
+   for the verbal answer; it isn't coming and it isn't needed.
+2. **The OFF switch first-time, per the 07-27 finding.** Taught with her own sentence
+   *"Dumbledore and Harry work together."* → still job #1, clean pass, nothing to change. She did
+   not over-apply the rule once, unlike compound subjects on 07-27. **The OFF switch works.**
+3. **Step 4's practice item was tonight's own entry, not 07-24** — better. Handed back as 7
+   numbered sentences: "find the two spots where the job changes, just say the numbers."
+4. ⭐ **The line that actually unlocked it:** her first guess was *"after 5"* — correct, and the
+   easier break (verdict → rating). She could not see the big one until asked:
+   > ### "Where did you stop **telling** and start **judging**?"
+   Answer came back instantly: **"after 3."** ➡️ **That question is the trick to keep for her** —
+   more than "new job, new paragraph," which is the rule but not the finder. Reuse the exact words.
+
+**Result:** 🧱 Paragraph Pro — **the first paragraph break in 20 entries** — and the ceiling on
+her Structure tier is gone. Total elapsed: under three minutes, two messages.
+
+**Follow-up, as Step 6 says:** it is **not** on the Watch list. Make *"break this into
+paragraphs"* the 🚀 stretch on the next few long entries; if one comes back as a block, say five
+words — ***"where did the job change?"*** — and let her find it.
+
+---
+
+## Why it was queued (kept for the record)
 
 Jia has never used a paragraph break. Not once in 18 entries — every long piece she has
 written is a single block:

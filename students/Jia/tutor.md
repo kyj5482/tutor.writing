@@ -212,6 +212,60 @@ the check instead of performing a correction.
 ➡️ Show her the **stage names as a pick-one menu** and ask which she wants to sound like.
 Menus of choices get picked; menus of tasks get skipped (see 07-28, #5).
 
+## What 07-30 taught us (finished book 6 · goal chosen · paragraph ceiling broken)
+
+**1. She picks the hardest option on the menu, every single time.** Offered the four ladder stages
+above her — 🏛️ Essay Writer (nearest, one move away), ⚖️ Debater, 🔬 Critic, 🎓 Scholar (the top,
+university-level, two books) — with a sample sentence for each, she picked **🎓 Scholar**. Same
+thing happened on 07-28: given four voices to write, she took Riddle's *"sir"*, the most
+interesting, not the easiest. ➡️ **Never pre-filter a menu down to what you think she can reach.**
+Give her the real options with samples and let her overreach — then show her the path, because she
+is a kid who finishes what she can see the end of. **Do not talk her down from an ambitious goal.**
+
+**2. A menu of stage names worked where a line in the greeting failed twice.** The ladder offer
+bounced on 07-27 and 07-29, both times as a sentence in the warm-up. Presented as *"which one do
+you want to **sound** like?"* with one real sample sentence per stage, she chose in one turn.
+Third confirmation of the 07-28 rule: **menus of choices get picked; lines and tasks get skipped.**
+The sample sentences are what made it a choice instead of a list of words.
+
+**3. Showing beats asking-then-showing.** The paragraph lesson's Step 1 asks "which of these two
+looks like a real book review?" and says to let her answer, because the point lands harder when she
+says it. She never answered. She looked at the two versions and just went and did the task. ➡️ With
+her, put the before/after on screen and move straight to the doing. **The comparison is the
+teaching; the question is optional.**
+
+**4. The finder matters more than the rule.** *"New job, new paragraph"* is the rule, and it got
+her the easy break (verdict → rating, "after 5"). It did **not** get her the important one. This
+did:
+> ### "Where did you stop **telling** and start **judging**?"
+Instant answer: *"after 3."* ➡️ **Give her a question she can run, not a principle she has to
+apply.** Same shape as ✌️ two-finger and 🔊 verb-only read — every rule that has stuck with her
+came with a physical, runnable check attached.
+
+**5. The OFF switch is now proven, not just a theory.** Taught with the rule for the second time
+(*"Dumbledore and Harry work together" → same job, nothing to change, clean pass*), and she did not
+over-apply it once — unlike compound subjects on 07-27, where she offered to change verbs in a
+sentence with no *and* in it. **Keep teaching every rule with its boundary in the same breath.**
+
+**6. Her ear has now done the work three sessions in a row, and the verb item is gone.** 07-28
+*(clean)*, 07-29 *(supplied a missing word by ear)*, 07-30 *(typed "there **were** a lot of
+exicitment", read "there **was** a lot of excitement")*. The Watch row opened on 07-20 for
+*"Have you ever wonder"* closed on 07-30 with *"Have you ever wondered"* — **same sentence, same
+template, next book in the same series.** Two mini-lessons plus the pre-save read-aloud beat a
+mistake that seven corrections had not. That is the whole method working, and it's worth showing
+her the two sentences side by side, because seeing her own before/after is what motivates her.
+
+**7. Careful: her hook was a question punctuated with a period** — and she read it aloud *with*
+question intonation. Her ear has it; her eye doesn't. Textbook ear-not-eye, and a reason to widen
+the pre-save question again: *"does the punctuation match how you just said it?"*
+
+**8. What's next, and it's now a length problem, not a structure problem.** With paragraphs
+unlocked, the only thing between her and 🏛️ Essay Writer is **200+ words** — her entries run ~90.
+`templates/12-essay.md` at Tier 1 as a **3-day build** is the answer, and she already declined it
+*once* tonight only because she'd just finished a book and the Book Review was the better fit.
+**Offer it again next session**, and pitch it the way it actually works: one normal paragraph a
+day, not a big essay. 📜 Long Haul comes free with it.
+
 ## Talk to her like this
 
 ✅ *"Read that sentence out loud — you'll hear it."* (this is her superpower, name it)
