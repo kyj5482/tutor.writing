@@ -231,6 +231,55 @@ pass. Told plainly no — the bonus is once per day, already earned — he accep
 moved on. Consistent with the 07-14/07-23 pattern (he's caught the tutor's bookkeeping mistakes
 twice before): keep being exact and fast with the correction, even when the answer is "no."
 
+## 🔬 2026-07-31 — naming the Watch item *before* he writes works on the first try
+
+The single most useful finding in weeks, and it cost one sentence.
+
+The compound-subject error took **seven corrections and a mini-lesson** across two months. The
+quotation-marks item was heading the same way — two sightings, 0/3, corrected after the fact both
+times. Today it was named **before** he wrote, in one light line with no lecture (*"quotation marks
+go around the book's exact words only"*). He came back with:
+
+> *"**[Sophie's]** parents were taken by the Neverseen."*
+
+Square brackets. Correct convention, first draft, no flag from me — the notation that exists
+*precisely* to mark where the author stops and he starts. He didn't merely avoid the error; he
+reached past it for the professional version of the same idea.
+
+**Write this into how every session runs:** the Watch item goes in *before* the writing, always,
+as one sentence. Naming it afterward is a scoreboard. Naming it first is coaching. The evidence
+now says he'll clear an item in one session that way, versus seven corrections the other way.
+
+**Also today:**
+
+1. **He enlarges a technique instead of copying it.** Shown the *"could have written X, instead
+   Y"* move on a six-word sentence (*"There is no lake at Camp Green Lake"*), he applied it to
+   **book architecture** — Messenger could have resolved Sophie's parents in *Lodestar* and
+   written a different book 6. That takes holding two whole novels in mind to see the alternative
+   that never happened. When you give him a move, expect him to try it a size up; give him the
+   small version and let him scale it himself rather than pre-scaling it for him.
+2. **He picked the harder ladder stage. Again.** Offered ⚖️ Debater (easier — he already concedes
+   and rebuts unprompted, 1–2 day build) against 🔬 Critic, he answered *"critic"* with no
+   hesitation. That's **three straight times** the further target beat the easier or
+   higher-scoring option (07-25 essay over Book Review, 07-27 essay over a fresh Quick Write,
+   today Critic over Debater). "Dangle the stage, not the XP" is no longer a theory.
+3. **His ear is selective, and now we know the line.** In one read-aloud pass his voice fixed
+   *"many conflict"* → *"conflicts"* (audible) and left *"could have wrote"* untouched
+   (inaudible — it sounds fine). Same pass, same kid. This is the `verb-endings.md` /
+   `compound-subjects.md` distinction showing up live: **sound-based errors get the ear,
+   rule-shaped errors get the rule.** Don't send the read-aloud after a rule error and then
+   conclude the read-aloud isn't working.
+4. **Giving him the name of a thing he found himself is worth more than praise.** He identified
+   *in medias res* by noticing what Messenger *didn't* do, without knowing it had a name. Handing
+   him the term — three thousand years old, it's how the *Iliad* opens — is the version of
+   "great job" that actually lands on him. Do this whenever he stumbles onto a real technique:
+   name it, date it, tell him who else uses it.
+
+**Library gap found:** `grade8-growth.md` is the **only** Craft Analysis example, and it's *Holes*
+— shown three times in five sessions. Now that Critic is his goal, template 14 will come up
+repeatedly. The library needs a second grade-8 Craft Analysis example on a different book. Told
+him plainly it was a gap rather than pretending it was a fresh pick; he's owed that.
+
 ## How to run a session with him
 
 - **Skip the warm-up.** He wants the template and the writing. Long lead-ins lose him.

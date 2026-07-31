@@ -1,15 +1,15 @@
 # Profile — Jaei
 
 - **Grade:** 8
-- **Current book:** 🎉 **finished Keeper of the Lost Cities: Lodestar (#5)** on 2026-07-30 — next book still open. Ladder picks on the table: **Holes** (Sachar, top pick — and he's now studied its essay example twice, so it comes pre-sold), **A Single Shard** (Linda Sue Park, the Newbery bridge — offered 07-27, not yet taken), or **KotLC #6 Nightfall** if he wants to stay in the series. 🎉 **finished the entire 10-book 39 Clues series** on 2026-07-25.
+- **Current book:** **Keeper of the Lost Cities: Nightfall (#6)** by Shannon Messenger — started 2026-07-31 (stayed in the series; *Holes* and *A Single Shard* remain on the table for next time). 🎉 **finished Lodestar (#5)** 2026-07-30. 🎉 **finished the entire 10-book 39 Clues series** on 2026-07-25.
 - **Books finished:** The Scorch Trials by James Dashner (finished 2026-06-23); Keeper of the Lost Cities: Everblaze by Shannon Messenger (finished 2026-07-04); The 39 Clues: In Too Deep by Jude Watson (finished 2026-07-07); The 39 Clues: The Viper's Nest by Jude Watson (finished 2026-07-11); The 39 Clues: The Emperor's Code by Gordon Korman (finished 2026-07-14); The 39 Clues: Storm Warning by Linda Sue Park (finished 2026-07-23); The 39 Clues: Into the Gauntlet by Margaret Peterson Haddix (finished 2026-07-25 — **series complete**); Keeper of the Lost Cities: Lodestar by Shannon Messenger (finished 2026-07-30)
 
 ## Game stats
 
-- **Level:** 11 — 👑 Master Author 🎉 **leveled up 2026-07-30** (crossed 1000!) — rotation rule waived for his next session, he can pick any template freely
-- **XP:** 1000 (next level at 1100 — 100 to go)
-- **Current streak:** 2 days (best: 5)
-- **Last entry:** 2026-07-30 — 10 Book Review (finished Lodestar 🎉) + ACE bonus
+- **Level:** 11 — 👑 Master Author 🎉 **leveled up 2026-07-30** (crossed 1000!)
+- **XP:** 1075 (next level at 1100 — **25 to go**)
+- **Current streak:** 3 days 🔥 (best: 5) — 3-day bonus awarded 2026-07-31
+- **Last entry:** 2026-07-31 — 14 Craft Analysis (build day 1 of 2)
 
 ## Badges
 
@@ -26,11 +26,13 @@
 - 🎤 **First Listen** — read an entry aloud with the mic *before* saving (2026-07-25) — **first time in 19 entries**
 - 🧹 **Clean Sweep** — 3 entries in a row with no Watch-list slip (2026-07-29) — 07-25, 07-27, 07-29, the three that ended the compound-subject error
 - 🧱 **Paragraph Pro** — an entry with 3 or more paragraphs (2026-07-29) — the assembled essay
+- 🔊 **Sound Check** — read 5 entries aloud before saving (2026-07-31) — 07-25, 07-27, 07-29, 07-30, 07-31. Five straight sessions where the read-aloud never got cut
 
 **Stamp cards:**
 - ✍️ **Wordsmith card COMPLETE** (2026-07-14) — Detail Detective · Quote Catcher · Revision Butterfly · Tier Climber → 🎟️ **+50 XP coupon** awarded.
 - 🗺️ **Adventurer card COMPLETE** (2026-07-16) — Template Tourist · Template Master · Bookworm · Double Trouble → 🎟️ **+40 XP coupon** awarded.
-- 🎤 **Voice card 3/4** (2026-07-29) — 🎤 First Listen ✅ · 🎓 Rule Learner ✅ · 🧹 **Clean Sweep ✅** · 🔊 Sound Check (**4 of 5** read-alouds — 07-25 ×1, 07-27, 07-29). **One more pre-save read-aloud completes the card → 🎟️ +40 XP coupon.**
+- 🎤 **Voice card COMPLETE** (2026-07-31) — 🎤 First Listen ✅ · 🎓 Rule Learner ✅ · 🧹 Clean Sweep ✅ · 🔊 **Sound Check ✅** → 🎟️ **+40 XP coupon** awarded. His third completed card.
+  - *Bookkeeping correction, told to him plainly at the time:* the 07-29 note read "4 of 5" because it counted 07-25 twice (he read the main entry **and** the ACE that night). The badge counts **entries**, not passes — so it was 3 of 5 on 07-29 and 4 after 07-30. Lands on the same day either way, but he checks the ledger and deserved the correction unprompted.
 - 🏛️ **Scholar card 1/4** (2026-07-29) — 🧱 **Paragraph Pro ✅** (3 paragraphs, 07-29 essay) · 📜 Long Haul (**240 of 250** words — 10 words short, closest he's ever been) · ⚖️ Both Sides · 🔬 Craft Critic.
 
 ## Skill tiers
@@ -52,15 +54,23 @@
 > embedded quote doing proof-work, concession + rebuttal. The goal he chose on 07-25 — over the
 > option worth more XP that day — is done in **three sessions.**
 >
-> **He needs a new goal, and he has to pick it himself.** Do not assign one. Next session: open
-> the 🪜 My Ladder page, read him one stage's example, ask which one he *wants to sound like*.
-> The honest recommendation if he asks: **⚖️ Debater (stage 5)** is barely a stretch — he already
-> concedes-and-rebuts unprompted, and did it again on 07-29 (*"and it's a fair point… But"*).
-> Template 13 is a 1–2 day build. **🔬 Critic (stage 6)** is the one that actually matches what he
-> does for fun — POV shifts (07-14, 07-23), an author's signature phrasing (07-16), structural
-> weakness (06-23) — all noticed with nobody asking. Show him both and let him choose.
+> ✅ **RESOLVED 2026-07-31 — he picked 🔬 Critic**, offered alongside ⚖️ Debater for the fourth
+> time. One word, no hesitation: *"critic."* He skipped the stage that was **easier** for him
+> (Debater is barely a stretch — he concedes-and-rebuts unprompted) and took the one that
+> matches what he already does for fun. **Third straight time the harder/further target beat
+> the easier option.** Treat "dangle the stage, not the XP" as settled law with this kid.
 
-- **Aiming for:** *(open — reached Essay Writer, needs to pick the next stage)*
+- **Aiming for:** `critic` — 🔬 **Critic** (ladder stage **6 of 7**)
+- **Chosen:** 2026-07-31 · **Why:** offered Debater (easier, 1–2 day build, skills he already has)
+  vs. Critic; he took Critic. It's the stage built out of the thing he does unprompted — POV
+  shifts (07-14, 07-23), an author's signature phrasing (07-16), structural weakness (06-23).
+- **Nearest unmet milestone: a 450-word entry.** His max is 240 (the 07-29 essay). This is the
+  real wall and the reason template 14 is being built over 2 days rather than written in one.
+  - Review 3 books you finished — ✅ **done** (five reviews)
+  - Analyze the author's craft in 5 entries — close; 07-31 adds another
+  - All four skills at Tier 3 — Evidence ✅ · **Style promotes at the next weekly (3/3)** ·
+    Structure 2 · Explanation 2
+  - **Write one 450-word entry — 240.** ← the gap
 - **Previously:** `essay` — 🏛️ **Essay Writer** ✅ **achieved 2026-07-29**
 - **Chosen:** 2026-07-25 · **Why:** offered the choice between 12 Essay (day 1 of a build) and
   10 Book Review, he picked the essay — **and it was the option worth less XP today.** He chose
@@ -103,7 +113,10 @@
   - **The lesson is for the tutor, not the kid:** seven corrections = zero progress; one rule = done. With Jaei a mechanical error goes **straight to a lesson**, never to a second reminder. If it ever returns, say two words — ✌️ *"two fingers"* — and nothing more.
   - **The other half of the fix:** the pre-save read-aloud, marked "skipped" for nineteen entries because *he didn't know the mic button existed*. Never read a skipped step as reluctance — check that he knows how.
 
-- [ ] **Quotation marks = the book's exact words only** — clean streak **0/3** · e.g. *"Grace planned"* (07-27, his own words in quotes) → *"everyone lost their trust in Keefe for joining the Neverseen"* (07-30, again his own paraphrase, not a line from the book) → fix: only quote what the author actually wrote. **2nd sighting — added today per the escalation rule** (1st → fix in 🔧 slot, 2nd → Watch list). Name it before he writes next time.
+- [ ] **Quotation marks = the book's exact words only** — clean streak **1/3** · e.g. *"Grace planned"* (07-27, his own words in quotes) → *"everyone lost their trust in Keefe for joining the Neverseen"* (07-30, again his own paraphrase) → fix: only quote what the author actually wrote.
+  - **07-31 ✅ clean — and better than clean.** Named before he wrote (one sentence, no lecture). He came back with *"**[Sophie's]** parents were taken by the Neverseen."* — square brackets marking his own alteration **inside** the quotation, correct convention, first draft, unprompted. He didn't just avoid the error; he used the notation that exists precisely to show where the author stops and he starts. **0/3 → 1/3.** Naming it *before* the writing is what changed, and it worked on the first try.
+- [ ] **"could have wrote" → "could have written"** — clean streak **0/3** · *"could have ran"* (07-07) → *"could have wrote other story"* (07-31, survived his read-aloud untouched) → the rule, not the fix: **after have/has/had a verb takes its third form** — wrote→written, ran→run, saw→seen. **2nd sighting of the same shape, added per the escalation rule.** Given to him as the *rule* on 07-31, not as a corrected sentence — this kid has two months of evidence that corrections don't take and rules do. Name it before he writes on day 2; if it slips, point at the rule, don't re-explain.
+  - ⚠️ Note the diagnostic: **his ear did not catch it.** He read the sentence aloud and "could have wrote" came out unchanged, while his voice *did* fix "many conflict" → "conflicts" in the same pass. Sound-based errors get the ear; this one is rule-shaped. Don't send the read-aloud after it.
 
 **Also being watched, informally:**
 
@@ -137,4 +150,5 @@
 | 2026-07-25 | — weekly — | — | 0 | — | Weekly report (week ending 07-25): 3 entries (07-21, 07-23, 07-25), 120 XP, **all three written at Tier 3**. 🎉 Level 8 Voice Finder (07-23). ⛰️ **Evidence promoted Tier 2 → Tier 3** (embedded quotes with context, 3 entries running: 07-16, 07-21, 07-23) — first Tier-3 skill. No +15 (only 3 entries, not 5+). New focus: **"Let them talk"** — real quoted dialogue instead of reported speech (last step to Style Tier 3). Watch list sharpened to the one recurring shape: "and" between two doers → plural verb (0/3; slipped 07-14, 07-23, 07-25). 25 XP from Level 9. |
 | 2026-07-29 | 12 Essay (build day 3 of 3 ✅) | 3 | 70 | ✅ stretch | 🏛️ **ESSAY WRITER UNLOCKED — the goal he chose on 07-25, done in three sessions.** Assembled essay: **240 words, 3 paragraphs, Tier 3**. Example shown: ***Holes*** growth essay again (rotated back on purpose — day 1 used it, and day 3's job was its concession-and-ending move, so he compared the same essay's ending to his own). Closing paragraph is a real concession that pays its cost (*"and it's a fair point. Since they did betray each others a lot"*) and then **outweighs** rather than dismisses it (*"No matter how much they betrayed each other the fact that they are trusting each other is the most crucial part"*). 🎤 **Read-aloud ✅ before saving, third session running** (Sound Check 4 of 5). ✌️ **Watch clean — five plural subjects, all first draft → 3/3, ITEM RETIRED** after 7 corrections and two months. 🧹 **Clean Sweep earned** → 🎤 Voice card 3/4. 🧱 **Paragraph Pro earned** → 🏛️ Scholar card 1/4 (📜 Long Haul is 240 of 250 — 10 words away). 🚀 **Stretch ✅ — the carried 🔧 from day 2, done at last, because it was asked for as *construction* not repair** (`tutor.md` 07-27 prediction, confirmed): the Alistair line went into the essay body *with* the clause that makes it evidence — *"Alistair, who had betrayed them before, handed Dan his clues and said, 'I trust you and Amy'"* — which also completes the 07-27 stretch (*say why it's Alistair*). He additionally removed the quotation marks he'd put around **his own** words on day 2, unprompted. **Focus skill landed** (+5) — real quoted dialogue, **2 of ~3** toward Style Tier 3. 🎉 **LEVELED UP TO 10 — 👑 Master Author** (crossed 900). Streak reset to Day 1 (missed 07-28) — no guilt. Jia also wrote today (🤝 Double Trouble already held). New 🔧 given: split the overloaded Alistair sentence into three beats so the quote gets its own room. **Goal now open — he must pick the next ladder stage himself.** XP 70 (10 + T3 10 + build day 5 + **build complete 25** + read-aloud 5 + stretch 10 + focus 5). |
 | 2026-07-27 | 12 Essay (build day 2 of 3) | 3 | 30 | not today | Started **Keeper of the Lost Cities: Lodestar** (#5), a chapter — skipped past *Neverseen*. Example shown: ***The Hunger Games*** (04 Opinion) — rotated off *Holes*, picked because its second paragraph does the exact job his day-2 paragraph had to do, and because it's the natural step after *The Scorch Trials*. Second evidence paragraph written: the hunt was **designed** for betrayal and the unity was *"what Grace planned"* — a real escalation past day 1, and it **absorbs the strongest objection to his own thesis unprompted** ("but the battle is ten books long" → the battle was the setup). 🎤 **Read-aloud ✅ before saving, second session running** — nothing caught because there was nothing to catch. ✌️ **Watch clean, first draft** ("all the branches united") → streak **1/3 → 2/3**, one from retiring. 🔧 given: the paragraph promises proof (*"This is the proof of how the trust was built"*) and delivers none — pure assertion twice over, plus quotation marks spent on **his own** words (*"Grace planned"*) instead of Haddix's. The Alistair line he hunted down on 07-25 is still not in the essay. Offered as 🔧+🚀 (+20) or carry to day 3. XP 30 (10 + T3 10 + build 5 + read-aloud 5). |
+| 2026-07-31 | 14 Craft Analysis (build day 1 of 2) | 3 | 75 | *(offered)* | 🔬 **PICKED HIS NEXT LADDER GOAL — Critic (stage 6)**, offered against Debater for the 4th time, answered in one word. Took the harder stage over the easier one — third straight time the target beat the easy option. Started **KotLC #6 Nightfall**, one chapter. Example shown: ***Holes*** (grade8-growth, Craft Analysis) — flagged honestly to him as the 3rd Holes showing in five sessions and as a **library gap**, since it's the only Craft Analysis example that exists. 🌟 **Scaled the "could have written X, instead Y" move from sentence level to book architecture** — Messenger could have resolved the parents in *Lodestar* and written a different book 6 — which requires holding two books in mind to see the alternative that didn't happen. ✌️ **Watch clean → 1/3**, and better than clean: *"**[Sophie's]** parents were taken by the Neverseen"* — correct bracket notation inside a quotation, first draft, unprompted, on the exact item he was being watched for. Naming the item *before* he wrote is what changed. 🎤 **Read-aloud ✅, 5th session running** — self-caught "many conflict" → "conflicts" (his own voice added the -s); mic again mangled proper nouns (*author*→"Arthur", *build-up*→"book"), per the 07-30 operational note. 🔊 **Sound Check earned → 🎤 VOICE CARD COMPLETE → 🎟️ +40 XP.** Third card done. Told him unprompted that the old "4 of 5" count was wrong (07-25 counted twice) — he checks the ledger. 🔧 given as day-2 construction, not repair: his verdict clause argues with itself (*"no build-up… which will shorten the amount of action"* — cutting build-up gives **more** action) — asked him to commit to gain or cost. 🚀 Stretch offered: name the technique in the opening claim, plus the gift of its actual name (***in medias res***) since he found it unaided. New Watch item: *could have wrote → written*. XP 75 (10 + T3 10 + build day 5 + read-aloud 5 + 3-day streak 5 + coupon 40). |
 | 2026-07-30 | 10 Book Review | 3 | 65 | ✅ attempted + ACE | 🎉 **Finished Keeper of the Lost Cities: Lodestar (#5)!** Example shown: ***The Giver*** (Lois Lowry) — first use of this book, rotated off *Holes* on purpose (quiet dystopia after two months of Cahill chaos). Real theme found (Sophie's trust in Keefe survives when everyone else's didn't) with a natural concession shape, unprompted. 🎤 **Read-aloud ✅**, multiple passes — self-caught "anyone has," "rebels," "reveal," and 3 mic-mistranscribed character names (Sophie→Salvation, Keefe→Kofi, Neverseen→"never seen"). 🔧 given: the "quote" proving the theme was his own paraphrase in quotation marks, not a real line from the book — not resolved in the main entry (see Watch list, new item added). ✌️ Two-finger check on "She and her friend **is**" was pointed at directly, twice — **not self-corrected either time**, first miss since the lesson. Not re-adding the compound-subject item yet (one slip right after retirement), but watching closely. 🚀 Stretch attempted: rewrote the flat 5/5 into an argue-with-itself rating (over-paced ending) — real shape, rough execution, credited for honest effort. ACE ✅ (Tier 3): asked why the author reveals Keefe's plan slowly — answered with **real quoted dialogue**, Sophie's *"Oh! That's why you did that!"* — the focus skill's **3rd instance**, ready to promote Style to Tier 3 at next weekly. Asked about extra XP for a second read-aloud pass — told plainly the +5 is once per day, already earned; he took the honest answer and moved on. 🎉 **Leveled up to 11** (crossed 1000) — rotation rule waived for next session. Goal choice (Debater vs. Critic) offered three times this session, not yet answered — still open, no pressure. XP 65 (10 + T3 10 + finished-book 20 + read-aloud 5 + stretch 10 + ACE 10). |

@@ -1,12 +1,12 @@
 {
-  "generated": "2026-07-30T01:16:47.571Z",
+  "generated": "2026-07-31T02:49:53.745Z",
   "students": [
     {
       "name": "Jaei",
       "grade": "8",
-      "xp": 1000,
+      "xp": 1075,
       "level": 11,
-      "streak": 2,
+      "streak": 3,
       "badges": [
         {
           "name": "First Words",
@@ -74,6 +74,11 @@
           "date": "2026-07-29"
         },
         {
+          "name": "Sound Check",
+          "emoji": "🔊",
+          "date": "2026-07-31"
+        },
+        {
           "name": "Wordsmith card COMPLETE",
           "emoji": "✍️",
           "date": "2026-07-14"
@@ -84,9 +89,14 @@
           "date": "2026-07-16"
         },
         {
-          "name": "Voice card 3/4",
+          "name": "Voice card COMPLETE",
           "emoji": "🎤",
-          "date": "2026-07-29"
+          "date": "2026-07-31"
+        },
+        {
+          "name": "and",
+          "emoji": "*Bookkeeping",
+          "date": null
         },
         {
           "name": "Scholar card 1/4",
@@ -106,11 +116,16 @@
           "item": "Quotation marks = the book's exact words only",
           "cleared": false,
           "streak": 0
+        },
+        {
+          "item": "\"could have wrote\" → \"could have written\"",
+          "cleared": false,
+          "streak": 0
         }
       ],
       "stats": {
-        "entries": 21,
-        "activeDays": 19,
+        "entries": 22,
+        "activeDays": 20,
         "templatesUsed": [
           "01-summary",
           "02-prediction",
@@ -125,28 +140,43 @@
         ],
         "revisions": 18,
         "ace": 13,
-        "quotes": 14,
+        "quotes": 15,
         "counter": 8,
-        "craft": 3,
+        "craft": 4,
         "compare": 0,
-        "tier3": 9,
-        "readAlouds": 4,
-        "cleanEntries": 3,
-        "cleanStreak": 0,
+        "tier3": 10,
+        "readAlouds": 5,
+        "cleanEntries": 4,
+        "cleanStreak": 1,
         "bestCleanStreak": 3,
         "lessons": 0,
         "bookReviews": 5,
-        "booksStarted": 9,
+        "booksStarted": 10,
         "booksFinished": 8,
         "maxWords": 240,
-        "totalWords": 2531,
+        "totalWords": 2628,
         "maxParagraphs": 4,
         "essayShaped": 1,
         "debateShaped": 2,
-        "bestStreak": 5,
-        "streak": 2
+        "bestStreak": null,
+        "streak": 3
       },
       "books": [
+        {
+          "key": "keeper of the lost cities#6",
+          "title": "Keeper of the Lost Cities: Nightfall",
+          "short": "Nightfall",
+          "series": "Keeper of the Lost Cities",
+          "seriesEmoji": "🌌",
+          "seriesTotal": 9,
+          "volume": 6,
+          "author": "Shannon Messenger",
+          "entries": 1,
+          "words": 97,
+          "first": "2026-07-31",
+          "last": "2026-07-31",
+          "finished": false
+        },
         {
           "key": "keeper of the lost cities#5",
           "title": "Keeper of the Lost Cities: Lodestar",
@@ -871,6 +901,34 @@
           "watchSlip": true,
           "build": null,
           "excerpt": "What would you do in a new world when everything that happens is more than anyone has ever done? Sophie is in the Lost cities and are new to this world, but she is involved with th"
+        },
+        {
+          "file": "students/Jaei/journal/2026-07-31-14-craft-analysis.md",
+          "date": "2026-07-31",
+          "slug": "14-craft-analysis",
+          "book": "Keeper of the Lost Cities: Nightfall",
+          "bookKey": "keeper of the lost cities#6",
+          "bookShort": "Nightfall",
+          "series": "Keeper of the Lost Cities",
+          "seriesEmoji": "🌌",
+          "volume": 6,
+          "author": "Shannon Messenger",
+          "reading": "chapter 1",
+          "tier": 3,
+          "xp": 75,
+          "words": 97,
+          "paragraphs": 2,
+          "hasRevision": false,
+          "hasBonus": false,
+          "quote": true,
+          "counter": false,
+          "craft": true,
+          "compare": false,
+          "readAloud": true,
+          "watchClean": true,
+          "watchSlip": false,
+          "build": "Craft Analysis — day 1 of 2",
+          "excerpt": "In the first chapter of \"Nightfall\", Messenger chooses to make a difficult situation for Sophie and her friends. They just figured out that \"[Sophie's] parents were taken by the Ne"
         }
       ],
       "reports": [
