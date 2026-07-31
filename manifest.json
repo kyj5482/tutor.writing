@@ -1,11 +1,11 @@
 {
-  "generated": "2026-07-31T03:03:34.587Z",
+  "generated": "2026-07-31T03:08:50.571Z",
   "students": [
     {
       "name": "Jaei",
       "grade": "8",
-      "xp": 1085,
-      "level": 11,
+      "xp": 1100,
+      "level": 12,
       "streak": 3,
       "badges": [
         {
@@ -139,9 +139,9 @@
           "10-book-review"
         ],
         "revisions": 19,
-        "ace": 13,
+        "ace": 14,
         "quotes": 15,
-        "counter": 8,
+        "counter": 9,
         "craft": 4,
         "compare": 0,
         "tier3": 10,
@@ -157,7 +157,7 @@
         "totalWords": 2628,
         "maxParagraphs": 4,
         "essayShaped": 1,
-        "debateShaped": 2,
+        "debateShaped": 3,
         "bestStreak": null,
         "streak": 3
       },
@@ -915,13 +915,13 @@
           "author": "Shannon Messenger",
           "reading": "chapter 1",
           "tier": 3,
-          "xp": 85,
+          "xp": 100,
           "words": 97,
           "paragraphs": 2,
           "hasRevision": true,
-          "hasBonus": false,
+          "hasBonus": true,
           "quote": true,
-          "counter": false,
+          "counter": true,
           "craft": true,
           "compare": false,
           "readAloud": true,

@@ -275,6 +275,22 @@ now says he'll clear an item in one session that way, versus seven corrections t
    "great job" that actually lands on him. Do this whenever he stumbles onto a real technique:
    name it, date it, tell him who else uses it.
 
+5. **He writes the hard box first, in the wrong register.** His ACE answer contained a complete
+   THE TRADE — cost (*"it's kinda frustrating"*), benefit (the *"Ahh"* moment), verdict (*"it
+   helps me as a reader"*) — a full day ahead of being asked for it, and in casual speech. **The
+   analysis isn't the thing he's missing; the register is.** When he stalls on a critic move,
+   stop teaching the move and ask him to *say it out loud how he'd say it to a friend* — he
+   already has the thought. Then translate. This is the reverse of how most kids fail at
+   criticism, and it should change what gets taught: less "here's what a cost is," more "you
+   just said the cost, now say it in the essay's voice."
+6. **He has no working model of quotation marks — so give him the whole model, not the ban.**
+   Flagged 07-30 as a gap. Today he used them **both** ways in one paragraph: correctly around
+   Amy's spoken line, and legitimately around *"Ahh"* to name a sound. Dinging the second would
+   have taught him "quotes are risky, avoid them." What he got instead was the two-way rule —
+   **quotes mark the author's exact words, or name a word/sound as a thing; what they never do
+   is dress up your own paraphrase as evidence.** Streak went to 2/3 honestly, and the model is
+   now complete rather than fearful.
+
 **Library gap found:** `grade8-growth.md` is the **only** Craft Analysis example, and it's *Holes*
 — shown three times in five sessions. Now that Critic is his goal, template 14 will come up
 repeatedly. The library needs a second grade-8 Craft Analysis example on a different book. Told

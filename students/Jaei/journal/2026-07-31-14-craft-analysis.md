@@ -3,7 +3,7 @@
 - **Book:** Keeper of the Lost Cities: Nightfall by Shannon Messenger (chapter 1)
 - **Template:** 14 Craft Analysis, Tier 3
 - **Build:** Craft Analysis — day 1 of 2
-- **XP earned:** 85 (base 10 + Tier 3 10 + build day 5 + read-aloud 5 + 3-day streak 5 + 🎟️ Voice card coupon 40 + stretch 10)
+- **XP earned:** 100 (base 10 + Tier 3 10 + build day 5 + read-aloud 5 + 3-day streak 5 + 🎟️ Voice card coupon 40 + stretch 10 + ACE 10 + focus skill 5) — 🎉 **LEVEL 12**
 - **Read-aloud:** ✅ read aloud before saving — self-caught "many conflict" → "many conflicts" (his own voice put the -s on); mic mis-transcribed *author* → "Arthur" and *build-up* → "book", flagged and discarded
 - **Watch list:** ✅ clean — quoted only Messenger's words, and marked his own alteration with square brackets: "[Sophie's] parents were taken by the Neverseen."
 
@@ -51,4 +51,12 @@ And here's the gift, because you found this technique on your own without knowin
 
 In the first chapter of the "Nightfall, Messenger opens to make it difficult situation for Sophie and her friends, they just figure out that "Sophie's parents were taken by the Neverseen" instead of writting this story in the last book to finish this conflict, and could have wrote another story for the book, which would have nothing different in the big picture. However, Messenger chose to start with the Nightfall with the conflict, which shows us that this will be a book on many conflicts and no book stories which will shorten the amount of action.
 
-*(Tutor note: the frame landed — the alternative that never happened is now inside the claim sentence, which is where a critic puts it. What didn't change is **what the claim names**: still the situation, not the technique. And the two paragraphs collapsed into one run-on that does five jobs in a breath — the same over-loading pattern noted 07-29. Both go to day 2 as construction, not repair. Credited +10 for honest effort with the frame used.)*
+*(Stretch tutor note: the frame landed — the alternative that never happened is now inside the claim sentence, which is where a critic puts it. What didn't change is **what the claim names**: still the situation, not the technique. And the two paragraphs collapsed into one run-on that does five jobs in a breath — the same over-loading pattern noted 07-29. Both go to day 2 as construction, not repair. Credited +10 for honest effort with the frame used.)*
+
+## Bonus — ACE Write
+
+**Question:** Chapter 1 tells you Sophie's parents were taken, and withholds almost everything about *how*. What does keeping you in the dark do to you as a reader that simply telling you wouldn't?
+
+It makes me think about the situation. Like how Amy said, "they took them to the nightfall" gives me some idea which let me get some theories. It helps me as a reader even though it's kinda frustrating, because it gives me more of a "Ahh" moment.
+
+*(ACE tutor note: **the E is the THE TRADE box, written unprompted.** He named a cost — "it's kinda frustrating" — a benefit — the "Ahh" moment — and delivered a verdict — "it helps me as a reader." That is the exact Tier 3 move template 14 asks for tomorrow, arrived at in casual speech before he knew it had a name. **Watch list clean → 2/3:** the quotation marks hold Amy's actual line, with a speaker and a saying-verb. The quotes around "Ahh" are the legitimate second use — coining a sound, not faking a citation — and he was told the distinction rather than dinged for it. **Focus skill "let them talk" ✅ (+5), 4th instance** — a character speaking her own words instead of reported speech, in a new book and a new template. Style Tier 3 promotion is now overdue at the weekly. Weak spot, carried to day 2 as construction: the **A** opens "It makes me think about the situation" — vague referent, no claim. **5th sighting of a/an before a vowel** ("a 'Ahh' moment"): not corrected, per the standing rule that corrections don't take with him — `lessons/a-vs-an.md` is scheduled to open day 2.)*
