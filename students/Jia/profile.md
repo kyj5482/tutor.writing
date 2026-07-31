@@ -27,6 +27,7 @@
 - 🧹 Clean Sweep (earned 2026-07-30 — 3 entries in a row with no Watch-list slip: 07-28, 07-29, 07-30)
 - 🧱 Paragraph Pro (earned 2026-07-30 — **the first paragraph break in 20 entries.** Found both breaks herself in under a minute after the mini-lesson)
 - 🔊 Sound Check (earned 2026-07-31 — 5 entries read aloud before saving: 07-27, 07-28, 07-29, 07-30, 07-31)
+- ⚖️ Both Sides (earned 2026-07-31 — argued the other side in **5** entries. Site counter hit 5 and the tutor confirmed it: 07-14 was a Tier-3 stretch she needed a frame for; 07-27, 07-28 and 07-31 she did it **unprompted**. The 07-31 one is the strongest — she defended Harry by quoting the line where *Lupin concedes the point*. Ladder stage 5 behaviour in a grade-6 bonus round.)
 
 **Stamp cards:**
 - 🗺️ **Adventurer card COMPLETE** (2026-07-24) — Template Tourist · Template Master · Bookworm · Double Trouble → 🎟️ **+40 XP coupon** awarded 2026-07-25 weekly (card completed when Template Master landed on 07-24; coupon was missed in that session and paid out at the weekly).
@@ -35,7 +36,9 @@
 
 - 🎤 **Voice card COMPLETE** (2026-07-31) — First Listen · Rule Learner · 🧹 Clean Sweep · 🔊 Sound Check → 🎟️ **+40 XP coupon** paid the same session (XP 920 → 960). **Her third card, and the one that matters most:** it's the card built to stop repeated mistakes, and she didn't just fill it — she used it. The read-aloud habit it rewards is what cleared both Watch items and is why her list is empty.
 
-*In progress — **two cards left, and then 🌟 Full House (+50 XP grand bonus)**: 🔥 Dedication card 1/4 — First Words ✅, the other three are pure streak badges (7 / 14 / 30 days), so this card is now **a function of showing up** — her 5-day best puts 🔥 Week of Fire two days away. 🏛️ Scholar card **1/4** — 🧱 Paragraph Pro ✅ (2026-07-30) · 📜 Long Haul (250 words) · ⚖️ Both Sides (5 entries) · 🔬 Craft Critic (5 entries) → +60 XP. This is her **goal card** — she chose 🎓 Scholar on 07-30. Long Haul falls out of the 3-day essay build for free.*
+*In progress — **two cards left, and then 🌟 Full House (+50 XP grand bonus)**: 🔥 Dedication card 1/4 — First Words ✅, the other three are pure streak badges (7 / 14 / 30 days), so this card is now **a function of showing up** — her 5-day best puts 🔥 Week of Fire two days away. 🏛️ Scholar card **2/4** — 🧱 Paragraph Pro ✅ (2026-07-30) · ⚖️ Both Sides ✅ (2026-07-31) · 📜 Long Haul ⏳ (250 words — **her longest entry ever is 162**, so this is the real gap) · 🔬 Craft Critic ⏳ (**2/5** entries about *how* the author built it) → +60 XP. This is her **goal card** — she chose 🎓 Scholar on 07-30, and it went 0/4 → 2/4 in two days without her writing a single essay.*
+
+*📏 **The measured picture as of 07-31** (from `manifest.json`, so it moves on its own): 23 entries · max **162 words** · max **3 paragraphs** · 9 quotes · 5 counterarguments · 2 craft observations · essay-shaped entries **0**. 🏛️ Essay Writer wants 3 paragraphs **and** 200+ words — **the paragraphs are solved and the words are not.** Everything left on her ladder is now a length problem, which is precisely what a 3-day build fixes and nothing else does.*
 
 ## Skill tiers
 
