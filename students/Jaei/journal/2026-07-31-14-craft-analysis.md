@@ -3,7 +3,7 @@
 - **Book:** Keeper of the Lost Cities: Nightfall by Shannon Messenger (chapter 1)
 - **Template:** 14 Craft Analysis, Tier 3
 - **Build:** Craft Analysis — day 1 of 2
-- **XP earned:** 75 (base 10 + Tier 3 10 + build day 5 + read-aloud 5 + 3-day streak 5 + 🎟️ Voice card coupon 40)
+- **XP earned:** 85 (base 10 + Tier 3 10 + build day 5 + read-aloud 5 + 3-day streak 5 + 🎟️ Voice card coupon 40 + stretch 10)
 - **Read-aloud:** ✅ read aloud before saving — self-caught "many conflict" → "many conflicts" (his own voice put the -s on); mic mis-transcribed *author* → "Arthur" and *build-up* → "book", flagged and discarded
 - **Watch list:** ✅ clean — quoted only Messenger's words, and marked his own alteration with square brackets: "[Sophie's] parents were taken by the Neverseen."
 
@@ -46,3 +46,9 @@ Yours describes the **situation**. His names the **decision**. Rewrite your firs
 And here's the gift, because you found this technique on your own without knowing it has a name: starting a story already inside the crisis, with the setup withheld, is called ***in medias res*** — Latin, "into the middle of things." It's roughly three thousand years old; it's how the *Iliad* opens. You identified it in chapter 1 of a middle-grade fantasy by noticing what the author *didn't* do. That's the job.
 
 ## Revision (if any)
+
+**🚀 Stretch attempted — the opening claim, rewritten with the *"opens ______ instead of ______"* frame:**
+
+In the first chapter of the "Nightfall, Messenger opens to make it difficult situation for Sophie and her friends, they just figure out that "Sophie's parents were taken by the Neverseen" instead of writting this story in the last book to finish this conflict, and could have wrote another story for the book, which would have nothing different in the big picture. However, Messenger chose to start with the Nightfall with the conflict, which shows us that this will be a book on many conflicts and no book stories which will shorten the amount of action.
+
+*(Tutor note: the frame landed — the alternative that never happened is now inside the claim sentence, which is where a critic puts it. What didn't change is **what the claim names**: still the situation, not the technique. And the two paragraphs collapsed into one run-on that does five jobs in a breath — the same over-loading pattern noted 07-29. Both go to day 2 as construction, not repair. Credited +10 for honest effort with the frame used.)*

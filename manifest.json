@@ -1,10 +1,10 @@
 {
-  "generated": "2026-07-31T02:53:42.863Z",
+  "generated": "2026-07-31T02:59:08.524Z",
   "students": [
     {
       "name": "Jaei",
       "grade": "8",
-      "xp": 1075,
+      "xp": 1085,
       "level": 11,
       "streak": 3,
       "badges": [
@@ -138,7 +138,7 @@
           "09-quick-write-321",
           "10-book-review"
         ],
-        "revisions": 18,
+        "revisions": 19,
         "ace": 13,
         "quotes": 15,
         "counter": 8,
@@ -915,10 +915,10 @@
           "author": "Shannon Messenger",
           "reading": "chapter 1",
           "tier": 3,
-          "xp": 75,
+          "xp": 85,
           "words": 97,
           "paragraphs": 2,
-          "hasRevision": false,
+          "hasRevision": true,
           "hasBonus": false,
           "quote": true,
           "counter": false,
