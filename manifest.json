@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-31T02:59:08.524Z",
+  "generated": "2026-07-31T03:02:24.948Z",
   "students": [
     {
       "name": "Jaei",
@@ -952,7 +952,7 @@
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 960,
+      "xp": 970,
       "level": null,
       "streak": null,
       "badges": [
@@ -1053,6 +1053,11 @@
           "item": "Verb check — endings AND matching the doer",
           "cleared": true,
           "streak": 3
+        },
+        {
+          "item": "🔍 Close the quote",
+          "cleared": false,
+          "streak": 0
         }
       ],
       "stats": {
@@ -1071,9 +1076,9 @@
           "10-book-review"
         ],
         "revisions": 15,
-        "ace": 21,
+        "ace": 22,
         "quotes": 9,
-        "counter": 4,
+        "counter": 5,
         "craft": 2,
         "compare": 0,
         "tier3": 0,
@@ -1815,13 +1820,13 @@
           "author": "J.K. Rowling",
           "reading": "one chapter — the Seven Potters flight from Privet Drive",
           "tier": 2,
-          "xp": 60,
+          "xp": 70,
           "words": 65,
           "paragraphs": 1,
           "hasRevision": true,
-          "hasBonus": false,
+          "hasBonus": true,
           "quote": true,
-          "counter": false,
+          "counter": true,
           "craft": false,
           "compare": false,
           "readAloud": true,

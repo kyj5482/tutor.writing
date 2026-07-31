@@ -308,6 +308,27 @@ route to the same stamps — 📜 Long Haul on a big narrative day, ⚖️ Both 
 character she's angry at — rather than presenting the essay as the path. She chose the Scholar
 goal herself; she just doesn't want to walk there through an essay yet.
 
+**7. Match the tool to the error — and say out loud which one you're using.** Her quotation mark
+never closes, two ACEs running. The read-aloud that cleared her verb item **cannot** catch it: a
+quotation mark makes no sound. Told her that explicitly — *"this one's a look, not a listen"* —
+which is the same distinction that took two months to learn on *"Snape and Malfoy is"* (sounds
+fine, so the ear never fired). ➡️ **Sort every new slip into ear or eye before choosing a check**,
+and tell her which it is. She is old enough to learn the sorting rule itself, and it will outlast
+any individual item.
+
+**8. Third session running she skipped the 🔧 and 🚀 and asked for the ACE.** 07-29, 07-30 (took
+the stretch only because it *was* new writing), 07-31. This is now settled fact, not a pattern to
+keep watching: **she will not go back and repair a finished piece.** ➡️ Stop offering repair-shaped
+stretches. Every 🔧 should be either (a) named *before* she writes, or (b) folded into the next
+piece as a frame. The one stretch she has ever completed (07-28, Riddle's *"sir"*) was a brand-new
+sentence. Build that way or it doesn't get built.
+
+**9. At the end of a long session her answers go thin, and that's the stop sign.** Asked where the
+closing quotation mark belonged, she replied *"To go"* — not a refusal, just the tank running out
+(same tell as *"cna i just do ace"* on 07-27). Handed her the answer in one line and closed the
+session; did not ask twice. ➡️ **Two-guess rule holds, and a vague answer counts as the second
+guess.** The correction is worth far less than her wanting to come back tomorrow.
+
 ## Talk to her like this
 
 ✅ *"Read that sentence out loud — you'll hear it."* (this is her superpower, name it)
