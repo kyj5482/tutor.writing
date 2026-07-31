@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-31T23:33:31.537Z",
+  "generated": "2026-07-31T23:51:00.708Z",
   "students": [
     {
       "name": "Jaei",
@@ -952,7 +952,7 @@
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 990,
+      "xp": 1000,
       "level": null,
       "streak": null,
       "badges": [
@@ -1081,8 +1081,8 @@
           "10-book-review"
         ],
         "revisions": 15,
-        "ace": 22,
-        "quotes": 9,
+        "ace": 23,
+        "quotes": 10,
         "counter": 6,
         "craft": 2,
         "compare": 0,
@@ -1825,12 +1825,12 @@
           "author": "J.K. Rowling",
           "reading": "several chapters — Harry carrying what Dumbledore left him",
           "tier": 2,
-          "xp": 20,
+          "xp": 30,
           "words": 63,
           "paragraphs": 1,
           "hasRevision": false,
-          "hasBonus": false,
-          "quote": false,
+          "hasBonus": true,
+          "quote": true,
           "counter": true,
           "craft": false,
           "compare": false,

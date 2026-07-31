@@ -329,6 +329,46 @@ closing quotation mark belonged, she replied *"To go"* — not a refusal, just t
 session; did not ask twice. ➡️ **Two-guess rule holds, and a vague answer counts as the second
 guess.** The correction is worth far less than her wanting to come back tomorrow.
 
+## What 07-31 (2nd session) taught us
+
+**10. A dismissed picker is not a "no" — she answers in her own format.** She closed the template
+question without choosing, so the session was wound down… and then she typed **"4"**. She had
+picked 04 Opinion all along. ➡️ **Never read a non-answer as a decline.** Wind down gently, leave
+the door open, and let her come back in the way she wants to.
+
+**11. When the offer gets long, she asks to skip to the writing.** After a message with the Tier-2
+frame *plus* an optional Tier-3 upgrade, her reply was *"no can I do the opinion writing?"* — not
+a refusal of the work, a refusal of the **preamble**. Compare 07-28's three-pass read-aloud, which
+died the same way. ➡️ **One frame, four blanks, stop typing.** The optional upgrade can be offered
+*after* she writes, or not at all.
+
+**12. The essay build has now been declined three times — and the framing was mine to fix.**
+Twice I labelled it "THE GOAL PATH" against "THE FUN ONE," which is a great way to make something
+read as homework (see #5, 07-28). The third offer was honest about the mistake and about the real
+number (*her longest entry ever is 162 words; an essay wants 200*) and she still took the one-night
+option. ➡️ Stop offering it as a **choice against** something. Next time she finishes a book — the
+natural essay moment — just run day 1 as the day's normal session and let it be three ordinary
+days, which is what it actually is.
+
+**13. "Nope, it's fine" was wrong for the first time, and the hatch still stays open.** Asked to
+listen to one verb, she checked and said it was fine; it wasn't (*"Harry still trust"*). This is
+the cost of the permission — and the permission is what makes her run the check at all (07-28,
+07-29, 07-30 all landed because "nothing's wrong counts" was on the table). ➡️ **Do not withdraw
+it and do not ask twice.** Hand her the answer in one line, say it isn't homework, move on. One
+wrong "nope" is far cheaper than a kid who stops checking.
+
+**14. Her quote habit is template-driven, not automatic.** Two entries in a row with **zero**
+quotes — the first time that's happened since the focus skill landed on 07-27 — and both were
+templates that don't demand one. ➡️ It isn't hers yet. On any template that doesn't ask for a
+quote, put *"In the book, ______ said, '______.'"* in the frame itself. Her whole remaining ladder
+(🔬 Critic, 🎓 Scholar) is built on quotes, so this is worth protecting.
+
+**15. Give her a character keeping a promise and she finds the loneliness in it.** Unprompted:
+Harry stays loyal *"even though he knows that **Dumbledore is not alive**"* — a promise to someone
+who can never check, thank, or know. Same instinct as Slughorn's guilt (07-28) and Sirius getting
+quieter (07-05). **The consistent pattern across two months: she goes to what a thing costs
+somebody.** That's her subject. Point her at it and get out of the way.
+
 ## Talk to her like this
 
 ✅ *"Read that sentence out loud — you'll hear it."* (this is her superpower, name it)
