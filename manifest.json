@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-31T02:49:53.745Z",
+  "generated": "2026-07-31T02:53:42.863Z",
   "students": [
     {
       "name": "Jaei",
@@ -952,9 +952,9 @@
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 900,
+      "xp": 960,
       "level": null,
-      "streak": 4,
+      "streak": null,
       "badges": [
         {
           "name": "First Words",
@@ -1022,6 +1022,11 @@
           "date": "2026-07-30"
         },
         {
+          "name": "Sound Check",
+          "emoji": "🔊",
+          "date": "2026-07-31"
+        },
+        {
           "name": "Adventurer card COMPLETE",
           "emoji": "🗺️",
           "date": "2026-07-24"
@@ -1030,6 +1035,11 @@
           "name": "Wordsmith card COMPLETE",
           "emoji": "✍️",
           "date": "2026-07-28"
+        },
+        {
+          "name": "Voice card COMPLETE",
+          "emoji": "🎤",
+          "date": "2026-07-31"
         }
       ],
       "tiers": {
@@ -1046,8 +1056,8 @@
         }
       ],
       "stats": {
-        "entries": 22,
-        "activeDays": 22,
+        "entries": 23,
+        "activeDays": 23,
         "templatesUsed": [
           "01-summary",
           "02-prediction",
@@ -1060,30 +1070,45 @@
           "09-quick-write-321",
           "10-book-review"
         ],
-        "revisions": 14,
+        "revisions": 15,
         "ace": 21,
-        "quotes": 8,
+        "quotes": 9,
         "counter": 4,
         "craft": 2,
         "compare": 0,
         "tier3": 0,
-        "readAlouds": 4,
-        "cleanEntries": 3,
-        "cleanStreak": 3,
-        "bestCleanStreak": 3,
+        "readAlouds": 5,
+        "cleanEntries": 4,
+        "cleanStreak": 4,
+        "bestCleanStreak": 4,
         "lessons": 3,
         "bookReviews": 2,
-        "booksStarted": 5,
+        "booksStarted": 6,
         "booksFinished": 4,
         "maxWords": 162,
-        "totalWords": 1641,
+        "totalWords": 1706,
         "maxParagraphs": 3,
         "essayShaped": 0,
         "debateShaped": 0,
         "bestStreak": null,
-        "streak": 4
+        "streak": null
       },
       "books": [
+        {
+          "key": "harry potter#7",
+          "title": "Harry Potter and the Deathly Hallows",
+          "short": "Deathly Hallows",
+          "series": "Harry Potter",
+          "seriesEmoji": "⚡",
+          "seriesTotal": 7,
+          "volume": 7,
+          "author": "J.K. Rowling",
+          "entries": 1,
+          "words": 65,
+          "first": "2026-07-31",
+          "last": "2026-07-31",
+          "finished": false
+        },
         {
           "key": "harry potter#6",
           "title": "Harry Potter and the Half-Blood Prince",
@@ -1776,6 +1801,34 @@
           "watchSlip": false,
           "build": null,
           "excerpt": "Have you ever wondered how the villains became so evil. Harry Potter and the Half Blood Prince by J.K. Rowling is about Dumbledore and Harry finding about Voldemort's past. Dumbled"
+        },
+        {
+          "file": "students/Jia/journal/2026-07-31-06-rewrite-the-scene.md",
+          "date": "2026-07-31",
+          "slug": "06-rewrite-the-scene",
+          "book": "Harry Potter and the Deathly Hallows",
+          "bookKey": "harry potter#7",
+          "bookShort": "Deathly Hallows",
+          "series": "Harry Potter",
+          "seriesEmoji": "⚡",
+          "volume": 7,
+          "author": "J.K. Rowling",
+          "reading": "one chapter — the Seven Potters flight from Privet Drive",
+          "tier": 2,
+          "xp": 60,
+          "words": 65,
+          "paragraphs": 1,
+          "hasRevision": true,
+          "hasBonus": false,
+          "quote": true,
+          "counter": false,
+          "craft": false,
+          "compare": false,
+          "readAloud": true,
+          "watchClean": true,
+          "watchSlip": false,
+          "build": null,
+          "excerpt": "In the book, Harry decided to leave the Dursleys. But what if Harry couldn't leave the house because it was so dangerous? While Harry was heading to the safe house, he met Voldemor"
         }
       ],
       "reports": [

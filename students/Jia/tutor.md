@@ -266,6 +266,48 @@ unlocked, the only thing between her and 🏛️ Essay Writer is **200+ words** 
 **Offer it again next session**, and pitch it the way it actually works: one normal paragraph a
 day, not a big essay. 📜 Long Haul comes free with it.
 
+## What 07-31 taught us (Deathly Hallows day 1 · Voice card complete)
+
+**1. Ask her to listen for ONE named thing and she finds it — plus extras.** The 07-30 note said
+to widen the pre-save question to *"does the punctuation match how you just said it?"* Ran it as
+*"where does your voice go **up** at the end of a sentence?"* — and she found the missing question
+mark, **then** fixed a tense she was never asked about (*"because it **is** so dangerous"* →
+*"because it **was**"*) and two typos. ➡️ **Naming one specific sound to listen for outperforms
+"read it and see."** The extras come free; the named target is what gets her to run the pass.
+
+**2. She reaches for the moral question in a chapter full of spectacle.** Given a chapter with a
+flying motorbike, seven Harrys and a death in it, the line she chose to quote was Lupin's
+*"you should have killed the Death Eater"* — which is the central argument of the whole book —
+and she closed on *"Harry is really worried about other people's life."* ➡️ She consistently
+picks **the cost over the excitement.** This is the same instinct as Slughorn's guilt (07-28) and
+Sirius getting quieter (07-05). **Ask her what something cost a character and she will always
+have an answer.** That's a 🔬 Critic instinct sitting in a grade-6 kid.
+
+**3. A new failure mode worth naming: she announces a change and then writes what really happened.**
+Her *"but what if Harry couldn't leave the house?"* was followed by the actual chapter — the flight
+to the safe house, Lupin, Moody. Not laziness; the real events are simply louder in her head than
+the invented ones, especially on a book she read an hour ago. ➡️ For any counterfactual template,
+give the door metaphor up front: **"the 'but what if' is a door — everything after it is on the
+other side."** Worth saying *before* she writes next time, not after.
+
+**4. She self-corrects her own reading estimate mid-session, and it's reliable.** Said "several
+chapters" on the menu, then came back with *"actually I think I read only one chapter"* before
+writing. Take the later number — she isn't inflating, she's re-checking. Also: **don't switch
+templates on her when the amount changes.** A rewrite needs one moment, not a chapter count.
+
+**5. She asked for the frame, in her own words.** *"Can you give me a template frame."* First time
+she has *requested* a scaffold instead of being handed one. The 07-25 note said frames get done;
+she now knows that about herself and will ask. ➡️ **Offer the frame as a standing option** —
+"want the fill-in version?" — on any template she hasn't used recently.
+
+**6. She declined the essay build, and it wasn't fatigue.** Offered 12 Essay day 1 (her goal path,
+described honestly) against 06 Rewrite the Scene (described as "the fun one"), she took the fun
+one — on a day she had energy, then wrote and did a full read-aloud. ➡️ **Not a refusal, a
+preference: story beats argument.** Don't push the build. The way in is probably a *scene-shaped*
+route to the same stamps — 📜 Long Haul on a big narrative day, ⚖️ Both Sides via template 13 on a
+character she's angry at — rather than presenting the essay as the path. She chose the Scholar
+goal herself; she just doesn't want to walk there through an essay yet.
+
 ## Talk to her like this
 
 ✅ *"Read that sentence out loud — you'll hear it."* (this is her superpower, name it)
