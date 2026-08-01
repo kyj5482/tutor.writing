@@ -27,6 +27,14 @@ write, so they know what the finished thing looks like.
 |------|--------|-----------|
 | `grade6-growth.md` | 12 Essay · 13 Debate · 14 Craft Analysis · 15 Comparative | *Percy Jackson* (+ *Hatchet* for the comparison) |
 | `grade8-growth.md` | 12 Essay · 13 Debate · 14 Craft Analysis · 15 Comparative | *Holes* (+ *The Hunger Games* for the comparison) |
+| `grade8-craft-analysis-hunger-games.md` | **14 Craft Analysis (second book)** | *The Hunger Games* |
+
+> **Why that last one is split out.** A student who sets 🔬 **Critic** as their ladder goal
+> writes template 14 most weeks, and for a while `grade8-growth.md` was the *only* Craft
+> Analysis example in the library — so rule 1 below (never the same book twice running) had
+> nowhere to go, and *Holes* got shown three times in five sessions. When a template starts
+> repeating because it's someone's goal, the fix is a **second book for that template**, not
+> a fourth showing of the first one. Same pattern applies to 12/13/15 if a goal lands there.
 
 These deliberately reuse books the student has already seen shorter examples of, so they can
 flip back and see the same thinking at journal length and at essay length. **Each example
