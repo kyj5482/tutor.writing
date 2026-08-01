@@ -3,7 +3,7 @@
 - **Book:** Keeper of the Lost Cities: Nightfall by Shannon Messenger (a few chapters — through ch. 11, the second Mr. Forkle)
 - **Template:** 14 Craft Analysis, Tier 3
 - **Build:** Craft Analysis — day 2 of 2 ✅ **complete**
-- **XP earned:** 55 (base 10 + Tier 3 10 + build day 5 + **build complete 25** + read-aloud 5)
+- **XP earned:** 80 (base 10 + Tier 3 10 + build day 5 + **build complete 25** + read-aloud 5 + stretch 10 + mini-lesson 5 + ACE 10) — 198 words
 - **Read-aloud:** ✅ read aloud before saving — self-caught "make" → "makes", "learn" → "learned", and restored "build-up" (yesterday's mic error); mic again mangled proper nouns (*author* → "Arthur", *Lost Cities* → "last cities", *story* → "store", *Neverseen* → "never seen"), flagged and discarded
 - **Watch list:** ✅ clean — ran the 👉 Two-Source Test himself on all five pairs of quotation marks: dropped two that were his own words, kept the two he confirmed were Messenger's, and **put the marks back on the one real citation he had deleted.** → **3/3, item retired**
 
@@ -50,6 +50,14 @@ Five words. That's what a landing sounds like. Keep your sentence about frustrat
 > This frustration helps built the concentration and more of a completion.
 
 *(Tutor note: the stretch asked for a short verdict after the long frustration/"Ahh" sentence. What he delivered is more than a rhythm fix — it **re-argues his own cost**. "Frustrating but worth it" is an opinion; "the frustration is what builds the concentration and the sense of completion" claims the cost is the **mechanism**, not the price. That's the Tier 3 trade box doing real work. He did the 🚀 and left the 🔧 — **ninth confirmation** of the 07-27 finding that he builds forward and will not walk backward into a finished paragraph. Verb form "helps **built**" → "helps build" deliberately **not** corrected here: it is the third live instance of the helper-verb shape and it goes to the mini-lesson, not to a fourth correction.)*
+
+## Bonus — ACE Write
+
+**Question:** You argued that the frustration isn't a price you pay, it's the engine — *"This frustration helps build the concentration."* So: where's the limit? You set aside *Neverseen* the moment it stopped pulling you, which makes you a reader who has actual data on this. What would Messenger have to do for the withholding to make you close the book instead of turning the page?
+
+The limit is about 1 to 2 chapters. In many books if a writer writes too much about the build-up or just action stories for about 1 to 2 chapters, readers typically get bored or too frustrating so they just quit. However in the Nightfall it explained the situation within one to two chapters which makes this book "frustrating enough to concentrate." Other example is the Warriors, in this series there're just way too much build-up stories and not much of an action which made me bored and eventually quit it.
+
+*(ACE tutor note: **he answered a "where is the limit" question with a number.** "About 1 to 2 chapters" is a falsifiable threshold, not a feeling — most readers answer this with "when it gets boring," which is just the question restated. Then he **argued it across two books**: *Nightfall*, where the withholding resolves inside the threshold and works, against *Warriors*, where it doesn't and he quit. One rule, a case that confirms it and a case that breaks it — that is the core move of ladder stage **7, 🎓 Scholar**, arrived at unprompted in a bonus round while he is still building toward stage 6. Same enlarging instinct logged 07-31. **Verb check ✅ clean** — invited to run the verb-only read on the ACE before saving, he caught *"readers typically gets"* → *"get"* himself and the fixed version is what's recorded. **Verb-chain lesson item clean, first entry** — no have/has/had chains attempted, so it counts as clean but proves nothing yet. The quotation marks around *"frustrating enough to concentrate"* are the tutor's own words from the question, quoted accurately but unattributed; told him the instinct was right and it just needs a name attached — not scored, the item is retired.)*
 
 ## Tutor bookkeeping note
 

@@ -296,6 +296,78 @@ now says he'll clear an item in one session that way, versus seven corrections t
 repeatedly. The library needs a second grade-8 Craft Analysis example on a different book. Told
 him plainly it was a gap rather than pretending it was a fresh pick; he's owed that.
 
+## 🧯 2026-08-01 — a ban with no alternative gets routed around
+
+The most useful thing in the file today, and it cost a whole session to see.
+
+The quotation-marks item had been named *before* he wrote (the 07-31 technique that worked
+perfectly) and he was given the complete two-way rule. Then, mid-session, he was asked for
+proof — and he immediately wrapped his own paraphrase in quotation marks: *the author suddenly
+makes us **"confront Mr. Forkle"***. Asked for a quote, he **manufactured** one. Same thing
+happened on 07-30, also immediately after being asked for a real quote.
+
+So the rule wasn't failing. **He had no legal alternative.** Nobody had ever told him that a
+paraphrase with *no* quotation marks is complete, correct writing — so quotation marks were the
+only tool he owned for signalling *this part is the evidence*. Every time the demand for
+evidence went up, he reached for the only marker he had.
+
+What ended it in one move was giving him the **other option** plus a check he runs himself:
+
+> **A.** Find the exact line → quotation marks earned.
+> **B.** Can't find it → describe it plainly, **zero quotation marks**. B is not the lazy one.
+>
+> 👉 **The Two-Source Test:** point at every pair of marks, ask out loud *"did the author type
+> these exact letters?"* Yes → keep. No → delete the marks; the sentence still works.
+
+He ran it on all five pairs, dropped two, kept two he verified, and **put the marks back on the
+one real citation he'd deleted.** Item retired, 3/3.
+
+> **Generalize this:** when a Watch item survives being named before the writing, stop
+> restating the rule and ask *what is he supposed to do instead?* If the answer is "just don't
+> do the wrong thing," that's a ban, not a method, and he will route around it under pressure.
+
+**Also today:**
+
+1. **He out-diagnosed a two-month error on the first guess. Again.** Shown three of his own
+   sentences and asked what they had in common, he said *"they all have have before the verb."*
+   Exactly what happened on 07-25 with compound subjects. **This is now twice, and it should
+   change the default:** when a mechanical error recurs, don't open with the rule — open with
+   three of his own sentences and the question *"what do these have in common?"* He gets there
+   himself, and a rule he derived is one he keeps. Handing him the rule is the second-best move.
+2. **His ear and his logic have a hard boundary, and it's audibility.** In one read-aloud pass
+   his voice fixed *"make"* → *"makes"* and *"learn"* → *"learned"* (audible) and walked over
+   *"could have wrote"* for the second session running (inaudible). Later, invited to run the
+   verb-only read on his ACE, he caught *"readers typically gets"* → *"get"* instantly. **The
+   read-aloud is not unreliable — it is precisely reliable, on exactly one class of error.**
+   Route sound-shaped errors to the mic and rule-shaped errors to a lesson, and never conclude
+   from a rule-shaped miss that the read-aloud habit is slipping.
+3. **He keeps doing the move one size up — now it's ladder stages.** Asked in a bonus round
+   where the limit of withholding is, he gave a **number** ("about 1 to 2 chapters") and then
+   argued it **across two books** — *Nightfall* confirming, *Warriors* breaking. Holding one
+   argument across two books is stage **7 (Scholar)**, produced casually while he is still
+   building stage 6. Third instance of this pattern (07-31: a sentence-level move applied to
+   book architecture). **Stop pre-scaling things for him.** Give the small version and let him
+   enlarge it — that enlargement is where his best thinking shows up.
+4. **The 🚀/🔧 split held for the ninth time, and the 🚀 improved his argument.** Offered a 🔧
+   (insert an effect line into ¶3) and a 🚀 (add a landing sentence to the end), he did the 🚀
+   and left the 🔧 — as predicted every time since 07-27. But note *what* the added sentence
+   did: *"This frustration helps built the concentration"* re-argues his own named cost as the
+   **mechanism** rather than the price. **Forward motion isn't just how he'll accept work; it's
+   where his thinking actually improves.** A 🔧 that could be rewritten as "add one sentence at
+   the end" should be.
+5. **Length is the one wall not moving, and more build days won't fix it.** 240 words (07-29
+   essay, 3 days) → 198 (08-01 analysis, 2 days). Both builds finished *under* the 250-word
+   Long Haul stamp, and his Critic goal wants 450. The per-day pieces are the right size; the
+   totals are short because he writes tight, not because he writes little. Do **not** convert
+   this into a length quota — `tutor.md` already says length requirements are the one stretch
+   that doesn't land on him. Name the number honestly, put it next to the stamp and the goal
+   that both need it, and let him pick the attack.
+6. **Tell him when the tutor gets it wrong, before he finds it.** The first version of today's
+   journal file contained a "revision" and an ACE answer **he never wrote**, invented by the
+   tutor. It was deleted within the minute and before the commit, and he was told plainly and
+   first. He has caught bookkeeping errors twice (07-14, 07-23) and been right both times; the
+   only thing that keeps this file worth anything to him is that it holds his real words.
+
 ## How to run a session with him
 
 - **Skip the warm-up.** He wants the template and the writing. Long lead-ins lose him.

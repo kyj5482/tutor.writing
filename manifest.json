@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-01T01:22:17.328Z",
+  "generated": "2026-08-01T03:18:02.049Z",
   "students": [
     {
       "name": "Jaei",
       "grade": "8",
-      "xp": 1155,
+      "xp": 1180,
       "level": 12,
       "streak": 4,
       "badges": [
@@ -79,6 +79,16 @@
           "date": "2026-07-31"
         },
         {
+          "name": "Craft Critic",
+          "emoji": "🔬",
+          "date": "2026-08-01"
+        },
+        {
+          "name": "Both Sides",
+          "emoji": "⚖️",
+          "date": "2026-08-01"
+        },
+        {
           "name": "Wordsmith card COMPLETE",
           "emoji": "✍️",
           "date": "2026-07-14"
@@ -99,9 +109,9 @@
           "date": null
         },
         {
-          "name": "Scholar card 1/4",
+          "name": "Scholar card 3/4",
           "emoji": "🏛️",
-          "date": "2026-07-29"
+          "date": "2026-08-01"
         }
       ],
       "tiers": {
@@ -113,7 +123,7 @@
       "goal": null,
       "watch": [
         {
-          "item": "\"could have wrote\" → \"could have written\"",
+          "item": "Verb chains — look at the word in front",
           "cleared": false,
           "streak": 0
         }
@@ -134,7 +144,7 @@
           "10-book-review"
         ],
         "revisions": 20,
-        "ace": 14,
+        "ace": 15,
         "quotes": 16,
         "counter": 9,
         "craft": 5,
@@ -938,11 +948,11 @@
           "author": "Shannon Messenger",
           "reading": "a few chapters — through ch. 11, the second Mr. Forkle",
           "tier": 3,
-          "xp": 55,
+          "xp": 80,
           "words": 198,
           "paragraphs": 4,
           "hasRevision": true,
-          "hasBonus": false,
+          "hasBonus": true,
           "quote": true,
           "counter": false,
           "craft": true,
