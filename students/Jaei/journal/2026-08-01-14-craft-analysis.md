@@ -15,7 +15,7 @@ In the first chapter of the Nightfall, Messenger opens to make a difficult situa
 
 In the eleventh chapter of the "Nightfall", when she just learned that "her family was taken", the author suddenly makes Sophie and her friend "come inside the lighthouse" and then make her meet Mr. Forkle's twin brother.
 
-This method as a reader myself is kinda frustrating, but it's worth it because it gives me more "Ahh" moment.
+This method as a reader myself is kinda frustrating, but it's worth it because it gives me more "Ahh" moment. This frustration helps built the concentration and more of a completion.
 
 ## Tutor feedback
 
@@ -42,6 +42,14 @@ Your verdict is *right* — cost, payoff, judgment, all three. But it arrives in
 > *"A book about a nation forced to watch children die in real time should not be narrated by someone comfortable enough to use the past tense. **The form is the argument.**"*
 
 Five words. That's what a landing sounds like. Keep your sentence about frustration and the "Ahh" — then add one **short** sentence after it that says what the frustration is *for*. Not a summary of the paragraph. A verdict.
+
+## Revision (if any)
+
+**🚀 Stretch done — the landing sentence, added to the end of ¶4:**
+
+> This frustration helps built the concentration and more of a completion.
+
+*(Tutor note: the stretch asked for a short verdict after the long frustration/"Ahh" sentence. What he delivered is more than a rhythm fix — it **re-argues his own cost**. "Frustrating but worth it" is an opinion; "the frustration is what builds the concentration and the sense of completion" claims the cost is the **mechanism**, not the price. That's the Tier 3 trade box doing real work. He did the 🚀 and left the 🔧 — **ninth confirmation** of the 07-27 finding that he builds forward and will not walk backward into a finished paragraph. Verb form "helps **built**" → "helps build" deliberately **not** corrected here: it is the third live instance of the helper-verb shape and it goes to the mini-lesson, not to a fourth correction.)*
 
 ## Tutor bookkeeping note
 

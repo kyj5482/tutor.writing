@@ -1,12 +1,12 @@
 {
-  "generated": "2026-08-01T01:19:17.668Z",
+  "generated": "2026-08-01T01:22:17.328Z",
   "students": [
     {
       "name": "Jaei",
       "grade": "8",
-      "xp": 1100,
+      "xp": 1155,
       "level": 12,
-      "streak": 3,
+      "streak": 4,
       "badges": [
         {
           "name": "First Words",
@@ -113,11 +113,6 @@
       "goal": null,
       "watch": [
         {
-          "item": "Quotation marks = the book's exact words only",
-          "cleared": false,
-          "streak": 0
-        },
-        {
           "item": "\"could have wrote\" → \"could have written\"",
           "cleared": false,
           "streak": 0
@@ -138,7 +133,7 @@
           "09-quick-write-321",
           "10-book-review"
         ],
-        "revisions": 19,
+        "revisions": 20,
         "ace": 14,
         "quotes": 16,
         "counter": 9,
@@ -154,12 +149,12 @@
         "booksStarted": 10,
         "booksFinished": 8,
         "maxWords": 240,
-        "totalWords": 2815,
+        "totalWords": 2826,
         "maxParagraphs": 4,
         "essayShaped": 1,
         "debateShaped": 3,
         "bestStreak": null,
-        "streak": 3
+        "streak": 4
       },
       "books": [
         {
@@ -172,7 +167,7 @@
           "volume": 6,
           "author": "Shannon Messenger",
           "entries": 2,
-          "words": 284,
+          "words": 295,
           "first": "2026-07-31",
           "last": "2026-08-01",
           "finished": false
@@ -944,9 +939,9 @@
           "reading": "a few chapters — through ch. 11, the second Mr. Forkle",
           "tier": 3,
           "xp": 55,
-          "words": 187,
+          "words": 198,
           "paragraphs": 4,
-          "hasRevision": false,
+          "hasRevision": true,
           "hasBonus": false,
           "quote": true,
           "counter": false,
