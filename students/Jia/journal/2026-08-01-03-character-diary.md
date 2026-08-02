@@ -2,7 +2,7 @@
 
 - **Book:** Harry Potter and the Deathly Hallows by J.K. Rowling (one chapter — the escape from the wedding, and Lupin at Grimmauld Place)
 - **Template:** 03 Character Diary, Tier 2
-- **XP earned:** 20 (base 10 + Tier 2 5 + read-aloud 5)
+- **XP earned:** 30 (base 10 + Tier 2 5 + read-aloud 5 + ACE 10)
 - **Read-aloud:** ✅ read aloud before saving — one pass, listening for a missing or extra word; nothing to change. Mic mis-heard *Grimmauld* → "Grimmold", *Tonks* → "Ponce", *be with her* → "beat her", *the werewolf* → "aware of Remy", flagged and discarded (per the 07-28 rule: read the transcript as speech, not as writing)
 - **Watch list:** ✅ clean — 🔍 Close the quote. Asked to count the quotation marks in her own line before saving, she found the missing closer **on the first look** and supplied it. She used `'` rather than `"`; the position was right, the match wasn't, and she was given the one-line refinement (*the closer has to be the same mark as the opener*) rather than a second correction. **0/3 → 1/3**
 
@@ -36,3 +36,13 @@ Add **one** sentence to the diary — right after Harry speaks. Fill this in:
 > *When Harry said that, my ____________.*
 
 One body part. One thing it did. That's the whole stretch — and it's a brand-new sentence, not a repair.
+
+## Bonus — ACE Write
+
+**Question:** You wrote Harry saying *"If Tonks is having a baby, you have to be with her, you have to protect them."* Why does **Harry**, out of everyone in the room, say that? Think about whose parents died protecting a baby — what does Harry know about this that Lupin doesn't?
+
+He knows because his parents died while they were saving him. In the book, Harry said that Lupin should protect them like what James and Lily did for Harry. This shows that Harry is trying to help because Harry knows what to do with this kind of situation.
+
+*(ACE tutor note: **the A is exactly right and it is the actual reason the scene works** — Harry isn't giving advice, he's the evidence. She reached for **James and Lily by name**, unprompted, which is the specific-detail habit that earned 🔍 Detail Detective and it landed in a bonus round where nobody asked for it.
+**Watch item 🔍 Close the quote — untested here:** the C is reported speech, so there were no quotation marks for the check to grab. Held at the **1/3** earned in the main entry rather than advanced on nothing (same call as 07-31). **Third session running where the ACE contains no quote** — this confirms `tutor.md` #14: her quote habit is template-driven, not automatic. The fix is not a correction, it's putting *In the book, ______ said, "______."* into the ACE frame itself.
+**The E is one sentence where Tier 2 asks for two — second sighting** (07-30 was the first), and it's the weaker half: *"Harry knows what to do with this kind of situation"* restates the answer instead of extending it. Not corrected today — one 🔧 a day and it was already spent — but two sightings makes it the natural **focus skill for the next weekly**.)*

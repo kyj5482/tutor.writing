@@ -369,6 +369,66 @@ who can never check, thank, or know. Same instinct as Slughorn's guilt (07-28) a
 quieter (07-05). **The consistent pattern across two months: she goes to what a thing costs
 somebody.** That's her subject. Point her at it and get out of the way.
 
+## What 08-01 taught us (Lupin's diary · the quote item finally moves)
+
+**1. Name the Watch item BEFORE she writes and put it inside the frame — it works on her too.**
+The item had sat at 0/3 for three sessions, corrected after the fact each time. Today it was
+named in the **greeting**, in one line, before she even picked a template (*"quotation marks
+come in pairs — this one's a look, not a listen"*), and the template frame itself carried
+`count your quote marks 🔍` on the quote line. She still opened without closing in the first
+draft — **but when asked to count the marks in her own sentence she found the missing one on
+the first look.** Caught at the pre-save check, which is a clean entry. *(Identical finding to
+Jaei's 07-31. It is now the default for both kids: the item goes in before the writing, in one
+sentence, never as a report afterward.)*
+
+**2. Give her the count, not the instruction.** *"Check your quotation marks"* had failed twice.
+***"Count the `"` marks in this line. How many?"*** worked immediately. Same shape as ✌️
+two-finger, 🔊 verb-only read, and *"where did you stop telling and start judging?"* — **every
+rule that has ever stuck with her arrived as a physical thing she could run.** Never give her a
+principle when a countable question will do.
+
+**3. Her next step on quotes is *matching*, not closing.** She closed the `"` with a `'`. She
+has the position; she doesn't yet have "the closer is the same mark as the opener." Handed over
+in one line, not as a second correction. If it slips: ***"do they match?"***
+
+**4. She is quoting less, and it's the frames' fault, not hers.** Three sessions running now
+with a **quote-free ACE** (07-31 ×2, 08-01). Today proved the mechanism cleanly in a single
+session: the main-entry frame contained `______ said, "______."` and she produced a quote; the
+ACE frame didn't and she produced reported speech. ➡️ **Put the quote frame into every frame**,
+especially the ACE — her whole remaining ladder is built on quotes, and the Watch item can't
+even be *tested* on an entry with no quotation marks in it.
+
+**5. Fifth straight time she skipped the 🔧 and the 🚀 and asked for the ACE.** 07-29, 07-30,
+07-31, 07-31, 08-01. Today the stretch was deliberately written the way this card says to write
+it — brand-new sentence, fill-in-the-blank, explicitly *"not a repair"* — and she **still**
+skipped it. ➡️ Revise the theory: it isn't only that revision feels like homework. **The ACE is
+a question someone asked her, and answering a question beats completing a task.** The one
+stretch she has ever done (07-28, Riddle's *"sir"*) was posed as a **question with four
+options** — *"whose voice is stuck in his head?"* — not as a blank to fill. Next time, put the
+stretch in the form of a question with choices, and see whether that's the real variable.
+
+**6. Give her a form and she'll write against it.** Asked for a diary — the most honest form
+there is — she wrote **a diary about not telling the truth**: *"When Harry saw me, I didn't tell
+him why I was really here for."* And asked for a *hope*, she delivered a **dread** wearing a
+hope's clothes: *"I hope that baby is not going to be the warewolf."* Both times she took the
+frame's requirement and turned it inside out. ➡️ She is past needing frames for *safety*; she
+now uses them as something to push against. Keep giving them — but expect the interesting thing
+to happen in the gap between what was asked and what arrives.
+
+**7. The subject is confirmed beyond argument now: she writes about what a thing costs
+somebody.** Sirius getting quieter (07-05) → Slughorn's guilt (07-28) → Harry worried about
+other people's lives (07-31) → a father afraid of what he passed to his child (08-01). Four
+different books-worth of chapters, one instinct. **This is her subject. Point her at it and get
+out of the way** — and when a template offers a choice of angles, the "what did it cost" angle
+is the one that gets her best writing every time.
+
+**8. Still naming feelings instead of showing them in the body.** *"I'm worried that Harry would
+be mad at me"* against Brian's *"my heart was slamming so hard I could hear it over the
+engine."* Flagged 07-28 in the Slughorn diary and unchanged since — it is her single most
+repeatable Tier-2 gap. It has now been offered twice as a stretch and skipped twice. ➡️ Stop
+offering it *after* the writing. Put a body-part blank **into the frame itself**, the way the
+quote line worked today: *"When ______ happened, my ______."*
+
 ## Talk to her like this
 
 ✅ *"Read that sentence out loud — you'll hear it."* (this is her superpower, name it)

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-02T02:14:19.767Z",
+  "generated": "2026-08-02T02:23:45.026Z",
   "students": [
     {
       "name": "Jaei",
@@ -985,7 +985,7 @@
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 1000,
+      "xp": 1030,
       "level": null,
       "streak": null,
       "badges": [
@@ -1114,7 +1114,7 @@
           "10-book-review"
         ],
         "revisions": 15,
-        "ace": 23,
+        "ace": 24,
         "quotes": 11,
         "counter": 6,
         "craft": 2,
@@ -1914,11 +1914,11 @@
           "author": "J.K. Rowling",
           "reading": "one chapter — the escape from the wedding, and Lupin at Grimmauld Place",
           "tier": 2,
-          "xp": 20,
+          "xp": 30,
           "words": 73,
           "paragraphs": 1,
           "hasRevision": false,
-          "hasBonus": false,
+          "hasBonus": true,
           "quote": true,
           "counter": false,
           "craft": false,
