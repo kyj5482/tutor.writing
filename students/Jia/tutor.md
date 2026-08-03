@@ -429,6 +429,42 @@ repeatable Tier-2 gap. It has now been offered twice as a stretch and skipped tw
 offering it *after* the writing. Put a body-part blank **into the frame itself**, the way the
 quote line worked today: *"When ______ happened, my ______."*
 
+## What 08-02 taught us (Week of Fire)
+
+**16. She will correct the tutor, and she was right.** The session opened by telling her the streak
+had broken — `date -u` in this environment reads **one day ahead** of her real date, because she
+writes in the evening US time, which is already past midnight UTC. She pushed back: *"today is 08-02
+I'm supposed to get a coupon because I'm on my 7th day."* Date right, count right, milestone right.
+➡️ **Take her local date, always; if the clock and the kid disagree, the kid wins.** And note the
+larger thing: she tracks her own progress closely enough to catch a bookkeeping error. That is worth
+protecting — correct it in one line, fast, without hedging, and say she was right.
+
+**17. She redirects a frame to where it's actually needed.** Handed *"The worst part wasn't ______,
+it was ______"* to fill in about her own swim-practice rush, she aimed it at **Harry** instead —
+which was exactly the weak spot in her entry (her side had three details, the book's side had none).
+The stretch quietly did the 🔧's job. ➡️ **Give her the frame, not the assignment.** She has better
+instincts about where a sentence belongs than the instruction does.
+
+**18. ⚠️ The "put the quote in the frame" fix DOES NOT WORK — #14 is falsified.** `In the book,
+______ said, "______."` was placed in the ACE frame verbatim and named out loud before she wrote.
+She produced reported speech anyway (*"Harry was rushing everyone"*). That is now **five consecutive
+pieces with zero quotation marks**, and it has left 🔍 Close the quote stuck at 1/3, untested, for
+four sessions. ➡️ The barrier isn't the frame and isn't willingness — she quotes happily on Golden
+Line and Opinion, which *ask a question a quote answers*. **Ask "what were the exact words?", don't
+offer a blank.** And stop scoring an item that never gets tested; resolve it at the weekly.
+
+**19. Her read-aloud now outperforms the question it's given.** Asked to listen for one thing (a
+breath / a missing period), she found it **and** upgraded *cause*→*because* three times **and** split
+a comma-splice — none of it requested. On 07-27 the same habit caught a single verb ending. ➡️ The
+one-pass-one-question rule got her started, but she has outgrown it. **Keep asking for one thing —
+that's still what makes her start — and expect four.**
+
+**20. The E paragraph is her real ceiling now, and it's the same shape three times.** 07-30, 08-01
+and 08-02 all have a one-sentence E where Tier 2 asks for two, and each time the missing second
+sentence is the one that would go *further* instead of restating. Everything else in her ACE is
+strong. ➡️ **This is the next focus skill.** Frame it as she needs it: *"This shows ______. It also
+means ______."* — two blanks, not an instruction to elaborate.
+
 ## Talk to her like this
 
 ✅ *"Read that sentence out loud — you'll hear it."* (this is her superpower, name it)

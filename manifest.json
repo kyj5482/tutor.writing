@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-03T01:25:28.981Z",
+  "generated": "2026-08-03T01:31:30.001Z",
   "students": [
     {
       "name": "Jaei",
@@ -1033,7 +1033,7 @@
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 1080,
+      "xp": 1090,
       "level": null,
       "streak": null,
       "badges": [
@@ -1149,6 +1149,11 @@
           "item": "🔍 Close the quote",
           "cleared": false,
           "streak": 1
+        },
+        {
+          "item": "✍️ Possessive `'s`",
+          "cleared": false,
+          "streak": 0
         }
       ],
       "stats": {
@@ -1167,8 +1172,8 @@
           "10-book-review"
         ],
         "revisions": 16,
-        "ace": 24,
-        "quotes": 11,
+        "ace": 25,
+        "quotes": 12,
         "counter": 6,
         "craft": 2,
         "compare": 0,
@@ -1995,12 +2000,12 @@
           "author": "J.K. Rowling",
           "reading": "one chapter — the escape from the Ministry of Magic",
           "tier": 2,
-          "xp": 50,
+          "xp": 60,
           "words": 81,
           "paragraphs": 1,
           "hasRevision": true,
-          "hasBonus": false,
-          "quote": false,
+          "hasBonus": true,
+          "quote": true,
           "counter": false,
           "craft": false,
           "compare": false,
