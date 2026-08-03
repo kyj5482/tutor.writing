@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-03T18:02:20.280Z",
+  "generated": "2026-08-03T18:23:58.286Z",
   "students": [
     {
       "name": "Jaei",
@@ -1061,7 +1061,7 @@
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 1090,
+      "xp": 1110,
       "level": null,
       "streak": null,
       "badges": [
@@ -1185,8 +1185,8 @@
         }
       ],
       "stats": {
-        "entries": 26,
-        "activeDays": 25,
+        "entries": 27,
+        "activeDays": 26,
         "templatesUsed": [
           "01-summary",
           "02-prediction",
@@ -1206,16 +1206,16 @@
         "craft": 2,
         "compare": 0,
         "tier3": 0,
-        "readAlouds": 8,
+        "readAlouds": 9,
         "cleanEntries": 7,
-        "cleanStreak": 7,
+        "cleanStreak": 0,
         "bestCleanStreak": 7,
         "lessons": 3,
         "bookReviews": 2,
         "booksStarted": 6,
         "booksFinished": 4,
         "maxWords": 162,
-        "totalWords": 1923,
+        "totalWords": 2026,
         "maxParagraphs": 3,
         "essayShaped": 0,
         "debateShaped": 0,
@@ -1232,10 +1232,10 @@
           "seriesTotal": 7,
           "volume": 7,
           "author": "J.K. Rowling",
-          "entries": 4,
-          "words": 282,
+          "entries": 5,
+          "words": 385,
           "first": "2026-07-31",
-          "last": "2026-08-02",
+          "last": "2026-08-03",
           "finished": false
         },
         {
@@ -2042,6 +2042,34 @@
           "watchSlip": false,
           "build": null,
           "excerpt": "In the book, Harry rushed out from the Ministry of Magic. This reminds me of when I got out of school, rushing because I was late for my swimming practice. They are alike because w"
+        },
+        {
+          "file": "students/Jia/journal/2026-08-03-01-summary.md",
+          "date": "2026-08-03",
+          "slug": "01-summary",
+          "book": "Harry Potter and the Deathly Hallows",
+          "bookKey": "harry potter#7",
+          "bookShort": "Deathly Hallows",
+          "series": "Harry Potter",
+          "seriesEmoji": "⚡",
+          "volume": 7,
+          "author": "J.K. Rowling",
+          "reading": "several chapters — the Ministry of Magic break-in and the Horcrux hunt",
+          "tier": 2,
+          "xp": 20,
+          "words": 103,
+          "paragraphs": 1,
+          "hasRevision": false,
+          "hasBonus": false,
+          "quote": false,
+          "counter": false,
+          "craft": false,
+          "compare": false,
+          "readAloud": true,
+          "watchClean": false,
+          "watchSlip": true,
+          "build": null,
+          "excerpt": "Today I read several chapters of Harry Potter and the Deathly Hallows, where Harry, Ron, and Hermione is trying to find the Hoxas. First they figured out how to get the Hoxus. Afte"
         }
       ],
       "reports": [

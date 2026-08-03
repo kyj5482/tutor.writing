@@ -6,10 +6,10 @@
 
 ## Game stats
 
-- **Level:** **11 — 👑 Master Author** 🎉 *(leveled up 2026-07-31 — **four levels in four days**, 8 → 9 → 10 → 11. She was at Level 7 on 07-24.)*
-- **XP:** 1090 (next level at 1100 — **10 to go**)
-- **Current streak:** **7 days** 🔥🔥 — 🔥 **WEEK OF FIRE** (2026-08-02). Previous best was **4** (07-16, tied 07-30); she nearly doubled it. Next milestone: **14 days → +40 XP + ⚡ Fortnight Force**, the 3rd stamp on the 🔥 Dedication card.
-- **Last entry:** 2026-08-02
+- **Level:** **12 — 👑 Master Author** 🎉 *(leveled up 2026-08-03. She was **Level 7 on 07-24** — five levels in ten days.)*
+- **XP:** 1110 (next level at 1200 — 90 to go)
+- **Current streak:** **8 days** 🔥🔥 — past 🔥 **Week of Fire** (2026-08-02) and still going. Previous best was **4** (07-16, tied 07-30); she nearly doubled it. Next milestone: **14 days → +40 XP + ⚡ Fortnight Force**, the 3rd stamp on the 🔥 Dedication card — **6 days away.**
+- **Last entry:** 2026-08-03
 
 > ⏰ **TIMEZONE — read this before dating any journal file.** The students are in the **US**; their
 > sessions run in the evening, which is **already past midnight UTC**. `date -u` in this environment
@@ -194,7 +194,7 @@ pattern, and if one appears, it's `"verb-only read"` / `"two-finger check"` — 
 
 *(Everything else is clear.* 🎉 *The list was **completely empty** on 2026-07-30 for the first time since 07-20 — both original items cleared and retired. Don't refill it beyond this one; the rule is 2+ entries with the same concrete error. Two candidates are half-qualified and should wait for another sighting:)*
 
-- [ ] **✍️ Possessive `'s`** — clean streak: **0/3** · *"You can see **Harry** stress"* → *Harry**'s** stress* · **Before you save, find every "X's thing" and check the little `'s` is there.**
+- [ ] **✍️ Possessive `'s`** — clean streak: **0/3** *(slipped 08-03: "in **the Umbridge** office" → "in **Umbridge's** office" — named before she wrote and still missed, but she got "**Luna's** father" right in the same entry)* · *"You can see **Harry** stress"* → *Harry**'s** stress* · **Before you save, find every "X's thing" and check the little `'s` is there.**
   - Added **2026-08-02** — third sighting: *"Voldemort past"* and *"his parents past"* (both 07-22), then *"Harry stress"* (08-02 ACE). Had been sitting in the "watching, needs one more" pile since 07-22.
   - 💡 **She already owns the rule.** In the very same sentence she wrote *"other **people's** life"* — correctly. So this is not a concept to teach; it is a mark she drops at the **front** of a phrase. **Do not run a lesson.** Give her the look before she saves.
   - 👂 **Probably ear-catchable**, unlike the quote item — *"Harry stress"* and *"Harry's stress"* sound different. Worth one read-aloud pass aimed at it before deciding it needs anything more.
