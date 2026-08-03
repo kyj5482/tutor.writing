@@ -500,7 +500,25 @@ three-second check with a visible trigger.**
    different books into a single comparative claim, and neither was mentioned to him first — the
    *dates* were, as the 08-03 note recommended, and the sentence came back with both inside it.
    **Saying the deposit back to him works. Keep dating his findings out loud.**
-4. **A day-1 entry is 37 words and that is correct.** Long Haul (250) went unmentioned, deliberately.
+4. **He fixes his own arguments on his own clock — three days, this time, with nobody reopening it.**
+   On 07-31 his verdict clause argued against itself (*"no build-up… which will shorten the amount
+   of action"* — backwards) and he was asked to commit to a gain or a cost. He didn't answer that
+   day and it was never raised again. Tonight's stretch clause: *"the fast one gives more action."*
+   Correct direction, stated as a gain, unprompted, in a different template about a different book.
+   This is the "carries forward, won't walk backward" pattern doing something new — what he carried
+   was **a correction to his own reasoning**, not a finding. **Practical consequence: an unresolved
+   🔧 is not a lost 🔧.** Log it, drop it, and watch for it to reappear solved. Re-asking would very
+   likely have produced the refusal instead.
+5. **A rule he's just been taught can be live within twelve hours — check before assuming it isn't.**
+   This morning's ACE produced *"the book didn't said anything"* and it survived three escalating
+   cues; the note written then reasonably read that as the trick failing on contractions. Tonight's
+   ACE opened *"Messenger **did need** the fast start"* — same shape, no cue, correct. So the
+   morning's miss was **not** a broken rule and probably not even a broken trick; it was one tired
+   pass at the end of a long session. **Don't re-run a lesson off a single stalled instance.** The
+   contraction clause (`didn't = did + not`) is still worth having in the pocket, but the evidence
+   for needing it just got much weaker, and re-teaching a rule he demonstrably has is exactly the
+   condescension this file warns about.
+6. **A day-1 entry is 37 words and that is correct.** Long Haul (250) went unmentioned, deliberately.
    The build's whole premise is that the daily piece never grows. If length gets raised on a day
    whose job is one sentence, the premise breaks and he'll stop believing the build math.
 
