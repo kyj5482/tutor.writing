@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-03T01:05:27.700Z",
+  "generated": "2026-08-03T01:22:24.625Z",
   "students": [
     {
       "name": "Jaei",
@@ -1033,7 +1033,7 @@
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 1030,
+      "xp": 1070,
       "level": null,
       "streak": null,
       "badges": [
@@ -1108,6 +1108,11 @@
           "date": "2026-07-31"
         },
         {
+          "name": "Week of Fire",
+          "emoji": "🔥",
+          "date": "2026-08-02"
+        },
+        {
           "name": "5",
           "emoji": "⚖️",
           "date": "2026-07-31"
@@ -1143,12 +1148,12 @@
         {
           "item": "🔍 Close the quote",
           "cleared": false,
-          "streak": 0
+          "streak": 1
         }
       ],
       "stats": {
-        "entries": 25,
-        "activeDays": 24,
+        "entries": 26,
+        "activeDays": 25,
         "templatesUsed": [
           "01-summary",
           "02-prediction",
@@ -1168,16 +1173,16 @@
         "craft": 2,
         "compare": 0,
         "tier3": 0,
-        "readAlouds": 7,
-        "cleanEntries": 6,
-        "cleanStreak": 6,
-        "bestCleanStreak": 6,
+        "readAlouds": 8,
+        "cleanEntries": 7,
+        "cleanStreak": 7,
+        "bestCleanStreak": 7,
         "lessons": 3,
         "bookReviews": 2,
         "booksStarted": 6,
         "booksFinished": 4,
         "maxWords": 162,
-        "totalWords": 1842,
+        "totalWords": 1923,
         "maxParagraphs": 3,
         "essayShaped": 0,
         "debateShaped": 0,
@@ -1194,10 +1199,10 @@
           "seriesTotal": 7,
           "volume": 7,
           "author": "J.K. Rowling",
-          "entries": 3,
-          "words": 201,
+          "entries": 4,
+          "words": 282,
           "first": "2026-07-31",
-          "last": "2026-08-01",
+          "last": "2026-08-02",
           "finished": false
         },
         {
@@ -1976,6 +1981,34 @@
           "watchSlip": false,
           "build": null,
           "excerpt": "Dear Diary, I went to Grimmauld Place tonight because Tonks is going to have a baby. When Harry saw me, I didn't tell him why I was really here for. Harry, said, \"If Tonks is havin"
+        },
+        {
+          "file": "students/Jia/journal/2026-08-02-08-connection.md",
+          "date": "2026-08-02",
+          "slug": "08-connection",
+          "book": "Harry Potter and the Deathly Hallows",
+          "bookKey": "harry potter#7",
+          "bookShort": "Deathly Hallows",
+          "series": "Harry Potter",
+          "seriesEmoji": "⚡",
+          "volume": 7,
+          "author": "J.K. Rowling",
+          "reading": "one chapter — the escape from the Ministry of Magic",
+          "tier": 2,
+          "xp": 40,
+          "words": 81,
+          "paragraphs": 1,
+          "hasRevision": false,
+          "hasBonus": false,
+          "quote": false,
+          "counter": false,
+          "craft": false,
+          "compare": false,
+          "readAloud": true,
+          "watchClean": true,
+          "watchSlip": false,
+          "build": null,
+          "excerpt": "In the book, Harry rushed out from the Ministry of Magic. This reminds me of when I got out of school, rushing because I was late for my swimming practice. They are alike because w"
         }
       ],
       "reports": [
