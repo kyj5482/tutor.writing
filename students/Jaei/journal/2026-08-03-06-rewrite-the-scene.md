@@ -2,9 +2,9 @@
 
 - **Book:** Keeper of the Lost Cities: Nightfall (#6) by Shannon Messenger (5 chapters)
 - **Template:** 06 Rewrite the Scene, Tier 3
-- **XP earned:** 40 (base 10 + Tier 3 10 + read-aloud 5 + focus skill 5 + stretch 10)
-- **Read-aloud:** ✅ read aloud before saving
-- **Watch list:** ✅ clean — verb chains (1/3) · ⚠️ plural-verb slip in the *stretch* sentence, written after the read-aloud pass; self-fixed on a two-word cue (✌️ two fingers), no rule re-explained
+- **XP earned:** 50 (base 10 + Tier 3 10 + read-aloud 5 + focus skill 5 + stretch 10 + ACE 10)
+- **Read-aloud:** ✅ read aloud before saving — main entry **and** ACE answer (new protocol, first run)
+- **Watch list:** ⚠️ slipped — verb chains (*"didn't said"*, ACE) → streak back to **0/3**. Main entry was clean; the plural-verb slip in the stretch sentence was self-fixed on a two-word cue.
 
 ## My writing
 
@@ -73,3 +73,22 @@ All of them were not aware that there was a flick of movement in the darkest cor
   the way.)
 - *"All of them **was** not aware"* → *"All of them **were** not aware."* Fixed on the
   two-word cue ✌️ **"two fingers"** — no rule restated, no eighth correction.
+
+## Bonus — ACE Write
+
+**Question:** You had the Neverseen already in the room, watching, while Mr. Forkle says
+"let's see what you got." Messenger doesn't do that — in the real book, is the danger in
+front of Sophie or behind her? And which is scarier for a reader?
+
+Messenger actually doesn't put any danger for friend during the encounter of the second Mr. Forkle. In the book where they meet with each other, the book didn't said anything about the Neverseen or any other possible threat. This implies that Messenger wanted the reader to absorb the huge information of the second Mr. Forkle rather than throwing another troubling matter.
+
+**Tutor note.** The **E** is the strongest part and it is a genuine critic's reason: not
+"it would be too scary," but that the scene *already has a full job to do*. He argued that
+Messenger is managing **how much the reader can hold at once** — a cognitive-load argument
+about pacing, reached unprompted from his own rewrite.
+
+Saved verbatim at his request. ⚠️ *"didn't said"* is still in it — the ✌️ cue was fired
+three times (the quoted sentence, then the two words, then his own correct *"doesn't put"*
+from the sentence directly above it) and he did not locate it; he said *"just save as it
+is."* Honored immediately, no pressure — see `tutor.md`: "done" means done. He had already
+banked a level-up, a stretch and a bonus round. Watch streak reset to 0/3 honestly.

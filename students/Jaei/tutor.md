@@ -433,6 +433,23 @@ author does?"* — he'll write better dialogue from his own catalogue than from 
    quoted in full, he fixed it in one move. Compare 07-30, where he was pointed at twice and
    didn't fix it: the variable may well have been pointer quality then too. **Always quote the
    exact sentence back when firing a Watch cue.**
+7. **The trick failed on a contraction — and that's probably why, not "he wasn't trying."**
+   *"the book didn't said anything"* survived **three** escalating cues in the ACE round: the
+   sentence quoted whole, then the two bare words, then his own **correct** *"doesn't put"*
+   from the sentence directly above it, set side by side (the 08-01 show-him-his-own-sentences
+   method that has worked twice). He found nothing in any of the three. **He is not missing the
+   rule** — he wrote *doesn't put* correctly one sentence earlier without thinking. The likely
+   mechanism: 👉 *"look at the word in front"* asks him to find an auxiliary, and in `didn't`
+   the auxiliary is **inside the contraction**. He reads `didn't` as one unit, so the check has
+   nothing to grab. **Next slip, add one clause and nothing else: `didn't = did + not` — the
+   word in front is really *did*.** If that doesn't land, it's the third stalled session and
+   `lessons/verb-chains.md` gets re-run from the **contraction** angle, not repeated as written.
+8. **"Done" arrived, and it was honored inside one message.** *"just save as it is."* He had
+   already banked a level-up, a Tier 3 ripple and a bonus round; the ACE was saved verbatim
+   with the slip in it and the streak reset honestly to 0/3. This is the 07-25 pattern exactly
+   — no excuse, no drop in engagement, and accurate about his own tank. **A fourth cue would
+   have cost more than the verb was worth**, and pushing past his "done" is the fastest way to
+   make the read-aloud feel like an interrogation instead of a habit he's kept for 7 sessions.
 
 ## How to run a session with him
 
