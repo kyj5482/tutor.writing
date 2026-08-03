@@ -465,6 +465,41 @@ sentence is the one that would go *further* instead of restating. Everything els
 strong. ➡️ **This is the next focus skill.** Frame it as she needs it: *"This shows ______. It also
 means ______."* — two blanks, not an instruction to elaborate.
 
+## What 08-03 taught us (Level 12)
+
+**21. ⭐ THE FIX FOR HER ONE-SENTENCE E: show the shape, don't ask for more.** Her E had been a
+single sentence on 07-30, 08-01 and 08-02, and it was never going to change by being told "add
+another sentence." Tonight the frame simply *displayed* both slots — *"This shows ______. It also
+means ______."* — and she filled both, with the second genuinely extending the first (*selfish* →
+*he lied to everyone*, which is the hypocrisy argument, not a restatement). ➡️ **Generalise this:
+for any move she isn't making, put the empty shape on screen rather than describing it.** It is the
+same thing that worked for paragraph breaks (show the before/after) and for stretches (blanks, not
+instructions). She fills shapes; she declines requests.
+
+**22. ⚠️ A rule she owns can silently fail on a shape it was never given.** *"Harry, Ron, and
+Hermione **is** trying"* — and she ran the ✌️ two-finger check on that exact sentence, out loud, and
+it did **not** fire. She has had compound subjects right unprompted for four straight sessions, so
+the rule is intact; what failed was its **range**. She was taught *"**and** between **two** doers"*
+and applied that with total literalness — three names in a list didn't match. ➡️ This is the **third**
+time a boundary gap has been the best teaching moment of a session (07-27 "box of clues", 07-28 #4,
+now this). **She is an exceptionally literal rule-applier. State the range of every rule, out loud,
+the first time** — not just when it does not apply, but how far it *does*.
+
+**23. The possessive goes missing on names she isn't thinking about.** Same session: *"the Umbridge
+office"* (wrong) and *Luna's father / Luna's dad / Luna's dad* (three for three, right). The concept
+is fully there. ➡️ **Don't teach it — point at it.** And expect it to slip on whichever name is
+incidental to the sentence, not on the one the sentence is about.
+
+**24. Her ear now catches -s endings unprompted, on request, every time.** Four sessions running
+(07-31 period·cause·splice, 08-02 ×4, 08-03 *kill*→*kills* plus *would*→*will*). The verb Watch item
+was retired on 07-30 and the two slips since (07-31, 08-03) were **both caught or handed over in one
+line without reopening it.** That call is holding — do not reopen it.
+
+**25. Still six pieces with zero quotes, and the new lever remains untested.** The *"what were the
+exact words?"* question was set as the 🚀 and she went straight to the ACE, as she does. ➡️ **Stop
+putting the thing you actually want to test in the optional slot.** Next session it goes in the main
+template, and 🔍 Close the quote gets resolved at the weekly either way.
+
 ## Talk to her like this
 
 ✅ *"Read that sentence out loud — you'll hear it."* (this is her superpower, name it)

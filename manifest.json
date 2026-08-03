@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-03T18:23:58.286Z",
+  "generated": "2026-08-03T18:30:00.489Z",
   "students": [
     {
       "name": "Jaei",
@@ -1061,7 +1061,7 @@
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 1110,
+      "xp": 1120,
       "level": null,
       "streak": null,
       "badges": [
@@ -1200,8 +1200,8 @@
           "10-book-review"
         ],
         "revisions": 16,
-        "ace": 25,
-        "quotes": 12,
+        "ace": 26,
+        "quotes": 13,
         "counter": 6,
         "craft": 2,
         "compare": 0,
@@ -2056,12 +2056,12 @@
           "author": "J.K. Rowling",
           "reading": "several chapters — the Ministry of Magic break-in and the Horcrux hunt",
           "tier": 2,
-          "xp": 20,
+          "xp": 30,
           "words": 103,
           "paragraphs": 1,
           "hasRevision": false,
-          "hasBonus": false,
-          "quote": false,
+          "hasBonus": true,
+          "quote": true,
           "counter": false,
           "craft": false,
           "compare": false,
