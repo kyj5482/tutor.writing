@@ -451,6 +451,59 @@ author does?"* — he'll write better dialogue from his own catalogue than from 
    have cost more than the verb was worth**, and pushing past his "done" is the fastest way to
    make the read-aloud feel like an interrogation instead of a habit he's kept for 7 sessions.
 
+## 🎓 2026-08-03 (2nd entry) — he owns the rule and does not own *starting* the check
+
+The most useful correction to this file in a while, and it's a correction to the **tutor's**
+diagnosis from six hours earlier.
+
+This morning's note concluded the verb slip hides in **the last sentence he writes** — the one
+after the read-aloud — and the Watch row was sharpened to say exactly that. Tonight he wrote a
+two-sentence thesis and the slip was in the **first** sentence. There was no "last sentence" for
+it to hide in.
+
+So the sharpening was aimed at the wrong variable. What is actually true across both entries:
+
+> **He applies the rule instantly, every time, the moment someone points at the sentence — and
+> he never once starts the check himself.**
+
+Two sessions running, a two-word cue (✌️ *"two fingers"*) plus the exact sentence quoted has
+produced an instant correct fix with nothing re-explained. He derived the rule himself on 07-25.
+**The gap is initiation, not knowledge.** A Watch row that implies he doesn't know compound-subject
+agreement is measuring the wrong thing and he'd be right to say so.
+
+**What was done about it**, copying the one move that has actually retired an item (the 👉
+Two-Source Test, 08-01): give him a check narrow enough to run without being asked.
+
+> 👉 **Before you send anything, find every "and" between two doers. Two fingers on that one.**
+> Not all your verbs — just the *ands*.
+
+The Two-Source Test worked because it was one physical question about one visible mark on the
+page. This is the same shape. If it clears the item, the pattern is confirmed twice and should
+become the default response to *any* stalled Watch row: **stop restating the rule, hand him a
+three-second check with a visible trigger.**
+
+**Also today:**
+
+1. **He took the 4-day build over his best one-session form.** Offered 04 Opinion (a big-event day,
+   his second-strongest template) against 15 Comparative, he picked the build — **fourth straight
+   time**, and this one was a template for the stage *above* his own chosen goal. "Dangle the stage,
+   not the XP" now has four data points and one refinement: **he'll take a target that isn't even
+   his target.** Do not gate templates by ladder position; he treats the harder thing as the
+   interesting thing.
+2. **He picked the pair where his own catalogue was deepest.** Given three pairings — two of them
+   flashier cross-series match-ups — he chose *Nightfall* + *Lodestar*, same author back to back.
+   That's the pair he had three dated findings about. **He optimizes for having something to say**,
+   not for the impressive-sounding option. Offer pairings ranked by *how much he's already noticed*,
+   not by how good the comparison sounds on paper.
+3. **The catalogue withdrawal happened again, and faster.** 07-16 → 08-03 was eighteen days and it
+   was the same finding reused. Tonight's thesis fuses **two** findings (07-30 and 07-31) from
+   different books into a single comparative claim, and neither was mentioned to him first — the
+   *dates* were, as the 08-03 note recommended, and the sentence came back with both inside it.
+   **Saying the deposit back to him works. Keep dating his findings out loud.**
+4. **A day-1 entry is 37 words and that is correct.** Long Haul (250) went unmentioned, deliberately.
+   The build's whole premise is that the daily piece never grows. If length gets raised on a day
+   whose job is one sentence, the premise breaks and he'll stop believing the build math.
+
 ## How to run a session with him
 
 - **Skip the warm-up.** He wants the template and the writing. Long lead-ins lose him.

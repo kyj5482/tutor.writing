@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-03T01:31:30.001Z",
+  "generated": "2026-08-03T17:34:37.384Z",
   "students": [
     {
       "name": "Jaei",
       "grade": "8",
-      "xp": 1230,
+      "xp": 1260,
       "level": 13,
       "streak": 1,
       "badges": [
@@ -134,7 +134,7 @@
         }
       ],
       "stats": {
-        "entries": 24,
+        "entries": 25,
         "activeDays": 22,
         "templatesUsed": [
           "01-summary",
@@ -148,14 +148,14 @@
           "09-quick-write-321",
           "10-book-review"
         ],
-        "revisions": 21,
+        "revisions": 22,
         "ace": 16,
         "quotes": 17,
         "counter": 9,
         "craft": 5,
         "compare": 0,
-        "tier3": 12,
-        "readAlouds": 7,
+        "tier3": 13,
+        "readAlouds": 8,
         "cleanEntries": 5,
         "cleanStreak": 0,
         "bestCleanStreak": 3,
@@ -164,7 +164,7 @@
         "booksStarted": 11,
         "booksFinished": 8,
         "maxWords": 240,
-        "totalWords": 2946,
+        "totalWords": 2984,
         "maxParagraphs": 4,
         "essayShaped": 1,
         "debateShaped": 3,
@@ -181,8 +181,8 @@
           "seriesTotal": 9,
           "volume": null,
           "author": "Shannon Messenger",
-          "entries": 1,
-          "words": 120,
+          "entries": 2,
+          "words": 158,
           "first": "2026-08-03",
           "last": "2026-08-03",
           "finished": false
@@ -1010,6 +1010,34 @@
           "watchSlip": true,
           "build": null,
           "excerpt": "Sophie entered a room with Fitz and Keefe. Both hands with tight grip as if they were preparing for a combat. First thing they saw was a beautiful nest of moonlark through the giga"
+        },
+        {
+          "file": "students/Jaei/journal/2026-08-03-15-comparative-essay.md",
+          "date": "2026-08-03",
+          "slug": "15-comparative-essay",
+          "book": "Keeper of the Lost Cities",
+          "bookKey": "series:keeper of the lost cities",
+          "bookShort": "Keeper of the Lost Cities",
+          "series": "Keeper of the Lost Cities",
+          "seriesEmoji": "🌌",
+          "volume": null,
+          "author": "Shannon Messenger (7 chapters) — compared with Keeper of the Lost Cities: Lodestar (#5) by Shannon Messenger",
+          "reading": null,
+          "tier": 3,
+          "xp": 30,
+          "words": 38,
+          "paragraphs": 1,
+          "hasRevision": true,
+          "hasBonus": false,
+          "quote": false,
+          "counter": false,
+          "craft": false,
+          "compare": false,
+          "readAloud": true,
+          "watchClean": false,
+          "watchSlip": true,
+          "build": "Comparative Essay — day 1 of 4",
+          "excerpt": "Both Nightfall and Lodestar have a similar ending for an adventure they always go. The difference is that in Lodestar Messenger reveals the story slow, but in Nightfall, right from"
         }
       ],
       "reports": [
