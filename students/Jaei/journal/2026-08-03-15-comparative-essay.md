@@ -3,7 +3,7 @@
 - **Book:** **Keeper of the Lost Cities: Nightfall (#6)** by Shannon Messenger (7 chapters) — compared with **Keeper of the Lost Cities: Lodestar (#5)** by Shannon Messenger
 - **Template:** 15 Comparative Essay, Tier 3
 - **Build:** Comparative Essay — day 1 of 4
-- **XP earned:** 30 (base 10 + Tier 3 10 + build day 5 + read-aloud 5)
+- **XP earned:** 40 (base 10 + Tier 3 10 + build day 5 + read-aloud 5 + stretch 10)
 - **Read-aloud:** ✅ read aloud before saving
 - **Watch list:** ⚠️ slipped — plural subject → plural verb (*"Both Nightfall and Lodestar **has**"* → **have**; fixed on the ✌️ two-word cue, but the tutor located the sentence, so it counts as a slip)
 
@@ -39,4 +39,18 @@ Add one clause to the end: *"…and the slow one buys ______, while the fast one
 
 ## Revision (if any)
 
-*(pending — stretch offered)*
+**Stretch ✅ — the third slot, the trade, added to the thesis:**
+
+> the slow one buys the Ahh moment, but the fast one gives more action.
+
+**Why this is more than a rhythm fix — he resolved his own 07-31 contradiction, unprompted, three
+days later, with nobody reopening it.** On 07-31 his Craft Analysis verdict clause argued against
+itself: *"no build-up… which will shorten the amount of action"* — he had claimed that cutting the
+build-up gives you **less** action, which is backwards, and he was asked to commit to a gain or a
+cost. He never answered it that day. Tonight, in a different template and about a different book,
+he wrote *"the fast one gives more action"* — the correct direction, stated plainly, as a **gain**.
+Nobody mentioned 07-31. Same carry-forward pattern as the 07-16 → 08-03 Forkle move, at three days
+instead of eighteen, and this time what he carried forward was a *correction to his own argument*.
+
+The clause also completes the frame's third slot: the thesis now states not just that the speeds
+differ but what each one **buys**, which is the difference between a comparison and an argument.
