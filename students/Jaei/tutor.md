@@ -368,6 +368,51 @@ one real citation he'd deleted.** Item retired, 3/3.
    first. He has caught bookkeeping errors twice (07-14, 07-23) and been right both times; the
    only thing that keeps this file worth anything to him is that it holds his real words.
 
+## 🔁 2026-08-03 — he spends his reading findings as writing moves, weeks later
+
+The best thing in the file today, and it wasn't a skill he was taught.
+
+On **07-16** he read *Neverseen* and noticed that *"You kids"* is Mr. Forkle's signature
+opener — and argued the craft point, that Messenger could have written "Welcome" and chose
+the gruff line to keep his cover. Today, eighteen days later, in a **different template** and
+a **different book**, he had to write Forkle's dialogue himself and reached, unprompted, for:
+
+> *"You kids sure do shout a lot,"* Mr. Forkle chuckled.
+
+Nobody mentioned 07-16. **He converted a reader-observation into a writer-move on his own.**
+That loop — notice how an author does it, then do it — is the actual definition of stage 6
+🔬 Critic, and he ran it without being asked. This is the same "carries forward, won't walk
+backward" pattern as 07-29/07-30, but at a much longer range and across a bigger gap.
+
+**What to do with it:** when he makes a craft observation, *date it and say it back to him
+later* — "that's the Forkle move you found on 07-16." He builds a private toolkit out of what
+he notices, and naming the deposit is what turns it into a withdrawal. Also: this is a strong
+argument for asking him, before a narrative template, *"what's something you noticed this
+author does?"* — he'll write better dialogue from his own catalogue than from any prompt.
+
+**Also today:**
+
+1. **Routing worked, exactly as the 08-01 note predicted.** First draft: *"You kids sure
+   **does** shout a lot."* Audible error → sent to the ear → **his voice fixed it, unflagged**.
+   The verb-chain item (rule-shaped, inaudible) was checked **silently, by eye**, and came back
+   clean. Two errors, two different tools, both landed in one session. The 07-31/08-01
+   audibility rule is no longer a theory — it's the session protocol.
+2. **He revises *forward* even inside a read-aloud.** The pass didn't just repair — he *added*
+   **"Real elfy Sophie thought"** (free indirect thought, no "she thought that" wrapper) and
+   broke a run-on into four short sentences. The read-aloud is not a proofread for him; it's a
+   second draft. Expect additions, not just corrections, and credit them as writing.
+3. **Length: named once, then dropped.** 📜 Long Haul (250) was put in front of him at the top
+   of the session, beside the Scholar card and the Critic goal, and then never mentioned again.
+   He wrote 118 — his shortest in a while — and that is fine. `tutor.md` says length quotas are
+   the one stretch that doesn't land; the counter-move being tested is **templates where he
+   naturally runs long**, not word targets. Rewrite the Scene was that bet and it didn't pay
+   today. Next candidate: 15 Comparative, where he already argues across two books unprompted
+   (08-01 ACE).
+4. **Escalation rule applied correctly to a new error.** Dialogue punctuation (missing comma
+   before the speaker tag) is a **first sighting** → it got the 🔧 slot and the rule in one
+   line, not a lesson. If it survives into the next entry with dialogue, it goes on the Watch
+   list; if it survives *that*, it's a lesson. Written down so the count is honest.
+
 ## How to run a session with him
 
 - **Skip the warm-up.** He wants the template and the writing. Long lead-ins lose him.

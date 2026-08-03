@@ -1,12 +1,12 @@
 {
-  "generated": "2026-08-02T02:23:45.026Z",
+  "generated": "2026-08-03T00:19:30.205Z",
   "students": [
     {
       "name": "Jaei",
       "grade": "8",
-      "xp": 1180,
-      "level": 12,
-      "streak": 4,
+      "xp": 1210,
+      "level": 13,
+      "streak": 1,
       "badges": [
         {
           "name": "First Words",
@@ -129,8 +129,8 @@
         }
       ],
       "stats": {
-        "entries": 23,
-        "activeDays": 21,
+        "entries": 24,
+        "activeDays": 22,
         "templatesUsed": [
           "01-summary",
           "02-prediction",
@@ -145,28 +145,43 @@
         ],
         "revisions": 20,
         "ace": 15,
-        "quotes": 16,
+        "quotes": 17,
         "counter": 9,
         "craft": 5,
         "compare": 0,
-        "tier3": 11,
-        "readAlouds": 6,
-        "cleanEntries": 5,
-        "cleanStreak": 2,
+        "tier3": 12,
+        "readAlouds": 7,
+        "cleanEntries": 6,
+        "cleanStreak": 3,
         "bestCleanStreak": 3,
         "lessons": 0,
         "bookReviews": 5,
-        "booksStarted": 10,
+        "booksStarted": 11,
         "booksFinished": 8,
         "maxWords": 240,
-        "totalWords": 2826,
+        "totalWords": 2946,
         "maxParagraphs": 4,
         "essayShaped": 1,
         "debateShaped": 3,
-        "bestStreak": null,
-        "streak": 4
+        "bestStreak": 5,
+        "streak": 1
       },
       "books": [
+        {
+          "key": "series:keeper of the lost cities",
+          "title": "Keeper of the Lost Cities",
+          "short": "Keeper of the Lost Cities",
+          "series": "Keeper of the Lost Cities",
+          "seriesEmoji": "🌌",
+          "seriesTotal": 9,
+          "volume": null,
+          "author": "Shannon Messenger",
+          "entries": 1,
+          "words": 120,
+          "first": "2026-08-03",
+          "last": "2026-08-03",
+          "finished": false
+        },
         {
           "key": "keeper of the lost cities#6",
           "title": "Keeper of the Lost Cities: Nightfall",
@@ -962,6 +977,34 @@
           "watchSlip": false,
           "build": "Craft Analysis — day 2 of 2 ✅ **complete**",
           "excerpt": "In the Keeper of the Lost Cities, the author uses in media res by just dropping the readers in the room with another Mr. Forkle, instead of building up the story to get there. In t"
+        },
+        {
+          "file": "students/Jaei/journal/2026-08-03-06-rewrite-the-scene.md",
+          "date": "2026-08-03",
+          "slug": "06-rewrite-the-scene",
+          "book": "Keeper of the Lost Cities",
+          "bookKey": "series:keeper of the lost cities",
+          "bookShort": "Keeper of the Lost Cities",
+          "series": "Keeper of the Lost Cities",
+          "seriesEmoji": "🌌",
+          "volume": null,
+          "author": "Shannon Messenger",
+          "reading": "5 chapters",
+          "tier": 3,
+          "xp": 30,
+          "words": 120,
+          "paragraphs": 1,
+          "hasRevision": false,
+          "hasBonus": false,
+          "quote": true,
+          "counter": false,
+          "craft": false,
+          "compare": false,
+          "readAloud": true,
+          "watchClean": true,
+          "watchSlip": false,
+          "build": null,
+          "excerpt": "Sophie entered a room with Fitz and Keefe. Both hands with tight grip as if they were preparing for a combat. First thing they saw was a beautiful nest of moonlark through the giga"
         }
       ],
       "reports": [
