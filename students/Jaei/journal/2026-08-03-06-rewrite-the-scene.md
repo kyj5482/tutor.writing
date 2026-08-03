@@ -2,9 +2,9 @@
 
 - **Book:** Keeper of the Lost Cities: Nightfall (#6) by Shannon Messenger (5 chapters)
 - **Template:** 06 Rewrite the Scene, Tier 3
-- **XP earned:** 30 (base 10 + Tier 3 10 + read-aloud 5 + focus skill 5)
+- **XP earned:** 40 (base 10 + Tier 3 10 + read-aloud 5 + focus skill 5 + stretch 10)
 - **Read-aloud:** ✅ read aloud before saving
-- **Watch list:** ✅ clean
+- **Watch list:** ✅ clean — verb chains (1/3) · ⚠️ plural-verb slip in the *stretch* sentence, written after the read-aloud pass; self-fixed on a two-word cue (✌️ two fingers), no rule re-explained
 
 ## My writing
 
@@ -48,3 +48,28 @@ not notice — the reader sees it, she doesn't. In *The Giver* example it was th
 camera rotating toward the sound of their voices while the two boys argued.
 
 ## Revision (if any)
+
+**🚀 Stretch ✅ — the ripple, plus two fixes he made along the way.**
+
+Sophie entered a room with Fitz and Keefe, both hands with tight grip as if they were preparing for a combat. First thing they saw was a beautiful nest of moonlark through the gigantic window. Real elfy Sophie thought. Then they smell familiar scent of feet. He was now turning around. It was Mr. Forkle! "Mr. Forkle!"  Sophie exclaimed. "I thought you were dead. I was so worried" Sophie said. "You kids sure do shout a lot" Mr. Forkle chuckled. "Well, my identical twin brother is dead, though" Mr. Forkle said. "Oh, we're sorry about that" said all of them at once. "Well... We gotta work on rescuing your family, Sophie. So let's see what you got" said Mr. Forkle.
+
+All of them were not aware that there was a flick of movement in the darkest corner. He was wearing a black cloth with weird symbol, the Neverseen.
+
+**What the stretch added, and why it works:**
+
+- **"a flick of movement"** — not a person, not a shadow. A *flick* is the smallest
+  unit of noticing, which is exactly why nobody in the room catches it.
+- **The misdirection was already built.** The scene opens with all three of them
+  staring at a moonlark nest through a gigantic window — the brightest thing in the
+  room. The danger is in the darkest corner behind them. The setup was written before
+  the payoff existed.
+- **The Neverseen is named last** — cloth, then symbol, then the name. The reader
+  assembles it in the order Sophie would have, if she had turned around.
+
+**Two repairs made during the stretch round:**
+
+- *"Both hands with tight grip…"* was a fragment standing on its own; he joined it to
+  the previous sentence with a comma. (Not what he'd been pointed at — he found it on
+  the way.)
+- *"All of them **was** not aware"* → *"All of them **were** not aware."* Fixed on the
+  two-word cue ✌️ **"two fingers"** — no rule restated, no eighth correction.

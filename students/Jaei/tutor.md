@@ -412,6 +412,27 @@ author does?"* — he'll write better dialogue from his own catalogue than from 
    before the speaker tag) is a **first sighting** → it got the 🔧 slot and the rule in one
    line, not a lesson. If it survives into the next entry with dialogue, it goes on the Watch
    list; if it survives *that*, it's a lesson. Written down so the count is honest.
+5. **🎯 The slip is in the LAST sentence, every time — and that's a process bug, not his.**
+   The single most actionable thing in this file today. Every sentence that went through the
+   read-aloud was clean, including one his own ear repaired (*does* → *do*). The **only** verb
+   error in the entry was in the **stretch sentence**, written *after* the mic pass. CLAUDE.md
+   already knows slips hide in the ACE for exactly this reason — the same is true of the
+   stretch, and nobody had written it down. **Fix the protocol, not the kid: the read-aloud
+   check now runs on anything added after the first pass.** He derived the compound-subject
+   rule himself on 07-25 and fixed this slip on a **two-word cue**; a Watch row that implies
+   he doesn't know the rule would be a scoreboard. The row was re-added anyway — because the
+   07-30 note pre-committed to re-adding on recurrence, and quietly dropping a pre-commitment
+   is the exact drift that let the error live two months — but it is **sharpened to the
+   *where*, not the *what*.** Tell him that distinction; he'll recognize it as accurate.
+6. **The trick works when the pointer is exact — and the pointer was mine to get right.**
+   First cue was *"two fingers — first sentence"*, said right after quoting the **last**
+   paragraph. He applied it to the first sentence of the whole piece and, finding no verb
+   error, repaired a genuine **fragment** there instead (*"Both hands with tight grip…"* joined
+   with a comma — a real improvement, and not the one asked for). That is not a missed catch;
+   it is a **precise kid executing an imprecise instruction.** Re-pointed with the sentence
+   quoted in full, he fixed it in one move. Compare 07-30, where he was pointed at twice and
+   didn't fix it: the variable may well have been pointer quality then too. **Always quote the
+   exact sentence back when firing a Watch cue.**
 
 ## How to run a session with him
 
