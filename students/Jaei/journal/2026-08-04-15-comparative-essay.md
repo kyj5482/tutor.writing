@@ -3,9 +3,9 @@
 - **Book:** **Keeper of the Lost Cities: Nightfall (#6)** by Shannon Messenger (10 chapters) — compared with **Keeper of the Lost Cities: Lodestar (#5)** by Shannon Messenger
 - **Template:** 15 Comparative Essay, Tier 3
 - **Build:** Comparative Essay — day 2 of 4
-- **XP earned:** 40 (base 10 + Tier 3 10 + build day 5 + read-aloud 5 + mini-lesson 5 + focus skill 5)
-- **Read-aloud:** ✅ read aloud before saving — five self-catches in one pass
-- **Watch list:** ✅ clean
+- **XP earned:** 50 (base 10 + Tier 3 10 + build day 5 + read-aloud 5 + mini-lesson 5 + focus skill 5 + stretch 10)
+- **Read-aloud:** ✅ read aloud before saving — five self-catches in one pass, plus a second pass on the stretch sentence
+- **Watch list:** ✅ clean — twice, both times self-started
 
 ## My writing
 
@@ -66,6 +66,31 @@ Add one sentence: **what does the slow reveal cost her?**
 > *"But it costs her ______."*
 
 ## Revision (if any)
+
+**🚀 Stretch ✅ — the cost side of the trade, added as one sentence on the end:**
+
+> But. this really slow reveal costs her to make some small actions to prevent the readers from
+> getting bored.
+
+**Why this is a bigger move than it looks.** On **07-31**, unprompted, he named the cost of
+withholding as *"it's kinda frustrating"* — a **reader's feeling**. Tonight the cost is paid by
+the **author**: a slow reveal forces Messenger to manufacture small actions to keep the reader
+from putting the book down. That is a craft cost, in the writer's ledger, not the reader's — and
+it closes the loop on his own day-1 thesis, which said the fast book *"gives more action."* If
+speed hands you action for free, slowness means you have to **invent** it. The two halves of his
+thesis now explain each other instead of merely contrasting.
+
+**✌️ Second self-started check of the session, on the sentence where it has historically failed.**
+The stretch sentence was written *after* the mic pass — the exact hiding place identified on
+08-03. The three checks were re-handed with **no location and no hint that anything was in there**,
+and he came back with *"costs her"* — the subject-verb agreement, found by him. The 08-03 protocol
+(run the pass again on anything added after the first one) worked the first time it was tested
+under tonight's no-location rule.
+
+**Recorded verbatim.** The stray period in *"But."* is left exactly as typed. It is a typing slip,
+not a rule gap, and it is deliberately **not** counted as a sighting of anything — the escalation
+ladder only stays honest if the count isn't inflated. He had already run two check passes and
+earned the day; a third cue would have cost more than the period is worth.
 
 **Read-aloud pass (before saving) — five self-catches, no sentence pointed at:**
 
