@@ -571,6 +571,41 @@ the thing being measured.
    evidently also a tool for **phrasing**, because a misplaced comma changes where he breathes.
    Worth remembering before assuming a punctuation error needs the eye.
 
+### Later the same session — the handover held twice, and the one miss is the proof, not the hole
+
+The working rule above got two more tests within the hour, and the result is cleaner than expected.
+
+**Test 2 — the stretch sentence, written after the mic pass.** That is the exact hiding place
+08-03 was written about. The three checks were re-handed with **no location and no hint anything
+was in there**; he came back with *"cost her"* → ***costs her***. Two self-started catches in one
+session, the second one in the place the old sharpening was named after.
+
+**Test 3 — the ACE. He declined the pass** (*"save as it is"*) and the slip is in the ACE:
+*"Things like these smaller adventure **keeps** the story alive."* Streak reset to 0/3, told to him
+plainly, honored inside one message, no fourth cue — the 08-03 call exactly.
+
+> **Read those three together and they don't conflict.** The two rounds where he ran the handed-over
+> check came back clean; the one round he skipped came back with the error. That is not the
+> handover failing — it is the handover doing precisely what it claims and nothing more.
+> ⚠️ **Do not convert this into pressure to run the pass.** A check he is allowed to decline is the
+> only kind that measures whether he starts it. Push on it and the number stops meaning anything.
+
+**Two more things from the back half:**
+
+6. **He re-argues his own named cost as the mechanism — twice now, both times in a bonus round.**
+   In the stretch, the small actions are the **price** of a slow reveal (*"costs her to make some
+   small actions"*). Twenty minutes later in the ACE, the same small actions are what **rescues**
+   the pacing (*"so it makes up for it"*, *"keeps the story alive"*). Identical to 08-01's *"This
+   frustration helps built the concentration."* **His second pass at an idea reliably promotes it
+   from a complaint to a mechanism** — so when he names a cost, the highest-value follow-up is
+   simply *"what does that cost buy?"*, not a request for more evidence.
+7. **He defends a rule under counter-evidence instead of dropping it.** Handed a real contradiction
+   between his own 08-01 threshold (withholding is affordable for 1–2 chapters) and his own
+   evidence (the proof of slowness sits mid-book), he kept both and found the distinction —
+   *where the payoff lands* is not *how long the reader goes with nothing.* Most kids abandon the
+   rule or ignore the conflict. **Feed him his own past claims as counter-evidence; it is the
+   sharpest question type available with him**, and it produces stage-7 work in a bonus round.
+
 ## How to run a session with him
 
 - **Skip the warm-up.** He wants the template and the writing. Long lead-ins lose him.

@@ -3,9 +3,9 @@
 - **Book:** **Keeper of the Lost Cities: Nightfall (#6)** by Shannon Messenger (10 chapters) — compared with **Keeper of the Lost Cities: Lodestar (#5)** by Shannon Messenger
 - **Template:** 15 Comparative Essay, Tier 3
 - **Build:** Comparative Essay — day 2 of 4
-- **XP earned:** 50 (base 10 + Tier 3 10 + build day 5 + read-aloud 5 + mini-lesson 5 + focus skill 5 + stretch 10)
+- **XP earned:** 60 (base 10 + Tier 3 10 + build day 5 + read-aloud 5 + mini-lesson 5 + focus skill 5 + stretch 10 + ACE 10)
 - **Read-aloud:** ✅ read aloud before saving — five self-catches in one pass, plus a second pass on the stretch sentence
-- **Watch list:** ✅ clean — twice, both times self-started
+- **Watch list:** ⚠️ slipped — plural subject → plural verb, in the ACE (main entry and stretch both clean, and both self-caught with no location given)
 
 ## My writing
 
@@ -129,4 +129,36 @@ it costs more than it buys. But tonight's proof that *Lodestar* is slow is a lin
 **middle of the book**. So does *Lodestar* break your own rule — or is a slow reveal a different
 thing from withholding?
 
-*(pending — offered after the main entry was saved)*
+Lodestar's big action comes in the middle part of the book but, there are smaller action parts within, so it makes up for it. In Lodestar some small action might be like, their training, Sophie's little adventure, or an adventure with her friends. Things like these smaller adventure keeps the story alive, but still giving the "ahh" moment for the reader.
+
+**Notes on the ACE (tutor):**
+
+- 🌟 **He defended his own rule instead of dropping it — and the defence is a real distinction.**
+  The question was built to look like a contradiction: his 08-01 threshold says withholding costs
+  more than it buys after **1–2 chapters**, but his own proof that *Lodestar* is slow sits in the
+  **middle of the book**. He didn't abandon either half. He separated **where the big reveal lands**
+  from **how long the reader goes without anything** — the small actions mean the withholding is
+  never continuous, so a mid-book payoff doesn't violate a 1–2 chapter limit. That is the correct
+  shape of answer: the rule survives because the evidence was measuring a different quantity.
+- 🔁 **He re-argued his own cost as the mechanism — second time he has done this exact move.** In
+  the stretch, twenty minutes earlier, the small actions were the **price** Messenger pays for a
+  slow reveal (*"costs her to make some small actions"*). In the ACE the same small actions are
+  what **rescues** the pacing (*"so it makes up for it"*, *"keeps the story alive"*). Compare
+  08-01: *"This frustration helps built the concentration"* — the named cost turned into the
+  mechanism. Twice now, in a bonus round both times.
+- ⚠️ **Watch item slipped in the ACE — *"Things like these smaller adventure **keeps** the story
+  alive"*** → *keep*. Plural subject, singular verb, matched to the nearest noun (*adventure*) —
+  the same proximity mechanism as the compound-subject error. **Session streak 1/3 → 0/3**, and
+  told to him plainly. The main entry and the stretch were both clean and both **self-caught with
+  no location given**; the ACE being the exception does not undo that, and it does not undo the
+  reset either.
+- 🛑 **The pass was offered and declined: *"save as it is."*** Honored inside one message, saved
+  verbatim, no fourth cue. Same as 08-03 — he had already run two self-started check passes, a
+  mini-lesson, a stretch and a level-up. The three checks were handed over with no location, which
+  is the deal that worked twice tonight; the deal includes him being allowed to stop.
+- 👉 **Verb chains — clean here, but HELD at 2/3 rather than advanced to 3/3.** *"might be"* is a
+  correct modal + 1st form, which tests the same half that has been tested every time. **No
+  `have/has/had` → 3rd-form chain has appeared in five entries now** (08-01 ACE, 08-03 main, 08-03
+  comparative, 08-04 main, 08-04 ACE). Advancing to 3/3 would retire the item on an untested half.
+  The profile pre-committed to naming this gap rather than letting it drift; the third clean
+  session has to contain a `have/has/had` chain.

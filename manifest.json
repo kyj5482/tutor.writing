@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-04T17:53:03.311Z",
+  "generated": "2026-08-04T18:04:22.293Z",
   "students": [
     {
       "name": "Jaei",
       "grade": "8",
-      "xp": 1330,
+      "xp": 1340,
       "level": 14,
       "streak": 2,
       "badges": [
@@ -156,8 +156,8 @@
         "compare": 1,
         "tier3": 14,
         "readAlouds": 9,
-        "cleanEntries": 6,
-        "cleanStreak": 1,
+        "cleanEntries": 5,
+        "cleanStreak": 0,
         "bestCleanStreak": 3,
         "lessons": 1,
         "bookReviews": 5,
@@ -1052,7 +1052,7 @@
           "author": "Shannon Messenger (10 chapters) — compared with Keeper of the Lost Cities: Lodestar (#5) by Shannon Messenger",
           "reading": null,
           "tier": 3,
-          "xp": 50,
+          "xp": 60,
           "words": 54,
           "paragraphs": 1,
           "hasRevision": true,
@@ -1062,8 +1062,8 @@
           "craft": false,
           "compare": false,
           "readAloud": true,
-          "watchClean": true,
-          "watchSlip": false,
+          "watchClean": false,
+          "watchSlip": true,
           "build": "Comparative Essay — day 2 of 4",
           "excerpt": "In Lodestar, Messenger reveals the story slow, but in Nightfall, it was a start of action right from the start. For example, when Sophie says, \"Let's go to the ravagog\", in the mid"
         }
