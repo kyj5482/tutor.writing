@@ -522,6 +522,55 @@ three-second check with a visible trigger.**
    The build's whole premise is that the daily piece never grows. If length gets raised on a day
    whose job is one sentence, the premise breaks and he'll stop believing the build math.
 
+## 🧾 2026-08-04 — hand him the checks, never the location
+
+The 08-03 note concluded that the subject-verb slip hides in *the last sentence he writes*, and
+the Watch row was sharpened to say so. That was wrong (08-03's second entry disproved it within
+hours). Tonight suggests the real variable, and it is not about **where** the error is at all.
+
+The pre-save checks were given as a **list, with no sentence attached** — *"the ands," "verbs by
+ear," "the Two-Source Test"* — and then he was left alone with them. His read-aloud came back with
+**five repairs nobody had pointed at**, including the verb error.
+
+Every previous clean-ish pass had a tutor-supplied location in it. This one didn't.
+
+> **Working rule: give him the checks and get out of the way. Naming a sentence for him turns his
+> check into my catch, and the whole point of the row is whether he starts it himself.**
+
+Two more sessions under the same conditions would confirm it. Worth protecting: the temptation on
+a night with a visible error is to point at it, and pointing is what has been quietly preventing
+the thing being measured.
+
+**Also today:**
+
+1. **Three for three on first-guess diagnosis — stop leading with rules entirely.** Compound
+   subjects (07-25), verb chains (08-01), and now a/an (08-04): shown three of his own sentences
+   and asked *"what do these have in common?"*, he has stated the rule himself **every time, on
+   the first attempt.** Tonight it took him about four seconds. This is no longer a nice finding;
+   it is the **opening move for any mechanical error with this kid**, and handing him a rule
+   directly should be treated as the fallback for when the question fails — which it never has.
+2. **A deferral, explained, is not a miss — and he should be told it was deliberate.** The a/an
+   item sat uncorrected through **six** sightings and two months. He was told plainly that the
+   delay was on purpose (corrections don't take on him, rules do) rather than being allowed to
+   assume it had been overlooked. He checks the ledger; the honesty about *why* nothing had been
+   said is the part that keeps the ledger worth anything.
+3. **The comma before a speaker tag arrived on its own, one session later.** Given as a 🔧 on
+   08-03 (first sighting, so a correction not a lesson, per the escalation rule), never mentioned
+   again, and present in tonight's first sentence containing dialogue. **Fourth carry-forward in
+   ten days** (07-29 quotation marks, 08-03 the Forkle move, 08-03 the corrected reasoning,
+   tonight). The escalation ladder never had to go past step one. Log the count honestly — it is
+   the evidence that his "won't walk backward" is a *scheduling* preference, not a limit.
+4. **He argues from where a thing sits in a book.** *"Let's go to the ravagog"* is not a slow
+   sentence; *"in the middle part of the book"* is the entire proof. Second session running
+   (day 1 cited *"the end of the Lodestar"*). He has found, unaided, that **position is
+   evidence** — which is most of what a citation is for. Name it to him as a technique the way
+   *in medias res* was named on 07-31; it is the same kind of deposit.
+5. **His ear is now doing punctuation, not just sound.** Three commas landing one word late
+   (*"slow but,"* / *"For example when,"*), all three moved in one pass with no flag and no stated
+   pattern. The read-aloud has been treated in this file as a tool for **audible grammar**; it is
+   evidently also a tool for **phrasing**, because a misplaced comma changes where he breathes.
+   Worth remembering before assuming a punctuation error needs the eye.
+
 ## How to run a session with him
 
 - **Skip the warm-up.** He wants the template and the writing. Long lead-ins lose him.

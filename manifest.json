@@ -1,12 +1,12 @@
 {
-  "generated": "2026-08-03T18:30:00.489Z",
+  "generated": "2026-08-04T17:46:11.773Z",
   "students": [
     {
       "name": "Jaei",
       "grade": "8",
-      "xp": 1280,
-      "level": 13,
-      "streak": 1,
+      "xp": 1320,
+      "level": 14,
+      "streak": 2,
       "badges": [
         {
           "name": "First Words",
@@ -128,14 +128,14 @@
           "streak": 0
         },
         {
-          "item": "Plural subject → plural verb — in the sentence you write LAST",
+          "item": "Subject–verb agreement — he owns the rule; the check is HIS to start",
           "cleared": false,
           "streak": 0
         }
       ],
       "stats": {
-        "entries": 25,
-        "activeDays": 22,
+        "entries": 26,
+        "activeDays": 23,
         "templatesUsed": [
           "01-summary",
           "02-prediction",
@@ -148,28 +148,28 @@
           "09-quick-write-321",
           "10-book-review"
         ],
-        "revisions": 22,
-        "ace": 17,
-        "quotes": 18,
+        "revisions": 23,
+        "ace": 18,
+        "quotes": 19,
         "counter": 9,
         "craft": 5,
         "compare": 1,
-        "tier3": 13,
-        "readAlouds": 8,
-        "cleanEntries": 5,
-        "cleanStreak": 0,
+        "tier3": 14,
+        "readAlouds": 9,
+        "cleanEntries": 6,
+        "cleanStreak": 1,
         "bestCleanStreak": 3,
-        "lessons": 0,
+        "lessons": 1,
         "bookReviews": 5,
         "booksStarted": 11,
         "booksFinished": 8,
         "maxWords": 240,
-        "totalWords": 2984,
+        "totalWords": 3038,
         "maxParagraphs": 4,
         "essayShaped": 1,
         "debateShaped": 3,
         "bestStreak": 5,
-        "streak": 1
+        "streak": 2
       },
       "books": [
         {
@@ -181,10 +181,10 @@
           "seriesTotal": 9,
           "volume": null,
           "author": "Shannon Messenger",
-          "entries": 2,
-          "words": 158,
+          "entries": 3,
+          "words": 212,
           "first": "2026-08-03",
-          "last": "2026-08-03",
+          "last": "2026-08-04",
           "finished": false
         },
         {
@@ -1038,6 +1038,34 @@
           "watchSlip": true,
           "build": "Comparative Essay — day 1 of 4",
           "excerpt": "Both Nightfall and Lodestar have a similar ending for an adventure they always go. The difference is that in Lodestar Messenger reveals the story slow, but in Nightfall, right from"
+        },
+        {
+          "file": "students/Jaei/journal/2026-08-04-15-comparative-essay.md",
+          "date": "2026-08-04",
+          "slug": "15-comparative-essay",
+          "book": "Keeper of the Lost Cities",
+          "bookKey": "series:keeper of the lost cities",
+          "bookShort": "Keeper of the Lost Cities",
+          "series": "Keeper of the Lost Cities",
+          "seriesEmoji": "🌌",
+          "volume": null,
+          "author": "Shannon Messenger (10 chapters) — compared with Keeper of the Lost Cities: Lodestar (#5) by Shannon Messenger",
+          "reading": null,
+          "tier": 3,
+          "xp": 40,
+          "words": 54,
+          "paragraphs": 1,
+          "hasRevision": true,
+          "hasBonus": true,
+          "quote": true,
+          "counter": false,
+          "craft": false,
+          "compare": false,
+          "readAloud": true,
+          "watchClean": true,
+          "watchSlip": false,
+          "build": "Comparative Essay — day 2 of 4",
+          "excerpt": "In Lodestar, Messenger reveals the story slow, but in Nightfall, it was a start of action right from the start. For example, when Sophie says, \"Let's go to the ravagog\", in the mid"
         }
       ],
       "reports": [
