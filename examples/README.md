@@ -28,13 +28,21 @@ write, so they know what the finished thing looks like.
 | `grade6-growth.md` | 12 Essay · 13 Debate · 14 Craft Analysis · 15 Comparative | *Percy Jackson* (+ *Hatchet* for the comparison) |
 | `grade8-growth.md` | 12 Essay · 13 Debate · 14 Craft Analysis · 15 Comparative | *Holes* (+ *The Hunger Games* for the comparison) |
 | `grade8-craft-analysis-hunger-games.md` | **14 Craft Analysis (second book)** | *The Hunger Games* |
+| `grade8-comparative-giver-scorch-trials.md` | **15 Comparative Essay (second pair)** | *The Giver* + *The Scorch Trials* |
 
-> **Why that last one is split out.** A student who sets 🔬 **Critic** as their ladder goal
+> **Why those last two are split out.** A student who sets 🔬 **Critic** as their ladder goal
 > writes template 14 most weeks, and for a while `grade8-growth.md` was the *only* Craft
 > Analysis example in the library — so rule 1 below (never the same book twice running) had
 > nowhere to go, and *Holes* got shown three times in five sessions. When a template starts
 > repeating because it's someone's goal, the fix is a **second book for that template**, not
-> a fourth showing of the first one. Same pattern applies to 12/13/15 if a goal lands there.
+> a fourth showing of the first one.
+>
+> The same thing then happened to **15 Comparative** on 2026-08-03: a 4-day build means the
+> example gets shown four sessions running, and `grade8-growth.md` was the only one. Fixed the
+> same way, on 08-04, with *The Giver* + *The Scorch Trials* — deliberately a pair about **when
+> the reader gets told**, so it argues with the *Holes*/*Hunger Games* pair (**who is asked to
+> look away**) instead of repeating it. Templates 12 and 13 still have one example each; expect
+> the same gap the first time a build lands there.
 
 These deliberately reuse books the student has already seen shorter examples of, so they can
 flip back and see the same thinking at journal length and at essay length. **Each example
