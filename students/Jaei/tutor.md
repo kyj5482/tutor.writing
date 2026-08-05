@@ -648,6 +648,47 @@ no location, nothing mentioned about sentence length at any point in the session
    than his explanation of it, don't teach the explanation — show him what his own choice already
    did.** That was tonight's 🚀 and it cost one sentence to set up.
 
+## 🪓 2026-08-05 — he will take the answer that costs him his own argument
+
+The best thing tonight, and it is a character trait rather than a skill.
+
+The ACE question had two live answers. One of them protected the paragraph he had written
+twenty minutes earlier (*Nightfall* is fast because *Lodestar* set it up); the other bounded it.
+He took the one that bounded it — *"Nightfall built its own setup during the middle of the
+book"* — which says his rule holds for the **opening** and not for the book.
+
+He did the same thing on **08-04**, defending his 1–2 chapter threshold by separating two
+quantities instead of dropping either half, and on **08-03**, when he corrected his own backwards
+verdict clause three days late with nobody reopening it.
+
+> **Three sessions running he has treated his own claim as the thing under test, not the thing
+> being defended.** That is the actual disposition of a critic, and it is rarer than any technique
+> in this file. **Feed it: ask questions whose honest answer shrinks his claim.** He does not
+> experience that as losing.
+
+**Also today:**
+
+1. **A one-sentence stretch produced two moves, and the second was a revision.** Asked for one
+   sentence on the end, he added it — *"Lodestar was a big set-up for Nightfall"* — and **also
+   went back into an already-written sentence** to add the side-by-side clause day 3 required.
+   That is the first revision of existing material since 07-31, and the only variable was, again,
+   that the whole thing was framed as a **stretch**. The 07-27 rule holds at full strength: he
+   will do backward work, but only inside a forward frame.
+2. **Dates alone are now enough to trigger a withdrawal.** His stretch fused 08-03 (*proving
+   Nightfall's opening with a line from Lodestar's end*) and 07-31 (*in medias res*). Neither was
+   quoted at him — only the dates were listed. Second session this has worked (08-03 was the
+   first). **Say the deposit back as a date; do not re-explain the finding.**
+3. **His over-packing fixed itself, by ear, unflagged.** One 30-word sentence doing three jobs
+   became two sentences in the mic pass. Over-packing was pointed at on 07-29 and 07-31 and both
+   times someone else had to do the pointing. **Fifth carry-forward in twelve days** — log it,
+   because the count is the evidence that "won't walk backward" is scheduling, not refusal.
+4. **The verb-chain item cannot be advanced by waiting, and that is now the tutor's problem.**
+   Eight entries with no `have/has/had` + 3rd-form chain. Tonight's *"had to go"* was correct and
+   still didn't test it (the word in front of *go* is *to*). **A streak that can never advance is
+   a scoreboard** — the exact failure this system was rebuilt to avoid. Shape day 4's frame so the
+   construction is natural, never as a test; if it still doesn't appear, re-scope the row at the
+   weekly to the half his writing actually contains.
+
 ## How to run a session with him
 
 - **Skip the warm-up.** He wants the template and the writing. Long lead-ins lose him.

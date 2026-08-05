@@ -1,11 +1,11 @@
 {
-  "generated": "2026-08-05T19:08:24.550Z",
+  "generated": "2026-08-05T19:22:21.920Z",
   "students": [
     {
       "name": "Jaei",
       "grade": "8",
-      "xp": 1395,
-      "level": 14,
+      "xp": 1405,
+      "level": 15,
       "streak": 3,
       "badges": [
         {
@@ -149,11 +149,11 @@
           "10-book-review"
         ],
         "revisions": 24,
-        "ace": 18,
+        "ace": 19,
         "quotes": 20,
         "counter": 9,
         "craft": 5,
-        "compare": 1,
+        "compare": 2,
         "tier3": 15,
         "readAlouds": 10,
         "cleanEntries": 6,
@@ -1080,15 +1080,15 @@
           "author": "Shannon Messenger (8 chapters) — compared with Keeper of the Lost Cities: Lodestar (#5) by Shannon Messenger",
           "reading": null,
           "tier": 3,
-          "xp": 55,
+          "xp": 65,
           "words": 37,
           "paragraphs": 1,
           "hasRevision": true,
-          "hasBonus": false,
+          "hasBonus": true,
           "quote": true,
           "counter": false,
           "craft": false,
-          "compare": false,
+          "compare": true,
           "readAloud": true,
           "watchClean": true,
           "watchSlip": false,
