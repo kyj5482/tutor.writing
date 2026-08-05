@@ -1,12 +1,12 @@
 {
-  "generated": "2026-08-04T18:04:22.293Z",
+  "generated": "2026-08-05T19:05:17.849Z",
   "students": [
     {
       "name": "Jaei",
       "grade": "8",
-      "xp": 1340,
+      "xp": 1385,
       "level": 14,
-      "streak": 2,
+      "streak": 3,
       "badges": [
         {
           "name": "First Words",
@@ -134,8 +134,8 @@
         }
       ],
       "stats": {
-        "entries": 26,
-        "activeDays": 23,
+        "entries": 27,
+        "activeDays": 24,
         "templatesUsed": [
           "01-summary",
           "02-prediction",
@@ -150,26 +150,26 @@
         ],
         "revisions": 23,
         "ace": 18,
-        "quotes": 19,
+        "quotes": 20,
         "counter": 9,
         "craft": 5,
         "compare": 1,
-        "tier3": 14,
-        "readAlouds": 9,
-        "cleanEntries": 5,
-        "cleanStreak": 0,
+        "tier3": 15,
+        "readAlouds": 10,
+        "cleanEntries": 6,
+        "cleanStreak": 1,
         "bestCleanStreak": 3,
         "lessons": 1,
         "bookReviews": 5,
         "booksStarted": 11,
         "booksFinished": 8,
         "maxWords": 240,
-        "totalWords": 3038,
+        "totalWords": 3075,
         "maxParagraphs": 4,
         "essayShaped": 1,
         "debateShaped": 3,
         "bestStreak": 5,
-        "streak": 2
+        "streak": 3
       },
       "books": [
         {
@@ -181,10 +181,10 @@
           "seriesTotal": 9,
           "volume": null,
           "author": "Shannon Messenger",
-          "entries": 3,
-          "words": 212,
+          "entries": 4,
+          "words": 249,
           "first": "2026-08-03",
-          "last": "2026-08-04",
+          "last": "2026-08-05",
           "finished": false
         },
         {
@@ -1066,6 +1066,34 @@
           "watchSlip": true,
           "build": "Comparative Essay — day 2 of 4",
           "excerpt": "In Lodestar, Messenger reveals the story slow, but in Nightfall, it was a start of action right from the start. For example, when Sophie says, \"Let's go to the ravagog\", in the mid"
+        },
+        {
+          "file": "students/Jaei/journal/2026-08-05-15-comparative-essay.md",
+          "date": "2026-08-05",
+          "slug": "15-comparative-essay",
+          "book": "Keeper of the Lost Cities",
+          "bookKey": "series:keeper of the lost cities",
+          "bookShort": "Keeper of the Lost Cities",
+          "series": "Keeper of the Lost Cities",
+          "seriesEmoji": "🌌",
+          "volume": null,
+          "author": "Shannon Messenger (8 chapters) — compared with Keeper of the Lost Cities: Lodestar (#5) by Shannon Messenger",
+          "reading": null,
+          "tier": 3,
+          "xp": 45,
+          "words": 37,
+          "paragraphs": 1,
+          "hasRevision": false,
+          "hasBonus": false,
+          "quote": true,
+          "counter": false,
+          "craft": false,
+          "compare": false,
+          "readAloud": true,
+          "watchClean": true,
+          "watchSlip": false,
+          "build": "Comparative Essay — day 3 of 4",
+          "excerpt": "in the Nightfall, the action starts on the very first chapter. For example, \"where are my parents?\" in the first chapter is a clear example. This shows that Nightfall's story goes "
         }
       ],
       "reports": [

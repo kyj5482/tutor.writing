@@ -606,6 +606,48 @@ plainly, honored inside one message, no fourth cue — the 08-03 call exactly.
    rule or ignore the conflict. **Feed him his own past claims as counter-evidence; it is the
    sharpest question type available with him**, and it produces stage-7 work in a bonus round.
 
+## ✂️ 2026-08-05 — the tutor's oldest correction came back as his own edit
+
+Over-packing one sentence is the note that has been written about him most often and taught
+least successfully: **07-29** (the Alistair sentence doing four jobs in one breath — his best
+sentence and his most overloaded), **07-31** (both paragraphs collapsed into a single run-on
+carrying five jobs). Both times it was pointed at. Neither time did he act on it that day.
+
+Tonight his first draft was one 30-word sentence carrying three jobs — the quote, its position,
+and the whole comparison to *Lodestar*. His read-aloud came back with it **cut in two**, no flag,
+no location, nothing mentioned about sentence length at any point in the session.
+
+> **This is the fifth carry-forward in twelve days** (07-29 quotation marks · 08-03 the Forkle
+> move · 08-03 the corrected reasoning · 08-04 the speaker-tag comma · tonight). The pattern is
+> now overwhelming and it should change how a 🔧 is *scored*, not just how it's phrased: **an
+> unactioned 🔧 is a deposit, not a miss.** Log it, drop it, and expect it back in a different
+> template about a different book. Re-asking is what produces the refusal.
+
+**Also today:**
+
+1. **His ear is now cutting sentences, not just fixing sounds.** The file has tracked the
+   read-aloud widening twice already — audible grammar (07-25 →), then punctuation and phrasing
+   (08-04, three commas moved). Tonight it did **structure**: it heard a sentence run out of air
+   and split it. That is the third widening, and it means the mic pass is no longer only a
+   proofreading tool — it is where his revision actually happens. Protect the step accordingly.
+2. **A no-location handover with nothing to find still produces work.** Third session running
+   under "hand him the checks, never the location." Tonight there was **no error of the watched
+   kind in the paragraph at all**, and he still returned three repairs. Worth noticing because it
+   answers the obvious objection to the protocol — he isn't hunting for the thing you hinted at;
+   he's reading his own sentence. Told him plainly that this made it the weakest kind of clean.
+3. **Naming a measurement gap out loud did not distort what he wrote.** The `have/has/had` half
+   has been unproven six entries; tonight it was named *before* he wrote, deliberately, framed as
+   ledger honesty rather than a target. He then wrote four verbs and zero chains. **He did not
+   perform for the metric** — which is the risk of telling a kid what you're measuring, and the
+   reason it was worth testing on a kid who reads the ledger anyway. Keep naming gaps; he treats
+   them as information, not instructions.
+4. **He chose a quote that argues, and probably knew it.** *"Where are my parents?"* is the exact
+   question *Lodestar* ended on — so his evidence for *Nightfall*'s speed is a line that only
+   works if you've read the other book. That is the comparative essay's whole engine, arriving in
+   his choice of quote rather than in a sentence he wrote about it. **When his evidence is better
+   than his explanation of it, don't teach the explanation — show him what his own choice already
+   did.** That was tonight's 🚀 and it cost one sentence to set up.
+
 ## How to run a session with him
 
 - **Skip the warm-up.** He wants the template and the writing. Long lead-ins lose him.
