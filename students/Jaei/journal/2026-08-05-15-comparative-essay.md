@@ -3,7 +3,7 @@
 - **Book:** **Keeper of the Lost Cities: Nightfall (#6)** by Shannon Messenger (8 chapters) — compared with **Keeper of the Lost Cities: Lodestar (#5)** by Shannon Messenger
 - **Template:** 15 Comparative Essay, Tier 3
 - **Build:** Comparative Essay — day 3 of 4
-- **XP earned:** 45 (base 10 + Tier 3 10 + build day 5 + read-aloud 5 + focus skill 5 + 3-day streak 5)
+- **XP earned:** 55 (base 10 + Tier 3 10 + build day 5 + read-aloud 5 + focus skill 5 + 3-day streak 5 + stretch 10)
 - **Read-aloud:** ✅ read aloud before saving — three self-started repairs, no location given
 - **Watch list:** ✅ clean
 
@@ -70,3 +70,58 @@ paid for the setup.
 One sentence:
 
 > *"Nightfall can start that fast because ______."*
+
+## Revision (if any)
+
+**🚀 Stretch ✅ — and he did more than the one sentence. The full day-3 paragraph as revised:**
+
+> In the Nightfall, the action starts on the very first chapter. For example, "where are my
+> parents?" in the first chapter is a clear example. This shows that Nightfall's story goes in
+> way faster pace than Lodestar because Nightfall's action starts from the beginning but,
+> Lodestar's action starts in the middle of the book. Nightfall could start the action that fast
+> because Lodestar was a big set-up for Nightfall.
+
+**Two things arrived, not one.** The stretch asked for a single sentence on the end. He added
+that — *"Nightfall could start the action that fast because Lodestar was a big set-up for
+Nightfall"* — and **also** went back into the existing sentence and built the side-by-side clause
+that day 3 actually wants: *"because Nightfall's action starts from the beginning but, Lodestar's
+action starts in the middle of the book."*
+
+That second one is the template's day-3 requirement (*how it's different, not just also-true*),
+and it was not asked for tonight. It is also **the first time he has revised an already-written
+sentence rather than only adding to the end** since 07-31 — and the only variable, again, was
+that the whole move was framed as a stretch rather than a repair.
+
+**Why the added sentence is the real prize.** *"Lodestar was a big set-up for Nightfall"* is a
+claim about **what a book is for**, made from outside both books. It says *Nightfall* isn't fast
+because Messenger writes fast — it's fast because the previous novel already spent itself paying
+for this one's opening. That is a structural argument about a series, and it is the closing move
+of a comparative essay arriving on day 3.
+
+He built it out of two of his own findings, neither mentioned to him tonight beyond their dates:
+**08-03** (proving *Nightfall*'s opening with a line from *the end of Lodestar*) and **07-31**
+(naming *in medias res* by noticing what Messenger didn't do).
+
+**✌️ Second pass offered on the two new sentences — and declined: *"save as it is."***
+Honored inside one message, saved verbatim, no fourth cue. Same call as 08-03 and 08-04.
+
+**Notes (tutor):**
+
+- ✌️ **Subject–verb agreement — clean, holds at 1/3.** Every verb in the revision is correct
+  (*starts · is · goes · starts · starts · could start · was*), and **no *and* between two doers
+  appeared again** — third straight session with that half untested. The row advanced tonight on
+  *initiation*, not on a catch; see the profile note, which says so plainly.
+- 👉 **Verb chains — clean, and HELD at 2/3 rather than advanced.** The revision contains a real
+  chain and he got it right first draft: *"Nightfall **could start** the action"* — modal + 1st
+  form, correct. But that is the **same half that has been tested every single time**. No
+  `have/has/had` → 3rd-form chain has now appeared in **seven entries**. Advancing to 3/3 here
+  would retire the item on evidence that has never touched half of it, which the profile
+  pre-committed against. Held, and the reason given to him rather than filed quietly.
+- 📌 **One sighting logged, not corrected:** *"from the beginning but, Lodestar's"* — the comma
+  landing **one word late**, the exact pattern his own ear moved **three times** in one pass on
+  08-04. It is in a sentence written *after* the mic pass, and the pass on those sentences was
+  offered and declined. Recorded verbatim and **not** turned into a second 🔧 — one improvement
+  per day, and he had already earned the night. If it appears again in day 4's assembly, it is a
+  second sighting and gets the 🔧 slot then.
+- **70 words**, day 3 of 4. On-spec for a one-paragraph day; Long Haul deliberately not mentioned,
+  per the build premise that the daily piece never grows.
