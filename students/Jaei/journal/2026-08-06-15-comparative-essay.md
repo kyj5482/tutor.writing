@@ -3,7 +3,7 @@
 - **Book:** **Keeper of the Lost Cities: Nightfall (#6)** by Shannon Messenger (6 chapters) — compared with **Keeper of the Lost Cities: Lodestar (#5)** by Shannon Messenger
 - **Template:** 15 Comparative Essay, Tier 3
 - **Build:** Comparative Essay — day 4 of 4 ✅ **COMPLETE**
-- **XP earned:** 115 (base 10 + Tier 3 10 + build day 5 + **build complete 25** + read-aloud 5 + **🎟️ Scholar card coupon 60**)
+- **XP earned:** 125 (base 10 + Tier 3 10 + build day 5 + **build complete 25** + read-aloud 5 + stretch 10 + **🎟️ Scholar card coupon 60**)
 - **Read-aloud:** ✅ read aloud before saving — all four days heard as one piece for the first time
 - **Watch list:** ⚠️ slipped — subject–verb agreement (*"Reading both books **show**"* → **shows**; fixed on the ✌️ cue, but the tutor located the sentence, so it counts as a slip)
 
@@ -83,6 +83,27 @@ One sentence, your shape:
 > *"But I still can't decide if ______."*
 
 ## Revision (if any)
+
+**🚀 Stretch ✅ (+10) — one sentence on the end:**
+
+> I think that one book would be worth the sacrifice for the series so I say that this was fair.
+
+**Credited in full, and the tutor's instruction is why it isn't the Tier 3 box.** The stretch was
+handed over as two different things in one message — a **frame** (*"But I still can't decide
+if ___"*, which opens a door) and a **question** (*"is that fair to someone who only reads one
+book?"*, which invites an answer). He answered the question, correctly and directly. Same shape as
+the *"two fingers — first sentence"* pointer error on 08-03: **a precise kid executing an imprecise
+instruction.** Told to him that way, first, before anything about the sentence itself.
+
+**What the sentence actually does.** It converts the SO WHAT paragraph's observation into a
+**verdict with a cost accepted** — the series is the unit, one book pays, and he rules the trade
+fair. That is the Tier 3 *defended verdict* box (already held) rather than the *closing question*
+box (still open, and the only one of the four not filled).
+
+**The door inside his own verdict, offered as construction and not as a repair:** *worth it* is
+measured from inside the series, where *Lodestar*'s slowness gets repaid by *Nightfall*. A reader
+who picks up *Lodestar* alone pays the full price and never collects. Offered as one optional
+sentence; declining leaves a legitimate ending, and it was said that way.
 
 **Pre-save fixes, both his, both before the file was written:**
 
