@@ -180,11 +180,23 @@ pattern, and if one appears, it's `"verb-only read"` / `"two-finger check"` — 
     (lesson 1) · **07-28 clean 1/3** (lesson 2) · **07-29 clean 2/3** · **07-30 clean 3/3 → CLEARED.**
 -->
 
-- [ ] **🔍 Close the quote** — clean streak: **1/3** · *Lupin says, "I know that you are not a killer but at least you should have stunned him.* → needs the closing **"** after *stunned him* · **Count the quotation marks before you save. They come in pairs — and the closer must be the SAME mark as the opener.**
+- [ ] **🔍 Close the quote** — clean streak: **2/3** · *Lupin says, "I know that you are not a killer but at least you should have stunned him.* → needs the closing **"** after *stunned him* · **Count the quotation marks before you save. They come in pairs — and the closer must be the SAME mark as the opener.**
+  - 🎉 **2/3 earned 2026-08-05 — UNPARKED, because it was finally TESTED.** The 08-02 park said this
+    item was unscoreable until a quote actually appeared; `tutor.md` #25 said the fix was to stop
+    putting the thing you want to test in the **optional** slot. Tonight the quote line went into the
+    **main template frame** (04 Opinion, which is one of the two templates she quotes on happily) and
+    a quote arrived on the first draft — opened, not closed. She was given the **count**, not the
+    instruction (*"count the `"` marks in this line — how many?"*), and supplied the closer herself
+    before saving. **The lever is confirmed: the template decides whether this item can be scored
+    at all.** Keep the quote line in the main frame every session until it clears.
   - **1/3 earned 2026-08-01** — asked to count the marks in her own line, she found the missing closer **on the first look** and supplied it. She closed a `"` with a `'`; position right, match wrong, so she got the one-line refinement rather than a second correction.
   - ⚠️ **STALLED, but not by her — by the templates.** 07-31 (Opinion + ACE), 08-01 (ACE) and 08-02 (Connection) contained **no quotation marks at all**, so there was nothing to check and the streak was held rather than advanced three times. An item that never gets tested can never clear. ➡️ **Put the quote line in the frame** (`In the book, ______ said, "______."`) on every template that doesn't demand one, or move the item to the weekly and stop scoring it daily.
   - Added **2026-07-31** — same concrete error in the **07-30 ACE** (*Voldemort asked, "Wouldn't you be more evil if you separated your heart in seven pieces?*) and the **07-31 ACE** (Lupin). Both opened, neither closed. Both in the **ACE round**, which is exactly where her slips have always hidden.
   - ⚠️ **This one is for the EYE, not the ear.** A quotation mark makes no sound — the read-aloud that cleared her verb item is the wrong tool here and will never catch it. Give her a **look**: *"count them, they come in pairs."* Do not let this drift into the mic check.
+  - ✅ **UNPARKED 2026-08-05** — the park below was correct at the time and its condition has now
+    been met: the item is testable again the moment the template asks a question a quote answers.
+    Do **not** retire it as unscoreable at the weekly; score it, and put the quote line in the main
+    frame so it keeps getting tested. One more clean session clears it.
   - 🛑 **PARKED 2026-08-02 — resolve at the weekly.** Untested for four straight sessions (07-31 ×2, 08-01, 08-02) because **no quote has appeared in five consecutive pieces**. On 08-02 the quote line was put directly into the ACE frame and named aloud before she wrote, and she still produced reported speech — so "build the frame in" is **not** the lever, and `tutor.md` #14's proposed fix is falsified. An item that never gets tested cannot clear, and scoring it each night is bookkeeping theatre. ➡️ At the weekly: either make *writing* a quote the focus skill (and let this item ride along), or retire it as unscoreable.
   - **Why it's worth an item at all:** quoting is now her signature move — 💬 Quote Catcher, Evidence Tier 2, and every stage left on her 🎓 Scholar path is built on quotes. A quote that never closes is a real flaw in a writer who quotes constantly, and it's a five-second fix.
   - 07-31: asked where the closing mark should go and she answered *"To go"* — a non-answer at the end of a long session. Per `tutor.md`, handed her the answer in one line and moved on rather than asking twice. **Next session: name it before she writes, not after.**
