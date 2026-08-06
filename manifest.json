@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-06T03:50:44.635Z",
+  "generated": "2026-08-06T22:57:29.554Z",
   "students": [
     {
       "name": "Jaei",
@@ -1117,7 +1117,7 @@
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 1155,
+      "xp": 1200,
       "level": null,
       "streak": null,
       "badges": [
@@ -1236,18 +1236,18 @@
         },
         {
           "item": "🔍 Close the quote",
-          "cleared": false,
-          "streak": 2
+          "cleared": true,
+          "streak": 3
         },
         {
           "item": "✍️ Possessive `'s`",
           "cleared": false,
-          "streak": 0
+          "streak": 1
         }
       ],
       "stats": {
-        "entries": 28,
-        "activeDays": 27,
+        "entries": 29,
+        "activeDays": 28,
         "templatesUsed": [
           "01-summary",
           "02-prediction",
@@ -1262,21 +1262,21 @@
         ],
         "revisions": 16,
         "ace": 27,
-        "quotes": 14,
+        "quotes": 15,
         "counter": 6,
         "craft": 2,
         "compare": 0,
         "tier3": 0,
-        "readAlouds": 10,
-        "cleanEntries": 8,
-        "cleanStreak": 1,
+        "readAlouds": 11,
+        "cleanEntries": 9,
+        "cleanStreak": 2,
         "bestCleanStreak": 7,
         "lessons": 3,
-        "bookReviews": 2,
+        "bookReviews": 3,
         "booksStarted": 6,
-        "booksFinished": 4,
+        "booksFinished": 5,
         "maxWords": 162,
-        "totalWords": 2112,
+        "totalWords": 2209,
         "maxParagraphs": 3,
         "essayShaped": 0,
         "debateShaped": 0,
@@ -1293,11 +1293,11 @@
           "seriesTotal": 7,
           "volume": 7,
           "author": "J.K. Rowling",
-          "entries": 6,
-          "words": 471,
+          "entries": 7,
+          "words": 568,
           "first": "2026-07-31",
-          "last": "2026-08-05",
-          "finished": false
+          "last": "2026-08-06",
+          "finished": true
         },
         {
           "key": "harry potter#6",
@@ -2159,6 +2159,34 @@
           "watchSlip": false,
           "build": null,
           "excerpt": "The bravest person in this part isn't Harry. It is professor McGonagall. In the book, when Harry told her about how he's on a mission, she said, \"I will bring other professor and h"
+        },
+        {
+          "file": "students/Jia/journal/2026-08-06-10-book-review.md",
+          "date": "2026-08-06",
+          "slug": "10-book-review",
+          "book": "Harry Potter and the Deathly Hallows",
+          "bookKey": "harry potter#7",
+          "bookShort": "Deathly Hallows",
+          "series": "Harry Potter",
+          "seriesEmoji": "⚡",
+          "volume": 7,
+          "author": "J.K. Rowling",
+          "reading": "🎉 **FINISHED — and with it the entire seven-book series**",
+          "tier": 2,
+          "xp": 45,
+          "words": 97,
+          "paragraphs": 1,
+          "hasRevision": false,
+          "hasBonus": false,
+          "quote": true,
+          "counter": false,
+          "craft": false,
+          "compare": false,
+          "readAloud": true,
+          "watchClean": true,
+          "watchSlip": false,
+          "build": null,
+          "excerpt": "Would you sacrifice your life for someone else? Harry Potter and the Deathly Hallows by J.K. Rowling is about Voldemort and Harry fighting. The best thing about this book is that H"
         }
       ],
       "reports": [
