@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-06T22:57:29.554Z",
+  "generated": "2026-08-06T22:58:16.309Z",
   "students": [
     {
       "name": "Jaei",
@@ -1117,7 +1117,7 @@
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 1200,
+      "xp": 1210,
       "level": null,
       "streak": null,
       "badges": [
@@ -1261,10 +1261,10 @@
           "10-book-review"
         ],
         "revisions": 16,
-        "ace": 27,
+        "ace": 28,
         "quotes": 15,
         "counter": 6,
-        "craft": 2,
+        "craft": 3,
         "compare": 0,
         "tier3": 0,
         "readAlouds": 11,
@@ -2173,14 +2173,14 @@
           "author": "J.K. Rowling",
           "reading": "🎉 **FINISHED — and with it the entire seven-book series**",
           "tier": 2,
-          "xp": 45,
+          "xp": 55,
           "words": 97,
           "paragraphs": 1,
           "hasRevision": false,
-          "hasBonus": false,
+          "hasBonus": true,
           "quote": true,
           "counter": false,
-          "craft": false,
+          "craft": true,
           "compare": false,
           "readAloud": true,
           "watchClean": true,
