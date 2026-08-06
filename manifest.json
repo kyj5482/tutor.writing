@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-06T03:34:53.398Z",
+  "generated": "2026-08-06T03:50:44.635Z",
   "students": [
     {
       "name": "Jaei",
@@ -1117,7 +1117,7 @@
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 1145,
+      "xp": 1155,
       "level": null,
       "streak": null,
       "badges": [
@@ -1230,9 +1230,14 @@
           "streak": 3
         },
         {
+          "item": "✌️ The \"and\" check is HERS to start",
+          "cleared": false,
+          "streak": 0
+        },
+        {
           "item": "🔍 Close the quote",
           "cleared": false,
-          "streak": 1
+          "streak": 2
         },
         {
           "item": "✍️ Possessive `'s`",
@@ -1256,7 +1261,7 @@
           "10-book-review"
         ],
         "revisions": 16,
-        "ace": 26,
+        "ace": 27,
         "quotes": 14,
         "counter": 6,
         "craft": 2,
@@ -2140,11 +2145,11 @@
           "author": "J.K. Rowling",
           "reading": "the return to Hogwarts — the whole school joins the Horcrux hunt",
           "tier": 2,
-          "xp": 25,
+          "xp": 35,
           "words": 86,
           "paragraphs": 1,
           "hasRevision": false,
-          "hasBonus": false,
+          "hasBonus": true,
           "quote": true,
           "counter": false,
           "craft": false,

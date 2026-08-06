@@ -500,6 +500,52 @@ exact words?"* question was set as the 🚀 and she went straight to the ACE, as
 putting the thing you actually want to test in the optional slot.** Next session it goes in the main
 template, and 🔍 Close the quote gets resolved at the weekly either way.
 
+## What 08-05 taught us (the quote item finally moved · the stretch theory died)
+
+**26. ⭐ She renegotiates now instead of declining — and that is a completely new behaviour.**
+Offered one ACE question, she replied ***"Can you give me a different question?"*** In 25 entries
+she has never done this. Every previous non-answer was a skip, a *"save it"*, or a dismissed
+picker. Asking for a different one means she intended to write and wanted a better door in.
+➡️ **Treat any request from her as engagement, not resistance, and answer it immediately with
+options.** Given three questions, she picked #1 and wrote a full Tier-2 ACE. The cost of honoring
+the request was one message; the return was the whole bonus round.
+
+**27. 🧪 The #5 theory is FALSIFIED: "question with choices" is not what gets a stretch done.**
+08-01 #5 proposed that the reason she always takes the ACE over the 🚀 is that *the ACE is a
+question someone asked her*, and suggested writing the stretch as a question with options to test
+it. Tonight the 🚀 was exactly that — *"who does McGonagall's sacrifice cost the most: her, the
+students, or Harry? Pick one, write one sentence"* — three choices, new writing, no repair, her
+own subject. **She skipped it and went to the ACE. Seventh time running.**
+➡️ So the variable is not the *form* of the ask. What the ACE has that no stretch has is that it
+is **a separate round** — a new thing with its own name, its own heading and its own points —
+while the 🚀 is attached to a piece she has already finished. **Stop trying to make the stretch
+attractive. If a move matters, it goes in the frame BEFORE she writes (which is what worked
+tonight for the quote), or it becomes the ACE question.** The 🚀 slot is, for her, decoration.
+
+**28. Put the thing you want to test in the MAIN template — proved, and it moved a parked item.**
+🔍 Close the quote had been unscoreable for four sessions because six consecutive pieces contained
+no quotation marks. Tonight's template (04 Opinion) was chosen *because* it is one of the two she
+quotes on happily, and the quote line went in the main frame. A quote appeared, the item was
+testable, and she cleared it — **and then closed the quote unprompted in the ACE as well.**
+➡️ Generalise: **her templates decide what is even measurable about her writing.** When an item
+stalls, look at what the last five templates asked for before concluding anything about the kid.
+
+**29. Her ear is precise, and it is precisely the wrong tool for half her errors.** One named
+target (*"listen for one verb missing its ending"*) returned *"was order"* → ***"was ordered"***,
+plus a spelling fix and a tense fix nobody requested — the 08-02 #19 pattern again, ask for one
+and get four. In the same session *"Neville and Luna **says**"* went straight past it, because it
+sounds fine. **Same kid, same night, both tools behaving exactly as documented.** Keep sorting
+every slip into ear or eye out loud before choosing a check; she is old enough to learn the sorting
+rule itself, and it will outlast any individual item.
+
+**30. The mic is at its worst on this book, and it must never cost her anything.** One pass turned
+*Voldemort* into **"Baltimore"** twice, *McGonagall* into "McGonal" and "McGonald", *Harry's* into
+"Harris", and silently dropped a *would*. All of it was listed back to her as a **transcription
+check, explicitly not a writing correction**, confirmed in one word, and restored before saving.
+➡️ On a book full of invented names, budget one confirm message per read-aloud. **Never score a
+mishearing as her error** — she is being asked to do the exact habit that cleared two Watch items,
+and punishing it would end the habit.
+
 ## Talk to her like this
 
 ✅ *"Read that sentence out loud — you'll hear it."* (this is her superpower, name it)
