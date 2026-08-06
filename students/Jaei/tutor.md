@@ -689,6 +689,56 @@ verdict clause three days late with nobody reopening it.
    construction is natural, never as a test; if it still doesn't appear, re-scope the row at the
    weekly to the half his writing actually contains.
 
+## 📏 2026-08-06 — he offloads the typing and keeps the thinking
+
+Twice tonight he asked for help, which used to be rare enough that 07-25 logged it as new
+behavior. Both times are worth reading carefully, because they look like the same request and
+are not:
+
+1. *"what do u mean"* — after a message that stacked the assembly instruction and the day-3
+   why-clause into one block. **That was a tutor error, not a stall.** Split into two numbered
+   items with one fill-in-the-blank, he answered immediately. `tutor.md` has said since 07-25
+   that vague prompts stall him and procedures don't; the corollary now proven is that **two
+   procedures in one message is a vague prompt.** One instruction per message on a long night.
+2. *"okay can u copie and past to make the whole"* — he asked the tutor to assemble four days of
+   **his own already-written paragraphs** into one block.
+
+The second one is the finding. It reads like a shortcut and it is the opposite: **he delegated
+the part with no thinking in it and kept every part that had any.** The assembly was retyping.
+The blank in the middle of it was the argument — and he filled it himself, with
+***"the situation already happened"*** against the tutor's offered *"already exists."* His word
+is more exact (someone *took* her parents; that is a completed event, not a state).
+
+> **Do the mechanical work for him when he asks, without hedging.** Pasting his own sentences
+> together is not writing his piece; it is clerical, and refusing it would have spent his energy
+> on typing at the end of a four-day build. **Then leave the thinking blanks visibly empty.** He
+> goes straight to them.
+
+**Also today:**
+
+1. **The length wall moved, and the reason is the one that was predicted.** 254 words, past the
+   240 that had stood since 07-29 — 📜 Long Haul and the 🏛️ Scholar card both closed on it. The
+   daily pieces were **37 · 73 · 70 · 54**, all ordinary. The 08-03 bet was that he writes tight
+   and *one book runs out of argument before he runs out of steam*; two books doubled the
+   material and the total followed. **Length is a material problem with him, never an effort
+   problem.** The next honest experiment toward 450 is a **third source**, not more days and
+   never a quota.
+2. **His revision can introduce the error his draft got right.** First version:
+   *"Reading both books **shows**."* His own second pass changed it to *"show."* Every previous
+   note on this row has treated the question as whether he *starts* the check; tonight says the
+   check also has to cover **what he changed**, because the nearest-noun pull reaches in while
+   he is busy with something else. One extra clause when handing the checks over — *"and re-read
+   anything you changed"* — and still no sentence named.
+3. **He conceded a limit that costs him his own thesis, for the third session running.** Day 1
+   said the two speeds trade evenly; tonight said *Lodestar*'s slowness was worth it **because of
+   a book it isn't in**. 08-04, 08-05, 08-06 — he keeps treating his own claim as the thing under
+   test. This is settled now, not a pattern to watch: **ask the question whose honest answer
+   shrinks his argument.** He does not experience it as losing.
+4. **Disclose the tutor's own edits, immediately, even trivial ones.** The comma joining ¶1's two
+   halves was the tutor's, made during the paste. Told to him at feedback with the choice left to
+   him. He has caught bookkeeping twice and been right twice; the ledger is only worth something
+   because it says whose hand did what.
+
 ## How to run a session with him
 
 - **Skip the warm-up.** He wants the template and the writing. Long lead-ins lose him.

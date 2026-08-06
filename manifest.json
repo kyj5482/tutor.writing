@@ -1,12 +1,12 @@
 {
-  "generated": "2026-08-06T22:58:16.309Z",
+  "generated": "2026-08-06T23:35:39.175Z",
   "students": [
     {
       "name": "Jaei",
       "grade": "8",
-      "xp": 1405,
-      "level": 15,
-      "streak": 3,
+      "xp": 1520,
+      "level": 16,
+      "streak": 4,
       "badges": [
         {
           "name": "First Words",
@@ -89,6 +89,11 @@
           "date": "2026-08-01"
         },
         {
+          "name": "Long Haul",
+          "emoji": "📜",
+          "date": "2026-08-06"
+        },
+        {
           "name": "Wordsmith card COMPLETE",
           "emoji": "✍️",
           "date": "2026-07-14"
@@ -109,9 +114,14 @@
           "date": null
         },
         {
-          "name": "Scholar card 3/4",
+          "name": "Scholar card COMPLETE",
           "emoji": "🏛️",
-          "date": "2026-08-01"
+          "date": "2026-08-06"
+        },
+        {
+          "name": "Full House now needs only 🔥 Dedication",
+          "emoji": "🌟",
+          "date": null
         }
       ],
       "tiers": {
@@ -134,8 +144,8 @@
         }
       ],
       "stats": {
-        "entries": 27,
-        "activeDays": 24,
+        "entries": 28,
+        "activeDays": 25,
         "templatesUsed": [
           "01-summary",
           "02-prediction",
@@ -148,28 +158,28 @@
           "09-quick-write-321",
           "10-book-review"
         ],
-        "revisions": 24,
+        "revisions": 25,
         "ace": 19,
-        "quotes": 20,
-        "counter": 9,
+        "quotes": 21,
+        "counter": 10,
         "craft": 5,
-        "compare": 2,
-        "tier3": 15,
-        "readAlouds": 10,
+        "compare": 3,
+        "tier3": 16,
+        "readAlouds": 11,
         "cleanEntries": 6,
-        "cleanStreak": 1,
+        "cleanStreak": 0,
         "bestCleanStreak": 3,
         "lessons": 1,
         "bookReviews": 5,
         "booksStarted": 11,
         "booksFinished": 8,
-        "maxWords": 240,
-        "totalWords": 3075,
-        "maxParagraphs": 4,
-        "essayShaped": 1,
-        "debateShaped": 3,
+        "maxWords": 283,
+        "totalWords": 3358,
+        "maxParagraphs": 5,
+        "essayShaped": 2,
+        "debateShaped": 4,
         "bestStreak": 5,
-        "streak": 3
+        "streak": 4
       },
       "books": [
         {
@@ -181,10 +191,10 @@
           "seriesTotal": 9,
           "volume": null,
           "author": "Shannon Messenger",
-          "entries": 4,
-          "words": 249,
+          "entries": 5,
+          "words": 532,
           "first": "2026-08-03",
-          "last": "2026-08-05",
+          "last": "2026-08-06",
           "finished": false
         },
         {
@@ -1094,6 +1104,34 @@
           "watchSlip": false,
           "build": "Comparative Essay — day 3 of 4",
           "excerpt": "in the Nightfall, the action starts on the very first chapter. For example, \"where are my parents?\" in the first chapter is a clear example. This shows that Nightfall's story goes "
+        },
+        {
+          "file": "students/Jaei/journal/2026-08-06-15-comparative-essay.md",
+          "date": "2026-08-06",
+          "slug": "15-comparative-essay",
+          "book": "Keeper of the Lost Cities",
+          "bookKey": "series:keeper of the lost cities",
+          "bookShort": "Keeper of the Lost Cities",
+          "series": "Keeper of the Lost Cities",
+          "seriesEmoji": "🌌",
+          "volume": null,
+          "author": "Shannon Messenger (6 chapters) — compared with Keeper of the Lost Cities: Lodestar (#5) by Shannon Messenger",
+          "reading": null,
+          "tier": 3,
+          "xp": 115,
+          "words": 283,
+          "paragraphs": 5,
+          "hasRevision": true,
+          "hasBonus": false,
+          "quote": true,
+          "counter": true,
+          "craft": false,
+          "compare": true,
+          "readAloud": true,
+          "watchClean": false,
+          "watchSlip": true,
+          "build": "Comparative Essay — day 4 of 4 ✅ **COMPLETE**",
+          "excerpt": "Both Nightfall and Lodestar have a similar ending for an adventure they always go. The difference is that in Lodestar Messenger reveals the story slow, but in Nightfall, right from"
         }
       ],
       "reports": [
