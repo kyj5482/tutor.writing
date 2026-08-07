@@ -3,7 +3,7 @@
 - **Book:** **Keeper of the Lost Cities: Nightfall (#6)** by Shannon Messenger (6 chapters) — compared with **Keeper of the Lost Cities: Lodestar (#5)** by Shannon Messenger
 - **Template:** 15 Comparative Essay, Tier 3
 - **Build:** Comparative Essay — day 4 of 4 ✅ **COMPLETE**
-- **XP earned:** 125 (base 10 + Tier 3 10 + build day 5 + **build complete 25** + read-aloud 5 + stretch 10 + **🎟️ Scholar card coupon 60**)
+- **XP earned:** 135 (base 10 + Tier 3 10 + build day 5 + **build complete 25** + read-aloud 5 + stretch 10 + ACE 10 + **🎟️ Scholar card coupon 60**)
 - **Read-aloud:** ✅ read aloud before saving — all four days heard as one piece for the first time
 - **Watch list:** ⚠️ slipped — subject–verb agreement (*"Reading both books **show**"* → **shows**; fixed on the ✌️ cue, but the tutor located the sentence, so it counts as a slip)
 
@@ -118,3 +118,50 @@ paced book, the slow one buys the Ahh moment"* in paragraph 1 is **the tutor's p
 his** — the day-1 entry and its stretch clause were separate, and they were joined with a comma
 during the assembly paste. Flagged to him at feedback with the choice of how to join them left to
 him. Two sentences of his were merged; no word of his was changed.
+
+## Bonus — ACE Write
+
+**Question:** Six chapters further in — is *Nightfall* spending itself on book 7 the same way *Lodestar* spent itself on *Nightfall*? Or is it paying its own way?
+
+Nightfall is paying its own way because the raiding in the Nightfall didn't start until the end of the book. "We are going to the Nightfall now." was said when the book was coming towards the end. This shows that Nightfall is, in a own way another set-up for the series.
+
+**Recorded verbatim.** The pre-save pass was offered with no location and declined — *"save as it is"* — honored inside one message, no second ask. Fourth session running the deal has held exactly as written.
+
+**🌟 His evidence is right and his opening claim is wrong, and the gap between them is the find.**
+
+His **A** says *Nightfall* is **paying its own way**. His **C** and **E** argue the opposite: the
+raid — the event the book is *named after* — is deferred to the end, and the line *"We are going
+to the Nightfall now"* lands as the book is closing. His own closer states it outright:
+*"Nightfall is, in a own way another set-up for the series."*
+
+A book that defers its title event to the final chapters is not paying its own way. **It is doing
+to book 7 exactly what *Lodestar* did to it.** The evidence he chose proves the branch he didn't
+claim.
+
+**Why this is worth more than a correct answer would have been.** It makes his essay's thesis
+*bigger*, not smaller. The essay says *Lodestar* sacrificed itself for *Nightfall* — a fact about
+two books. What his ACE evidence actually shows is that **Messenger does this every time**: each
+volume spends its ending buying the next one's opening. That is a claim about a **method**, which
+is the register `tutor.md` says he reaches for at his best, and he got there by citing position
+for the **fourth session running** (*"when the book was coming towards the end"* — after *"at the
+end of the Lodestar"*, *"in the middle part of the book"*, *"in the first chapter"*).
+
+**The mechanism, and it is the same one that produced tonight's Watch slip.** He wrote the claim
+first, then found something in the evidence that changed it, and the opening sentence never got
+re-read. Identical shape to *"shows"* → *"show"*: **a sentence written earlier was left standing
+after a later sentence changed the situation.** Two instances in one night, in two different
+rounds, one grammatical and one structural. Not pointed at as a repair — recorded, and shown to
+him as what his own paragraph already did.
+
+**Silent note, not a campaign** (per the 08-04 a/an lesson file): *"in a own way"* → *"in **its**
+own way"*. Mentioned once in feedback, no row added.
+
+**✌️ Watch item clean in the ACE** — *is · didn't start · was said · is*, all correct first draft,
+and no *and* between two doers appeared. **The session still counts as a slip** (the main entry),
+and that was said to him plainly: a clean ACE does not undo it, the same call as 08-04.
+
+**👉 Verb chains clean, still HELD at 2/3.** *"didn't start"* is `did` + 1st form, correct — the
+same half tested every time. 📌 Worth logging precisely: *"was said"* is **be + 3rd form**, correct
+first draft, and it is the closest thing to a 3rd-form chain to appear in ten entries — but the row
+names `have/has/had`, not `be`, so it does **not** close the gap. Tenth entry with no
+`have/has/had` + 3rd-form chain. **Re-scope at the weekly, as pre-committed.**

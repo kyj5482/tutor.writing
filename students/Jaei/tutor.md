@@ -723,7 +723,20 @@ is more exact (someone *took* her parents; that is a completed event, not a stat
    material and the total followed. **Length is a material problem with him, never an effort
    problem.** The next honest experiment toward 450 is a **third source**, not more days and
    never a quota.
-2. **His revision can introduce the error his draft got right.** First version:
+2. **🎯 The night's real finding: he does not re-read a sentence after a later one changes it.**
+   It happened **twice, in two different rounds, at two different scales**, and neither was
+   pointed at:
+   - **Grammatical.** *"Reading both books **shows**"* (correct) → he changed it to *"show"* in
+     his own second pass.
+   - **Structural.** His ACE claim opens *"Nightfall is paying its own way"* — and his evidence
+     and closer argue the opposite (*"Nightfall is, in a own way another set-up for the series"*).
+     He found the better answer mid-paragraph and the opening sentence stayed where it was.
+
+   Every prior note on the Watch row asked whether he **starts** the check. Tonight says the
+   check also has to cover **what changed** — because his own edits are where both errors came
+   from. One extra clause when handing the checks over, still with no sentence named: ***"and
+   re-read anything you changed."***
+3. **His revision can introduce the error his draft got right.** First version:
    *"Reading both books **shows**."* His own second pass changed it to *"show."* Every previous
    note on this row has treated the question as whether he *starts* the check; tonight says the
    check also has to cover **what he changed**, because the nearest-noun pull reaches in while
