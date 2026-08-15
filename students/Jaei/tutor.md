@@ -752,6 +752,52 @@ is more exact (someone *took* her parents; that is a completed event, not a stat
    him. He has caught bookkeeping twice and been right twice; the ledger is only worth something
    because it says whose hand did what.
 
+## 🔌 2026-08-15 — after a gap, he comes back at full strength and with less patience for process
+
+Eight days without a session (08-07 → 08-14) and then this: he had **finished *Nightfall*** and was
+**halfway through *Flashback*.** The writing stopped; the reading never did. That ordering is the
+thing to say to him, and to say first — *"you read two-thirds of a book while nobody was watching"*
+lands, and it is also just true.
+
+1. 🎯 **The night's real finding: he declined the read-aloud outright, and it is almost certainly
+   the gap, not the habit.** *"no thanks."* Eleven straight sessions had it ✅ (07-25 → 08-06), and
+   the four prior declines were all of the **second** pass, after the main one was done. This was
+   the first refusal of the mic itself since he learned the button existed.
+   > **Do not treat this as the habit breaking, and above all do not campaign for it.** Offer it
+   > once tomorrow exactly as always. The habit took nineteen entries to start and then ran eleven
+   > sessions without a miss; one decline after an eight-day gap is a re-entry cost, not a reversal.
+   > If it goes two more sessions, *then* it is a finding — and even then the question is what
+   > changed about the session, not about him.
+2. **The thinking arrived at full size anyway, which is what makes point 1 readable.** He argued
+   **down his own claim from nine days earlier** — 08-06's *"Nightfall is… another set-up for the
+   series"* against tonight's *"Nightfall was it's own story"* — with evidence he had gone and got
+   from half of book 7. **Fourth session running he takes the answer that shrinks his own argument**,
+   and the first time the claim under test came from a *previous session* rather than the same night.
+   He held a nine-day-old position in his head, went looking for what would break it, and reported
+   the break. **What he shed after the gap was process, not thought.**
+3. **He proves things with absences now.** *"it was the scene of what to do with Alvar, which isn't
+   that much of an action."* Nothing on the page proves his claim; what's **missing** from the page
+   does. Same move as 07-31's *in medias res* (noticing what Messenger chose not to do), but turned
+   into evidence rather than observation. **Ask him what a book *doesn't* do — it is reliably his
+   best question.**
+4. 🧾 **Close a stalled row yourself instead of promising the weekly again.** The verb-chain row sat
+   at 2/3 for four sessions, each note pre-committing to re-scope "at the weekly" and each one
+   holding instead. Tonight it was re-scoped and retired inside the daily session: the half his
+   writing contains is clean across ten entries → retired; the `have/has/had` half **never occurred
+   in eleven entries** → dropped, and **explicitly not claimed as proven.**
+   > **The generalizable rule: when a row can't advance, the row is wrong, not the kid.** And tell
+   > him exactly which half he beat and which half was never tested. He has caught the tutor's
+   > bookkeeping twice and been right twice — a retirement he can't audit is worth less to him than
+   > no retirement at all.
+5. **Spending the 🔧 slot is a decision, and he should hear that it was made.** The *"But,"* comma
+   was pre-committed on 08-05 to tonight's 🔧 slot, and the slot went to the missing quote instead
+   (Tier 3 requirement, his focus skill, bigger lever). Rather than quietly drop the pre-commitment,
+   it was **named as spent** and the comma given as a one-liner. Same principle as the a/an deferral
+   on 08-04: **a deferral he is told about is not a miss; a deferral he isn't told about is drift.**
+6. **"Done for today" arrived and cost nothing.** No ACE, no stretch, 20 XP banked. Fifth session
+   running the stop-when-you-say-stop deal has held exactly as written — which is the only reason
+   he keeps saying it plainly instead of trailing off.
+
 ## How to run a session with him
 
 - **Skip the warm-up.** He wants the template and the writing. Long lead-ins lose him.
