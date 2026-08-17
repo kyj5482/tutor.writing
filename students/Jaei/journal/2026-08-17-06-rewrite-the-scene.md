@@ -2,7 +2,7 @@
 
 - **Book:** Keeper of the Lost Cities: Flashback (#7) by Shannon Messenger (5 chapters)
 - **Template:** 06 Rewrite the Scene, Tier 3
-- **XP earned:** 25 (base 10 + Tier 3 10 + focus skill 5)
+- **XP earned:** 35 (base 10 + Tier 3 10 + focus skill 5 + stretch 10)
 - **Read-aloud:** ⬜ skipped
 - **Watch list:** ✅ clean
 
@@ -53,3 +53,23 @@ Fitz just accused her of violating a treaty in front of a troll. The scene curre
 
 📌 Two small ones, fixed here and not made into anything: **treason → treaty** (a treason is a
 crime, a treaty is the agreement you break), and **Your → You're** (*"You're doing what now?"*).
+
+## Revision (if any)
+
+🚀 **Stretch ✅ (+10)** — the last line of the scene, Sophie's hands, no feeling words:
+
+> Her hands trembling, unconsciously reach to her next eyelashes.
+
+He closed the loop with his own opening line: the scene *starts* with Sophie tugging an eyelash
+on purpose (holding something in) and *ends* with her hands going there without her. Nobody
+suggested returning to the gesture.
+
+🔧 **He answered the diagnosis question — first guess, fourth time** (compound subjects 07-25,
+verb chains 08-01, a/an 08-04, tonight): *"the punctuation is outside the quotation marks."*
+Correct for two of the three tags. Told plainly that the third (*"…too late." Tarina replied*)
+already had its mark **inside** — its problem is *which* mark, because `Tarina replied` is a tag,
+not a sentence. Rule given once, then the check:
+
+> 👉 **The Tag Test** — after a closing quote, look at the next word. Saying-word + a name
+> (*Sophie said*) → **comma**. A whole separate sentence (*Sophie tugged her eyelashes.*) →
+> **period**. Either way: **inside.**
