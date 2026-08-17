@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-15T19:56:37.751Z",
+  "generated": "2026-08-17T04:32:33.134Z",
   "students": [
     {
       "name": "Jaei",
       "grade": "8",
-      "xp": 1560,
+      "xp": 1585,
       "level": 16,
       "streak": 1,
       "badges": [
@@ -138,14 +138,19 @@
           "streak": 0
         },
         {
-          "item": "Subject–verb agreement — he owns the rule; the check is HIS to start",
+          "item": "The pre-save pass — he starts it himself",
+          "cleared": false,
+          "streak": 0
+        },
+        {
+          "item": "Dialogue punctuation — the marks go INSIDE",
           "cleared": false,
           "streak": 0
         }
       ],
       "stats": {
-        "entries": 29,
-        "activeDays": 26,
+        "entries": 30,
+        "activeDays": 27,
         "templatesUsed": [
           "01-summary",
           "02-prediction",
@@ -160,21 +165,21 @@
         ],
         "revisions": 25,
         "ace": 20,
-        "quotes": 21,
+        "quotes": 22,
         "counter": 11,
         "craft": 5,
         "compare": 3,
-        "tier3": 17,
+        "tier3": 18,
         "readAlouds": 11,
-        "cleanEntries": 7,
-        "cleanStreak": 1,
+        "cleanEntries": 8,
+        "cleanStreak": 2,
         "bestCleanStreak": 3,
         "lessons": 1,
         "bookReviews": 5,
         "booksStarted": 11,
         "booksFinished": 8,
         "maxWords": 283,
-        "totalWords": 3452,
+        "totalWords": 3549,
         "maxParagraphs": 5,
         "essayShaped": 2,
         "debateShaped": 4,
@@ -191,10 +196,10 @@
           "seriesTotal": 9,
           "volume": null,
           "author": "Shannon Messenger",
-          "entries": 6,
-          "words": 626,
+          "entries": 7,
+          "words": 723,
           "first": "2026-08-03",
-          "last": "2026-08-15",
+          "last": "2026-08-17",
           "finished": false
         },
         {
@@ -1160,6 +1165,34 @@
           "watchSlip": false,
           "build": null,
           "excerpt": "I think Nightfall was not the set-up for Flashback, because Nightfall finished it's story with the action. Which resulted Flashback to start with a non-action plot. In the first ch"
+        },
+        {
+          "file": "students/Jaei/journal/2026-08-17-06-rewrite-the-scene.md",
+          "date": "2026-08-17",
+          "slug": "06-rewrite-the-scene",
+          "book": "Keeper of the Lost Cities",
+          "bookKey": "series:keeper of the lost cities",
+          "bookShort": "Keeper of the Lost Cities",
+          "series": "Keeper of the Lost Cities",
+          "seriesEmoji": "🌌",
+          "volume": null,
+          "author": "Shannon Messenger",
+          "reading": "5 chapters",
+          "tier": 3,
+          "xp": 25,
+          "words": 97,
+          "paragraphs": 2,
+          "hasRevision": false,
+          "hasBonus": false,
+          "quote": true,
+          "counter": false,
+          "craft": false,
+          "compare": false,
+          "readAloud": false,
+          "watchClean": true,
+          "watchSlip": false,
+          "build": null,
+          "excerpt": "In the actual book the agreement was not as simple as in my version. \"Ok\", Sophie said. Tugging out her eyelashes for third time since the conversation started. \"I give you my word"
         }
       ],
       "reports": [

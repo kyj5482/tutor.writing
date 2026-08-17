@@ -836,3 +836,64 @@ that proves it. That's what critics do."*
 
 한 가지 부탁: **연속 기록(streak)으로 압박하지 말아 주세요.** 재이의 유일한 약점이고, 대신 레벨과
 "작가의 기술" 이야기로 동기부여하면 훨씬 잘 움직입니다.
+
+## 🎭 2026-08-17 — the catalogue withdrawal is now a reflex, and the read-aloud needs a hypothesis
+
+**The good thing first, because it is the second instance of the file's most valuable pattern.**
+
+Asked before writing *"what's something you've noticed Messenger does?"* — the 08-03 question — he
+didn't answer in chat at all. He answered **inside the scene**, one message later:
+
+> *"Ok", Sophie said. Tugging out her eyelashes for third time since the conversation started.*
+
+Eyelash-tugging is **Sophie's** tell, Messenger's own recurring gesture for Sophie holding something
+in. He didn't invent a nervous habit; he withdrew hers. That is the same move as Forkle's *"You
+kids"* (noticed 07-16 while reading, spent 08-03 while writing) — but this time the withdrawal took
+**no dated prompt and no gap**: he was asked a general question and went straight to his catalogue.
+
+> **What changed: the question no longer needs to name the deposit.** 08-03 and 08-05 both needed
+> dates said back to him. Tonight needed only *"what does this author do?"* Keep asking it before
+> any narrative template — it is now the highest-yield single question in the file.
+
+**And the sentence it produced is better than the detail.** *"Tugging out her eyelashes"* sits
+directly against *"said it out loud without a moments hesitation."* Her hands and her voice
+disagree. He built show-don't-tell out of the **gap between two lines** rather than inside one —
+which is a level above what 07-25's *"trembling hand"* did, and it was first draft.
+
+**Also today:**
+
+1. 🎯 **The read-aloud has now been declined twice running, which 08-15 pre-committed to treating as
+   a finding — so here it is, and the honest version is that the variable is probably the template.**
+   Eleven straight ✅ (07-25 → 08-06), then the 8-day gap, then *"no thanks"* (08-15) and *"save as
+   it is"* (08-17). 08-15 said *the question is what changed about the session, not about him.*
+   What changed: **both declines are entries with no build and no assembly step.** Every one of the
+   eleven ✅ sessions was a growth-template day or a book-finish — sessions with a natural *"now put
+   it together"* beat, where reading it back is the obvious next action. On a one-shot entry the
+   scene simply ends, and the mic arrives as an extra step after the work is done.
+   > **What to try once, next session, and nothing else:** offer the pass **before** he thinks he's
+   > finished — at the moment he sends the draft, as *"read me the scene"* rather than as a
+   > pre-save check. Same words, different place in the session. **Do not campaign, do not raise
+   > the XP, and do not mention the two declines to him.** If the reposition doesn't take either,
+   > the next honest move is to ask him directly what changed — he has never once been vague when
+   > asked a straight question about his own process.
+2. **The 🔧 slot went to the diagnosis question for the fourth time, and the item was put on the
+   Watch list rather than corrected twice.** Dialogue punctuation broke in a new shape (marks
+   outside the quotation marks, three times in five lines) after the 08-03 shape (missing speaker-tag
+   comma) had already been fixed and carried forward on its own. Second sighting of the family →
+   Watch list, per the escalation rule, **not** a second correction. He got his own three tags side
+   by side and *"what do these have in common?"* — the move that is 3-for-3 with him.
+3. 📌 **Read the punctuation as the price of the new thing, and say so.** He wrote his first
+   full-dialogue scene in months tonight. Every mechanical slip in the entry is *inside the
+   construction he had never attempted at this length*. A kid who tries a harder form and pays for
+   it in commas has done the right trade; the feedback should never make the commas the headline.
+4. 🧾 **The session opened with a wrong XP claim and he was told before he could find it.** *"40 XP
+   — that's one ordinary entry."* A Tier 3 entry is 20 and the streak reset kills the bonus. Told
+   plainly at feedback, first, unprompted. Fourth time the ledger has been corrected to him in this
+   file (07-14, 07-23, 08-01, tonight) and the only one where the tutor found it first — which is
+   the version that actually costs nothing and buys everything with him.
+5. **A row was closed inside the daily session for the second time running.** The ✌️ *ands* clause
+   had gone five sessions without the shape ever appearing. 08-15 retired the verb-chain row for
+   exactly this and wrote down the rule: **when a row can't advance, the row is wrong, not the
+   kid.** Tonight it was applied without waiting for a weekly — and, as on 08-15, he was told which
+   half he **beat** (subject–verb agreement itself: nine correct verbs 08-15, eight tonight, all
+   first draft) and which half was **dropped rather than passed** (the *ands* check, never tested).
