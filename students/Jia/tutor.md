@@ -546,15 +546,70 @@ check, explicitly not a writing correction**, confirmed in one word, and restore
 mishearing as her error** — she is being asked to do the exact habit that cleared two Watch items,
 and punishing it would end the habit.
 
+## What 08-17 taught us (11 days off · a book she found herself · she revises her *choices* now)
+
+**31. ⭐⭐ She switched golden lines mid-session — she revises her CHOICES now, not just her sentences.**
+Round 1 gave *"tell the truth"* with a genuine noticing attached (*a stranger* says the hardest line in the
+book to a runaway — *"she dosen't know him"*). She was shown, not told, that she had unprompted picked **the
+line the book is named after**. Round 2 she came back with a **different, harder line** — *"We'll walk until
+we die?"* Nobody asked her to.
+➡️ Read this next to 08-05 #26 (she asks for a different question instead of skipping): **the same new
+behaviour in a second form.** For 26 entries her revisions were repairs to sentences she had already
+committed to. She is now willing to throw out the choice underneath. **Name it to her when it happens** —
+"that's a writer being unsatisfied" — because it is the single most writerly thing she has done, and it is
+brand new. Watch for a third instance.
+
+**32. 🧪 The "boring version" trick did not transfer, and the reason generalises.** Asked to invent *a
+sentence the author could have written instead*, she returned the boring **situation** (*"when Mark was
+really sick and could never recover"*), not a boring sentence. It was shown to her once, concretely, and
+dropped.
+➡️ The trick requires her to **invent text that isn't in the book.** Every strength she has is anchored to
+text that **is** — the quote, the exact words, the word she keeps looking at. **Convert invention tasks into
+choosing tasks.** Next attempt: hand her two real candidate sentences and ask *which one did the author
+reject?* Menus get picked (#12, #25); blank inventions get approximated.
+
+**33. 🌟 Ask for the pick and the reason in ONE question. Split, she answers the first and stops.**
+She wrote *"The word I keep looking at is die"* — the pick — and stopped. The **because** is the half that
+scores, and it would have been word-choice move #3 and a Style Tier 1→2 promotion. She had been given the
+pick and the reason as two prompts in one bullet, and she completed exactly the first.
+➡️ This is the same shape as #21 (show both slots on screen rather than asking her to elaborate) and it is
+now confirmed on a second skill. **One question, one sentence, both halves inside it:** *"Which word — and who
+normally says it?"*
+
+**34. 📉 Four rounds of scaffolding for 58 words. The ask-per-word ratio was the actual error tonight.**
+She writes 73–85 words in two rounds on a normal night. Tonight took four, and **every decline came at the
+end of it** — the 🚀, the 🎤 and the ACE all landed after she had already said *"I'm good."* The mic had been
+her habit for **nine straight sessions**; it broke on the fourth ask of a long session, not because the habit
+is weak.
+➡️ **Fewer, bigger questions with her, and put the mic offer EARLY** — before the writing is finished, not
+stacked behind two more requests. Tonight's three-question frame should have been one question.
+
+**35. ✅ She solved the between-books problem herself, and jumped genre to do it.** The profile had flagged
+since 07-31 that the real risk after Harry Potter was picking *nothing*. Offered the three-book menu, she
+didn't need it: she had already found **The Honest Truth** during the gap **and finished it** — realistic
+fiction, no magic, a dying boy and a dog.
+➡️ **Update the reader model.** "One-world-deep, commits and stays" is still true, but "needs to be handed
+the next book" is not. She chose unaided, and she chose *away* from her comfort. Next between-books moment,
+ask what she wants **after a book like this one** instead of assuming she wants more of the same.
+
+**36. The 11-day gap was not a reading gap, and leading with that is what made the return easy.** She came
+back and immediately reported a finished book. The greeting led with what does not expire (Level 13, 16
+badges, three cards, the seven-book series) and stated the streak reset in one line with no guilt attached.
+She went straight into choosing a template.
+➡️ **After any gap with her: name the permanent things first, the reset once, and never ask where she was.**
+
 ## Talk to her like this
 
 ✅ *"Read that sentence out loud — you'll hear it."* (this is her superpower, name it)
 ✅ *"You noticed which NAME he uses. That's what real readers do."*
 ✅ *"Try this exact sentence: In the book, ______ said, '______.'"* (frames get done)
+✅ *"Which one did the author reject?"* (choosing works; **inventing a sentence that isn't in the book does not** — 08-17)
+✅ *"That's a writer being unsatisfied."* (say it out loud when she throws out her own choice — 08-17)
 
 ❌ *"Check your verbs."* (silent checking finds her nothing — say **read aloud** instead)
 ❌ *"Add a few sentences about why it mattered."* (too open — she'll decline)
 ❌ Correcting her honesty or her jokes into something more polite
+❌ Four rounds of questions for one paragraph — **every decline of 08-17 came after the third ask.** Two rounds, then save.
 
 ## Korean note for the parent (지아)
 
