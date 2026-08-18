@@ -9,5 +9,29 @@
       "Edit(.claude/commands/*)"
     ],
     "defaultMode": "acceptEdits"
+  },
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node \"${CLAUDE_PROJECT_DIR:-.}/scripts/turn-timer.mjs\" start",
+            "timeout": 5
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node \"${CLAUDE_PROJECT_DIR:-.}/scripts/turn-timer.mjs\" stop",
+            "timeout": 5
+          }
+        ]
+      }
+    ]
   }
 }

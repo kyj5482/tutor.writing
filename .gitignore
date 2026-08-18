@@ -1,0 +1,3 @@
+# Per-turn scratch state for scripts/turn-timer.mjs. One file per live session,
+# deleted as soon as the turn is measured — never worth committing.
+.metrics-state/

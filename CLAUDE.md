@@ -73,6 +73,8 @@ work, so skip all of that ceremony.
 | `students/<name>/feedback/YYYY-MM-DD-weekly.md` | Weekly feedback reports |
 | `index.html`, `assets/` | Portfolio website — renders the journal md files (GitHub Pages) |
 | `scripts/build-manifest.mjs` | Generates `manifest.json` (journal index) for the portfolio |
+| `scripts/turn-timer.mjs` | Hook script — records **tutor** latency per turn to `metrics/turns.jsonl` |
+| `scripts/timing-report.mjs` | Reads those timings: `node scripts/timing-report.mjs` |
 
 ## Session speed — the budget (check this before every session)
 
@@ -107,6 +109,24 @@ Three standing rules that keep it there:
    student's tier. Do not read the whole `examples/` or `templates/` directory.
 3. **Cite the past sparingly.** One callback to an earlier entry is motivating. Five is a
    research paper, and it costs the child four minutes of staring at a spinner.
+
+### The budget is measured, not guessed
+
+Two hooks in `.claude/settings.json` time every turn: `UserPromptSubmit` starts the clock,
+`Stop` stops it. **One turn = the time the child spends waiting**, model plus tool calls. The
+gap between a `Stop` and the next `UserPromptSubmit` is the child reading and typing, and it
+never falls inside a measured interval — so **student time is excluded by construction, not by
+estimate.** Rows land in `metrics/turns.jsonl`; commit it with the session.
+
+```
+node scripts/timing-report.mjs          # /today sessions
+node scripts/timing-report.mjs --all    # everything, including maintenance work
+```
+
+Read it as three numbers: **turns per session** (budget 3 — more means the OPEN or CLOSE
+message got split), **total LLM time**, and **slowest turn** (usually CLOSE, which carries
+feedback + save + commit). If a number drifts, the fix is upstream — fewer turns, shorter
+feedback, less re-reading — never a faster-sounding apology to the child.
 
 ## Daily session flow (`/today`)
 

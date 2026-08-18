@@ -74,4 +74,10 @@ Follow the **Daily session flow** in CLAUDE.md, grouped into those three turns:
     level-up, or a retired ✅ Watch-list item.
 12. If you learned something new about *how they work* today — what they reached for,
     stalled on, or refused — add a line to `students/<name>/tutor.md`.
-13. Run `node scripts/build-manifest.mjs` to update the portfolio index. Then commit all changed files with message `journal: <name> <date> <template>` and push to the `main` branch with `git push origin HEAD:main`.
+13. Run `node scripts/build-manifest.mjs` to update the portfolio index. Then commit all changed
+    files — **including `metrics/turns.jsonl`**, which the timing hooks append to and which is
+    how the speed budget stays measurable — with message `journal: <name> <date> <template>`,
+    and push to the `main` branch with `git push origin HEAD:main`.
+
+    *(The final turn's own timing row is written by the `Stop` hook after this commit, so it
+    lands in the next session's commit. That is expected — don't chase it.)*
