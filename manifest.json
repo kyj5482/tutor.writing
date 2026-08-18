@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-18T21:07:48.161Z",
+  "generated": "2026-08-18T21:16:46.876Z",
   "students": [
     {
       "name": "Jaei",
@@ -1201,9 +1201,9 @@
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 1210,
+      "xp": 1230,
       "level": 13,
-      "streak": 0,
+      "streak": 1,
       "badges": [
         {
           "name": "First Words",
@@ -1321,8 +1321,8 @@
         }
       ],
       "stats": {
-        "entries": 29,
-        "activeDays": 28,
+        "entries": 30,
+        "activeDays": 29,
         "templatesUsed": [
           "01-summary",
           "02-prediction",
@@ -1337,28 +1337,43 @@
         ],
         "revisions": 16,
         "ace": 28,
-        "quotes": 15,
+        "quotes": 16,
         "counter": 6,
         "craft": 3,
         "compare": 0,
         "tier3": 0,
         "readAlouds": 11,
-        "cleanEntries": 9,
-        "cleanStreak": 2,
+        "cleanEntries": 10,
+        "cleanStreak": 3,
         "bestCleanStreak": 7,
-        "lessons": 0,
+        "lessons": 1,
         "bookReviews": 3,
-        "booksStarted": 6,
-        "booksFinished": 3,
+        "booksStarted": 7,
+        "booksFinished": 4,
         "maxWords": 162,
-        "totalWords": 2209,
+        "totalWords": 2266,
         "maxParagraphs": 3,
         "essayShaped": 0,
         "debateShaped": 0,
         "bestStreak": 8,
-        "streak": 0
+        "streak": 1
       },
       "books": [
+        {
+          "key": "book:the honest truth",
+          "title": "The Honest Truth",
+          "short": "The Honest Truth",
+          "series": null,
+          "seriesEmoji": null,
+          "seriesTotal": null,
+          "volume": null,
+          "author": "Dan Gemeinhart",
+          "entries": 1,
+          "words": 57,
+          "first": "2026-08-17",
+          "last": "2026-08-17",
+          "finished": true
+        },
         {
           "key": "harry potter#7",
           "title": "Harry Potter and the Deathly Hallows",
@@ -2262,6 +2277,34 @@
           "watchSlip": false,
           "build": null,
           "excerpt": "Would you sacrifice your life for someone else? Harry Potter and the Deathly Hallows by J.K. Rowling is about Voldemort and Harry fighting. The best thing about this book is that H"
+        },
+        {
+          "file": "students/Jia/journal/2026-08-17-07-golden-line.md",
+          "date": "2026-08-17",
+          "slug": "07-golden-line",
+          "book": "The Honest Truth",
+          "bookKey": "book:the honest truth",
+          "bookShort": "The Honest Truth",
+          "series": null,
+          "seriesEmoji": null,
+          "volume": null,
+          "author": "Dan Gemeinhart",
+          "reading": "finished the book",
+          "tier": 2,
+          "xp": 20,
+          "words": 57,
+          "paragraphs": 1,
+          "hasRevision": false,
+          "hasBonus": false,
+          "quote": true,
+          "counter": false,
+          "craft": false,
+          "compare": false,
+          "readAloud": false,
+          "watchClean": true,
+          "watchSlip": false,
+          "build": null,
+          "excerpt": "My golden line is, \"We'll walk until we die?\" I was very curious why Mark had said that. I think he might have said that because he was pretty sure that he would die soon. The bori"
         }
       ],
       "reports": [

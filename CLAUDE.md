@@ -93,7 +93,7 @@ can read 1,790 words of analysis, so none of it was teaching. It was only latenc
 | Turns **after** they finish | **1** | Feedback + XP + file save + commit in ONE message |
 | Tutor feedback | **≤ 150 words** | Two praises, one fix, one stretch. That is the whole format |
 | ACE notes in the journal | **≤ 40 words** | It's a bonus round, not a case file |
-| `profile.md` | **≤ 400 words total** | It is re-read at the start of *every* session |
+| `profile.md` / `tutor.md` | **≤ 1,200 words each** | Both are re-read at the start of *every* session |
 | Session log | **last 10 rows**, Notes ≤ 12 words | Older rows move to `students/<name>/archive/` |
 | Watch list | **≤ 2 items, 1 line each** | Already the rule — now actually enforce it |
 

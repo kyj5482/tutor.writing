@@ -16,9 +16,24 @@ chosen from what they already love, not from a generic grade-level list.
 
 # Jia (Grade 6)
 
-**What she's read:** *The Land of Stories* · Harry Potter 3 → 6 (currently *Half-Blood
-Prince*). Immersive series reader with real stamina — she read a 766-page book and started
-the next one the same day.
+**What she's read:** *The Land of Stories* · **Harry Potter 3 → 7 — the whole series finished
+2026-08-06**, ~3,400 pages between 06-09 and 08-06 · **📗 *The Honest Truth* (Dan Gemeinhart),
+finished 2026-08-17.** Immersive series reader with real stamina — she read a 766-page book and
+started the next one the same day.
+
+> ⭐ **Update 2026-08-17 — she picks for herself now, and she picked *away* from her comfort.**
+> This list existed largely to solve the post-Potter moment. She solved it unaided: during an
+> 11-day gap she found *The Honest Truth* — realistic, contemporary, no magic at all, a boy with
+> cancer running away to climb a mountain with his dog — and finished it. **So stop treating her
+> as a fantasy reader who needs the next fantasy handed to her.** The 🟢 Same lane picks below are
+> still good, but they are no longer the obvious answer. Ask her what she wants *after a book like
+> this one*, and put at least one realistic/contemporary title on every menu from now on.
+>
+> **If she liked *The Honest Truth*, the natural next three** (offer as a pick-one menu, one line each):
+> **Wonder** (R.J. Palacio) — a boy the world stares at, told by everyone around him too ·
+> **Fish in a Tree** (Lynda Mullaly Hunt) — a girl who has hidden that she can't read ·
+> **Bridge to Terabithia** (Katherine Paterson) — friendship, and what it costs. All three run on
+> the thing her writing keeps going to: **what a hard thing costs the person it happens to.**
 
 **What she actually likes** (from her own writing): friendship and loyalty · a character
 being treated unfairly · secrets and backstory · magic systems with rules.

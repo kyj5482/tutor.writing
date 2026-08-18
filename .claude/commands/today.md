@@ -22,7 +22,8 @@ CLAUDE.md and ship this session in **three turns**:
   (**≤ 150 words**), XP, profile update, manifest, commit — all of it in one pass.
 
 Hard caps, restated because they are the whole point: feedback **≤ 150 words**, ACE notes
-**≤ 40 words**, `profile.md` **≤ 400 words**. Long output is not more teaching — it is the
+**≤ 40 words**, `profile.md` and `tutor.md` **≤ 1,200 words each**. Long output is not more
+teaching — it is the
 child watching a spinner.
 
 Follow the **Daily session flow** in CLAUDE.md, grouped into those three turns:
