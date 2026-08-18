@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-17T20:07:05.040Z",
+  "generated": "2026-08-18T21:07:48.161Z",
   "students": [
     {
       "name": "Jaei",
@@ -94,34 +94,24 @@
           "date": "2026-08-06"
         },
         {
-          "name": "Wordsmith card COMPLETE",
-          "emoji": "✍️",
+          "name": "Wordsmith card",
+          "emoji": "🎟️",
           "date": "2026-07-14"
         },
         {
-          "name": "Adventurer card COMPLETE",
-          "emoji": "🗺️",
+          "name": "Adventurer card",
+          "emoji": "🎟️",
           "date": "2026-07-16"
         },
         {
-          "name": "Voice card COMPLETE",
-          "emoji": "🎤",
+          "name": "Voice card",
+          "emoji": "🎟️",
           "date": "2026-07-31"
         },
         {
-          "name": "and",
-          "emoji": "*Bookkeeping",
-          "date": null
-        },
-        {
-          "name": "Scholar card COMPLETE",
-          "emoji": "🏛️",
+          "name": "Scholar card",
+          "emoji": "🎟️",
           "date": "2026-08-06"
-        },
-        {
-          "name": "Full House now needs only 🔥 Dedication",
-          "emoji": "🌟",
-          "date": null
         }
       ],
       "tiers": {
@@ -130,13 +120,8 @@
         "explanation": 2,
         "style": 2
       },
-      "goal": null,
+      "goal": "critic",
       "watch": [
-        {
-          "item": "Verb chains — look at the word in front",
-          "cleared": true,
-          "streak": 0
-        },
         {
           "item": "The pre-save pass — he starts it himself",
           "cleared": false,
@@ -174,10 +159,10 @@
         "cleanEntries": 8,
         "cleanStreak": 2,
         "bestCleanStreak": 3,
-        "lessons": 1,
+        "lessons": 0,
         "bookReviews": 5,
         "booksStarted": 11,
-        "booksFinished": 8,
+        "booksFinished": 7,
         "maxWords": 283,
         "totalWords": 3549,
         "maxParagraphs": 5,
@@ -320,7 +305,7 @@
           "words": 205,
           "first": "2026-07-05",
           "last": "2026-07-06",
-          "finished": true
+          "finished": false
         },
         {
           "key": "keeper of the lost cities#3",
@@ -1217,8 +1202,8 @@
       "name": "Jia",
       "grade": "6",
       "xp": 1210,
-      "level": null,
-      "streak": null,
+      "level": 13,
+      "streak": 0,
       "badges": [
         {
           "name": "First Words",
@@ -1281,7 +1266,7 @@
           "date": "2026-07-30"
         },
         {
-          "name": "the first paragraph break in 20 entries.",
+          "name": "Paragraph Pro",
           "emoji": "🧱",
           "date": "2026-07-30"
         },
@@ -1291,52 +1276,43 @@
           "date": "2026-07-31"
         },
         {
+          "name": "Both Sides",
+          "emoji": "⚖️",
+          "date": "2026-07-31"
+        },
+        {
           "name": "Week of Fire",
           "emoji": "🔥",
           "date": "2026-08-02"
         },
         {
-          "name": "5",
-          "emoji": "⚖️",
-          "date": "2026-07-31"
-        },
-        {
-          "name": "Adventurer card COMPLETE",
-          "emoji": "🗺️",
+          "name": "Adventurer card",
+          "emoji": "🎟️",
           "date": "2026-07-24"
         },
         {
-          "name": "Wordsmith card COMPLETE",
-          "emoji": "✍️",
+          "name": "Wordsmith card",
+          "emoji": "🎟️",
           "date": "2026-07-28"
         },
         {
-          "name": "Voice card COMPLETE",
-          "emoji": "🎤",
+          "name": "Voice card",
+          "emoji": "🎟️",
           "date": "2026-07-31"
         }
       ],
       "tiers": {
         "structure": 2,
+        "evidence": 2,
         "explanation": 2,
         "style": 1
       },
-      "goal": null,
+      "goal": "scholar",
       "watch": [
-        {
-          "item": "Verb check — endings AND matching the doer",
-          "cleared": true,
-          "streak": 3
-        },
         {
           "item": "✌️ The \"and\" check is HERS to start",
           "cleared": false,
           "streak": 0
-        },
-        {
-          "item": "🔍 Close the quote",
-          "cleared": true,
-          "streak": 3
         },
         {
           "item": "✍️ Possessive `'s`",
@@ -1370,17 +1346,17 @@
         "cleanEntries": 9,
         "cleanStreak": 2,
         "bestCleanStreak": 7,
-        "lessons": 3,
+        "lessons": 0,
         "bookReviews": 3,
         "booksStarted": 6,
-        "booksFinished": 5,
+        "booksFinished": 3,
         "maxWords": 162,
         "totalWords": 2209,
         "maxParagraphs": 3,
         "essayShaped": 0,
         "debateShaped": 0,
-        "bestStreak": null,
-        "streak": null
+        "bestStreak": 8,
+        "streak": 0
       },
       "books": [
         {
@@ -1441,7 +1417,7 @@
           "words": 235,
           "first": "2026-06-30",
           "last": "2026-07-01",
-          "finished": true
+          "finished": false
         },
         {
           "key": "harry potter#3",
@@ -1456,7 +1432,7 @@
           "words": 37,
           "first": "2026-06-21",
           "last": "2026-06-21",
-          "finished": true
+          "finished": false
         },
         {
           "key": "series:the land of stories",

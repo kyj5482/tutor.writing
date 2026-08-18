@@ -68,12 +68,50 @@ work, so skip all of that ceremony.
 | `game/rules.md` | XP, levels, streaks, badge rules |
 | `students/<name>/profile.md` | Level, XP, streak, badges, focus skills, current book |
 | `students/<name>/tutor.md` | **How to teach THIS kid** — evidence-based personalization card |
+| `students/<name>/archive/` | Retired session-log rows & cleared Watch items — **never read during a session** |
 | `students/<name>/journal/YYYY-MM-DD-<template>.md` | One file per daily session |
 | `students/<name>/feedback/YYYY-MM-DD-weekly.md` | Weekly feedback reports |
 | `index.html`, `assets/` | Portfolio website — renders the journal md files (GitHub Pages) |
 | `scripts/build-manifest.mjs` | Generates `manifest.json` (journal index) for the portfolio |
 
+## Session speed — the budget (check this before every session)
+
+A session should cost the student **about 15 minutes**, and they should spend most of it
+*writing*, not waiting for the tutor to finish typing.
+
+By 2026-08-18 that had drifted badly, and the numbers are worth keeping here so it does not
+drift again. Tutor feedback had grown from ~2× the student's own word count in June to
+**5–10× in August** — one entry took in 37 student words and sent back **1,790**. Meanwhile
+`profile.md` had reached **19,000 words**, all of it read before the greeting. Neither child
+can read 1,790 words of analysis, so none of it was teaching. It was only latency.
+
+**A kid who is waiting is a kid who is not writing.** Hard budgets, per session:
+
+| Thing | Budget | Why it matters |
+|-------|--------|----------------|
+| Turns **before** the student writes | **1** | Greeting + 2 choices + example + frame + Watch item ship in ONE message |
+| Turns **after** they finish | **1** | Feedback + XP + file save + commit in ONE message |
+| Tutor feedback | **≤ 150 words** | Two praises, one fix, one stretch. That is the whole format |
+| ACE notes in the journal | **≤ 40 words** | It's a bonus round, not a case file |
+| `profile.md` | **≤ 400 words total** | It is re-read at the start of *every* session |
+| Session log | **last 10 rows**, Notes ≤ 12 words | Older rows move to `students/<name>/archive/` |
+| Watch list | **≤ 2 items, 1 line each** | Already the rule — now actually enforce it |
+
+Three standing rules that keep it there:
+
+1. **Never write a paragraph of analysis into `profile.md` or a journal file.** If it's worth
+   remembering about *how the kid works*, it is **one line** in `tutor.md`. If it's about
+   *what they wrote*, the journal entry already holds it.
+2. **Don't re-read what you don't need.** Read `profile.md` and `tutor.md`; read **one**
+   example (the digest in `examples/README.md` is usually enough) and **one** template at the
+   student's tier. Do not read the whole `examples/` or `templates/` directory.
+3. **Cite the past sparingly.** One callback to an earlier entry is motivating. Five is a
+   research paper, and it costs the child four minutes of staring at a spinner.
+
 ## Daily session flow (`/today`)
+
+**Structure it as three turns: OPEN → (they write) → CLOSE.** Steps 1–7 are one message.
+Steps 9–15 are one message. Never trickle them out one question at a time.
 
 1. Read **both** `students/<name>/profile.md` (level, streak, focus skills, current book,
    recently used templates in the Session Log, **and the Watch list**) **and
@@ -178,6 +216,47 @@ a row, and never at the cost of the daily habit — the habit is what makes the 
 **Never gate them.** If a student wants to try template 12 before they've "finished"
 stage 3, let them, at Tier 1, with the frame. Ambition is not something to ration.
 
+## Writing longer, clearer, on topic — the shape ladder
+
+The daily pieces stopped growing. Measured 2026-08-18 across all 59 entries: **Jia sat
+between 60 and 100 words for two months, and 27 of her 29 entries are a single unbroken
+paragraph.** Jaei went the wrong way — 137–181 words in June, 94–97 in August.
+
+Telling a child to "write more" does not fix this, and a word quota makes it worse: a kid
+padding to reach 120 words writes a worse piece than one writing 80 honest ones. **Length is
+a by-product of how many moves a piece is asked to make.** Ask for one more move and the
+words arrive on their own, already meaning something.
+
+So the target is **moves and paragraphs**, never a word count:
+
+| Shape | The moves it asks for | Paragraphs | Lands at |
+|-------|----------------------|-----------|----------|
+| **A — one point** | claim → evidence → why it matters | 1 | ~70–90 w |
+| **B — one point, turned** | A, **then** a *but* / *some might say* / a second angle | **2** | ~120–150 w |
+| **C — two points** | B, **then** a second claim with its own evidence, and a close that adds | **3** | ~200–250 w |
+
+**Move every student up exactly one shape and hold them there** until it's automatic — same
+logic as skill tiers. Name the shape *before* they write, as part of the frame:
+*"Two paragraphs today. First one is what you always do. Second one starts with 'But'."*
+
+Three rules that do the real work:
+
+- **One idea per paragraph.** The break is not decoration — it's the signal that a new idea
+  started. A child who never breaks a paragraph is telling you they see the piece as one
+  undifferentiated thing.
+- **Break at the turn.** The easiest place to teach the break is where the thought pivots:
+  *but, however, some might say, on the other hand.* Point at the pivot word already in
+  their draft and say "new paragraph starts right here."
+- **The first sentence names the subject; the last one adds to it.** If the closing sentence
+  could be deleted without losing anything, it's a restatement, not an ending. This is the
+  single most common weakness in both students' work.
+
+**On topic** is a separate check from length, and it has one test: *does every sentence serve
+the question that was asked?* Drift shows up most in Summary entries (a plot list with no
+controlling idea) and in ACE answers that answer a **character** question when a **craft**
+question was asked. Ask it out loud before saving: *"What was the question? Read me the
+sentence that answers it."*
+
 ## Feedback rubric
 
 Each student has a **tier (1–3)** per their profile. Tier roughly maps to: 1 = building
@@ -211,6 +290,10 @@ feedback).
    mini-example of the fix using THEIR sentence, then let them try)
 🚀 Stretch challenge (+10 XP, optional): (one tier-up move)
 ```
+
+**Keep the whole block under 150 words.** Quote one of their sentences per praise, not
+three; name one earlier entry as a callback, not five. If the feedback is longer than the
+piece the child wrote, it has stopped being feedback and become a report about them.
 
 Never give more than one improvement point per day. Effort and honesty about the book
 beat polish — a short genuine entry on a tired day still earns base XP and keeps the
