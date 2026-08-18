@@ -5,6 +5,19 @@
 - **Books finished:** Harry Potter and the Prisoner of Azkaban, Harry Potter and the Goblet of Fire, Harry Potter and the Order of the Phoenix (finished 2026-07-20 — 766 pages!), Harry Potter and the Half-Blood Prince (finished 2026-07-30), **🎉 Harry Potter and the Deathly Hallows (finished 2026-08-06 — and with it the whole seven-book series)**, **📗 The Honest Truth by Dan Gemeinhart (finished 2026-08-17 — found and read entirely on her own, her first book outside Harry Potter since June 9th)**
 - 🏆 **THE SERIES:** books 3 → 7 read between **2026-06-09 and 2026-08-06** — roughly **3,400 pages in under two months.** Worth saying out loud to her more than once; it is the largest single thing she has done.
 
+> 📌 **NEXT SESSION IS BOOKED, AND SHE BOOKED IT.** On 08-17 she asked *"but don't I get extra XP for
+> finishing the book?"* — checking the tutor's arithmetic, exactly as she did on 08-02 when she was right
+> about her streak. She was **half right**: `game/rules.md` pays the +20 for *finished a book **+ wrote a
+> Book Review (template 10)***, and she had written a Golden Line. The rule was shown to her verbatim, the
+> XP was **held at 20**, and the unclaimed +20 was laid out as a concrete menu of what tomorrow would pay
+> (up to 50 XP; she is 70 from Level 14). **She then chose it herself: *"lets do that tomarrow."***
+>
+> ➡️ **Open with `10 Book Review` on *The Honest Truth* next session** — she asked for it, so do not re-offer
+> a two-item menu on top of it. Rotation is fine (07 Golden Line tonight). Example must rotate off
+> *A Wrinkle in Time* → ***Hatchet*** is the pairing (a boy alone, survival, no adults coming — the closest
+> book in the library to Mark's), or *Percy Jackson* if *Hatchet* feels stale.
+> **Then offer 12 Essay day 1 of 3 the session after** — it has now been deferred twice.
+
 ## Game stats
 
 - **Level:** **13 — 👑 Master Author** 🎉 *(leveled up 2026-08-06 at exactly 1200 XP. She was **Level 7 on 07-24** — six levels in thirteen days.)*

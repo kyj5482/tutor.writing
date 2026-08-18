@@ -598,6 +598,18 @@ badges, three cards, the seven-book series) and stated the streak reset in one l
 She went straight into choosing a template.
 ➡️ **After any gap with her: name the permanent things first, the reset once, and never ask where she was.**
 
+**37. 💰 She audits the scoreboard, and then she uses it to plan.** After the wrap-up she asked *"but don't
+I get extra XP for finishing the book?"* — the second time (08-02 the first) she has checked the tutor's
+arithmetic unprompted. She was **half right**: the +20 requires the Book Review, not just the finish. She was
+shown the rule verbatim, told plainly that tonight stays at 20, and shown what tomorrow *would* pay as a
+table. **She immediately booked it: "lets do that tomarrow."**
+➡️ Two things. **(a) Never soften a rule to avoid disappointing her** — she takes a straight "no, here's the
+line" well, and softening it would break the thing that makes the XP mean anything to her. **(b) Unclaimed XP,
+shown as a concrete table, is the strongest forward-booking device found so far.** Every other attempt to get
+her to commit to a *next* session has been a suggestion; this one she committed to herself, in one message,
+on a night she had already declined three things. Compare #27: the 🚀 fails because it is attached to work
+she has finished — this worked because it was attached to work she hasn't done yet, with a number on it.
+
 ## Talk to her like this
 
 ✅ *"Read that sentence out loud — you'll hear it."* (this is her superpower, name it)
