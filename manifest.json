@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-18T23:33:56.432Z",
+  "generated": "2026-08-19T03:36:23.289Z",
   "students": [
     {
       "name": "Jaei",
@@ -1201,9 +1201,9 @@
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 1230,
+      "xp": 1270,
       "level": 13,
-      "streak": 1,
+      "streak": 2,
       "badges": [
         {
           "name": "First Words",
@@ -1310,9 +1310,9 @@
       "goal": "scholar",
       "watch": [
         {
-          "item": "✌️ The \"and\" check is HERS to start",
+          "item": "✌️ The \"and\" check — SHE STARTED IT",
           "cleared": false,
-          "streak": 0
+          "streak": 1
         },
         {
           "item": "✍️ Possessive `'s`",
@@ -1321,8 +1321,8 @@
         }
       ],
       "stats": {
-        "entries": 30,
-        "activeDays": 29,
+        "entries": 31,
+        "activeDays": 30,
         "templatesUsed": [
           "01-summary",
           "02-prediction",
@@ -1342,23 +1342,38 @@
         "craft": 3,
         "compare": 0,
         "tier3": 0,
-        "readAlouds": 11,
-        "cleanEntries": 10,
-        "cleanStreak": 3,
+        "readAlouds": 12,
+        "cleanEntries": 11,
+        "cleanStreak": 4,
         "bestCleanStreak": 7,
         "lessons": 1,
-        "bookReviews": 3,
-        "booksStarted": 7,
-        "booksFinished": 4,
+        "bookReviews": 4,
+        "booksStarted": 8,
+        "booksFinished": 5,
         "maxWords": 162,
-        "totalWords": 2266,
+        "totalWords": 2378,
         "maxParagraphs": 3,
         "essayShaped": 0,
         "debateShaped": 0,
         "bestStreak": 8,
-        "streak": 1
+        "streak": 2
       },
       "books": [
+        {
+          "key": "book:wonder",
+          "title": "Wonder",
+          "short": "Wonder",
+          "series": null,
+          "seriesEmoji": null,
+          "seriesTotal": null,
+          "volume": null,
+          "author": "R.J. Palacio",
+          "entries": 1,
+          "words": 112,
+          "first": "2026-08-18",
+          "last": "2026-08-18",
+          "finished": true
+        },
         {
           "key": "book:the honest truth",
           "title": "The Honest Truth",
@@ -2305,6 +2320,34 @@
           "watchSlip": false,
           "build": null,
           "excerpt": "My golden line is, \"We'll walk until we die?\" I was very curious why Mark had said that. I think he might have said that because he was pretty sure that he would die soon. The bori"
+        },
+        {
+          "file": "students/Jia/journal/2026-08-18-10-book-review.md",
+          "date": "2026-08-18",
+          "slug": "10-book-review",
+          "book": "Wonder",
+          "bookKey": "book:wonder",
+          "bookShort": "Wonder",
+          "series": null,
+          "seriesEmoji": null,
+          "volume": null,
+          "author": "R.J. Palacio",
+          "reading": "finished the whole book",
+          "tier": 2,
+          "xp": 40,
+          "words": 112,
+          "paragraphs": 1,
+          "hasRevision": false,
+          "hasBonus": false,
+          "quote": false,
+          "counter": false,
+          "craft": false,
+          "compare": false,
+          "readAloud": true,
+          "watchClean": true,
+          "watchSlip": false,
+          "build": null,
+          "excerpt": "Have you ever wondered what it is like when people are staring at you? Wonder by R.J Palacio is about a kid named August having trouble going to the school for the first time. The "
         }
       ],
       "reports": [

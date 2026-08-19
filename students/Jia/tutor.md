@@ -24,6 +24,9 @@
   never prompted.
 - **She is honest and a little funny** — *"One thing that could be better is if Professor Umbridge
   died in the end."* Never sand this off.
+- ⭐ **New (08-18): she sources her own books and finishes them in a day.** Two self-found books in two
+  days (*The Honest Truth*, *Wonder*), both realistic fiction. The "what next?" menu is now a
+  courtesy, not a rescue.
 - ⭐ **New (08-17): she revises her CHOICES now, not just her sentences.** She swapped her own
   golden line mid-session for a harder one, unasked. **Name it when it happens** — *"that's a
   writer being unsatisfied."* Watch for a third instance.
@@ -37,7 +40,7 @@ proofreading catches her nothing. **But match the tool to the error:**
 | Error type | Tool | Why |
 |-----------|------|-----|
 | Endings (-ed / -s), tense, word choice | 🔊 **read aloud** | She hears it instantly |
-| Agreement with *and* (*"Neville and Luna says"*) | 📖 **the rule** | It *sounds* fine — the ear will never catch it |
+| Agreement with *and* (*"Neville and Luna says"*) | 📖 **the rule, then the mic** | Sounds fine, so the ear can't *find* it — but once she knows the rule, the read-aloud is where she *applies* it (08-18) |
 | Quotation marks, possessive `'s` | ✌️ **a count** | Marks are silent; you can't hear punctuation |
 
 ## How to run a session with her
@@ -82,7 +85,12 @@ the two-sentence explanation (08-03, 08-06) · conceding a counterargument (08-0
 **Shape B** (see the shape ladder in CLAUDE.md) every session until two paragraphs are automatic,
 then the 3-day essay build.
 
-**Untaught, not yet raised:** *a / an* before a vowel (*"a unbreakable vow"*).
+**Untaught, not yet raised:** *a / an* before a vowel (*"a unbreakable vow"*) · dropped period-space
+between sentences when she keeps typing (*"to August.The best thing"*).
+
+📌 **The paragraph break is a KEYSTROKE problem, not a thinking problem.** She writes ¶2's content
+every time — hook/setup, then judgement — and simply never hits Enter. Say **"press Enter twice
+right before ___"** and point at her actual words. "Start a new paragraph" has never once worked.
 
 ## Talk to her like this
 

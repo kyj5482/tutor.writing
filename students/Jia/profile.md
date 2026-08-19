@@ -1,30 +1,28 @@
 # Profile — Jia
 
 - **Grade:** 6
-- **Current book:** _(between books as of 2026-08-17)_ — she finished **The Honest Truth** by Dan
-  Gemeinhart, which **she found and read entirely on her own** during an 11-day gap. First book
-  outside Harry Potter since June 9th, and a genre jump. ➡️ **She does not need rescuing between
-  books.** Offer the menu (🔵 *When You Trap a Tiger* · 🟢 *Nevermoor* · 🟢 *Keeper of the Lost
-  Cities*, what 재이 reads) as **pick-one, one line each**, and ask what she wants *after a book
-  like this one* — don't assume more of the same.
+- **Current book:** _(between books as of 2026-08-18)_ — **two books in two days, both self-chosen**:
+  *The Honest Truth* (08-17) and **Wonder by R.J. Palacio (08-18)**. She is now sourcing her own
+  realistic fiction and finishing it fast. ➡️ **Never hand her a book unasked.** Offer the menu
+  (🔵 *When You Trap a Tiger* · 🟢 *Nevermoor* · 🟢 *Keeper of the Lost Cities*, what 재이 reads) as
+  **pick-one, one line each**, and ask what she wants *after a book like this one*.
 - **Books finished:** Harry Potter — Prisoner of Azkaban · Goblet of Fire · Order of the Phoenix
   (07-20, 766 pages) · Half-Blood Prince (07-30) · **Deathly Hallows (08-06 — the whole seven-book
-  series, ~3,400 pages since 06-09)**; **The Honest Truth by Dan Gemeinhart (08-17)**
-- **Last entry:** 2026-08-17 — 07 Golden Line, Tier 2 (58 words, read-aloud skipped)
+  series, ~3,400 pages since 06-09)**; **The Honest Truth by Dan Gemeinhart (08-17)**; **Wonder by R.J. Palacio (08-18)**
+- **Last entry:** 2026-08-18 — 10 Book Review, Tier 2 (100 words, 🎤 read aloud, ✌️ Watch item cleared to 1/3)
 
-> 📌 **NEXT SESSION IS BOOKED, AND SHE BOOKED IT.** On 08-17 she asked *"but don't I get extra XP
-> for finishing the book?"* — auditing the ledger, as on 08-02. She was **half right**: the +20
-> needs a **Book Review**, not just the finish. Shown the rule verbatim, held at 20, and given
-> tomorrow's payout as a table — she chose it herself: *"lets do that tomarrow."*
-> ➡️ **Open with `10 Book Review` on *The Honest Truth*** — she asked for it, so don't re-offer a
-> menu on top. Example must rotate off *A Wrinkle in Time* → ***Hatchet*** (a boy alone, survival,
-> no adults coming). **Then 12 Essay day 1 of 3 the session after — deferred twice already.**
+> 📌 **THE RULE WORKED WHERE THE EAR COULDN'T.** On 08-18 she typed *"Summer, Jack, and August
+> **becomes**"* — the ✌️ item, finally testable. Given the **rule + a count** ("2+ doers → the verb
+> drops its -s"), she fixed it herself on the read-aloud: **0/3 → 1/3**, first movement since July.
+> ➡️ **Next: `12 Essay` day 1 of 3** — deferred three times now, and length is the only thing left
+> between her and 🏛️ Essay Writer. **Her ¶2 content lands every time; the Enter key does not.**
+> Say *"press Enter twice"* as a physical instruction, not "start a new paragraph."
 
 ## Game stats
 
 - **Level:** 13 — 👑 Master Author
-- **XP:** 1230 (next level at 1300 — 70 to go)
-- **Current streak:** 1 days (best: 8) — restarted 08-17 after an 11-day gap. **The gap was not a
+- **XP:** 1270 (next level at 1300 — 30 to go)
+- **Current streak:** 2 days (best: 8) — restarted 08-17 after an 11-day gap. **The gap was not a
   reading gap.** Name the permanent things first, the reset once, and never ask where she was.
 
 > ⏰ **Timezone:** students are in the **US**, evening sessions = already past midnight UTC, so
@@ -86,13 +84,14 @@ have helped."* (08-05)
 
 ## Watch list
 
-- [ ] **✌️ The "and" check is HERS to start** — clean streak: **0/3** · *"Neville and Luna **says**"* → ***say*** · **before you save, find every *and* joining two doers.**
+- [ ] **✌️ The "and" check — SHE STARTED IT** — clean streak: **1/3** · *"Summer, Jack, and August **becomes**"* → ***become*** (self-caught 08-18) · **count the doers; 2+ → the verb drops its -s.**
 - [ ] **✍️ Possessive `'s`** — clean streak: **1/3** · *"You can see **Harry** stress"* → *Harry**'s*** · **find every "X's thing" and check the `'s` is there.**
 
-⚠️ **Neither item could be scored on 08-06 or 08-17 — three of the last four sessions.** This is a
-**template problem, not a habit problem**: a four-word line analysed for craft will never produce
-two doers joined by *and*. ➡️ **Put her in 01 Summary, 08 Connection or 06 Rewrite the Scene** to
-make the items testable, rather than naming them into another session that can't fire.
+✅ **The template fix worked.** 10 Book Review produced a three-doer sentence on the first try and the
+✌️ item finally scored (08-18). Keep her in frames that generate real sentences — 01 Summary,
+08 Connection, 06 Rewrite the Scene, 10 Book Review — not four-word craft lines.
+⚠️ **The `'s` item still has not been testable in four sessions** — no "X's thing" has appeared. Held
+at 1/3, not failed. If the next frame doesn't produce one, ask for one directly in the stretch.
 
 *Her ear is reliable and her eye is not — coach through **sound**, except for marks the ear
 can't hear (quotes, `'s`), which need a **count**, not a listen.*
@@ -112,3 +111,4 @@ can't hear (quotes, `'s`), which need a **count**, not a listen.*
 | 2026-08-05 | 04 Opinion | 2 | 35 | ACE | McGonagall; conceded counterargument |
 | 2026-08-06 | 10 Book Review | 2 | 55 | ACE | 📚 **FINISHED THE WHOLE SERIES** |
 | 2026-08-17 | 07 Golden Line | 2 | 20 | no (declined 🚀/🎤/ACE) | 📗 The Honest Truth, found & finished alone; swapped her own golden line |
+| 2026-08-18 | 10 Book Review | 2 | 40 | 🎤 read aloud | 📚 **Wonder** finished; ✌️ and-check self-caught → 1/3 |
