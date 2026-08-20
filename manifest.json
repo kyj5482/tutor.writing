@@ -1,11 +1,11 @@
 {
-  "generated": "2026-08-20T03:36:09.155Z",
+  "generated": "2026-08-20T03:50:41.943Z",
   "students": [
     {
       "name": "Jaei",
       "grade": "8",
-      "xp": 1595,
-      "level": 16,
+      "xp": 1625,
+      "level": 17,
       "streak": 1,
       "badges": [
         {
@@ -130,12 +130,12 @@
         {
           "item": "Dialogue punctuation — the marks go INSIDE",
           "cleared": false,
-          "streak": 0
+          "streak": 1
         }
       ],
       "stats": {
-        "entries": 30,
-        "activeDays": 27,
+        "entries": 31,
+        "activeDays": 28,
         "templatesUsed": [
           "01-summary",
           "02-prediction",
@@ -150,21 +150,21 @@
         ],
         "revisions": 26,
         "ace": 20,
-        "quotes": 22,
+        "quotes": 23,
         "counter": 11,
         "craft": 5,
         "compare": 3,
-        "tier3": 18,
-        "readAlouds": 11,
-        "cleanEntries": 8,
-        "cleanStreak": 2,
+        "tier3": 19,
+        "readAlouds": 12,
+        "cleanEntries": 9,
+        "cleanStreak": 3,
         "bestCleanStreak": 3,
         "lessons": 0,
         "bookReviews": 5,
         "booksStarted": 11,
-        "booksFinished": 7,
+        "booksFinished": 8,
         "maxWords": 283,
-        "totalWords": 3549,
+        "totalWords": 3631,
         "maxParagraphs": 5,
         "essayShaped": 2,
         "debateShaped": 4,
@@ -181,11 +181,11 @@
           "seriesTotal": 9,
           "volume": null,
           "author": "Shannon Messenger",
-          "entries": 7,
-          "words": 723,
+          "entries": 8,
+          "words": 805,
           "first": "2026-08-03",
-          "last": "2026-08-17",
-          "finished": false
+          "last": "2026-08-20",
+          "finished": true
         },
         {
           "key": "keeper of the lost cities#6",
@@ -1178,6 +1178,34 @@
           "watchSlip": false,
           "build": null,
           "excerpt": "In the actual book the agreement was not as simple as in my version. \"Ok\", Sophie said. Tugging out her eyelashes for third time since the conversation started. \"I give you my word"
+        },
+        {
+          "file": "students/Jaei/journal/2026-08-20-07-golden-line.md",
+          "date": "2026-08-20",
+          "slug": "07-golden-line",
+          "book": "Keeper of the Lost Cities",
+          "bookKey": "series:keeper of the lost cities",
+          "bookShort": "Keeper of the Lost Cities",
+          "series": "Keeper of the Lost Cities",
+          "seriesEmoji": "🌌",
+          "volume": null,
+          "author": "Shannon Messenger",
+          "reading": "**finished the book**",
+          "tier": 3,
+          "xp": 30,
+          "words": 82,
+          "paragraphs": 2,
+          "hasRevision": false,
+          "hasBonus": false,
+          "quote": true,
+          "counter": false,
+          "craft": false,
+          "compare": false,
+          "readAloud": true,
+          "watchClean": true,
+          "watchSlip": false,
+          "build": null,
+          "excerpt": "Golden line: \"No, Sophie I have to do it\" This is a line said by Tam before he went with the Neverseen. It shows that even against all the rejections against his friends, he decide"
         }
       ],
       "reports": [

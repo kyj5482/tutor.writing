@@ -77,8 +77,14 @@ standalone entries fell from 137–181 words in June to **94–97 in August**, o
 build proved the ceiling isn't ability — nobody asks on a normal day. Give him **Shape B/C** (see
 the shape ladder in CLAUDE.md) every session.
 
-⚠️ **The pre-save pass is stalled at 0/3 and he skipped read-aloud on 08-15 and 08-17.** Stop
-correcting it — **teach it once from `lessons/` and hand him the check.**
+✅ **Pre-save pass: lesson given 08-20** (`lessons/pre-save-pass.md`). Point at the **check**
+now — *"run the check"* — never re-explain it.
+
+📌 **A paragraph break has to be a precondition, not a request.** On 08-20 he was shown the exact
+pivot word in his own draft (*"but this time it's Tam"*), told where ¶2 starts, and still shipped
+one block. Asking after the draft exists is too late — he treats the piece as finished. **Next
+session: make two paragraphs the thing he types first**, before the content ("type ¶1 and ¶2 as
+two blocks, then fill them"), rather than a break to add at the end.
 
 **Untaught:** *its / it's* · double superlative (*"the most darkest"*). Minor — watch only.
 

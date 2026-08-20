@@ -1,22 +1,25 @@
 # Profile — Jaei
 
 - **Grade:** 8
-- **Current book:** **Keeper of the Lost Cities: Flashback (#7)** by Shannon Messenger — past the
-  middle as of 2026-08-17. He reads whether or not anyone is watching (finished #6 and got halfway
-  into #7 across a 9-day session gap).
+- **Current book:** 📖 **Between books as of 2026-08-20** — finished **Keeper of the Lost Cities:
+  Flashback (#7)**. He reads whether or not anyone is watching. Next up is his call: KOTLC
+  *Legacy* (#8), or the Linda Sue Park bridge below.
 - **Books finished:** The Scorch Trials · KOTLC Everblaze · **the entire 10-book 39 Clues series**
-  (07-25) · KOTLC Lodestar (07-30) · KOTLC Nightfall (08-15)
+  (07-25) · KOTLC Lodestar (07-30) · KOTLC Nightfall (08-15) · **KOTLC Flashback (08-20)**
 - 📌 **Recommendation waiting for his next between-books moment:** he read *Storm Warning* (39
   Clues #9) without knowing it was by **Linda Sue Park, a Korean-American Newbery Medal winner**
   — opening line scripted in `library/reading-ladder.md`. **Never pull him out of a book that is
   still pulling.**
-- **Last entry:** 2026-08-17 — 06 Rewrite the Scene, Tier 3 (97 words)
+- **Last entry:** 2026-08-20 — 07 Golden Line, Tier 3 (76 words, still one paragraph)
 
 ## Game stats
 
-- **Level:** 16 — 👑 Master Author
-- **XP:** 1595 (next level at 1600 — **5 to go**)
+- **Level:** 17 — 👑 Master Author (**levelled up 2026-08-20**)
+- **XP:** 1625 (next level at 1700 — **75 to go**)
 - **Current streak:** 1 days (best: 5). **Do not lead with the streak** — see `tutor.md`.
+
+> 💰 **Owed, not lost:** finishing *Flashback* pays **+20 XP** the day he writes the **10 Book
+> Review** for it. He asked about this — the bonus is tied to the review, not the finish.
 
 > 🧾 **He checks the ledger and has been right every time.** State XP arithmetic exactly, and
 > correct your own bookkeeping errors to him first and unprompted.
@@ -81,12 +84,11 @@ it's that nobody asks on a normal day. Ask: *"Two paragraphs. Second one is the 
 
 ## Watch list
 
-- [ ] **The pre-save pass — he starts it himself** — clean streak: **0/3** · 👉 *verbs by ear · the Two-Source Test · re-read anything you changed.* Clean = **he ran it unprompted.**
-- [ ] **Dialogue punctuation — the marks go INSIDE** — clean streak: **0/3** · *"Ok"**,** Sophie said* → *"Ok**,**" Sophie said* · 👉 **The Tag Test:** saying-word + name → **comma**; whole sentence → **period**. Either way, **inside**.
+- [ ] **The pre-save pass — he starts it himself** — clean streak: **0/3** · 🎓 **lesson given 2026-08-20** (`lessons/pre-save-pass.md`). 👉 *20 seconds, out loud, before saving.* Ran it when asked on 08-20; **clean starts the first night he runs it without being asked.**
+- [ ] **Dialogue punctuation — the marks go INSIDE** — clean streak: **1/3** · *"Ok"**,** Sophie said* → *"Ok**,**" Sophie said* · 👉 **The Tag Test:** saying-word + name → **comma**; whole sentence → **period**. Either way, **inside**.
 
-⚠️ **The pre-save pass has been 0/3 for three sessions and read-aloud was skipped on 08-15 and
-08-17.** Per "When a mistake won't go away", **stop correcting it — teach it once from `lessons/`
-and hand him the check.** His logic is reliable; repetition is not.
+✅ **Done 2026-08-20 — the lesson was run.** For the next 3 sessions the 🔧 slot goes elsewhere;
+if it slips, **point at the check, never re-explain it.**
 
 ## Session log
 
@@ -104,3 +106,4 @@ and hand him the check.** His logic is reliable; repetition is not.
 | 2026-08-06 | 15 Comparative Essay (day 4/4 ✅) | 3 | 135 | ✅ + ACE | 🎓 **254 words, 4 paragraphs** · 📜 Long Haul |
 | 2026-08-15 | 04 Opinion | 3 | 20 | no | 🎉 Finished Nightfall (#6); 9-day gap |
 | 2026-08-17 | 06 Rewrite the Scene | 3 | 35 | ✅ + 🔧 diagnosed | All dialogue, zero reported speech |
+| 2026-08-20 | 07 Golden Line | 3 | 30 | no + lesson | 🎉 Finished Flashback (#7); 🎓 Level 17 |

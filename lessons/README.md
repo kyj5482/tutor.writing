@@ -55,6 +55,7 @@ lesson and the spelling item didn't.
 | `verb-endings.md` | -ed / -s endings you can hear | Jia | in her 1st and her 18th entry |
 | `a-vs-an.md` | **an** before a vowel sound | both | 5 slips between them, never once addressed |
 | `paragraph-breaks.md` | one idea, one paragraph | Jia (queued) | every long entry is a single block |
+| `pre-save-pass.md` | your eye reads what you *meant*; your mouth reads what's there | Jaei ✅ 08-20 | 0/3 for 3 sessions; read-aloud skipped 08-15, 08-17 |
 
 Queued lessons wait their turn — never run two in one session, and never let a lesson
 replace the day's writing.
