@@ -1,28 +1,29 @@
 # Profile — Jia
 
 - **Grade:** 6
-- **Current book:** _(between books as of 2026-08-18)_ — **two books in two days, both self-chosen**:
-  *The Honest Truth* (08-17) and **Wonder by R.J. Palacio (08-18)**. She is now sourcing her own
-  realistic fiction and finishing it fast. ➡️ **Never hand her a book unasked.** Offer the menu
-  (🔵 *When You Trap a Tiger* · 🟢 *Nevermoor* · 🟢 *Keeper of the Lost Cities*, what 재이 reads) as
-  **pick-one, one line each**, and ask what she wants *after a book like this one*.
+- **Current book:** _(between books, 08-19)_ — **three self-chosen books in three days**: *The Honest
+  Truth* · *Wonder* · **Inside Out & Back Again** (a novel in verse). She left fantasy entirely.
+  ➡️ **Never hand her a book unasked.** The 08-19 menu was ignored — she brought her own. Just ask
+  what she wants *after a book like this one*.
 - **Books finished:** Harry Potter — Prisoner of Azkaban · Goblet of Fire · Order of the Phoenix
   (07-20, 766 pages) · Half-Blood Prince (07-30) · **Deathly Hallows (08-06 — the whole seven-book
-  series, ~3,400 pages since 06-09)**; **The Honest Truth by Dan Gemeinhart (08-17)**; **Wonder by R.J. Palacio (08-18)**
-- **Last entry:** 2026-08-18 — 10 Book Review, Tier 2 (100 words, 🎤 read aloud, ✌️ Watch item cleared to 1/3)
+  series, ~3,400 pages since 06-09)**; **The Honest Truth by Dan Gemeinhart (08-17)**; **Wonder by R.J. Palacio (08-18)**; **Inside Out & Back Again by
+  Thanhhà Lại (08-19)**
+- **Last entry:** 2026-08-19 — 12 Essay day 1 of 3, Tier 1 (110 words, 🎤 read aloud, **both** Watch items clean → 2/3)
 
-> 📌 **THE RULE WORKED WHERE THE EAR COULDN'T.** On 08-18 she typed *"Summer, Jack, and August
-> **becomes**"* — the ✌️ item, finally testable. Given the **rule + a count** ("2+ doers → the verb
-> drops its -s"), she fixed it herself on the read-aloud: **0/3 → 1/3**, first movement since July.
-> ➡️ **Next: `12 Essay` day 1 of 3** — deferred three times now, and length is the only thing left
-> between her and 🏛️ Essay Writer. **Her ¶2 content lands every time; the Enter key does not.**
-> Say *"press Enter twice"* as a physical instruction, not "start a new paragraph."
+> 📌 **BOTH WATCH ITEMS SCORED CLEAN IN ONE ENTRY (08-19) — first time ever.** *"fruit and foods
+> **are**"* ✌️ and ***Ha's** family* / ***Vietnam's** fruit* ✍️, both unprompted. **Each at 2/3 — one
+> more clean entry retires them.** The frames that generate real sentences are what made it possible.
+> ➡️ **Next: `12 Essay` day 2 of 3.** She wrote *both* reasons on day 1, so **day 2 is quotes, not
+> new content**: go back and put a short quote in "quotation marks" inside each reason.
+> ⚠️ **Thesis un-arguable** (*"it was a very emotional story"*) — the one thing to hold her to. And
+> three straight sessions with no ¶2 break: say **"press Enter twice"**, pointing at her own words.
 
 ## Game stats
 
 - **Level:** 13 — 👑 Master Author
-- **XP:** 1270 (next level at 1300 — 30 to go)
-- **Current streak:** 2 days (best: 8) — restarted 08-17 after an 11-day gap. **The gap was not a
+- **XP:** 1295 (next level at 1300 — **5 to go**)
+- **Current streak:** 3 days (best: 8) — restarted 08-17 after an 11-day gap. **The gap was not a
   reading gap.** Name the permanent things first, the reset once, and never ask where she was.
 
 > ⏰ **Timezone:** students are in the **US**, evening sessions = already past midnight UTC, so
@@ -84,25 +85,23 @@ have helped."* (08-05)
 
 ## Watch list
 
-- [ ] **✌️ The "and" check — SHE STARTED IT** — clean streak: **1/3** · *"Summer, Jack, and August **becomes**"* → ***become*** (self-caught 08-18) · **count the doers; 2+ → the verb drops its -s.**
-- [ ] **✍️ Possessive `'s`** — clean streak: **1/3** · *"You can see **Harry** stress"* → *Harry**'s*** · **find every "X's thing" and check the `'s` is there.**
+- [ ] **✌️ The "and" check** — clean streak: **2/3** 🔥 · *"fruit and foods **are**"* — correct, unprompted (08-19) · **count the doers; 2+ → the verb drops its -s.**
+- [ ] **✍️ Possessive `'s`** — clean streak: **2/3** 🔥 · *"**Ha's** family"* ×2, *"**Vietnam's** fruit"* — all correct (08-19) · **find every "X's thing" and check the `'s` is there.**
 
-✅ **The template fix worked.** 10 Book Review produced a three-doer sentence on the first try and the
-✌️ item finally scored (08-18). Keep her in frames that generate real sentences — 01 Summary,
-08 Connection, 06 Rewrite the Scene, 10 Book Review — not four-word craft lines.
-⚠️ **The `'s` item still has not been testable in four sessions** — no "X's thing" has appeared. Held
-at 1/3, not failed. If the next frame doesn't produce one, ask for one directly in the stretch.
+🎉 **One more clean entry each and BOTH retire — say that out loud.** She audits the scoreboard.
+
+✅ **Template fix proven twice.** Keep her in frames that generate real sentences — 01, 06, 08, 10, 12
+— never four-word craft lines. **Naming the `'s` in the stretch is what made it appear.**
 
 *Her ear is reliable and her eye is not — coach through **sound**, except for marks the ear
 can't hear (quotes, `'s`), which need a **count**, not a listen.*
 
 ## Session log
 
-*Rows before 2026-07-30 are in `archive/profile-full-2026-08-18.md`.*
+*Rows before 2026-07-31 are in `archive/profile-full-2026-08-18.md`.*
 
 | Date | Template | Tier | XP | Stretch? | Notes |
 |------|----------|------|----|----------|-------|
-| 2026-07-30 | 10 Book Review (+ lesson: paragraph breaks) | 2 | 55 | ✅ split into 3 paragraphs | 📚 Finished Half-Blood Prince |
 | 2026-07-31 | 06 Rewrite the Scene | 2 | 70 (incl 🎟️40) | ACE | 📕 Started Deathly Hallows |
 | 2026-07-31 | 04 Opinion | 2 | 30 | ACE | Second entry same day |
 | 2026-08-01 | 03 Character Diary | 2 | 30 | ACE | Lupin / the baby |
@@ -112,3 +111,4 @@ can't hear (quotes, `'s`), which need a **count**, not a listen.*
 | 2026-08-06 | 10 Book Review | 2 | 55 | ACE | 📚 **FINISHED THE WHOLE SERIES** |
 | 2026-08-17 | 07 Golden Line | 2 | 20 | no (declined 🚀/🎤/ACE) | 📗 The Honest Truth, found & finished alone; swapped her own golden line |
 | 2026-08-18 | 10 Book Review | 2 | 40 | 🎤 read aloud | 📚 **Wonder** finished; ✌️ and-check self-caught → 1/3 |
+| 2026-08-19 | 12 Essay (day 1 of 3) | 1 | 25 | 🎤 read aloud | 📚 **Inside Out & Back Again**; ✌️+✍️ both clean → 2/3 |

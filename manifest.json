@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-19T03:36:23.289Z",
+  "generated": "2026-08-20T03:36:09.155Z",
   "students": [
     {
       "name": "Jaei",
@@ -1201,9 +1201,9 @@
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 1270,
+      "xp": 1295,
       "level": 13,
-      "streak": 2,
+      "streak": 3,
       "badges": [
         {
           "name": "First Words",
@@ -1310,19 +1310,19 @@
       "goal": "scholar",
       "watch": [
         {
-          "item": "✌️ The \"and\" check — SHE STARTED IT",
+          "item": "✌️ The \"and\" check",
           "cleared": false,
-          "streak": 1
+          "streak": 2
         },
         {
           "item": "✍️ Possessive `'s`",
           "cleared": false,
-          "streak": 1
+          "streak": 2
         }
       ],
       "stats": {
-        "entries": 31,
-        "activeDays": 30,
+        "entries": 32,
+        "activeDays": 31,
         "templatesUsed": [
           "01-summary",
           "02-prediction",
@@ -1342,23 +1342,38 @@
         "craft": 3,
         "compare": 0,
         "tier3": 0,
-        "readAlouds": 12,
-        "cleanEntries": 11,
-        "cleanStreak": 4,
+        "readAlouds": 13,
+        "cleanEntries": 12,
+        "cleanStreak": 5,
         "bestCleanStreak": 7,
-        "lessons": 1,
+        "lessons": 0,
         "bookReviews": 4,
-        "booksStarted": 8,
-        "booksFinished": 5,
+        "booksStarted": 9,
+        "booksFinished": 6,
         "maxWords": 162,
-        "totalWords": 2378,
+        "totalWords": 2477,
         "maxParagraphs": 3,
         "essayShaped": 0,
         "debateShaped": 0,
         "bestStreak": 8,
-        "streak": 2
+        "streak": 3
       },
       "books": [
+        {
+          "key": "book:inside out & back again",
+          "title": "Inside Out & Back Again",
+          "short": "Inside Out & Back Again",
+          "series": null,
+          "seriesEmoji": null,
+          "seriesTotal": null,
+          "volume": null,
+          "author": "Thanhhà Lại",
+          "entries": 1,
+          "words": 99,
+          "first": "2026-08-19",
+          "last": "2026-08-19",
+          "finished": true
+        },
         {
           "key": "book:wonder",
           "title": "Wonder",
@@ -2348,6 +2363,34 @@
           "watchSlip": false,
           "build": null,
           "excerpt": "Have you ever wondered what it is like when people are staring at you? Wonder by R.J Palacio is about a kid named August having trouble going to the school for the first time. The "
+        },
+        {
+          "file": "students/Jia/journal/2026-08-19-12-essay.md",
+          "date": "2026-08-19",
+          "slug": "12-essay",
+          "book": "Inside Out & Back Again",
+          "bookKey": "book:inside out & back again",
+          "bookShort": "Inside Out & Back Again",
+          "series": null,
+          "seriesEmoji": null,
+          "volume": null,
+          "author": "Thanhhà Lại",
+          "reading": "finished the whole book",
+          "tier": 1,
+          "xp": 25,
+          "words": 99,
+          "paragraphs": 1,
+          "hasRevision": false,
+          "hasBonus": false,
+          "quote": false,
+          "counter": false,
+          "craft": false,
+          "compare": false,
+          "readAloud": true,
+          "watchClean": true,
+          "watchSlip": false,
+          "build": "Essay — day 1 of 3",
+          "excerpt": "In inside out back again, I think it was a very emotional story. I think this because of two things. The first reason is that when Ha's family moved to America, they were sometimes"
         }
       ],
       "reports": [
