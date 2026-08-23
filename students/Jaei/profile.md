@@ -1,25 +1,25 @@
 # Profile — Jaei
 
 - **Grade:** 8
-- **Current book:** 📖 **Between books as of 2026-08-20** — finished **Keeper of the Lost Cities:
-  Flashback (#7)**. He reads whether or not anyone is watching. Next up is his call: KOTLC
-  *Legacy* (#8), or the Linda Sue Park bridge below.
+- **Current book:** 📖 **Between books** — *Flashback* (#7) reviewed and closed out 2026-08-23.
+  Next up is his call: KOTLC *Legacy* (#8), or the Linda Sue Park bridge below. **He did not say
+  what he's reading now — ask first thing next session.**
 - **Books finished:** The Scorch Trials · KOTLC Everblaze · **the entire 10-book 39 Clues series**
   (07-25) · KOTLC Lodestar (07-30) · KOTLC Nightfall (08-15) · **KOTLC Flashback (08-20)**
 - 📌 **Recommendation waiting for his next between-books moment:** he read *Storm Warning* (39
   Clues #9) without knowing it was by **Linda Sue Park, a Korean-American Newbery Medal winner**
   — opening line scripted in `library/reading-ladder.md`. **Never pull him out of a book that is
   still pulling.**
-- **Last entry:** 2026-08-20 — 07 Golden Line, Tier 3 (76 words, still one paragraph)
+- **Last entry:** 2026-08-23 — 10 Book Review, Tier 3 (**187 words, 3 paragraphs** — the block streak broke)
 
 ## Game stats
 
 - **Level:** 17 — 👑 Master Author (**levelled up 2026-08-20**)
-- **XP:** 1625 (next level at 1700 — **75 to go**)
+- **XP:** 1670 (next level at 1700 — **30 to go**)
 - **Current streak:** 1 days (best: 5). **Do not lead with the streak** — see `tutor.md`.
 
-> 💰 **Owed, not lost:** finishing *Flashback* pays **+20 XP** the day he writes the **10 Book
-> Review** for it. He asked about this — the bonus is tied to the review, not the finish.
+> ✅ **Paid 2026-08-23** — the *Flashback* finish bonus (+20) settled with the Book Review, as
+> promised. Nothing owed right now.
 
 > 🧾 **He checks the ledger and has been right every time.** State XP arithmetic exactly, and
 > correct your own bookkeeping errors to him first and unprompted.
@@ -84,20 +84,18 @@ it's that nobody asks on a normal day. Ask: *"Two paragraphs. Second one is the 
 
 ## Watch list
 
-- [ ] **The pre-save pass — he starts it himself** — clean streak: **0/3** · 🎓 **lesson given 2026-08-20** (`lessons/pre-save-pass.md`). 👉 *20 seconds, out loud, before saving.* Ran it when asked on 08-20; **clean starts the first night he runs it without being asked.**
-- [ ] **Dialogue punctuation — the marks go INSIDE** — clean streak: **1/3** · *"Ok"**,** Sophie said* → *"Ok**,**" Sophie said* · 👉 **The Tag Test:** saying-word + name → **comma**; whole sentence → **period**. Either way, **inside**.
+- [ ] **The pre-save pass — he starts it himself** — clean streak: **0/3** · 🎓 lesson 2026-08-20 (`lessons/pre-save-pass.md`). 👉 *20 seconds, out loud, before saving.* **08-23: first time it ever caught something** (*choose* → *chose*, his own catch) — but still prompted. Clean starts the night he runs it unasked.
+- [ ] **Dialogue punctuation — the marks go INSIDE** — clean streak: **2/3** · *"Ok"**,** Sophie said* → *"Ok**,**" Sophie said* · 👉 **The Tag Test:** saying-word + name → **comma**; whole sentence → **period**. Either way, **inside**.
 
 ✅ **Done 2026-08-20 — the lesson was run.** For the next 3 sessions the 🔧 slot goes elsewhere;
 if it slips, **point at the check, never re-explain it.**
 
 ## Session log
 
-*Rows before 2026-07-30 are in `archive/profile-full-2026-08-18.md`.*
+*Rows before 2026-08-01 are in `archive/profile-full-2026-08-18.md`.*
 
 | Date | Template | Tier | XP | Stretch? | Notes |
 |------|----------|------|----|----------|-------|
-| 2026-07-30 | 10 Book Review | 3 | 65 | ✅ + ACE | 🎉 Finished Lodestar (#5) |
-| 2026-07-31 | 14 Craft Analysis (day 1/2) | 3 | 100 | ✅ + ACE | 🔬 Picked Critic as his goal |
 | 2026-08-01 | 14 Craft Analysis (day 2/2 ✅) | 3 | 80 | ✅ + lesson + ACE | 198 words, 4 paragraphs |
 | 2026-08-03 | 06 Rewrite the Scene | 3 | 50 | ✅ + ACE | Nightfall, 5 ch. |
 | 2026-08-03 | 15 Comparative Essay (day 1/4) | 3 | 50 | ✅ + ACE | 🎓 First ever comparative |
@@ -107,3 +105,4 @@ if it slips, **point at the check, never re-explain it.**
 | 2026-08-15 | 04 Opinion | 3 | 20 | no | 🎉 Finished Nightfall (#6); 9-day gap |
 | 2026-08-17 | 06 Rewrite the Scene | 3 | 35 | ✅ + 🔧 diagnosed | All dialogue, zero reported speech |
 | 2026-08-20 | 07 Golden Line | 3 | 30 | no + lesson | 🎉 Finished Flashback (#7); 🎓 Level 17 |
+| 2026-08-23 | 10 Book Review | 3 | 45 | open | 🧱 **3 paragraphs, 187 w**; +20 Flashback paid |

@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-20T03:50:41.943Z",
+  "generated": "2026-08-23T17:36:37.949Z",
   "students": [
     {
       "name": "Jaei",
       "grade": "8",
-      "xp": 1625,
+      "xp": 1670,
       "level": 17,
       "streak": 1,
       "badges": [
@@ -130,12 +130,12 @@
         {
           "item": "Dialogue punctuation — the marks go INSIDE",
           "cleared": false,
-          "streak": 1
+          "streak": 2
         }
       ],
       "stats": {
-        "entries": 31,
-        "activeDays": 28,
+        "entries": 32,
+        "activeDays": 29,
         "templatesUsed": [
           "01-summary",
           "02-prediction",
@@ -148,26 +148,26 @@
           "09-quick-write-321",
           "10-book-review"
         ],
-        "revisions": 26,
+        "revisions": 27,
         "ace": 20,
-        "quotes": 23,
-        "counter": 11,
+        "quotes": 24,
+        "counter": 12,
         "craft": 5,
         "compare": 3,
-        "tier3": 19,
-        "readAlouds": 12,
-        "cleanEntries": 9,
-        "cleanStreak": 3,
-        "bestCleanStreak": 3,
+        "tier3": 20,
+        "readAlouds": 13,
+        "cleanEntries": 10,
+        "cleanStreak": 4,
+        "bestCleanStreak": 4,
         "lessons": 0,
-        "bookReviews": 5,
+        "bookReviews": 6,
         "booksStarted": 11,
         "booksFinished": 8,
         "maxWords": 283,
-        "totalWords": 3631,
+        "totalWords": 3813,
         "maxParagraphs": 5,
         "essayShaped": 2,
-        "debateShaped": 4,
+        "debateShaped": 5,
         "bestStreak": 5,
         "streak": 1
       },
@@ -181,10 +181,10 @@
           "seriesTotal": 9,
           "volume": null,
           "author": "Shannon Messenger",
-          "entries": 8,
-          "words": 805,
+          "entries": 9,
+          "words": 987,
           "first": "2026-08-03",
-          "last": "2026-08-20",
+          "last": "2026-08-23",
           "finished": true
         },
         {
@@ -1206,6 +1206,34 @@
           "watchSlip": false,
           "build": null,
           "excerpt": "Golden line: \"No, Sophie I have to do it\" This is a line said by Tam before he went with the Neverseen. It shows that even against all the rejections against his friends, he decide"
+        },
+        {
+          "file": "students/Jaei/journal/2026-08-23-10-book-review.md",
+          "date": "2026-08-23",
+          "slug": "10-book-review",
+          "book": "Keeper of the Lost Cities",
+          "bookKey": "series:keeper of the lost cities",
+          "bookShort": "Keeper of the Lost Cities",
+          "series": "Keeper of the Lost Cities",
+          "seriesEmoji": "🌌",
+          "volume": null,
+          "author": "Shannon Messenger",
+          "reading": "whole book — review",
+          "tier": 3,
+          "xp": 45,
+          "words": 182,
+          "paragraphs": 3,
+          "hasRevision": true,
+          "hasBonus": false,
+          "quote": true,
+          "counter": true,
+          "craft": false,
+          "compare": false,
+          "readAloud": true,
+          "watchClean": true,
+          "watchSlip": false,
+          "build": null,
+          "excerpt": "What would you do if you were in a place where you can either keep fighting or give up. Sophie Foster in Keeper of the Lost Cities by Shannon Messenger chose to fight against the N"
         }
       ],
       "reports": [

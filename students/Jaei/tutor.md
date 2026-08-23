@@ -80,11 +80,13 @@ the shape ladder in CLAUDE.md) every session.
 ✅ **Pre-save pass: lesson given 08-20** (`lessons/pre-save-pass.md`). Point at the **check**
 now — *"run the check"* — never re-explain it.
 
-📌 **A paragraph break has to be a precondition, not a request.** On 08-20 he was shown the exact
-pivot word in his own draft (*"but this time it's Tam"*), told where ¶2 starts, and still shipped
-one block. Asking after the draft exists is too late — he treats the piece as finished. **Next
-session: make two paragraphs the thing he types first**, before the content ("type ¶1 and ¶2 as
-two blocks, then fill them"), rather than a break to add at the end.
+✅ **Paragraph breaks: solved, and the fix was the precondition.** 08-20 (shown the pivot word
+*after* drafting) → one block. 08-23 (*"type the three breaks FIRST, then fill them"*) → **three
+paragraphs, 187 words**, unprompted quality. **Always hand him the empty blocks before the
+content.** He builds to a container; he will not retrofit one.
+
+📌 **A numbered frame is a container too.** "¶1 hook / ¶2 idea+craft / ¶3 argued rating" got all
+three moves on the first try. Give him the slots, not the word count.
 
 **Untaught:** *its / it's* · double superlative (*"the most darkest"*). Minor — watch only.
 
