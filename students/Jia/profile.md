@@ -1,30 +1,35 @@
 # Profile — Jia
 
 - **Grade:** 6
-- **Current book:** _(between books, 08-19)_ — **three self-chosen books in three days**: *The Honest
-  Truth* · *Wonder* · **Inside Out & Back Again** (a novel in verse). She left fantasy entirely.
-  ➡️ **Never hand her a book unasked.** The 08-19 menu was ignored — she brought her own. Just ask
-  what she wants *after a book like this one*.
+- **Current book:** **Divergent by Veronica Roth** (started 08-23) — dystopia, and the opening is a
+  girl choosing a faction and losing her family either way. **That is her subject exactly.**
+  ➡️ **Never hand her a book unasked.** She sources her own and always has.
 - **Books finished:** Harry Potter — Prisoner of Azkaban · Goblet of Fire · Order of the Phoenix
   (07-20, 766 pages) · Half-Blood Prince (07-30) · **Deathly Hallows (08-06 — the whole seven-book
   series, ~3,400 pages since 06-09)**; **The Honest Truth by Dan Gemeinhart (08-17)**; **Wonder by R.J. Palacio (08-18)**; **Inside Out & Back Again by
   Thanhhà Lại (08-19)**
-- **Last entry:** 2026-08-19 — 12 Essay day 1 of 3, Tier 1 (110 words, 🎤 read aloud, **both** Watch items clean → 2/3)
+- **Last entry:** 2026-08-23 — 02 Prediction, Tier 2 (57 words, 🎤 read aloud, Watch items untested → hold 2/3)
 
-> 📌 **BOTH WATCH ITEMS SCORED CLEAN IN ONE ENTRY (08-19) — first time ever.** *"fruit and foods
-> **are**"* ✌️ and ***Ha's** family* / ***Vietnam's** fruit* ✍️, both unprompted. **Each at 2/3 — one
-> more clean entry retires them.** The frames that generate real sentences are what made it possible.
-> ➡️ **Next: `12 Essay` day 2 of 3.** She wrote *both* reasons on day 1, so **day 2 is quotes, not
-> new content**: go back and put a short quote in "quotation marks" inside each reason.
-> ⚠️ **Thesis un-arguable** (*"it was a very emotional story"*) — the one thing to hold her to. And
-> three straight sessions with no ¶2 break: say **"press Enter twice"**, pointing at her own words.
+> 📌 **She wrote an arguable claim unprompted (08-23).** *"I predict that she is going to choose to
+> be with her family"* — someone can disagree with that. That is the exact move her 08-19 thesis
+> missed, and nobody asked for it. **Say so again next session; it is her Style/thesis promotion
+> forming.**
+> ⚠️ **The read-aloud will never fix silent marks.** She read the whole piece into the mic and the
+> missing quotation marks came back missing — because you cannot say a quotation mark. For `" "`
+> and `'s`, ask her to **type the fixed sentence**, never to re-read it.
+> 📕 **The 3-day essay build is stranded at day 1.** She moved to a new book after four days off, so
+> *Inside Out & Back Again* is gone. **Restart the build inside Divergent** once she is a few
+> chapters in — never span a build across a book change.
+> ⚠️ **Four straight sessions with no ¶2 break.** Keep saying **"press Enter twice"** and point at
+> her own words.
 
 ## Game stats
 
-- **Level:** 13 — 👑 Master Author
-- **XP:** 1295 (next level at 1300 — **5 to go**)
-- **Current streak:** 3 days (best: 8) — restarted 08-17 after an 11-day gap. **The gap was not a
-  reading gap.** Name the permanent things first, the reset once, and never ask where she was.
+- **Level:** 14 — 👑 Master Author
+- **XP:** 1315 (next level at 1400 — **85 to go**)
+- **Current streak:** 1 day (best: 8) — restarted 08-23 after 3 days off. **The gap was not a
+  reading gap** (she came back mid-*Divergent*). Name the permanent things first, the reset once,
+  and never ask where she was.
 
 > ⏰ **Timezone:** students are in the **US**, evening sessions = already past midnight UTC, so
 > `date -u` reads **one day ahead**. Always take the student's local date; **if the clock and the
@@ -68,11 +73,11 @@
 
 ## Focus skill this week
 
-**Shape B — two paragraphs.** Her ceiling is length, not ideas: 28 of 30 entries are one paragraph
-and her longest ever is **162 words** (08-17 was 58). Give her paragraph 1 as usual, then:
+**Shape B — two paragraphs.** Her ceiling is length, not ideas: **29 of 31 entries are one
+paragraph** and her longest ever is **162 words**. Give her paragraph 1 as usual, then:
 *"New paragraph. Start it with **But** or **Some might say**."* She already writes the turn —
-she just doesn't break for it: *"Some people might say… but even if it was why, she still would
-have helped."* (08-05)
+she just never hits Enter (*"Some people might say… but even if it was why, she still would
+have helped."* 08-05). Four sessions running now with no break.
 
 ## Writing goal
 
@@ -85,24 +90,29 @@ have helped."* (08-05)
 
 ## Watch list
 
-- [ ] **✌️ The "and" check** — clean streak: **2/3** 🔥 · *"fruit and foods **are**"* — correct, unprompted (08-19) · **count the doers; 2+ → the verb drops its -s.**
-- [ ] **✍️ Possessive `'s`** — clean streak: **2/3** 🔥 · *"**Ha's** family"* ×2, *"**Vietnam's** fruit"* — all correct (08-19) · **find every "X's thing" and check the `'s` is there.**
+- [ ] **✌️ The "and" check** — clean streak: **2/3** · *"fruit and foods **are**"* — correct, unprompted (08-19) · **count the doers; 2+ → the verb drops its -s.**
+- [ ] **✍️ Possessive `'s`** — clean streak: **2/3** · *"**Ha's** family"* ×2, *"**Vietnam's** fruit"* (08-19) · **find every "X's thing" and check the `'s` is there.**
 
-🎉 **One more clean entry each and BOTH retire — say that out loud.** She audits the scoreboard.
+⚠️ **08-23: neither item was testable** — no compound subject, no possessive, so both held at 2/3.
+**Told her straight; she took it fine.** An untestable entry must never advance a streak — that is
+how a habit retires without ever being beaten. **The frame has to demand them:** name both in the
+stretch, or run the ⭐ ACE round, where a `'s` almost always appears.
 
-✅ **Template fix proven twice.** Keep her in frames that generate real sentences — 01, 06, 08, 10, 12
-— never four-word craft lines. **Naming the `'s` in the stretch is what made it appear.**
+🎉 **One clean, testable entry each and BOTH retire — say that out loud.** She audits the scoreboard.
+
+✅ **Template fix proven twice.** Keep her in frames that generate real sentences — 01, 02, 06, 08,
+10, 12 — never four-word craft lines.
 
 *Her ear is reliable and her eye is not — coach through **sound**, except for marks the ear
-can't hear (quotes, `'s`), which need a **count**, not a listen.*
+can't hear (quotes, `'s`), which need a **count**, not a listen. Confirmed again 08-23: reading
+aloud left the missing quotation marks missing.*
 
 ## Session log
 
-*Rows before 2026-07-31 are in `archive/profile-full-2026-08-18.md`.*
+*Rows before 2026-07-31 (and the 07-31 Rewrite row) are in `archive/profile-full-2026-08-18.md`.*
 
 | Date | Template | Tier | XP | Stretch? | Notes |
 |------|----------|------|----|----------|-------|
-| 2026-07-31 | 06 Rewrite the Scene | 2 | 70 (incl 🎟️40) | ACE | 📕 Started Deathly Hallows |
 | 2026-07-31 | 04 Opinion | 2 | 30 | ACE | Second entry same day |
 | 2026-08-01 | 03 Character Diary | 2 | 30 | ACE | Lupin / the baby |
 | 2026-08-02 | 08 Connection | 2 | 60 | ✅ + ACE | 🔥 Day 7 — Week of Fire |
@@ -112,3 +122,4 @@ can't hear (quotes, `'s`), which need a **count**, not a listen.*
 | 2026-08-17 | 07 Golden Line | 2 | 20 | no (declined 🚀/🎤/ACE) | 📗 The Honest Truth, found & finished alone; swapped her own golden line |
 | 2026-08-18 | 10 Book Review | 2 | 40 | 🎤 read aloud | 📚 **Wonder** finished; ✌️ and-check self-caught → 1/3 |
 | 2026-08-19 | 12 Essay (day 1 of 3) | 1 | 25 | 🎤 read aloud | 📚 **Inside Out & Back Again**; ✌️+✍️ both clean → 2/3 |
+| 2026-08-23 | 02 Prediction | 2 | 20 | 🎤 read aloud | 📕 **Divergent** started; arguable claim unprompted; Watch untested → hold 2/3 |

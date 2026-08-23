@@ -105,6 +105,37 @@
       ]
     },
     {
+      "name": "Divergent",
+      "emoji": "🔥",
+      "total": 3,
+      "match": [
+        "^divergent\\b"
+      ],
+      "volumes": [
+        {
+          "n": 1,
+          "short": "Divergent",
+          "aliases": [
+            "divergent"
+          ]
+        },
+        {
+          "n": 2,
+          "short": "Insurgent",
+          "aliases": [
+            "insurgent"
+          ]
+        },
+        {
+          "n": 3,
+          "short": "Allegiant",
+          "aliases": [
+            "allegiant"
+          ]
+        }
+      ]
+    },
+    {
       "name": "Harry Potter",
       "emoji": "⚡",
       "total": 7,
@@ -241,56 +272,6 @@
       ]
     },
     {
-      "name": "The Maze Runner",
-      "emoji": "🌀",
-      "total": 5,
-      "match": [
-        "^the maze runner\\b"
-      ],
-      "volumes": [
-        {
-          "n": 1,
-          "short": "The Maze Runner",
-          "aliases": [
-            "the maze runner",
-            "maze runner"
-          ]
-        },
-        {
-          "n": 2,
-          "short": "The Scorch Trials",
-          "aliases": [
-            "the scorch trials",
-            "scorch trials"
-          ]
-        },
-        {
-          "n": 3,
-          "short": "The Death Cure",
-          "aliases": [
-            "the death cure",
-            "death cure"
-          ]
-        },
-        {
-          "n": 4,
-          "short": "The Kill Order",
-          "aliases": [
-            "the kill order",
-            "kill order"
-          ]
-        },
-        {
-          "n": 5,
-          "short": "The Fever Code",
-          "aliases": [
-            "the fever code",
-            "fever code"
-          ]
-        }
-      ]
-    },
-    {
       "name": "The Land of Stories",
       "emoji": "📖",
       "total": 6,
@@ -341,6 +322,56 @@
           "short": "Worlds Collide",
           "aliases": [
             "worlds collide"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Maze Runner",
+      "emoji": "🌀",
+      "total": 5,
+      "match": [
+        "^the maze runner\\b"
+      ],
+      "volumes": [
+        {
+          "n": 1,
+          "short": "The Maze Runner",
+          "aliases": [
+            "the maze runner",
+            "maze runner"
+          ]
+        },
+        {
+          "n": 2,
+          "short": "The Scorch Trials",
+          "aliases": [
+            "the scorch trials",
+            "scorch trials"
+          ]
+        },
+        {
+          "n": 3,
+          "short": "The Death Cure",
+          "aliases": [
+            "the death cure",
+            "death cure"
+          ]
+        },
+        {
+          "n": 4,
+          "short": "The Kill Order",
+          "aliases": [
+            "the kill order",
+            "kill order"
+          ]
+        },
+        {
+          "n": 5,
+          "short": "The Fever Code",
+          "aliases": [
+            "the fever code",
+            "fever code"
           ]
         }
       ]

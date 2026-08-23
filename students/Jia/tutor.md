@@ -37,6 +37,10 @@ proofreading catches her nothing. **But match the tool to the error:**
 | Agreement with *and* (*"Neville and Luna says"*) | 📖 **the rule, then the mic** | Sounds fine, so the ear can't *find* it — but once she knows the rule, the read-aloud is where she *applies* it (08-18) |
 | Quotation marks, possessive `'s` | ✌️ **a count** | Marks are silent; you can't hear punctuation |
 
+⭐ **New (08-23) — proven: the mic cannot fix silent marks.** She read the whole piece aloud and the
+missing quotation marks came back **still missing**. You can't say a quotation mark. **For `" "` and
+`'s`, ask her to TYPE the fixed sentence — re-reading it asks the wrong organ.**
+
 ## How to run a session with her
 
 - ⏱️ **Two rounds, then save. The most important line on the card.** On 08-17 four rounds bought 58
@@ -83,6 +87,12 @@ score a habit, ask for it out loud.
 📌 **The paragraph break is a KEYSTROKE problem, not a thinking problem.** She writes ¶2's content
 every time — hook/setup, then judgement — and simply never hits Enter. Say **"press Enter twice
 right before ___"** and point at her actual words. "Start a new paragraph" has never once worked.
+
+⭐ **New (08-23): an arguable claim, unprompted.** *"I predict that she is going to choose to be with
+her family"* — the exact thesis move she couldn't produce on 08-19. **Name it every time.**
+
+⚠️ **A build does not survive a book change.** The 3-day essay stranded at day 1 when she finished
+*Inside Out & Back Again* and moved on. **Only start one inside a book she's still reading.**
 
 ## Talk to her like this
 

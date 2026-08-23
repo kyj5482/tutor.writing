@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-23T17:36:37.949Z",
+  "generated": "2026-08-23T19:15:31.651Z",
   "students": [
     {
       "name": "Jaei",
@@ -1257,9 +1257,9 @@
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 1295,
-      "level": 13,
-      "streak": 3,
+      "xp": 1315,
+      "level": 14,
+      "streak": 1,
       "badges": [
         {
           "name": "First Words",
@@ -1377,8 +1377,8 @@
         }
       ],
       "stats": {
-        "entries": 32,
-        "activeDays": 31,
+        "entries": 33,
+        "activeDays": 32,
         "templatesUsed": [
           "01-summary",
           "02-prediction",
@@ -1398,23 +1398,38 @@
         "craft": 3,
         "compare": 0,
         "tier3": 0,
-        "readAlouds": 13,
-        "cleanEntries": 12,
-        "cleanStreak": 5,
+        "readAlouds": 14,
+        "cleanEntries": 13,
+        "cleanStreak": 6,
         "bestCleanStreak": 7,
         "lessons": 0,
         "bookReviews": 4,
-        "booksStarted": 9,
+        "booksStarted": 10,
         "booksFinished": 6,
         "maxWords": 162,
-        "totalWords": 2477,
+        "totalWords": 2526,
         "maxParagraphs": 3,
         "essayShaped": 0,
         "debateShaped": 0,
         "bestStreak": 8,
-        "streak": 3
+        "streak": 1
       },
       "books": [
+        {
+          "key": "divergent#1",
+          "title": "Divergent: Divergent",
+          "short": "Divergent",
+          "series": "Divergent",
+          "seriesEmoji": "🔥",
+          "seriesTotal": 3,
+          "volume": 1,
+          "author": "Veronica Roth",
+          "entries": 1,
+          "words": 49,
+          "first": "2026-08-23",
+          "last": "2026-08-23",
+          "finished": false
+        },
         {
           "key": "book:inside out & back again",
           "title": "Inside Out & Back Again",
@@ -2447,6 +2462,34 @@
           "watchSlip": false,
           "build": "Essay — day 1 of 3",
           "excerpt": "In inside out back again, I think it was a very emotional story. I think this because of two things. The first reason is that when Ha's family moved to America, they were sometimes"
+        },
+        {
+          "file": "students/Jia/journal/2026-08-23-02-prediction.md",
+          "date": "2026-08-23",
+          "slug": "02-prediction",
+          "book": "Divergent: Divergent",
+          "bookKey": "divergent#1",
+          "bookShort": "Divergent",
+          "series": "Divergent",
+          "seriesEmoji": "🔥",
+          "volume": 1,
+          "author": "Veronica Roth",
+          "reading": "just started — the choosing ceremony",
+          "tier": 2,
+          "xp": 20,
+          "words": 49,
+          "paragraphs": 1,
+          "hasRevision": false,
+          "hasBonus": false,
+          "quote": false,
+          "counter": false,
+          "craft": false,
+          "compare": false,
+          "readAloud": true,
+          "watchClean": true,
+          "watchSlip": false,
+          "build": null,
+          "excerpt": "So far in Divergent, Beatrice has to choose. I predict that she is going to choose to be with her family. I think this because in the book she says, I don't know what to choose. Th"
         }
       ],
       "reports": [
