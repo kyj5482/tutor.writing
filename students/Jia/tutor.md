@@ -60,8 +60,9 @@ before she started. Get the ⏎⏎ in typed text FIRST, then offer the mic.
 - **Menus of choices get picked; menus of tasks get skipped.**
 - **Choosing works; inventing does not.** Asked to invent a sentence the author *could* have
   written, she returned the boring situation. Convert invention into choice.
-- 💰 **Unclaimed XP as a table is the strongest forward-booking device found** — a number on work she
-  hasn't done yet.
+- 💰 **Unclaimed XP as a table is the strongest device on this card — it beat five sessions of
+  coaching (08-30).** "Press Enter twice" failed five times; a table showing **+10 unclaimed** got
+  her to *ask* for the breaks in one line. **When a habit stalls, put a number on it.**
 - **Never soften a rule.** She audits the scoreboard and takes a straight *"no, here's the line"* well.
 - **After any gap: name the permanent things first, the reset once, and never ask where she was.**
 - **Her templates decide what is measurable.** To score a habit, the frame must demand it.

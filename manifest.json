@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-30T01:58:26.199Z",
+  "generated": "2026-08-30T02:03:18.802Z",
   "students": [
     {
       "name": "Jaei",
@@ -1257,7 +1257,7 @@
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 1335,
+      "xp": 1345,
       "level": 14,
       "streak": 1,
       "badges": [
@@ -2504,9 +2504,9 @@
           "author": "Veronica Roth",
           "reading": "**finished the book today**",
           "tier": 1,
-          "xp": 20,
+          "xp": 30,
           "words": 110,
-          "paragraphs": 1,
+          "paragraphs": 3,
           "hasRevision": true,
           "hasBonus": false,
           "quote": true,

@@ -7,7 +7,7 @@
   (07-20, 766 pages) · Half-Blood Prince (07-30) · **Deathly Hallows (08-06 — the whole seven-book
   series, ~3,400 pages since 06-09)**; **The Honest Truth by Dan Gemeinhart (08-17)**; **Wonder by R.J. Palacio (08-18)**; **Inside Out & Back Again by
   Thanhhà Lại (08-19)**; **Divergent by Veronica Roth (08-30, 487 pages)**
-- **Last entry:** 2026-08-30 — 12 Essay, Tier 1 (105 words, 🎤 read aloud, Watch items untested **2nd session running** → hold 2/3)
+- **Last entry:** 2026-08-30 — 12 Essay, Tier 1 (105 words, **3 ¶ after revision**, 🎤 read aloud, Watch items untested **2nd session running** → hold 2/3)
 
 > 📌 **Arguable claims are arriving unprompted** (08-23 *"she is going to choose to be with her
 > family"*). Name it every time — it is her Style/thesis promotion forming.
@@ -15,14 +15,15 @@
 > she typed both quotes correctly on 08-30. For `" "` and `'s`, **name it, then have her type it.**
 > ✅ **Essay done in ONE day (08-30), not a build.** Tier 1's frame is ~150 words — when she finishes
 > a book, run 12 as a single session. No build to strand.
-> ⚠️ **FIVE straight sessions with no ¶ break — and 08-30 proves why.** Pointing at her own words
-> was not the problem; **the ⏎⏎ was asked in the same message as the mic, and dictation cannot type
-> an Enter.** Ask for the break, get it, THEN offer the mic. Never both at once.
+> ⚡ **08-30 — she ASKED for the paragraph breaks.** Five sessions of "press Enter twice" produced
+> nothing; **an unclaimed-XP table produced it in one line.** The tutor typed them, so the habit is
+> still unproven — but she now knows where they go. Next session: the ⏎⏎ is the ONLY ask, before
+> the mic (dictation cannot type an Enter — that is what killed it earlier today).
 
 ## Game stats
 
 - **Level:** 14 — 👑 Master Author
-- **XP:** 1335 (next level at 1400 — **65 to go**)
+- **XP:** 1345 (next level at 1400 — **55 to go**)
 - **Current streak:** 1 day (best: 8) — restarted 08-30 after 6 days off. **Again not a reading gap**
   — she read all of *Divergent* in it. Name the permanent things first, the reset once, and never
   ask where she was.
@@ -114,4 +115,4 @@ aloud left the missing quotation marks missing.*
 | 2026-08-18 | 10 Book Review | 2 | 40 | 🎤 read aloud | 📚 **Wonder** finished; ✌️ and-check self-caught → 1/3 |
 | 2026-08-19 | 12 Essay (day 1 of 3) | 1 | 25 | 🎤 read aloud | 📚 **Inside Out & Back Again**; ✌️+✍️ both clean → 2/3 |
 | 2026-08-23 | 02 Prediction | 2 | 20 | 🎤 read aloud | 📕 **Divergent** started; arguable claim unprompted; Watch untested → hold 2/3 |
-| 2026-08-30 | 12 Essay | 1 | 20 | 🎤 read aloud | 📕 **Divergent finished**; quote marks landed; no ¶ break; Watch untested ×2 |
+| 2026-08-30 | 12 Essay | 1 | 30 | ✅ + 🎤 | 📕 **Divergent finished**; quote marks landed; **asked for the ¶ breaks**; Watch untested ×2 |
