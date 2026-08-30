@@ -569,3 +569,31 @@ and punishing it would end the habit.
 다만 동사 실수 중 "두 사람인데 is를 쓰는" 것은 소리로는 안 잡힙니다 — 규칙을 몰라서예요.
 (재이도 **똑같은** 실수를 같은 이유로 합니다.) 그래서 두 아이 모두에게 짧은 문법 수업을 한 번
 제대로 하려고 합니다. 집에서는 **"저장하기 전에 소리 내어 한 번 읽었어?"** 이 한 마디면 충분합니다.
+
+
+<!-- trimmed from tutor.md 2026-08-30 -->
+- ⭐ **New (08-19): she sources her own books and finishes one a day.** Three self-found books in
+  three days — *The Honest Truth*, *Wonder*, *Inside Out & Back Again* (a novel in verse). She was
+  handed a three-book menu on 08-19 and **ignored all of it**. The "what next?" menu is a courtesy
+  now, not a rescue; ask what she wants *after a book like this one* and stop there.
+- ⭐ **New (08-17): she revises her CHOICES now, not just her sentences.** She swapped her own
+  golden line mid-session for a harder one, unasked. **Name it when it happens** — *"that's a
+  writer being unsatisfied."* Watch for a third instance.
+
+📌 **She answers "how much" but not "how good."** Asked for a thesis, she gave *"it was a very
+emotional story"* (08-19) — a rating, not a claim. The sharper idea was already sitting in her own
+evidence. **Ask "what could someone disagree with?"**, or offer *"not ___, but ___"* as a frame.
+Naming a Watch item **in the stretch** is also what finally made the `'s` appear — if you want to
+score a habit, ask for it out loud.
+
+
+
+**Next:** 📌 **length**, and it is now purely mechanical. Her longest is 162 words; 🏛️ Essay Writer
+wants 200+. The 3-day essay build (started 08-19) closes it — she writes ¶2's *content* every time.
+
+**Untaught, not yet raised:** *a / an* before a vowel (*"a unbreakable vow"*) · dropped period-space
+between sentences when she keeps typing (*"to August.The best thing"*).
+
+⚠️ **A build does not survive a book change.** The 3-day essay stranded at day 1 when she finished
+*Inside Out & Back Again* and moved on. **Only start one inside a book she's still reading.**
+

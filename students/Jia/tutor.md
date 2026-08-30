@@ -8,22 +8,20 @@
 
 ## Who she is
 
-- **Immersive reader with real stamina.** Harry Potter 3→7 (~3,400 pages) between 06-09 and 08-06,
-  including the 766-page *Order of the Phoenix*. Her limit is time, not attention.
+- **Immersive reader with real stamina.** Harry Potter 3→7 (~3,400 pages) in 8 weeks. Her limit is
+  time, not attention.
 - **What hooks her:** friendship and loyalty, unfairness done to someone she likes, secrets.
 - **She is a noticer.** *"Sirius Black was first really happy for him but became moodier and
   surlier."* (07-05) Nobody asked her about Sirius's mood.
-- **Her subject is what a choice COSTS someone.** Sirius going quiet · Slughorn's guilt · Lupin
-  afraid of what he passed on · McGonagall trading her life. Six entries, never prompted.
+- **Her subject is what a choice COSTS someone.** Sirius going quiet · Slughorn's guilt · McGonagall
+  trading her life · Tris sparing Tobias. Seven entries, never prompted.
 - **She is honest and a little funny** — *"One thing that could be better is if Professor Umbridge
   died in the end."* Never sand this off.
-- ⭐ **New (08-19): she sources her own books and finishes one a day.** Three self-found books in
-  three days — *The Honest Truth*, *Wonder*, *Inside Out & Back Again* (a novel in verse). She was
-  handed a three-book menu on 08-19 and **ignored all of it**. The "what next?" menu is a courtesy
-  now, not a rescue; ask what she wants *after a book like this one* and stop there.
-- ⭐ **New (08-17): she revises her CHOICES now, not just her sentences.** She swapped her own
-  golden line mid-session for a harder one, unasked. **Name it when it happens** — *"that's a
-  writer being unsatisfied."* Watch for a third instance.
+- ⭐ **She sources her own books** — five self-found since 08-17, incl. all of *Divergent* during a
+  6-day gap. A "what next?" menu is a courtesy, not a rescue: ask what she wants *after a book like
+  this one*, and stop there.
+- ⭐ **She revises her CHOICES, not just her sentences** (08-17, swapped her own golden line unasked).
+  Name it: *"that's a writer being unsatisfied."*
 
 ## ⚠️ Her ear is excellent. Her eye is not.
 
@@ -37,34 +35,37 @@ proofreading catches her nothing. **But match the tool to the error:**
 | Agreement with *and* (*"Neville and Luna says"*) | 📖 **the rule, then the mic** | Sounds fine, so the ear can't *find* it — but once she knows the rule, the read-aloud is where she *applies* it (08-18) |
 | Quotation marks, possessive `'s` | ✌️ **a count** | Marks are silent; you can't hear punctuation |
 
-⭐ **New (08-23) — proven: the mic cannot fix silent marks.** She read the whole piece aloud and the
-missing quotation marks came back **still missing**. You can't say a quotation mark. **For `" "` and
-`'s`, ask her to TYPE the fixed sentence — re-reading it asks the wrong organ.**
+⭐ **The mic cannot fix silent marks — but the RULE can.** 08-23 she read aloud and the missing
+quotation marks stayed missing. Told the rule once, she typed both quotes correctly on 08-30.
+**Name the mark, then have her TYPE it. Never re-read it.**
+
+🔴 **Never ask for a keystroke in the same message as the mic (08-30).** She was asked for ⏎⏎ *and*
+offered the mic; she dictated — and **dictation cannot type an Enter**, so the break was impossible
+before she started. Get the ⏎⏎ in typed text FIRST, then offer the mic.
 
 ## How to run a session with her
 
 - ⏱️ **Two rounds, then save. The most important line on the card.** On 08-17 four rounds bought 58
-  words and **every decline came after the third ask** (🚀, 🎤, ACE — all after *"I'm good."*).
-  **Fewer, bigger questions — and offer the mic EARLY**, before the writing is finished.
+  words; every decline came after the third ask. **Fewer, bigger questions — offer the mic EARLY.**
+- 🔢 **One ask per message — she completes the SMALLEST ones (08-30).** Given five things (⏎⏎, `'s`,
+  and-verb, mic, a spelling fix) she did the mic and the spelling and dropped the other three. **A
+  list of asks is a menu of tasks, and menus of tasks get skipped.** Ask for the hardest thing alone.
 - **Ask both halves in ONE question.** Split into two prompts, she answers the first and stops:
   she gave *"the word I keep looking at is die"* and never gave the *because* — which would have
   been her Style promotion. Say *"Which word — and who normally says it?"*
 - **Warm-up works on her** (unlike Jaei). Greeting, badges, level — keep the game visible.
-- **Concrete gets done; abstract gets declined.** Write every stretch as a fill-in-the-blank with
-  an example sentence.
+- **Concrete gets done; abstract gets declined.** Every stretch = a fill-in-the-blank.
 - **Show both slots on screen.** *"This shows ______. It also means ______."* fixed in one night
   what three sessions of asking her to elaborate never moved.
 - **Menus of choices get picked; menus of tasks get skipped.**
 - **Choosing works; inventing does not.** Asked to invent a sentence the author *could* have
   written, she returned the boring situation. Convert invention into choice.
-- 💰 **Unclaimed XP as a concrete table is the strongest forward-booking device found.** It works
-  because it's attached to work she **hasn't done yet**, with a number on it.
-- **Never soften a rule to avoid disappointing her.** She audits the scoreboard (08-02, 08-17) and
-  takes a straight *"no, here's the line"* well.
+- 💰 **Unclaimed XP as a table is the strongest forward-booking device found** — a number on work she
+  hasn't done yet.
+- **Never soften a rule.** She audits the scoreboard and takes a straight *"no, here's the line"* well.
 - **After any gap: name the permanent things first, the reset once, and never ask where she was.**
-- **Her templates decide what is even measurable.** If you want to score a habit, the frame must
-  demand it — and name it out loud in the stretch.
-- **Never score a mishearing as her error.** Budget one confirm message per read-aloud.
+- **Her templates decide what is measurable.** To score a habit, the frame must demand it.
+- **Never score a mishearing as her error** (08-30: the mic heard *Tris* as *stress* and *trust*).
 
 ## Where she is now
 
@@ -72,17 +73,11 @@ missing quotation marks came back **still missing**. You can't say a quotation m
 ACE format · a quote inside a main entry (07-27) · paragraph breaks when asked (07-30) · the
 two-sentence explanation (08-03) · conceding a counterargument (08-05).
 
-**Next:** 📌 **length**, and it is now purely mechanical. Her longest is 162 words; 🏛️ Essay Writer
-wants 200+. The 3-day essay build (started 08-19) closes it — she writes ¶2's *content* every time.
+**Next:** 📌 **the ⏎⏎.** She writes all three paragraphs' *content* every time (08-30 proved it) and
+never breaks them. This is the last thing between her and 🏛️ Essay Writer.
 
-**Untaught, not yet raised:** *a / an* before a vowel (*"a unbreakable vow"*) · dropped period-space
-between sentences when she keeps typing (*"to August.The best thing"*).
-
-📌 **She answers "how much" but not "how good."** Asked for a thesis, she gave *"it was a very
-emotional story"* (08-19) — a rating, not a claim. The sharper idea was already sitting in her own
-evidence. **Ask "what could someone disagree with?"**, or offer *"not ___, but ___"* as a frame.
-Naming a Watch item **in the stretch** is also what finally made the `'s` appear — if you want to
-score a habit, ask for it out loud.
+**Untaught, not yet raised:** *a / an* before a vowel · dropped period-space between sentences ·
+*stimulation* for *simulation* (08-30, ×2 — told once, not scored).
 
 📌 **The paragraph break is a KEYSTROKE problem, not a thinking problem.** She writes ¶2's content
 every time — hook/setup, then judgement — and simply never hits Enter. Say **"press Enter twice
@@ -91,8 +86,8 @@ right before ___"** and point at her actual words. "Start a new paragraph" has n
 ⭐ **New (08-23): an arguable claim, unprompted.** *"I predict that she is going to choose to be with
 her family"* — the exact thesis move she couldn't produce on 08-19. **Name it every time.**
 
-⚠️ **A build does not survive a book change.** The 3-day essay stranded at day 1 when she finished
-*Inside Out & Back Again* and moved on. **Only start one inside a book she's still reading.**
+⚠️ **Builds don't survive a book change or a gap.** She finishes books fast. **Run 12 Essay at Tier 1
+as a ONE-day piece the day she finishes a book** — that worked on 08-30.
 
 ## Talk to her like this
 

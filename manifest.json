@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-23T19:15:31.651Z",
+  "generated": "2026-08-30T01:58:26.199Z",
   "students": [
     {
       "name": "Jaei",
@@ -1257,7 +1257,7 @@
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 1315,
+      "xp": 1335,
       "level": 14,
       "streak": 1,
       "badges": [
@@ -1377,8 +1377,8 @@
         }
       ],
       "stats": {
-        "entries": 33,
-        "activeDays": 32,
+        "entries": 34,
+        "activeDays": 33,
         "templatesUsed": [
           "01-summary",
           "02-prediction",
@@ -1391,23 +1391,23 @@
           "09-quick-write-321",
           "10-book-review"
         ],
-        "revisions": 16,
+        "revisions": 17,
         "ace": 28,
-        "quotes": 16,
+        "quotes": 17,
         "counter": 6,
         "craft": 3,
         "compare": 0,
         "tier3": 0,
-        "readAlouds": 14,
-        "cleanEntries": 13,
-        "cleanStreak": 6,
+        "readAlouds": 15,
+        "cleanEntries": 14,
+        "cleanStreak": 7,
         "bestCleanStreak": 7,
         "lessons": 0,
         "bookReviews": 4,
         "booksStarted": 10,
-        "booksFinished": 6,
+        "booksFinished": 7,
         "maxWords": 162,
-        "totalWords": 2526,
+        "totalWords": 2636,
         "maxParagraphs": 3,
         "essayShaped": 0,
         "debateShaped": 0,
@@ -1424,11 +1424,11 @@
           "seriesTotal": 3,
           "volume": 1,
           "author": "Veronica Roth",
-          "entries": 1,
-          "words": 49,
+          "entries": 2,
+          "words": 159,
           "first": "2026-08-23",
-          "last": "2026-08-23",
-          "finished": false
+          "last": "2026-08-30",
+          "finished": true
         },
         {
           "key": "book:inside out & back again",
@@ -2490,6 +2490,34 @@
           "watchSlip": false,
           "build": null,
           "excerpt": "So far in Divergent, Beatrice has to choose. I predict that she is going to choose to be with her family. I think this because in the book she says, I don't know what to choose. Th"
+        },
+        {
+          "file": "students/Jia/journal/2026-08-30-12-essay.md",
+          "date": "2026-08-30",
+          "slug": "12-essay",
+          "book": "Divergent: Divergent",
+          "bookKey": "divergent#1",
+          "bookShort": "Divergent",
+          "series": "Divergent",
+          "seriesEmoji": "🔥",
+          "volume": 1,
+          "author": "Veronica Roth",
+          "reading": "**finished the book today**",
+          "tier": 1,
+          "xp": 20,
+          "words": 110,
+          "paragraphs": 1,
+          "hasRevision": true,
+          "hasBonus": false,
+          "quote": true,
+          "counter": false,
+          "craft": false,
+          "compare": false,
+          "readAloud": true,
+          "watchClean": true,
+          "watchSlip": false,
+          "build": null,
+          "excerpt": "In Divergent, I think Tris became really brave and selfless. I think this because of two things. The first reason is that when Tobias was going to kill Tris, Tris didn't kill Tobia"
         }
       ],
       "reports": [
