@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-30T02:03:18.802Z",
+  "generated": "2026-09-02T03:23:30.863Z",
   "students": [
     {
       "name": "Jaei",
@@ -1257,7 +1257,7 @@
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 1345,
+      "xp": 1375,
       "level": 14,
       "streak": 1,
       "badges": [
@@ -1377,8 +1377,8 @@
         }
       ],
       "stats": {
-        "entries": 34,
-        "activeDays": 33,
+        "entries": 35,
+        "activeDays": 34,
         "templatesUsed": [
           "01-summary",
           "02-prediction",
@@ -1391,23 +1391,23 @@
           "09-quick-write-321",
           "10-book-review"
         ],
-        "revisions": 17,
+        "revisions": 18,
         "ace": 28,
         "quotes": 17,
         "counter": 6,
         "craft": 3,
         "compare": 0,
         "tier3": 0,
-        "readAlouds": 15,
-        "cleanEntries": 14,
-        "cleanStreak": 7,
-        "bestCleanStreak": 7,
+        "readAlouds": 16,
+        "cleanEntries": 15,
+        "cleanStreak": 8,
+        "bestCleanStreak": 8,
         "lessons": 0,
         "bookReviews": 4,
         "booksStarted": 10,
         "booksFinished": 7,
         "maxWords": 162,
-        "totalWords": 2636,
+        "totalWords": 2708,
         "maxParagraphs": 3,
         "essayShaped": 0,
         "debateShaped": 0,
@@ -1424,10 +1424,10 @@
           "seriesTotal": 3,
           "volume": 1,
           "author": "Veronica Roth",
-          "entries": 2,
-          "words": 159,
+          "entries": 3,
+          "words": 231,
           "first": "2026-08-23",
-          "last": "2026-08-30",
+          "last": "2026-09-02",
           "finished": true
         },
         {
@@ -2518,6 +2518,34 @@
           "watchSlip": false,
           "build": null,
           "excerpt": "In Divergent, I think Tris became really brave and selfless. I think this because of two things. The first reason is that when Tobias was going to kill Tris, Tris didn't kill Tobia"
+        },
+        {
+          "file": "students/Jia/journal/2026-09-02-08-connection.md",
+          "date": "2026-09-02",
+          "slug": "08-connection",
+          "book": "Divergent: Divergent",
+          "bookKey": "divergent#1",
+          "bookShort": "Divergent",
+          "series": "Divergent",
+          "seriesEmoji": "🔥",
+          "volume": 1,
+          "author": "Veronica Roth",
+          "reading": "revisiting — finished it 08-30",
+          "tier": 2,
+          "xp": 30,
+          "words": 72,
+          "paragraphs": 2,
+          "hasRevision": true,
+          "hasBonus": false,
+          "quote": false,
+          "counter": false,
+          "craft": false,
+          "compare": false,
+          "readAloud": true,
+          "watchClean": true,
+          "watchSlip": false,
+          "build": null,
+          "excerpt": "In the book, Tris got really brave at the end. This reminds me of when I got more brave at school. They're alike because we both got more brave after some time. But they're differe"
         }
       ],
       "reports": [

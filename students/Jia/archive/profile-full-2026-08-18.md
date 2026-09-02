@@ -293,3 +293,5 @@ aloud **with** question intonation, so her ear has it; her eye doesn't).)*
 | 2026-07-31 | 06 Rewrite the Scene | 2 | 70 (incl 🎟️40) | ACE | 📕 Started Deathly Hallows |
 
 | 2026-07-31 | 04 Opinion | 2 | 30 | ACE | Second entry same day |
+
+| 2026-08-01 | 03 Character Diary | 2 | 30 | ACE | Lupin / the baby |

@@ -1,32 +1,28 @@
 # Profile — Jia
 
 - **Grade:** 6
-- **Current book:** **between books** — finished *Divergent* 08-30. Asked what she wants next; she
-  hasn't answered yet. ➡️ **Never hand her a book unasked.** She sources her own and always has.
+- **Current book:** **between books** — wrote on *Divergent* again 09-02. ➡️ **Never hand her a book
+  unasked.** She sources her own and always has.
 - **Books finished:** Harry Potter — Prisoner of Azkaban · Goblet of Fire · Order of the Phoenix
   (07-20, 766 pages) · Half-Blood Prince (07-30) · **Deathly Hallows (08-06 — the whole seven-book
   series, ~3,400 pages since 06-09)**; **The Honest Truth by Dan Gemeinhart (08-17)**; **Wonder by R.J. Palacio (08-18)**; **Inside Out & Back Again by
   Thanhhà Lại (08-19)**; **Divergent by Veronica Roth (08-30, 487 pages)**
-- **Last entry:** 2026-08-30 — 12 Essay, Tier 1 (105 words, **3 ¶ after revision**, 🎤 read aloud, Watch items untested **2nd session running** → hold 2/3)
+- **Last entry:** 2026-09-02 — 08 Connection, Tier 2 (**2 ¶ — she typed the break HERSELF**, 🎤 read aloud, Watch items untested **3rd session running** → hold 2/3)
 
-> 📌 **Arguable claims are arriving unprompted** (08-23 *"she is going to choose to be with her
-> family"*). Name it every time — it is her Style/thesis promotion forming.
-> ⚠️ **The mic cannot fix silent marks** — but the *rule* can: told the marks were missing on 08-23,
-> she typed both quotes correctly on 08-30. For `" "` and `'s`, **name it, then have her type it.**
-> ✅ **Essay done in ONE day (08-30), not a build.** Tier 1's frame is ~150 words — when she finishes
-> a book, run 12 as a single session. No build to strand.
-> ⚡ **08-30 — she ASKED for the paragraph breaks.** Five sessions of "press Enter twice" produced
-> nothing; **an unclaimed-XP table produced it in one line.** The tutor typed them, so the habit is
-> still unproven — but she now knows where they go. Next session: the ⏎⏎ is the ONLY ask, before
-> the mic (dictation cannot type an Enter — that is what killed it earlier today).
+> 📌 **Arguable claims arrive unprompted** (08-23). Name it every time — her Style promotion forming.
+> ⚠️ **The mic cannot fix silent marks — the *rule* can.** For `" "` and `'s`, **name it, then have
+> her type it** (proved 08-23 → 08-30).
+> ✅ **Run 12 Essay as a ONE-day piece** the day she finishes a book (08-30). No build to strand.
+> 🎉 **09-02 — the ¶ break is SOLVED: in Claude Code, Enter *sends*.** Six sessions asked for a
+> keystroke the interface forbade. Told **Shift+Enter** once, she did it next try. **When a kid
+> fails the same ask six times, suspect the ask.**
 
 ## Game stats
 
 - **Level:** 14 — 👑 Master Author
-- **XP:** 1345 (next level at 1400 — **55 to go**)
-- **Current streak:** 1 day (best: 8) — restarted 08-30 after 6 days off. **Again not a reading gap**
-  — she read all of *Divergent* in it. Name the permanent things first, the reset once, and never
-  ask where she was.
+- **XP:** 1375 (next level at 1400 — **25 to go**)
+- **Current streak:** 1 day (best: 8) — reset 09-02 after 08-31/09-01 off. Name the permanent
+  things first, the reset once, and never ask where she was.
 
 > ⏰ **Timezone:** US — `date -u` reads a day ahead in the evening. Take the student's local date;
 > **if the clock and the student disagree, the student wins** (08-02).
@@ -62,35 +58,33 @@
 
 | Skill | Tier | Next step |
 |-------|------|-----------|
-| Structure | 2 | Tier 3 = 2 more entries where she breaks paragraphs **unasked** |
+| Structure | 2 | Tier 3 = 2 entries where she breaks paragraphs **unasked**. 09-02 she typed one when asked — the keystroke is unblocked, so this is now reachable |
 | Evidence | 2 | Promoted 07-27 (first quote inside a main entry) |
 | Explanation | 2 | Two-sentence E landed 08-03 & 08-06 — show both slots on screen |
 | Style | 1 | 2 of ~3 word-choice moves. 08-17 gave the pick, not the **because** — ask both halves in ONE question |
 
 ## Focus skill this week
 
-**Shape B — two paragraphs.** Her ceiling is length, not ideas: **30 of 32 entries are one
-paragraph**, longest ever 162 words. She writes ¶2's *content* every time and never hits Enter.
-**Make the ⏎⏎ the only ask of the session** — five sessions running have proved it survives no
-competition.
+**Shape B — two paragraphs.** ✅ **Landed 09-02** — she typed the break herself once she was given
+**Shift+Enter**. Hold her here until it's automatic, then Shape C. The ask is now cheap, so it no
+longer needs to be the session's only ask.
 
 ## Writing goal
 
 - **Aiming for:** scholar — 🎓 **Scholar** · **Chosen:** 2026-07-30 (picked the hardest stage on
   the menu, not the nearest — never talk her down, show her the path instead)
 - **Path:** 🔍 Evidence Writer *(here)* → 🏛️ Essay Writer → ⚖️ Debater → 🔬 Critic → 🎓 Scholar
-- **Nearest milestone: 🏛️ Essay Writer** — 3 paragraphs + 200 words. **Paragraphs are the gap, not
-  length** (08-30: she wrote all three, unbroken). Get the ⏎⏎ and the stage is one long entry away.
+- **Nearest milestone: 🏛️ Essay Writer** — 3 paragraphs + 200 words. The keystroke barrier fell
+  09-02; what's left is one long entry with three breaks she types herself.
 
 ## Watch list
 
 - [ ] **✌️ The "and" check** — clean streak: **2/3** · *"fruit and foods **are**"* — correct, unprompted (08-19) · **count the doers; 2+ → the verb drops its -s.**
 - [ ] **✍️ Possessive `'s`** — clean streak: **2/3** · *"**Ha's** family"* ×2, *"**Vietnam's** fruit"* (08-19) · **find every "X's thing" and check the `'s` is there.**
 
-⚠️ **Untestable TWICE now (08-23, 08-30)** — no compound subject, no possessive either day, so both
-still hold at 2/3. An untestable entry must never advance a streak. **Naming them in the stretch is
-no longer enough** — on 08-30 they were named and lost to a four-item message. **Next session make a
-Watch sentence the ONLY ask, or run the ⭐ ACE round, where a `'s` almost always appears.**
+⚠️ **Untestable ×3 (08-23, 08-30, 09-02)** — no compound subject, no `'s` on any of the three days;
+an untestable entry never advances a streak. Offering the ACE round *last* has failed twice.
+**Next session: OPEN with the ⭐ ACE round — the only frame that reliably produces a `'s`.**
 
 🎉 **One clean, testable entry each and BOTH retire — say that out loud.** She audits the scoreboard.
 
@@ -102,11 +96,10 @@ aloud left the missing quotation marks missing.*
 
 ## Session log
 
-*Rows before 2026-07-31 (and the 07-31 Rewrite row) are in `archive/profile-full-2026-08-18.md`.*
+*Rows before 2026-08-02 are in `archive/profile-full-2026-08-18.md`.*
 
 | Date | Template | Tier | XP | Stretch? | Notes |
 |------|----------|------|----|----------|-------|
-| 2026-08-01 | 03 Character Diary | 2 | 30 | ACE | Lupin / the baby |
 | 2026-08-02 | 08 Connection | 2 | 60 | ✅ + ACE | 🔥 Day 7 — Week of Fire |
 | 2026-08-03 | 01 Summary | 2 | 30 | ACE | 🆙 Level 12 👑 |
 | 2026-08-05 | 04 Opinion | 2 | 35 | ACE | McGonagall; conceded counterargument |
@@ -116,3 +109,4 @@ aloud left the missing quotation marks missing.*
 | 2026-08-19 | 12 Essay (day 1 of 3) | 1 | 25 | 🎤 read aloud | 📚 **Inside Out & Back Again**; ✌️+✍️ both clean → 2/3 |
 | 2026-08-23 | 02 Prediction | 2 | 20 | 🎤 read aloud | 📕 **Divergent** started; arguable claim unprompted; Watch untested → hold 2/3 |
 | 2026-08-30 | 12 Essay | 1 | 30 | ✅ + 🎤 | 📕 **Divergent finished**; quote marks landed; **asked for the ¶ breaks**; Watch untested ×2 |
+| 2026-09-02 | 08 Connection | 2 | 30 | ✅ + 🎤 | 🎉 **typed the ¶ break herself** — Shift+Enter, not Enter; Watch untested ×3 |

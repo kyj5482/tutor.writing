@@ -597,3 +597,11 @@ between sentences when she keeps typing (*"to August.The best thing"*).
 ⚠️ **A build does not survive a book change.** The 3-day essay stranded at day 1 when she finished
 *Inside Out & Back Again* and moved on. **Only start one inside a book she's still reading.**
 
+
+## Moved out of the card 2026-09-02 (kept in profile.md header notes)
+
+⭐ **New (08-23): an arguable claim, unprompted.** *"I predict that she is going to choose to be with
+her family"* — the exact thesis move she couldn't produce on 08-19. **Name it every time.**
+
+⚠️ **Builds don't survive a book change or a gap.** She finishes books fast. **Run 12 Essay at Tier 1
+as a ONE-day piece the day she finishes a book** — that worked on 08-30.
