@@ -78,9 +78,9 @@ nobody asks on a normal day. Ask: *"Three blocks. Second one is the counter."*
 - **Shape now:** C (3 ¶) — held **1/3** (08-23: 187 w, blocks typed first) · **next:** hold C
 - **Nearest milestone:** 🔬 Critic — craft move in 5 entries ⬜ · 3 book reviews ⬜ · all four
   skills at Tier 3 (**Style is ready — promote at the next weekly**) ⬜ · a 450-word entry ⬜
-- **Next 3 sessions:** ① a craft claim with **what it costs and what it buys**, in an *ordinary*
-  entry ② **14 Craft Analysis**, 2-day build, on whatever he's reading now ③ the build's final
-  day — where the 450-word entry actually comes from
+- **Next 3 sessions:** ① name a technique and say **what it costs and what it buys** — on an
+  ordinary night, not only inside a build ② **14 Craft Analysis**, a 2-day build on whatever
+  you're reading now ③ day 2 of that build — where the 450-word entry actually comes from
 - **Last example:** unrecorded before 2026-09-04 → **start the cycle at grade8-the-giver**
 - 🧱 **Always hand him the empty blocks before the content** — he builds to a container and will
   not retrofit one.
