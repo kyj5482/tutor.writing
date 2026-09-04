@@ -75,8 +75,9 @@ break. Get the keystroke in typed text FIRST, then offer the mic.
 ACE format · a quote in a main entry (07-27) · the two-sentence explanation (08-03) · conceding a
 counterargument (08-05) · **the ⇧+Enter break (09-02, 09-03)**.
 
-**Next:** 📌 **three breaks, typed by her.** The keystroke barrier fell 09-02 — she now owns
-Shift+Enter. Shape C (3 ¶) is the last thing between her and 🏛️ Essay Writer.
+**Next:** 📌 **her first Tier-3 entry.** 09-04 audit: **36 entries, zero at Tier 3** — not because
+she can't (she does every Tier-3 move separately) but because nobody has offered it. ➡️ **Offer the
+harder tier by default now and let her drop, the way Jaei gets it.** Then Shape C (3 ¶).
 
 **Untaught, not yet raised:** *a / an* before a vowel · dropped period-space · noun-for-adjective
 (*"very adventures book"*, 09-03).
