@@ -26,7 +26,25 @@
 
 ## Focus skill this week
 
-<one skill, set at /setup or by the weekly report>
+<one growth skill, set at /setup or by the weekly report — recurring mechanical slips
+belong on the Watch list, not here>
+
+## Step-up plan
+
+*The answer to "am I actually getting better?" — one line each, re-read every session.*
+
+- **Shape now:** A (1 ¶) — held 0/3 · **next:** B (2 ¶, with a turn)
+- **Nearest milestone:** 📝 Journal Writer — 3 entries ⬜ · 2 templates ⬜ · Structure Tier 1 ⬜
+- **Next 3 sessions:** ① a specific detail with a real name ② a *because* sentence
+  ③ a first turn — *"but"*
+- **Last example:** (none yet)
+
+## Writing goal
+
+*The student picks this on the portfolio's 🪜 My Ladder page — never assign one.*
+
+- **Aiming for:** <journal · paragraph · evidence · essay · debater · critic · scholar>
+- **Chosen:** <date> · **Why:** <their own words>
 
 ## Watch list
 

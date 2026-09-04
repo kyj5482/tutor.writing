@@ -97,6 +97,9 @@ if (!list.length) {
   process.exit(0);
 }
 
+/* 4 turns: ask → set up → they write → close. A 5th is the optional ACE round. */
+const TURN_BUDGET = 5;
+
 const label = showAll ? 'all sessions' : '/today sessions';
 console.log(`\n📊 Tutor LLM time — ${label} (student typing excluded)\n`);
 console.log('  date        who    turns   total LLM   slowest turn');
@@ -113,9 +116,11 @@ const maxes = list.map((s) => s.maxMs);
 
 console.log(`\n  Summary over ${list.length} session(s)`);
 console.log(`    total LLM time   median ${fmt(median(totals))} · mean ${fmt(totals.reduce((a, b) => a + b, 0) / totals.length)} · p90 ${fmt(pct(totals, 90))}`);
-console.log(`    turns/session    median ${median(turns)} · budget 3 ${median(turns) <= 3 ? '✅' : '⚠️  over budget'}`);
-console.log(`    slowest turn     median ${fmt(median(maxes))} · worst ${fmt(Math.max(...maxes))}`);
+console.log(`    turns/session    median ${median(turns)} · budget ${TURN_BUDGET} ${median(turns) <= TURN_BUDGET ? '✅' : '⚠️  over budget'}`);
+console.log(`    slowest turn     median ${fmt(median(maxes))} · worst ${fmt(Math.max(...maxes))} · budget 60s`);
+console.log(`    session total    budget 4m 00s`);
 console.log(
-  `\n  The budget in CLAUDE.md is one turn before the student writes and one after.\n` +
-    `  A session over 3 turns means the OPEN or CLOSE message got split up.\n`,
+  `\n  The budget in CLAUDE.md is four turns: ask → set up → they write → close\n` +
+    `  (five if they take the ACE bonus). More than that means the SET UP or the\n` +
+    `  CLOSE message got split up — the fix is fewer, fuller messages, not faster typing.\n`,
 );

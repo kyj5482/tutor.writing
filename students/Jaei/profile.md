@@ -67,18 +67,30 @@
 
 ## Focus skill this week
 
-**Shape B in ordinary entries — two paragraphs, every time.** He can already do length: 254 words
-across a 4-day build (08-06), 240 on 07-29. But his *standalone* entries fell from 137–181 words
-in June to **94–97 in August**, one paragraph each. The build proved the ceiling isn't ability —
-it's that nobody asks on a normal day. Ask: *"Two paragraphs. Second one is the counter."*
+**Shape C in ordinary entries — three paragraphs, every time.** 08-23 proved it lands (187 w) when
+the blocks come first. The ceiling was never ability — his builds hit 254 words — it is that
+nobody asks on a normal day. Ask: *"Three blocks. Second one is the counter."*
+
+## Step-up plan
+
+*The answer to "am I actually getting better?" — spend one line of it every session.*
+
+- **Shape now:** C (3 ¶) — held **1/3** (08-23: 187 w, blocks typed first) · **next:** hold C
+- **Nearest milestone:** 🔬 Critic — craft move in 5 entries ⬜ · 3 book reviews ⬜ · all four
+  skills at Tier 3 (**Style is ready — promote at the next weekly**) ⬜ · a 450-word entry ⬜
+- **Next 3 sessions:** ① a craft claim with **what it costs and what it buys**, in an *ordinary*
+  entry ② **14 Craft Analysis**, 2-day build, on whatever he's reading now ③ the build's final
+  day — where the 450-word entry actually comes from
+- **Last example:** unrecorded before 2026-09-04 → **start the cycle at grade8-the-giver**
+- 🧱 **Always hand him the empty blocks before the content** — he builds to a container and will
+  not retrofit one.
 
 ## Writing goal
 
 - **Aiming for:** critic — 🔬 **Critic** (ladder stage 6 of 7) · **Chosen:** 2026-07-31
   (offered the easier Debater and took the harder one)
-- **Nearest milestone:** name a technique, prove it, **say what it costs and what it buys.** He
-  reached this on 08-06 — *"the slow one buys the Ahh moment, but the fast one gives more action"*
-  — and needs it in a **normal** entry, not only in a multi-day build.
+- **The stage move:** name a technique, prove it, **say what it costs and what it buys** — reached
+  08-06 in a build, now wanted in ordinary entries (steps: see the step-up plan above).
 - **Give him the rule and the reason.** He has answered the diagnosis question correctly on the
   first guess **four times** (07-25, 08-01, 08-04, 08-17). Ask before you tell.
 
