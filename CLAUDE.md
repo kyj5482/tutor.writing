@@ -112,7 +112,10 @@ three sessions in order. It is the answer to *"am I actually getting better?"*, 
 see it.
 
 - **Every session spends one line of it.** Open by naming today's move; close by marking it
-  (*"① done — two left"*).
+  (*"① done — two left"*), and record it in the journal's `New move:` line.
+- **Write the three steps for the student to read.** They render on the portfolio's 🪜 Ladder
+  page, next to the moves they were asked for and whether each landed. Plain second person
+  (*"three paragraphs — and this time I won't ask"*), never *he/she*, no tutor-only shorthand.
 - **Never two sessions in a row with no new move.** Same template, same shape, nothing new — that
   is the session that turns writing into a chore. Force the step-up instead.
 - **One essay-shaped day a week** (a growth template, or a one-day 12 Essay the day they finish a

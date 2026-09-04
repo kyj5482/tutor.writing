@@ -451,6 +451,35 @@ body.hide-feedback .feedback-section { display: none; }
 .goal-pct { margin-left: auto; font-weight: 800; color: var(--accent); font-size: 1.1rem; }
 .goal-track-foot { font-size: 0.78rem; color: var(--muted); margin-top: 10px; }
 
+.stepup {
+  background: var(--card); border: 2px solid var(--accent-soft); border-radius: var(--radius);
+  padding: 16px 18px; margin-bottom: 22px; box-shadow: var(--shadow);
+}
+.stepup-title { font-weight: 800; font-size: 0.98rem; margin-bottom: 4px; }
+.stepup-sub { font-weight: 600; font-size: 0.78rem; color: var(--muted); margin-left: 6px; }
+.stepup-shape { font-size: 0.86rem; margin: 10px 0 4px; line-height: 1.5; }
+.stepup-held { color: var(--accent); font-weight: 800; font-size: 0.8rem; white-space: nowrap; }
+.stepup-steps { list-style: none; padding: 0; margin: 12px 0 0; display: grid; gap: 8px; }
+.stepup-steps li {
+  display: grid; grid-template-columns: 26px 1fr; gap: 4px 8px; align-items: baseline;
+  font-size: 0.87rem; line-height: 1.5; padding: 8px 10px; border-radius: 10px; background: var(--bg);
+}
+.stepup-steps li.now { background: var(--accent-soft); }
+.stepup-n { font-weight: 800; color: var(--accent); }
+.stepup-flag {
+  grid-column: 2; justify-self: start; font-size: 0.62rem; font-weight: 800; margin-top: 4px;
+  padding: 3px 9px; border-radius: 999px; background: var(--accent); color: #fff;
+  text-transform: uppercase; letter-spacing: 0.04em;
+}
+.stepup-moves { margin-top: 14px; border-top: 1px solid var(--accent-soft); padding-top: 10px; }
+.stepup-moves-title { font-size: 0.78rem; font-weight: 800; color: var(--muted); margin-bottom: 6px; }
+.stepup-move {
+  display: grid; grid-template-columns: 20px 1fr auto; gap: 8px; align-items: baseline;
+  font-size: 0.83rem; padding: 3px 0; color: var(--muted);
+}
+.stepup-move.landed { color: var(--ink); }
+.stepup-move-date { font-size: 0.75rem; color: var(--muted); white-space: nowrap; }
+
 .next-up {
   background: linear-gradient(135deg, #fff8e6, #ffeccc); border: 1.5px solid #f6d79a;
   border-radius: var(--radius); padding: 16px 18px; margin-bottom: 22px;

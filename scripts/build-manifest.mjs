@@ -155,7 +155,8 @@ function analyzeEntry(md) {
 
 function parseProfile(profile) {
   const out = { grade: null, xp: null, level: null, streak: null, bestStreak: null,
-                badges: [], tiers: {}, goal: null, watch: [], lessons: 0, finishedTitles: [] };
+                badges: [], tiers: {}, goal: null, watch: [], lessons: 0, finishedTitles: [],
+                stepUp: null };
 
   const grab = (re) => (profile.match(re) || [])[1] || null;
   out.grade = grab(/\*\*Grade:\*\*\s*(\d+)/);
@@ -197,6 +198,38 @@ function parseProfile(profile) {
   const goalSection = (profile.match(/^##\s+Writing goal\s*$([\s\S]*?)(?:^##\s|$(?![\r\n]))/m) || [])[1] || '';
   const goalKey = (goalSection.match(/^\s*-\s*\*\*Aiming for:\*\*\s*([a-z]+)\b/mi) || [])[1];
   if (goalKey) out.goal = goalKey.toLowerCase();
+
+  // ---- Step-up plan: the profile's short answer to "am I actually getting better?"
+  // Bullets are free text written by a tutor and wrap over several lines, so fold the
+  // continuation lines back into their bullet first, then read the labels we know.
+  const planSection = (profile.match(/^##\s+Step-up plan\s*$([\s\S]*?)(?:^##\s|$(?![\r\n]))/m) || [])[1] || '';
+  if (planSection.trim()) {
+    const bullets = new Map();
+    let label = null;
+    for (const line of planSection.split('\n')) {
+      const m = line.match(/^\s*-\s*\*\*(.+?):\*\*\s*(.*)$/);
+      if (m) { label = m[1].toLowerCase(); bullets.set(label, m[2]); continue; }
+      // Any other bullet ends the previous one, so its wrapped lines don't get folded in.
+      if (/^\s*-\s/.test(line)) { label = null; continue; }
+      if (label && /^\s+\S/.test(line)) bullets.set(label, bullets.get(label) + ' ' + line.trim());
+      else if (!line.trim()) label = null;
+    }
+    const clean = (t) => (t || '').replace(/[*`]/g, '').replace(/\s+/g, ' ').trim() || null;
+    const shape = clean(bullets.get('shape now'));
+    const held = (shape || '').match(/held\s*(\d)\s*\/\s*3/i);
+    const steps = (bullets.get('next 3 sessions') || '')
+      .split(/(?=[\u2460-\u2464])/)                       // ① ② ③ ④ ⑤
+      .map(clean)
+      .filter((t) => t && /^[\u2460-\u2464]/.test(t))
+      .map((t) => ({ n: t[0], text: t.slice(1).trim() }));
+    out.stepUp = {
+      shape,
+      held: held ? Number(held[1]) : null,
+      milestone: clean(bullets.get('nearest milestone')),
+      lastExample: clean(bullets.get('last example')),
+      steps,
+    };
+  }
 
   // ---- Watch list clean streaks: "- [ ] **item** — clean streak: 1/3"
   const watchSection = (profile.match(/^##\s+Watch list\s*$([\s\S]*?)(?:^##\s|$(?![\r\n]))/m) || [])[1] || '';
@@ -269,6 +302,17 @@ if (existsSync(studentsDir)) {
       const readAloud = /\*\*Read-aloud:\*\*\s*✅/.test(md);
       const watchClean = /\*\*Watch list:\*\*\s*✅/.test(md);
       const watchSlip = /\*\*Watch list:\*\*\s*⚠️/.test(md);
+      // "- **Example shown:** grade6-hatchet" — so example rotation is auditable.
+      const exampleShown = ((md.match(/\*\*Example shown:\*\*\s*(.+)/) || [])[1] || '')
+        .replace(/[*_`]/g, '').trim() || null;
+      // "- **New move:** three paragraphs, typed by her — ✅ landed" (or "⬜ next time").
+      const moveRaw = ((md.match(/\*\*New move:\*\*\s*(.+)/) || [])[1] || '').trim();
+      const newMove = moveRaw
+        ? {
+            text: moveRaw.replace(/\s*[—-]\s*(✅|⬜).*$/, '').replace(/[*_`]/g, '').trim(),
+            landed: /✅/.test(moveRaw),
+          }
+        : null;
 
       const entry = {
         file: `students/${name}/journal/${f}`,
@@ -282,7 +326,7 @@ if (existsSync(studentsDir)) {
         words: a.words, paragraphs: a.paragraphs,
         hasRevision: a.hasRevision, hasBonus: a.hasBonus,
         quote: a.quote, counter: a.counter, craft: a.craft, compare: a.compare,
-        readAloud, watchClean, watchSlip, build,
+        readAloud, watchClean, watchSlip, build, exampleShown, newMove,
         excerpt: a.excerpt,
       };
       entries.push(entry);
@@ -372,6 +416,7 @@ if (existsSync(studentsDir)) {
     students.push({
       name, grade: prof.grade, xp, level: prof.level, streak: prof.streak,
       badges: prof.badges, tiers: prof.tiers, goal: prof.goal, watch: prof.watch,
+      stepUp: prof.stepUp,
       stats, books: bookList, entries, reports,
     });
   }

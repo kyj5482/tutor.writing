@@ -48,6 +48,10 @@ How it runs:
 - **Name today's move in the SET UP turn** and mark it in the CLOSE turn — in the journal metadata
   (`New move:`) and in one line of chat: *"① done — two left."* That one line is what makes
   progress *felt* rather than merely tracked.
+- **The student reads this block.** `build-manifest.mjs` parses the bullets and the 🪜 Ladder page
+  renders them as *"Your next moves"*, with the last four `New move:` lines under it as ✅ / ⬜.
+  So write the three steps **to the kid** — second person, no *he/she*, no shorthand only a tutor
+  would parse. The parenthetical tutor cues belong in `tutor.md`, not here.
 - **The ratchet:** three clean sessions at a shape promotes it. Announce the promotion; it is a
   bigger deal than a badge.
 - **Never two sessions in a row with no new move.** If the plan's next item doesn't fit today's
