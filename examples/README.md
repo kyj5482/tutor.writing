@@ -54,7 +54,9 @@ reader finds their next book, and both of these students choose their own.
 |------|--------|-----------|
 | `grade6-growth.md` | 12 Essay · 13 Debate · 14 Craft Analysis · 15 Comparative | *Percy Jackson* (+ *Hatchet* for the comparison) |
 | `grade6-debate-hatchet.md` | **13 Debate (second book)** | *Hatchet* |
+| `grade6-essay-hatchet.md` | **12 Essay (second book)** | *Hatchet* |
 | `grade8-growth.md` | 12 Essay · 13 Debate · 14 Craft Analysis · 15 Comparative | *Holes* (+ *The Hunger Games* for the comparison) |
+| `grade8-essay-the-giver.md` | **12 Essay (second book)** | *The Giver* |
 | `grade8-craft-analysis-hunger-games.md` | **14 Craft Analysis (second book)** | *The Hunger Games* |
 | `grade8-comparative-giver-scorch-trials.md` | **15 Comparative Essay (second pair)** | *The Giver* + *The Scorch Trials* |
 
@@ -67,8 +69,10 @@ it labelled "three normal sessions".
 > written most weeks, so one example for it means the same book every week (*Holes*, three times in
 > five sessions). And a 4-day build shows its example four sessions running (15 Comparative,
 > 2026-08-03). Both are fixed by adding a **second book for that template** — never by a fourth
-> showing of the first one. Template 12 still has one example per grade; expect the same gap the
-> first time a build lands there.
+> showing of the first one. **Template 12 got its second book on 2026-09-04** (*Hatchet* for
+> grade 6, *The Giver* for grade 8) — ahead of the gap this time, because both students' step-up
+> plans put an essay day in every week. **13 Debate at grade 8 is now the only single-example
+> template left**; fix it the same way the first time a debate build repeats.
 
 ## Rules for picking one
 
