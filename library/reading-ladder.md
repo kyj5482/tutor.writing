@@ -17,10 +17,24 @@ chosen from what they already love, not from a generic grade-level list.
 # Jia (Grade 6)
 
 **What she's read:** *The Land of Stories* · **Harry Potter 3 → 7 — the whole series finished
-2026-08-06**, ~3,400 pages between 06-09 and 08-06 · **📗 *The Honest Truth* (Dan Gemeinhart),
-finished 2026-08-17.** Immersive series reader with real stamina — she read a 766-page book and
-started the next one the same day.
+2026-08-06**, ~3,400 pages between 06-09 and 08-06 · *The Honest Truth* (08-17) · *Wonder* (08-18) ·
+*Inside Out & Back Again* (08-19) · **📕 *Divergent* (08-30, 487 pp.)** · **📗 *Charlie and the
+Chocolate Factory* (09-03)**. Immersive reader with real stamina — she read a 766-page book and
+started the next one the same day. **8 books finished.**
 
+> ⭐ **Update 2026-09-04 — she is between books, and the shelf below is behind her.** Since 08-17 she
+> has finished five books she found herself, three of them realistic and one a 487-page dystopia.
+> *Wonder* is **read** — don't recommend it again. The honest note at the bottom of this section is
+> retired: she is no longer a fantasy-only reader.
+>
+> **After *Divergent* (dystopia, if she wants more of that engine):** **The City of Ember**
+> (Jeanne DuPrau) — a dying underground city, two kids with half a set of instructions ·
+> **The Giver** (Lois Lowry) — a boy given the job of remembering what everyone else gave up ·
+> **Among the Hidden** (Margaret Peterson Haddix) — a third child in a country that allows two.
+> **After Roald Dahl, if she wants the same voice:** **Matilda** · **The Witches** · **The BFG**.
+> ➡️ Still a menu, never an assignment — **ask what she wants after a book like the last one**, and
+> stop there.
+>
 > ⭐ **Update 2026-08-17 — she picks for herself now, and she picked *away* from her comfort.**
 > This list existed largely to solve the post-Potter moment. She solved it unaided: during an
 > 11-day gap she found *The Honest Truth* — realistic, contemporary, no magic at all, a boy with
@@ -29,11 +43,10 @@ started the next one the same day.
 > still good, but they are no longer the obvious answer. Ask her what she wants *after a book like
 > this one*, and put at least one realistic/contemporary title on every menu from now on.
 >
-> **If she liked *The Honest Truth*, the natural next three** (offer as a pick-one menu, one line each):
-> **Wonder** (R.J. Palacio) — a boy the world stares at, told by everyone around him too ·
-> **Fish in a Tree** (Lynda Mullaly Hunt) — a girl who has hidden that she can't read ·
-> **Bridge to Terabithia** (Katherine Paterson) — friendship, and what it costs. All three run on
-> the thing her writing keeps going to: **what a hard thing costs the person it happens to.**
+> **Still unread from that menu:** **Fish in a Tree** (Lynda Mullaly Hunt) — a girl who has hidden
+> that she can't read · **Bridge to Terabithia** (Katherine Paterson) — friendship, and what it
+> costs. Both run on the thing her writing keeps going to: **what a hard thing costs the person it
+> happens to.** (*Wonder* was the third — she read it 08-18.)
 
 **What she actually likes** (from her own writing): friendship and loyalty · a character
 being treated unfairly · secrets and backstory · magic systems with rules.
@@ -62,16 +75,14 @@ being treated unfairly · secrets and backstory · magic systems with rules.
 |------|--------|---------|
 | **When You Reach Me** | Rebecca Stead | Newbery. A mystery that only assembles in the last ten pages. Will teach her more about *structure* than any lesson can. |
 | **Front Desk** | Kelly Yang | Realistic, funny, a kid running a motel front desk. **She has read almost no realistic fiction** — this is the gentlest door into it. |
-| **Wonder** | R.J. Palacio | Multiple narrators telling one story. Also: she writes best about unfairness, and this book is entirely about it. |
+| **The City of Ember** | Jeanne DuPrau | ✅ *Read* **Wonder** 08-18. This replaces it: a dying city, a message in pieces, two kids who work it out. Closest thing to *Divergent* one shelf gentler. |
 
-### ⚠️ One honest note about Jia's reading
+### ✅ Retired 2026-09-04 — the "she only reads fantasy" note
 
-She has read **fantasy series, almost exclusively, for two months.** That's not a problem —
-that's a reader with a taste. But every book she's written about has magic in it, which means
-she has never had to write about a real person doing an ordinary hard thing.
-
-The 🟣 lane is there for that reason. Offer, don't push. *"Finish Half-Blood Prince first"* is
-always the right answer if she asks.
+It was true in July and it is not true now: *The Honest Truth*, *Wonder*, *Inside Out & Back Again*
+and *Charlie and the Chocolate Factory* are all realistic or contemporary, and she found every one
+of them herself. **She reads across lanes now — recommend across lanes.** Offer, don't push; if she
+is mid-book, *"finish that one first"* is always the right answer.
 
 ---
 

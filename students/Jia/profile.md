@@ -57,35 +57,46 @@
 
 | Skill | Tier | Next step |
 |-------|------|-----------|
-| Structure | 2 | Tier 3 = 2 entries with breaks typed **unasked**. Typed when asked 09-02 **and** 09-03 — the keystroke is hers now; stop asking and see if it holds |
+| Structure | 2 | Tier 3 = 2 entries with breaks typed **unasked**. Typed when asked 09-02 **and** 09-03 — the keystroke is hers. **Stop asking, starting next session** |
 | Evidence | 2 | Promoted 07-27 (first quote inside a main entry) |
 | Explanation | 2 | Two-sentence E landed 08-03 & 08-06 — show both slots on screen |
-| Style | 1 | 2 of ~3 word-choice moves. 08-17 gave the pick, not the **because** — ask both halves in ONE question |
+| Style | 2 | 🎉 **Promoted 09-04** — third move landed 09-02: *"brave at taking risks"* vs *"braver at school"*. Tier 3 = varied openers + precise words inside a Tier-3 entry |
 
 ## Focus skill this week
 
-**Shape B — two paragraphs.** ✅ **Landed 09-02** — she typed the break herself once she was given
-**Shift+Enter**. Hold her here until it's automatic, then Shape C. The ask is now cheap, so it no
-longer needs to be the session's only ask.
+**Her first Tier-3 entry** (set 09-04). Topic sentence **+** short quote **+** transitions **+**
+varied openers — she does all four separately, never yet in one entry. It is also the only thing
+standing between her and 🏛️ Essay Writer (**5 Tier-3 entries needed, 0 so far**).
+
+## Step-up plan
+
+*The answer to "am I actually getting better?" — spend one line of it every session.*
+
+- **Shape now:** B (2 ¶) — held **2/3** (09-02, 09-03, both typed by her) · **next:** C (3 ¶)
+- **Nearest milestone:** 🏛️ Essay Writer — **5 Tier-3 entries ⬜ (0/5, the real blocker)** ·
+  3 ¶ entry ✅ · full essay (3 ¶ + 200 w) ⬜ · Evidence Tier 3 ⬜
+  *(🔍 Evidence Writer is complete — all four milestones met 09-04.)*
+- **Next 3 sessions:** ① her **first Tier-3 entry**, Shape B, and **nobody asks for the ¶ break**
+  (if it appears anyway → Structure Tier 3) ② Shape C: second reason with its own quote, and a
+  close that adds ③ **one-day 12 Essay** the day she finishes her next book — 3 ¶, past 200 words
+- **Last example:** grade6-hatchet (2026-09-03) → **next: grade6-percy-jackson**
 
 ## Writing goal
 
 - **Aiming for:** scholar — 🎓 **Scholar** · **Chosen:** 2026-07-30 (picked the hardest stage on
   the menu, not the nearest — never talk her down, show her the path instead)
-- **Path:** 🔍 Evidence Writer *(here)* → 🏛️ Essay Writer → ⚖️ Debater → 🔬 Critic → 🎓 Scholar
-- **Nearest milestone: 🏛️ Essay Writer** — 3 paragraphs + 200 words. The keystroke barrier fell
-  09-02; what's left is one long entry with three breaks she types herself.
+- **Path:** 🔍 Evidence Writer *(**complete 09-04**)* → 🏛️ Essay Writer → ⚖️ Debater → 🔬 Critic →
+  🎓 Scholar (next milestone and the three sessions to it: see the step-up plan above)
 
 ## Watch list
 
 - [ ] **✌️ The "and" check** — clean streak: **2/3** · *"fruit and foods **are**"* — correct, unprompted (08-19) · **count the doers; 2+ → the verb drops its -s.**
 - [ ] **✍️ Possessive `'s`** — clean streak: **2/3** · *"**Ha's** family"* ×2, *"**Vietnam's** fruit"* (08-19) · **find every "X's thing" and check the `'s` is there.**
 
-⚠️ **Untestable ×4 (08-23 → 09-03).** 09-03 the frame had a `'s` blank and an *"X and Y ___"* blank
-written into it — **she routed around both**, because a blank she has no content for is optional.
-And offered the mic *and* the ACE together she did the mic, both 09-02 and 09-03.
-➡️ **Blanks don't test a habit; questions do. Next session: ONE message, no mic, no choices — just
-the ⭐ ACE question, with the compound subject inside the question itself.**
+⚠️ **Untestable ×4 (08-23 → 09-03)** — no compound subject and no possessive written since 08-19.
+A blank she has no content for is optional, and she routes around it (09-03 had blanks for both).
+➡️ **Blanks don't test a habit; questions do.** Next session: the ⭐ ACE question **alone** — no mic
+beside it, no choices — with the compound subject and an "X's thing" built into the question.
 
 🎉 **One clean, testable entry each and BOTH retire — say that out loud.** She audits the scoreboard.
 
