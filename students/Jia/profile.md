@@ -76,9 +76,10 @@ standing between her and 🏛️ Essay Writer (**5 Tier-3 entries needed, 0 so f
 - **Nearest milestone:** 🏛️ Essay Writer — **5 Tier-3 entries ⬜ (0/5, the real blocker)** ·
   3 ¶ entry ✅ · full essay (3 ¶ + 200 w) ⬜ · Evidence Tier 3 ⬜
   *(🔍 Evidence Writer is complete — all four milestones met 09-04.)*
-- **Next 3 sessions:** ① her **first Tier-3 entry**, Shape B, and **nobody asks for the ¶ break**
-  (if it appears anyway → Structure Tier 3) ② Shape C: second reason with its own quote, and a
-  close that adds ③ **one-day 12 Essay** the day she finishes her next book — 3 ¶, past 200 words
+- **Next 3 sessions:** ① your **first Tier-3 entry** — topic sentence, a short quote and
+  transitions in the *same* piece, and this time nobody asks you for the paragraph break
+  ② three paragraphs: a second reason with its own quote, and a last line that **adds**
+  ③ a **one-day essay** the day you finish your next book — 3 paragraphs, past 200 words
 - **Last example:** grade6-hatchet (2026-09-03) → **next: grade6-percy-jackson**
 
 ## Writing goal
