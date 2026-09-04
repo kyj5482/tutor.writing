@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-02T03:23:30.863Z",
+  "generated": "2026-09-04T03:26:28.815Z",
   "students": [
     {
       "name": "Jaei",
@@ -1257,9 +1257,9 @@
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 1375,
-      "level": 14,
-      "streak": 1,
+      "xp": 1425,
+      "level": 15,
+      "streak": 2,
       "badges": [
         {
           "name": "First Words",
@@ -1377,8 +1377,8 @@
         }
       ],
       "stats": {
-        "entries": 35,
-        "activeDays": 34,
+        "entries": 36,
+        "activeDays": 35,
         "templatesUsed": [
           "01-summary",
           "02-prediction",
@@ -1391,30 +1391,45 @@
           "09-quick-write-321",
           "10-book-review"
         ],
-        "revisions": 18,
+        "revisions": 19,
         "ace": 28,
         "quotes": 17,
         "counter": 6,
         "craft": 3,
         "compare": 0,
         "tier3": 0,
-        "readAlouds": 16,
-        "cleanEntries": 15,
-        "cleanStreak": 8,
-        "bestCleanStreak": 8,
+        "readAlouds": 17,
+        "cleanEntries": 16,
+        "cleanStreak": 9,
+        "bestCleanStreak": 9,
         "lessons": 0,
-        "bookReviews": 4,
-        "booksStarted": 10,
-        "booksFinished": 7,
+        "bookReviews": 5,
+        "booksStarted": 11,
+        "booksFinished": 8,
         "maxWords": 162,
-        "totalWords": 2708,
+        "totalWords": 2828,
         "maxParagraphs": 3,
         "essayShaped": 0,
         "debateShaped": 0,
         "bestStreak": 8,
-        "streak": 1
+        "streak": 2
       },
       "books": [
+        {
+          "key": "book:charlie and the chocolate factory",
+          "title": "Charlie and the Chocolate Factory",
+          "short": "Charlie and the Chocolate Factory",
+          "series": null,
+          "seriesEmoji": null,
+          "seriesTotal": null,
+          "volume": null,
+          "author": "Roald Dahl",
+          "entries": 1,
+          "words": 120,
+          "first": "2026-09-03",
+          "last": "2026-09-03",
+          "finished": true
+        },
         {
           "key": "divergent#1",
           "title": "Divergent: Divergent",
@@ -2546,6 +2561,34 @@
           "watchSlip": false,
           "build": null,
           "excerpt": "In the book, Tris got really brave at the end. This reminds me of when I got more brave at school. They're alike because we both got more brave after some time. But they're differe"
+        },
+        {
+          "file": "students/Jia/journal/2026-09-03-10-book-review.md",
+          "date": "2026-09-03",
+          "slug": "10-book-review",
+          "book": "Charlie and the Chocolate Factory",
+          "bookKey": "book:charlie and the chocolate factory",
+          "bookShort": "Charlie and the Chocolate Factory",
+          "series": null,
+          "seriesEmoji": null,
+          "volume": null,
+          "author": "Roald Dahl",
+          "reading": "**finished the book today**",
+          "tier": 2,
+          "xp": 50,
+          "words": 120,
+          "paragraphs": 2,
+          "hasRevision": true,
+          "hasBonus": false,
+          "quote": false,
+          "counter": false,
+          "craft": false,
+          "compare": false,
+          "readAloud": true,
+          "watchClean": true,
+          "watchSlip": false,
+          "build": null,
+          "excerpt": "Have you ever wanted to visit a chocolate factory? Charlie and the Chocolate Factory by Roald Dahl is about Charlie going into the chocolate factory to visit. Charlie was one of th"
         }
       ],
       "reports": [

@@ -1,13 +1,13 @@
 # Profile — Jia
 
 - **Grade:** 6
-- **Current book:** **between books** — wrote on *Divergent* again 09-02. ➡️ **Never hand her a book
-  unasked.** She sources her own and always has.
+- **Current book:** **between books** — finished *Charlie and the Chocolate Factory* 09-03.
+  ➡️ **Never hand her a book unasked.** She sources her own and always has.
 - **Books finished:** Harry Potter — Prisoner of Azkaban · Goblet of Fire · Order of the Phoenix
   (07-20, 766 pages) · Half-Blood Prince (07-30) · **Deathly Hallows (08-06 — the whole seven-book
   series, ~3,400 pages since 06-09)**; **The Honest Truth by Dan Gemeinhart (08-17)**; **Wonder by R.J. Palacio (08-18)**; **Inside Out & Back Again by
-  Thanhhà Lại (08-19)**; **Divergent by Veronica Roth (08-30, 487 pages)**
-- **Last entry:** 2026-09-02 — 08 Connection, Tier 2 (**2 ¶ — she typed the break HERSELF**, 🎤 read aloud, Watch items untested **3rd session running** → hold 2/3)
+  Thanhhà Lại (08-19)**; **Divergent by Veronica Roth (08-30, 487 pages)**; **Charlie and the Chocolate Factory by Roald Dahl (09-03)**
+- **Last entry:** 2026-09-03 — 10 Book Review, Tier 2 (**2 ¶, break typed herself 2nd session running**, 🎤 read aloud + revised, Watch items untested **4th session** → hold 2/3)
 
 > 📌 **Arguable claims arrive unprompted** (08-23). Name it every time — her Style promotion forming.
 > ⚠️ **The mic cannot fix silent marks — the *rule* can.** For `" "` and `'s`, **name it, then have
@@ -19,10 +19,9 @@
 
 ## Game stats
 
-- **Level:** 14 — 👑 Master Author
-- **XP:** 1375 (next level at 1400 — **25 to go**)
-- **Current streak:** 1 day (best: 8) — reset 09-02 after 08-31/09-01 off. Name the permanent
-  things first, the reset once, and never ask where she was.
+- **Level:** 15 — 👑 Master Author
+- **XP:** 1425 (next level at 1500 — **75 to go**)
+- **Current streak:** 2 days (best: 8) — 09-02, 09-03. **Day 3 tomorrow pays +5.**
 
 > ⏰ **Timezone:** US — `date -u` reads a day ahead in the evening. Take the student's local date;
 > **if the clock and the student disagree, the student wins** (08-02).
@@ -58,7 +57,7 @@
 
 | Skill | Tier | Next step |
 |-------|------|-----------|
-| Structure | 2 | Tier 3 = 2 entries where she breaks paragraphs **unasked**. 09-02 she typed one when asked — the keystroke is unblocked, so this is now reachable |
+| Structure | 2 | Tier 3 = 2 entries with breaks typed **unasked**. Typed when asked 09-02 **and** 09-03 — the keystroke is hers now; stop asking and see if it holds |
 | Evidence | 2 | Promoted 07-27 (first quote inside a main entry) |
 | Explanation | 2 | Two-sentence E landed 08-03 & 08-06 — show both slots on screen |
 | Style | 1 | 2 of ~3 word-choice moves. 08-17 gave the pick, not the **because** — ask both halves in ONE question |
@@ -82,9 +81,11 @@ longer needs to be the session's only ask.
 - [ ] **✌️ The "and" check** — clean streak: **2/3** · *"fruit and foods **are**"* — correct, unprompted (08-19) · **count the doers; 2+ → the verb drops its -s.**
 - [ ] **✍️ Possessive `'s`** — clean streak: **2/3** · *"**Ha's** family"* ×2, *"**Vietnam's** fruit"* (08-19) · **find every "X's thing" and check the `'s` is there.**
 
-⚠️ **Untestable ×3 (08-23, 08-30, 09-02)** — no compound subject, no `'s` on any of the three days;
-an untestable entry never advances a streak. Offering the ACE round *last* has failed twice.
-**Next session: OPEN with the ⭐ ACE round — the only frame that reliably produces a `'s`.**
+⚠️ **Untestable ×4 (08-23 → 09-03).** 09-03 the frame had a `'s` blank and an *"X and Y ___"* blank
+written into it — **she routed around both**, because a blank she has no content for is optional.
+And offered the mic *and* the ACE together she did the mic, both 09-02 and 09-03.
+➡️ **Blanks don't test a habit; questions do. Next session: ONE message, no mic, no choices — just
+the ⭐ ACE question, with the compound subject inside the question itself.**
 
 🎉 **One clean, testable entry each and BOTH retire — say that out loud.** She audits the scoreboard.
 
@@ -96,11 +97,10 @@ aloud left the missing quotation marks missing.*
 
 ## Session log
 
-*Rows before 2026-08-02 are in `archive/profile-full-2026-08-18.md`.*
+*Rows before 2026-08-03 are in `archive/profile-full-2026-08-18.md`.*
 
 | Date | Template | Tier | XP | Stretch? | Notes |
 |------|----------|------|----|----------|-------|
-| 2026-08-02 | 08 Connection | 2 | 60 | ✅ + ACE | 🔥 Day 7 — Week of Fire |
 | 2026-08-03 | 01 Summary | 2 | 30 | ACE | 🆙 Level 12 👑 |
 | 2026-08-05 | 04 Opinion | 2 | 35 | ACE | McGonagall; conceded counterargument |
 | 2026-08-06 | 10 Book Review | 2 | 55 | ACE | 📚 **FINISHED THE WHOLE SERIES** |
@@ -110,3 +110,4 @@ aloud left the missing quotation marks missing.*
 | 2026-08-23 | 02 Prediction | 2 | 20 | 🎤 read aloud | 📕 **Divergent** started; arguable claim unprompted; Watch untested → hold 2/3 |
 | 2026-08-30 | 12 Essay | 1 | 30 | ✅ + 🎤 | 📕 **Divergent finished**; quote marks landed; **asked for the ¶ breaks**; Watch untested ×2 |
 | 2026-09-02 | 08 Connection | 2 | 30 | ✅ + 🎤 | 🎉 **typed the ¶ break herself** — Shift+Enter, not Enter; Watch untested ×3 |
+| 2026-09-03 | 10 Book Review | 2 | 50 | ✅ + 🎤 | 📗 **Charlie & the Chocolate Factory**; 🆙 **Level 15**; ¶ break again; declined ACE; Watch untested ×4 |
