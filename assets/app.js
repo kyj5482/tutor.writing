@@ -694,6 +694,48 @@ function renderBookDetail() {
    VIEW — MY LADDER
    ========================================================================== */
 
+/* The `## Step-up plan` block from profile.md, plus the "new move" each recent
+   session asked for. Milestones answer "how far?"; this answers "what, tomorrow?" */
+function renderStepUp(s) {
+  const plan = s.stepUp;
+  const moves = (s.entries || [])
+    .filter((e) => e.newMove && e.newMove.text)
+    .slice(-4)
+    .reverse();
+  if (!plan && !moves.length) return;
+
+  const box = el('div', 'stepup');
+  const held = plan && plan.held !== null && plan.held !== undefined
+    ? `<span class="stepup-held">${'●'.repeat(plan.held)}${'○'.repeat(Math.max(0, 3 - plan.held))} ${plan.held}/3 clean</span>`
+    : '';
+  const parts = [`<div class="stepup-title">🎯 Your next moves <span class="stepup-sub">one a session — your tutor names it before you write</span></div>`];
+
+  if (plan && plan.shape) {
+    parts.push(`<div class="stepup-shape"><b>Writing shape:</b> ${esc(plan.shape)} ${held}</div>`);
+  }
+  if (plan && plan.steps && plan.steps.length) {
+    parts.push(`<ol class="stepup-steps">${plan.steps.map((st, i) => `
+      <li class="${i === 0 ? 'now' : ''}">
+        <span class="stepup-n">${esc(st.n)}</span>
+        <span class="stepup-text">${esc(st.text)}</span>
+        ${i === 0 ? '<span class="stepup-flag">next session</span>' : ''}
+      </li>`).join('')}</ol>`);
+  }
+  if (moves.length) {
+    parts.push(`<div class="stepup-moves">
+      <div class="stepup-moves-title">Moves you were asked for</div>
+      ${moves.map((e) => `
+        <div class="stepup-move ${e.newMove.landed ? 'landed' : ''}">
+          <span class="stepup-move-mark">${e.newMove.landed ? '✅' : '⬜'}</span>
+          <span class="stepup-move-text">${esc(e.newMove.text)}</span>
+          <span class="stepup-move-date">${esc(e.date)}</span>
+        </div>`).join('')}
+    </div>`);
+  }
+  box.innerHTML = parts.join('');
+  app.appendChild(box);
+}
+
 function renderLadder() {
   const s = state.student;
   const cur = currentStage(s);
@@ -739,6 +781,9 @@ function renderLadder() {
       <div class="goal-track-foot">Every <code>/today</code> session moves this bar. Every <code>/weekly</code> checks it.</div>`;
     app.appendChild(track);
   }
+
+  // ---- the step-up plan: what the tutor asks for next, in order ----
+  renderStepUp(s);
 
   // ---- the next thing to do ----
   if (next) {
