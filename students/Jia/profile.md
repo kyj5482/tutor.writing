@@ -1,27 +1,27 @@
 # Profile — Jia
 
 - **Grade:** 6
-- **Current book:** **between books** — finished *Charlie and the Chocolate Factory* 09-03.
+- **Current book:** **between books** — finished *Charlie and the Great Glass Elevator* 09-12.
   ➡️ **Never hand her a book unasked.** She sources her own and always has.
-- **Books finished:** Harry Potter — Prisoner of Azkaban · Goblet of Fire · Order of the Phoenix
-  (07-20, 766 pages) · Half-Blood Prince (07-30) · **Deathly Hallows (08-06 — the whole seven-book
-  series, ~3,400 pages since 06-09)**; **The Honest Truth by Dan Gemeinhart (08-17)**; **Wonder by R.J. Palacio (08-18)**; **Inside Out & Back Again by
-  Thanhhà Lại (08-19)**; **Divergent by Veronica Roth (08-30, 487 pages)**; **Charlie and the Chocolate Factory by Roald Dahl (09-03)**
-- **Last entry:** 2026-09-03 — 10 Book Review, Tier 2 (**2 ¶, break typed herself 2nd session running**, 🎤 read aloud + revised, Watch items untested **4th session** → hold 2/3)
+- **Books finished (11):** **Harry Potter 3–7** (07-20 → 08-06 — the whole series, ~3,400 pages
+  since 06-09) · The Honest Truth (08-17) · Wonder (08-18) · Inside Out & Back Again (08-19) ·
+  **Divergent** (08-30, 487 pp) · **Charlie and the Chocolate Factory** (09-03) ·
+  **Charlie and the Great Glass Elevator** (09-12) — *dates and authors: `journal/`*
+- **Last entry:** 2026-09-12 — 12 Essay, **Tier 3 — her first ever** (1 ¶, no break when nobody asked, 🎤 read aloud, **concession landed unprompted**, ✌️ and-check self-caught → **RETIRED**, ✍️ `'s` slipped → 0/3)
 
 > 📌 **Arguable claims arrive unprompted** (08-23). Name it every time — her Style promotion forming.
 > ⚠️ **The mic cannot fix silent marks — the *rule* can.** For `" "` and `'s`, **name it, then have
 > her type it** (proved 08-23 → 08-30).
 > ✅ **Run 12 Essay as a ONE-day piece** the day she finishes a book (08-30). No build to strand.
-> 🎉 **09-02 — the ¶ break is SOLVED: in Claude Code, Enter *sends*.** Six sessions asked for a
-> keystroke the interface forbade. Told **Shift+Enter** once, she did it next try. **When a kid
-> fails the same ask six times, suspect the ask.**
+> 🧱 **The ⇧+Enter keystroke is hers (09-02, 09-03). Deciding to start a paragraph is not** —
+> 09-12, asked for nothing, she wrote one block. ➡️ **Ask her where the break goes, not to press it.**
+> 🎉 **Tier 3 is her default now** (09-12, first one, first try). She dropped nothing.
 
 ## Game stats
 
 - **Level:** 15 — 👑 Master Author
-- **XP:** 1425 (next level at 1500 — **75 to go**)
-- **Current streak:** 2 days (best: 8) — 09-02, 09-03. **Day 3 tomorrow pays +5.**
+- **XP:** 1450 (next level at 1500 — **50 to go**)
+- **Current streak:** 1 day (best: 8) — 09-12, after a 9-day gap. **Day 3 pays +5.**
 
 > ⏰ **Timezone:** US — `date -u` reads a day ahead in the evening. Take the student's local date;
 > **if the clock and the student disagree, the student wins** (08-02).
@@ -57,30 +57,29 @@
 
 | Skill | Tier | Next step |
 |-------|------|-----------|
-| Structure | 2 | Tier 3 = 2 entries with breaks typed **unasked**. Typed when asked 09-02 **and** 09-03 — the keystroke is hers. **Stop asking, starting next session** |
+| Structure | 2 | Tier 3 = 2 entries with breaks typed **unasked**. 09-12: nobody asked → **one paragraph**. ➡️ Ask where the break *goes*, not for the keystroke |
 | Evidence | 2 | Promoted 07-27 (first quote inside a main entry) |
-| Explanation | 2 | Two-sentence E landed 08-03 & 08-06 — show both slots on screen |
-| Style | 2 | 🎉 **Promoted 09-04** — third move landed 09-02: *"brave at taking risks"* vs *"braver at school"*. Tier 3 = varied openers + precise words inside a Tier-3 entry |
+| Explanation | 2 | Two-sentence E landed 08-03/08-06 — show both slots on screen |
+| Style | 2 | Promoted 09-04. Tier 3 = varied openers + precise words inside a Tier-3 entry |
 
 ## Focus skill this week
 
-**Her first Tier-3 entry** (set 09-04). Topic sentence **+** short quote **+** transitions **+**
-varied openers — she does all four separately, never yet in one entry. It is also the only thing
-standing between her and 🏛️ Essay Writer (**5 Tier-3 entries needed, 0 so far**).
+🎉 **Her first Tier-3 entry landed 09-12**, first try — nobody had ever offered her one.
+➡️ **Tier 3 is her default now.** Next: four more for 🏛️ Essay Writer (**1/5**), plus the Tier-3
+move she has still never made — *paragraphs*.
 
 ## Step-up plan
 
 *The answer to "am I actually getting better?" — spend one line of it every session.*
 
-- **Shape now:** B (2 ¶) — held **2/3** (09-02, 09-03, both typed by her) · **next:** C (3 ¶)
-- **Nearest milestone:** 🏛️ Essay Writer — **5 Tier-3 entries ⬜ (0/5, the real blocker)** ·
-  3 ¶ entry ✅ · full essay (3 ¶ + 200 w) ⬜ · Evidence Tier 3 ⬜
-  *(🔍 Evidence Writer is complete — all four milestones met 09-04.)*
-- **Next 3 sessions:** ① your **first Tier-3 entry** — topic sentence, a short quote and
-  transitions in the *same* piece, and this time nobody asks you for the paragraph break
-  ② three paragraphs: a second reason with its own quote, and a last line that **adds**
+- **Shape now:** B (2 ¶) — **0/3, reset 09-12** (one paragraph when nobody asked) · **next:** C (3 ¶)
+- **Nearest milestone:** 🏛️ Essay Writer — **Tier-3 entries 1/5** · 3 ¶ entry ✅ ·
+  full essay (3 ¶ + 200 w) ⬜ · Evidence Tier 3 ⬜  *(🔍 Evidence Writer complete 09-04.)*
+- **Next 3 sessions:** ① **the break point, in your own words** — before you write, tell me where
+  the second reason starts; then put it on its own line. Two paragraphs, no reminder
+  ② **three paragraphs** — a second reason with its own quote, and a last line that **adds**
   ③ a **one-day essay** the day you finish your next book — 3 paragraphs, past 200 words
-- **Last example:** grade6-hatchet (2026-09-03) → **next: grade6-percy-jackson**
+- **Last example:** grade6-growth / *Percy Jackson* (2026-09-12) → **next: grade6-a-wrinkle-in-time**
 
 ## Writing goal
 
@@ -91,29 +90,27 @@ standing between her and 🏛️ Essay Writer (**5 Tier-3 entries needed, 0 so f
 
 ## Watch list
 
-- [ ] **✌️ The "and" check** — clean streak: **2/3** · *"fruit and foods **are**"* — correct, unprompted (08-19) · **count the doers; 2+ → the verb drops its -s.**
-- [ ] **✍️ Possessive `'s`** — clean streak: **2/3** · *"**Ha's** family"* ×2, *"**Vietnam's** fruit"* (08-19) · **find every "X's thing" and check the `'s` is there.**
+- [ ] **✍️ Possessive `'s`** — clean streak: **0/3** · *"**Charlie** grandparents"* (09-12, named before she wrote and missed anyway) · **find every "X's thing" and check the `'s` is there.**
+- [ ] **🔢 much vs many** — clean streak: **0/3** · *"how **much** adventures"* (09-12) · **if you can count them, it's *many*.**
 
-⚠️ **Untestable ×4 (08-23 → 09-03)** — no compound subject and no possessive written since 08-19.
-A blank she has no content for is optional, and she routes around it (09-03 had blanks for both).
-➡️ **Blanks don't test a habit; questions do.** Next session: the ⭐ ACE question **alone** — no mic
-beside it, no choices — with the compound subject and an "X's thing" built into the question.
+✅ **RETIRED 09-12 — ✌️ the "and" check, 3/3**, on her own catch at the mic (*changes* → *changed*),
+nothing pointed at.
 
-🎉 **One clean, testable entry each and BOTH retire — say that out loud.** She audits the scoreboard.
+🔴 **Naming `'s` before she writes has now failed twice** (09-12: named in the setup, missed anyway).
+➡️ **Next session it goes inside the ⭐ ACE question**, alone — a question she can't answer without
+typing an *"X's thing"*.
+
+*Her ear is reliable, her eye is not: coach through **sound**, except silent marks (`" "`, `'s`),
+which need a **count**. Third proof 09-12 — the read-aloud fixed the verb, left `'s` missing.*
 
 ✅ **Proven three times:** keep her in frames that generate real sentences — 01, 02, 06, 08, 10, 12.
 
-*Her ear is reliable and her eye is not — coach through **sound**, except for marks the ear
-can't hear (quotes, `'s`), which need a **count**, not a listen. Confirmed again 08-23: reading
-aloud left the missing quotation marks missing.*
-
 ## Session log
 
-*Rows before 2026-08-03 are in `archive/profile-full-2026-08-18.md`.*
+*Rows before 2026-08-05 are in `archive/profile-full-2026-08-18.md` and `archive/log-rows-2026-09-12.md`.*
 
 | Date | Template | Tier | XP | Stretch? | Notes |
 |------|----------|------|----|----------|-------|
-| 2026-08-03 | 01 Summary | 2 | 30 | ACE | 🆙 Level 12 👑 |
 | 2026-08-05 | 04 Opinion | 2 | 35 | ACE | McGonagall; conceded counterargument |
 | 2026-08-06 | 10 Book Review | 2 | 55 | ACE | 📚 **FINISHED THE WHOLE SERIES** |
 | 2026-08-17 | 07 Golden Line | 2 | 20 | no (declined 🚀/🎤/ACE) | 📗 The Honest Truth, found & finished alone; swapped her own golden line |
@@ -123,3 +120,4 @@ aloud left the missing quotation marks missing.*
 | 2026-08-30 | 12 Essay | 1 | 30 | ✅ + 🎤 | 📕 **Divergent finished**; quote marks landed; **asked for the ¶ breaks**; Watch untested ×2 |
 | 2026-09-02 | 08 Connection | 2 | 30 | ✅ + 🎤 | 🎉 **typed the ¶ break herself** — Shift+Enter, not Enter; Watch untested ×3 |
 | 2026-09-03 | 10 Book Review | 2 | 50 | ✅ + 🎤 | 📗 **Charlie & the Chocolate Factory**; 🆙 **Level 15**; ¶ break again; declined ACE; Watch untested ×4 |
+| 2026-09-12 | 12 Essay | **3** | 25 | 🎤 read aloud | 🍫 **Great Glass Elevator finished**; 🎉 **first Tier-3 entry (1/5)**; concession unprompted; ✌️ self-caught → **RETIRED**; ✍️ `'s` → 0/3; **1 ¶ when nobody asked** |

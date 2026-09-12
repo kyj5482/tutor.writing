@@ -421,6 +421,30 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Charlie Bucket",
+      "emoji": "🍫",
+      "total": 2,
+      "match": [
+        "^charlie and the\\b"
+      ],
+      "volumes": [
+        {
+          "n": 1,
+          "short": "Charlie and the Chocolate Factory",
+          "aliases": [
+            "charlie and the chocolate factory"
+          ]
+        },
+        {
+          "n": 2,
+          "short": "Charlie and the Great Glass Elevator",
+          "aliases": [
+            "charlie and the great glass elevator"
+          ]
+        }
+      ]
     }
   ]
 }

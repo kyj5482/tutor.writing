@@ -72,12 +72,16 @@ break. Get the keystroke in typed text FIRST, then offer the mic.
 ## Where she is now
 
 **Owns:** structure & transitions · explanation with *because* · specific names · honest opinions ·
-ACE format · a quote in a main entry (07-27) · the two-sentence explanation (08-03) · conceding a
-counterargument (08-05) · **the ⇧+Enter break (09-02, 09-03)**.
+ACE format · a quote in a main entry (07-27) · the two-sentence explanation (08-03) · **the
+concession inside her own argument, unprompted (09-12)** · the ⇧+Enter break (09-02, 09-03).
 
-**Next:** 📌 **her first Tier-3 entry.** 09-04 audit: **36 entries, zero at Tier 3** — not because
-she can't (she does every Tier-3 move separately) but because nobody has offered it. ➡️ **Offer the
-harder tier by default now and let her drop, the way Jaei gets it.** Then Shape C (3 ¶).
+**Next:** 🧱 **the paragraph she decides to start.** 09-12 proved the split: told **⇧+Enter** she
+types it (09-02, 09-03); told nothing, she writes one block — and the three paragraphs are *already
+in the sentences*. ➡️ **Ask where the break goes, in her words** (*"where does the bigger reason
+start?"*), never for the keystroke. Then Shape C.
+
+⭐ **Offering the harder tier works — stop asking, just offer it.** 09-12, handed a Tier-3 frame
+unannounced, she took it and landed the concession first try, in 37 entries' first Tier 3.
 
 **Untaught, not yet raised:** *a / an* before a vowel · dropped period-space · noun-for-adjective
 (*"very adventures book"*, 09-03).

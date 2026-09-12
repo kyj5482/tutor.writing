@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-04T18:19:50.974Z",
+  "generated": "2026-09-12T18:26:16.190Z",
   "students": [
     {
       "name": "Jaei",
@@ -1341,9 +1341,9 @@
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 1425,
+      "xp": 1450,
       "level": 15,
-      "streak": 2,
+      "streak": 1,
       "badges": [
         {
           "name": "First Words",
@@ -1450,29 +1450,29 @@
       "goal": "scholar",
       "watch": [
         {
-          "item": "✌️ The \"and\" check",
-          "cleared": false,
-          "streak": 2
-        },
-        {
           "item": "✍️ Possessive `'s`",
           "cleared": false,
-          "streak": 2
+          "streak": 0
+        },
+        {
+          "item": "🔢 much vs many",
+          "cleared": false,
+          "streak": 0
         }
       ],
       "stepUp": {
-        "shape": "B (2 ¶) — held 2/3 (09-02, 09-03, both typed by her) · next: C (3 ¶)",
-        "held": 2,
-        "milestone": "🏛️ Essay Writer — 5 Tier-3 entries ⬜ (0/5, the real blocker) · 3 ¶ entry ✅ · full essay (3 ¶ + 200 w) ⬜ · Evidence Tier 3 ⬜ (🔍 Evidence Writer is complete — all four milestones met 09-04.)",
-        "lastExample": "grade6-hatchet (2026-09-03) → next: grade6-percy-jackson",
+        "shape": "B (2 ¶) — 0/3, reset 09-12 (one paragraph when nobody asked) · next: C (3 ¶)",
+        "held": null,
+        "milestone": "🏛️ Essay Writer — Tier-3 entries 1/5 · 3 ¶ entry ✅ · full essay (3 ¶ + 200 w) ⬜ · Evidence Tier 3 ⬜ (🔍 Evidence Writer complete 09-04.)",
+        "lastExample": "grade6-growth / Percy Jackson (2026-09-12) → next: grade6-a-wrinkle-in-time",
         "steps": [
           {
             "n": "①",
-            "text": "your first Tier-3 entry — topic sentence, a short quote and transitions in the same piece, and this time nobody asks you for the paragraph break"
+            "text": "the break point, in your own words — before you write, tell me where the second reason starts; then put it on its own line. Two paragraphs, no reminder"
           },
           {
             "n": "②",
-            "text": "three paragraphs: a second reason with its own quote, and a last line that adds"
+            "text": "three paragraphs — a second reason with its own quote, and a last line that adds"
           },
           {
             "n": "③",
@@ -1481,8 +1481,8 @@
         ]
       },
       "stats": {
-        "entries": 36,
-        "activeDays": 35,
+        "entries": 37,
+        "activeDays": 36,
         "templatesUsed": [
           "01-summary",
           "02-prediction",
@@ -1495,38 +1495,53 @@
           "09-quick-write-321",
           "10-book-review"
         ],
-        "revisions": 19,
+        "revisions": 20,
         "ace": 28,
-        "quotes": 17,
-        "counter": 6,
+        "quotes": 18,
+        "counter": 7,
         "craft": 3,
         "compare": 0,
-        "tier3": 0,
-        "readAlouds": 17,
-        "cleanEntries": 16,
-        "cleanStreak": 9,
-        "bestCleanStreak": 9,
+        "tier3": 1,
+        "readAlouds": 18,
+        "cleanEntries": 17,
+        "cleanStreak": 10,
+        "bestCleanStreak": 10,
         "lessons": 0,
         "bookReviews": 5,
-        "booksStarted": 11,
-        "booksFinished": 8,
+        "booksStarted": 12,
+        "booksFinished": 9,
         "maxWords": 162,
-        "totalWords": 2828,
+        "totalWords": 2929,
         "maxParagraphs": 3,
         "essayShaped": 0,
         "debateShaped": 0,
         "bestStreak": 8,
-        "streak": 2
+        "streak": 1
       },
       "books": [
         {
-          "key": "book:charlie and the chocolate factory",
-          "title": "Charlie and the Chocolate Factory",
-          "short": "Charlie and the Chocolate Factory",
-          "series": null,
-          "seriesEmoji": null,
-          "seriesTotal": null,
+          "key": "series:charlie bucket",
+          "title": "Charlie Bucket",
+          "short": "Charlie Bucket",
+          "series": "Charlie Bucket",
+          "seriesEmoji": "🍫",
+          "seriesTotal": 2,
           "volume": null,
+          "author": "Roald Dahl",
+          "entries": 1,
+          "words": 101,
+          "first": "2026-09-12",
+          "last": "2026-09-12",
+          "finished": true
+        },
+        {
+          "key": "charlie bucket#1",
+          "title": "Charlie Bucket: Charlie and the Chocolate Factory",
+          "short": "Charlie and the Chocolate Factory",
+          "series": "Charlie Bucket",
+          "seriesEmoji": "🍫",
+          "seriesTotal": 2,
+          "volume": 1,
           "author": "Roald Dahl",
           "entries": 1,
           "words": 120,
@@ -2740,12 +2755,12 @@
           "file": "students/Jia/journal/2026-09-03-10-book-review.md",
           "date": "2026-09-03",
           "slug": "10-book-review",
-          "book": "Charlie and the Chocolate Factory",
-          "bookKey": "book:charlie and the chocolate factory",
+          "book": "Charlie Bucket: Charlie and the Chocolate Factory",
+          "bookKey": "charlie bucket#1",
           "bookShort": "Charlie and the Chocolate Factory",
-          "series": null,
-          "seriesEmoji": null,
-          "volume": null,
+          "series": "Charlie Bucket",
+          "seriesEmoji": "🍫",
+          "volume": 1,
           "author": "Roald Dahl",
           "reading": "**finished the book today**",
           "tier": 2,
@@ -2765,6 +2780,39 @@
           "exampleShown": null,
           "newMove": null,
           "excerpt": "Have you ever wanted to visit a chocolate factory? Charlie and the Chocolate Factory by Roald Dahl is about Charlie going into the chocolate factory to visit. Charlie was one of th"
+        },
+        {
+          "file": "students/Jia/journal/2026-09-12-12-essay.md",
+          "date": "2026-09-12",
+          "slug": "12-essay",
+          "book": "Charlie Bucket",
+          "bookKey": "series:charlie bucket",
+          "bookShort": "Charlie Bucket",
+          "series": "Charlie Bucket",
+          "seriesEmoji": "🍫",
+          "volume": null,
+          "author": "Roald Dahl",
+          "reading": "**finished the book today**",
+          "tier": 3,
+          "xp": 25,
+          "words": 101,
+          "paragraphs": 1,
+          "hasRevision": true,
+          "hasBonus": false,
+          "quote": true,
+          "counter": true,
+          "craft": false,
+          "compare": false,
+          "readAloud": true,
+          "watchClean": true,
+          "watchSlip": false,
+          "build": null,
+          "exampleShown": "grade6-growth — The Lightning Thief (Percy Jackson)",
+          "newMove": {
+            "text": "the concession — \"Some might say , and that's fair — but \"",
+            "landed": true
+          },
+          "excerpt": "In Charlie and the great glass elevator, I think there were a lot of adventures. One reason is that in the book, Charlie grandparents changes their ages, they get stuck in the elev"
         }
       ],
       "reports": [
