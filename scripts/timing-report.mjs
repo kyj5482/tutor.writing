@@ -5,7 +5,7 @@
  * Only LLM time is in the data — see scripts/turn-timer.mjs — so these numbers are
  * the latency the student actually sits through, with their own typing excluded.
  *
- *   node scripts/timing-report.mjs           # /today sessions
+ *   node scripts/timing-report.mjs           # /today and /daily sessions
  *   node scripts/timing-report.mjs --all     # every session
  *   node scripts/timing-report.mjs --json    # machine-readable
  */
@@ -46,7 +46,8 @@ for (const r of rows) {
   if (!s) sessions.set(r.session, (s = { id: r.session, turns: [], isToday: false, first: r.ts }));
   s.turns.push(r);
   if (r.ts < s.first) s.first = r.ts;
-  if (/(^|\s|\/)today\b/i.test(r.prompt || '')) s.isToday = true;
+  if (/(^|\s|\/)(today|daily)\b/i.test(r.prompt || '')) s.isToday = true;
+  if (/(^|\s|\/)daily\b/i.test(r.prompt || '')) s.kind = 'daily';
   // The student's name usually rides along with the invocation.
   const who = (r.prompt || '').match(/\b(Jia|Jaei)\b/i);
   if (who && !s.who) s.who = who[1];
@@ -60,6 +61,7 @@ const list = [...sessions.values()]
     return {
       id: s.id,
       who: s.who || '—',
+      kind: s.kind || (s.isToday ? 'today' : '—'),
       date: s.first.slice(0, 10),
       turns: ms.length,
       totalMs: ms.reduce((a, b) => a + b, 0),
@@ -92,7 +94,7 @@ if (!list.length) {
   console.log(
     showAll
       ? 'No sessions recorded yet.'
-      : 'No /today sessions recorded yet. Run with --all to see every session.',
+      : 'No /today or /daily sessions recorded yet. Run with --all to see every session.',
   );
   process.exit(0);
 }
@@ -100,13 +102,13 @@ if (!list.length) {
 /* 4 turns: ask → set up → they write → close. A 5th is the optional ACE round. */
 const TURN_BUDGET = 5;
 
-const label = showAll ? 'all sessions' : '/today sessions';
+const label = showAll ? 'all sessions' : '/today + /daily sessions';
 console.log(`\n📊 Tutor LLM time — ${label} (student typing excluded)\n`);
-console.log('  date        who    turns   total LLM   slowest turn');
-console.log('  ' + '─'.repeat(52));
+console.log('  date        who    kind    turns   total LLM   slowest turn');
+console.log('  ' + '─'.repeat(60));
 for (const s of list) {
   console.log(
-    `  ${s.date}  ${s.who.padEnd(5)}  ${String(s.turns).padStart(4)}   ${fmt(s.totalMs).padStart(9)}   ${fmt(s.maxMs).padStart(11)}`,
+    `  ${s.date}  ${s.who.padEnd(5)}  ${s.kind.padEnd(6)}  ${String(s.turns).padStart(4)}   ${fmt(s.totalMs).padStart(9)}   ${fmt(s.maxMs).padStart(11)}`,
   );
 }
 
@@ -120,7 +122,9 @@ console.log(`    turns/session    median ${median(turns)} · budget ${TURN_BUDGE
 console.log(`    slowest turn     median ${fmt(median(maxes))} · worst ${fmt(Math.max(...maxes))} · budget 60s`);
 console.log(`    session total    budget 4m 00s`);
 console.log(
-  `\n  The budget in CLAUDE.md is four turns: ask → set up → they write → close\n` +
+  `\n  /daily: three turns (open → they write → close), 45s a turn; the fix card posts\n` +
+    `  while they write and is not a turn they wait on.\n` +
+    `\n  The budget in CLAUDE.md is four turns: ask → set up → they write → close\n` +
     `  (five if they take the ACE bonus). More than that means the SET UP or the\n` +
     `  CLOSE message got split up — the fix is fewer, fuller messages, not faster typing.\n`,
 );

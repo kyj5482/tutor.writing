@@ -25,9 +25,11 @@ const TEMPLATES = {
   '13-debate':             { name: 'Debate',                icon: '⚖️', growth: true },
   '14-craft-analysis':     { name: 'Craft Analysis',        icon: '🔬', growth: true },
   '15-comparative-essay':  { name: 'Comparative Essay',     icon: '🎓', growth: true },
+  // The school-night log (/today). Not part of "all 10 templates" either.
+  '16-reading-log':        { name: 'Reading Log',           icon: '📖', log: true },
 };
 /* The ten DAILY templates only — this is what "Template Master" counts. */
-const TEMPLATE_IDS = Object.keys(TEMPLATES).filter((k) => !TEMPLATES[k].growth);
+const TEMPLATE_IDS = Object.keys(TEMPLATES).filter((k) => !TEMPLATES[k].growth && !TEMPLATES[k].log);
 
 const COVER_GRADIENTS = [
   ['#667eea', '#764ba2'], ['#f0648c', '#f9a26c'], ['#11998e', '#38ef7d'],
@@ -293,7 +295,7 @@ function renderMd(md) {
 
 function parseEntry(md) {
   const parts = md.split(/^## +/m);
-  const out = { writing: '', feedback: '', revision: '', bonus: '' };
+  const out = { writing: '', feedback: '', revision: '', bonus: '', fix: '' };
   for (const part of parts.slice(1)) {
     const nl = part.indexOf('\n');
     const heading = (nl === -1 ? part : part.slice(0, nl)).trim().toLowerCase();
@@ -302,6 +304,8 @@ function parseEntry(md) {
     else if (heading.startsWith('tutor feedback')) out.feedback = body;
     else if (heading.startsWith('revision')) out.revision = body;
     else if (heading.startsWith('bonus')) out.bonus = body;
+    // Added by the next /daily session's fix card — the tutor's correction, not a student revision.
+    else if (heading.startsWith('next-day fix')) out.fix = body;
   }
   return out;
 }
@@ -1267,6 +1271,11 @@ async function openEntry(e) {
       <div class="entry-section feedback-section">
         <h2>Tutor feedback</h2>
         <div class="feedback-body">${renderMd(sections.feedback)}</div>
+      </div>` : ''}
+      ${sections.fix ? `
+      <div class="entry-section feedback-section">
+        <h2>🔧 Next-day fix</h2>
+        <div class="feedback-body">${renderMd(sections.fix)}</div>
       </div>` : ''}
       ${sections.revision ? `
       <div class="entry-section">

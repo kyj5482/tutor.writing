@@ -77,3 +77,6 @@
 {"ts":"2026-09-12T18:13:13.337Z","session":"9b1a062d-8556-5afb-a5c1-715f1b117e51","ms":11304,"prompt":"can you give me a templete frame"}
 {"ts":"2026-09-12T18:20:04.331Z","session":"9b1a062d-8556-5afb-a5c1-715f1b117e51","ms":60079,"prompt":"In Charlie and the great glass elevator, I think there were a lot of adventures. One reason is that in the book, Charlie grandparents changes their ages, they g"}
 {"ts":"2026-09-12T18:20:13.559Z","session":"9b1a062d-8556-5afb-a5c1-715f1b117e51","ms":9131,"prompt":"."}
+{"ts":"2026-09-25T00:59:33.653Z","session":"d35624ff-d428-5457-999d-8b00890d39ab","ms":334780,"prompt":"학기 중에는 시간이 많지 않아서 작성하는 것이 어려워지고 있다. 기존 today 스킬 방식에서 조금 더 daily에 맞춰서 읽은 책에 대해서 기록을 남기는데 집중하도록 해줘. 그리고 이미 남긴 것을 기반으로 다음날 다시 작성할 때 시간이 걸릴테니 이때 동시성으로 어제 남긴 것을 보고 문"}
+{"ts":"2026-09-25T00:59:47.294Z","session":"d35624ff-d428-5457-999d-8b00890d39ab","ms":13559,"prompt":"<task-notification> <task-type>queued-remote-notifications</task-type> <status>pending</status> <summary>2 unread notifications (GitHub activity on a subscribed"}
+{"ts":"2026-09-25T01:06:24.112Z","session":"d35624ff-d428-5457-999d-8b00890d39ab","ms":188018,"prompt":"기존 today는 그대로 두고 다른 이름 스킬로 만들어줘. 그리고 첫 메시지에 대해서 어제 작성한 것을 바로 분석하여 알려주지 말고 첫메시지 후 작성하라고 하면서 이때 sub task로 어제 문장을 분석하여 결과를 제공하는 것이다. 즉 아이가 작성하고 있는 동시에 어제 수정된 글도 함께"}

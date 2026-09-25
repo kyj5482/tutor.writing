@@ -21,6 +21,10 @@ intact. The daily effort never changes — the pieces just add up into something
 Run a growth template roughly **once a week**, or when a student finishes a book — never
 two in a row, and never at the cost of the daily habit.
 
+**School nights (16)** — `/daily` always uses **16 Reading Log**: the same three lines every
+night (what I read · what happened · my take), while a 🔧 fix card for yesterday's log goes up on
+screen. The templates above are the `/today` menu.
+
 ## Picking by today's reading amount
 
 | Read today | Best fits |
@@ -45,6 +49,7 @@ two in a row, and never at the cost of the daily habit.
 | 09 | Quick Write 3-2-1 | Habit keeper for short days |
 | 10 | Book Review | Evaluation, persuasion |
 | 11 | ACE Write (Bonus) | Answer + Cite + Explain a question |
+| 16 | **Reading Log** (`/daily`, school nights) | The daily record — beside yesterday's fix card |
 
 ## Growth templates — the ladder to university writing
 

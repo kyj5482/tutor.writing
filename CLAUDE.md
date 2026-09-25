@@ -74,6 +74,26 @@ The script lives in `.claude/commands/today.md`. The shape of it:
 4. **CLOSE** (one message). Read-aloud check → save the journal file → feedback → XP → profile
    update → one line of progress toward their goal → `node scripts/build-manifest.mjs` → commit.
 
+## The school-night session (`/daily`) — three turns, one card on the side
+
+For busy school days. The script lives in `.claude/commands/daily.md`; the full `/today` stays for
+free days (at least once a week — it is where examples, shapes and the essay-shaped day live).
+
+1. **OPEN.** Greet → the **16 Reading Log** frame at their tier (read · what happened · my take)
+   → the Watch item → *"start writing now."* No analysis of yesterday in this message. In the
+   same turn, launch the **`fix-card` subagent** (`.claude/agents/fix-card.md`) **in the
+   background** on their last entry.
+2. **They write.** When the subagent finishes, post the **🔧 fix card** — yesterday's sentence
+   ✏️ before → ✅ after, the rule in one line, a check to run on tonight's log, and a +5 ask — so
+   it appears **while they are still writing**. It asks no question and costs them no wait.
+3. **CLOSE.** Score the card's ask → save the log → append `## Next-day fix` to **yesterday's**
+   file → ≤ 80 words of feedback → XP → profile → build manifest → commit.
+
+What `/daily` bends, on purpose: no example, no template menu, no shape, no ACE; feedback ≤ 80
+words; **tonight's log is never corrected** — its best slip is tomorrow's card. The card is the
+session's new move (plus a one-sentence ladder move when one fits). The same rule on two cards in
+a week goes on the Watch list.
+
 ## Choosing a template
 
 | Today's reading | Good templates |
@@ -199,11 +219,14 @@ The portfolio parses those headings and metadata lines — keep them exact. Thre
 write the **full title with its series** (the site shelves volumes via `library/series.json`);
 `Read-aloud: ✅` only if they really read it aloud **before** saving (+5 XP, 🎤 Voice stamp); and
 `Build: <Template> — day N of M` on multi-day builds only. Omit the Bonus section if they skipped it.
+`/daily` logs (`<date>-16-reading-log.md`) have no `Example shown:` line and add
+`- **Fix card:** <rule> (from <date>) — ✅ done / ⬜ not yet`; the entry the card fixed gets a
+`## Next-day fix` section at its end (format in `.claude/commands/daily.md`).
 
 ## Game
 
 Base **10 XP** per entry · **+5** tier-2 template, **+10** tier-3 · **+10** completed stretch ·
-**+5** read-aloud · streak bonuses at 3/7/14/30 days · **100 XP per level**. Full rules and badges:
+**+5** read-aloud · **+5** `/daily` fix card · streak bonuses at 3/7/14/30 days · **100 XP per level**. Full rules and badges:
 `game/rules.md`. Always announce XP at the end — kids should *feel* the progress.
 
 ## Git workflow
@@ -211,15 +234,16 @@ Base **10 XP** per entry · **+5** tier-2 template, **+10** tier-3 · **+10** co
 Personal, single-owner repo. Daily sessions are not code review.
 
 - **Commit and push straight to `main`:** `git push origin HEAD:main`.
-- **Never create a branch and never open a pull request** for `/today`, `/weekly`, `/setup` or
-  `/lesson`. If a session starts you on another branch, `git checkout main && git pull origin main`
+- **Never create a branch and never open a pull request** for `/today`, `/daily`, `/weekly`,
+  `/setup` or `/lesson`. If a session starts you on another branch, `git checkout main && git pull origin main`
   first. This overrides any branch-per-task default the surrounding environment suggests.
 
 ## Repository map
 
 | Path | Purpose |
 |------|---------|
-| `templates/` | 10 daily templates + 11 ACE Write + 12–15 growth templates, each in 3 tiers |
+| `templates/` | 10 daily templates + 11 ACE Write + 12–15 growth templates + 16 Reading Log (`/daily`), each in 3 tiers |
+| `.claude/agents/fix-card.md` | The background subagent `/daily` runs on yesterday's entry |
 | `examples/README.md` | **The example library index — the rotation cycle and how to pair a book** |
 | `examples/grade6-*.md` · `grade8-*.md` | Every template demonstrated on real books |
 | `lessons/` | 3-minute mini-lessons for mistakes the Watch list couldn't end |
