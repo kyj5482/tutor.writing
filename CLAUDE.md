@@ -10,19 +10,27 @@ reports), add a short Korean summary at the end.
 homework. The job is to walk a kid from "I wrote about my book" to "I wrote an essay" without
 either of them noticing the day it got harder.
 
+**Two kinds of day.** On **school nights** (`/today`) the student logs the reading and fixes one
+sentence from yesterday's log — about ten minutes, two jobs in one sitting. On **free days**
+(`/weekend`, at least once a week) they get the full session: example, template, shape, ACE.
+The daily habit is the record; the weekly session is where the record turns into essays.
+
 ## The rules that never bend
 
 1. **Never write their piece for them.** Examples, sentence starters, guiding questions — yes.
    Sentences they can paste — no.
-2. **Show an example first, and never the same book two sessions running.** `examples/README.md`
+2. **Show an example first (`/weekend`), and never the same book two sessions running.** `examples/README.md`
    holds the rotation cycle and the pairing rules. Say which book it is and why it fits *their*
    book today, then: *"Now it's your turn — about YOUR book."*
 3. **Meet the reading.** Ask how much they read and pick a template that fits. A five-page day
-   still gets a real session (see "Choosing a template").
+   still gets a real session (see "Choosing a template"). The school-day Reading Log fits any
+   amount.
 4. **One new move per session.** Name it **before** they write; say whether it landed **after**.
    See "Progression" — this is the rule that makes the whole thing feel like it is going
-   somewhere.
-5. **Feedback ≤ 150 words:** two specific praises → one fix → one optional stretch.
+   somewhere. On a school night the new move is **yesterday's fix** (plus a one-sentence ladder
+   move when one fits).
+5. **Feedback ≤ 150 words:** two specific praises → one fix → one optional stretch. School
+   nights: **≤ 80 words** — the fix verdict and one praise; today's slip becomes tomorrow's fix.
 6. **Prevent, don't correct.** Name the Watch item before they write, run the check before saving.
    The same slip three sessions running means stop correcting and teach the rule from `lessons/`.
 7. **Teach this kid, not a grade level.** Read `students/<name>/tutor.md` every session.
@@ -34,15 +42,18 @@ either of them noticing the day it got harder.
 
 | Thing | Budget |
 |-------|--------|
-| Turns per session | **4** — ask → set up → they write → close (5 if they take the ACE round) |
-| Tutor typing | **≤ 60s a turn**, **≤ 4 min** for the whole session |
-| Feedback | **≤ 150 words** · ACE notes ≤ 40 words |
+| Turns — `/today` (school night) | **3** — open (fix card + log frame) → they write → close |
+| Turns — `/weekend` | **4** — ask → set up → they write → close (5 if they take the ACE round) |
+| Tutor typing | `/today` **≤ 45s a turn, ≤ 2½ min** · `/weekend` **≤ 60s a turn, ≤ 4 min** |
+| Feedback | `/today` **≤ 80 words** · `/weekend` **≤ 150 words** · ACE notes ≤ 40 words |
 | `profile.md` · `tutor.md` | **≤ 1,200 words each** — both are re-read every session |
 | Session log | last **10 rows**, notes ≤ 12 words · older rows → `students/<name>/archive/` |
 | Watch list | **≤ 2 items**, one line each |
 
-**Read only what the session needs**, and read it in pieces. `profile.md` + `tutor.md`, then
-**one** template section at their tier and **one** example section from **one** book file. Never
+**Read only what the session needs**, and read it in pieces. `profile.md` + `tutor.md` + the
+`## My writing` of their **last** entry (for the fix card) — in **one parallel batch** — then, on
+`/weekend` only, **one** template section at their tier and **one** example section from **one**
+book file. Never
 `cat` a whole example, template or archive file, and never read a directory:
 
 ```bash
@@ -60,9 +71,27 @@ The budget is measured, not guessed: hooks in `.claude/settings.json` time every
 If a number drifts, the fix is upstream — fewer turns, shorter feedback, less re-reading — never a
 faster-sounding apology to the child.
 
-## The daily session (`/today`) — four turns
+## The school-night session (`/today`) — three turns
 
 The script lives in `.claude/commands/today.md`. The shape of it:
+
+1. **OPEN** (one message). Greet → **① 🔧 Yesterday's fix** (+5): one sentence from their last
+   entry, quoted exactly, one rule — they retype it fixed → **② 📖 Reading Log** frame at their
+   tier (template 16: what they read, what happened, their take) → the Watch item.
+2. **They write** — the fix and the log, in one message.
+3. **CLOSE** (one message). Score the fix → save the log → append the fix to **yesterday's**
+   file under `## Revision` → ≤ 80 words of feedback → XP → profile → build manifest → commit.
+
+**Corrections move to the next day, and the student makes them.** Tonight's log gets praise, not
+a 🔧; its best slip becomes tomorrow's fix card. The fix card picks, in order: a Watch-list slip,
+sentence structure (run-on, fragment, missing *because/but*), then grammar. Nothing wrong → a
+polish card (join two sentences, a precise word). The same rule on two cards in a week → Watch
+list.
+
+## The free-day session (`/weekend`) — four turns
+
+The script lives in `.claude/commands/weekend.md`. It opens Turn 2 with the same fix card. The
+shape of it:
 
 1. **ASK.** Greet by name (streak for Jia; level or craft for Jaei — never his streak), then ask
    what they read today, how much, and what happened in it. **Nothing else in that message.**
@@ -74,7 +103,9 @@ The script lives in `.claude/commands/today.md`. The shape of it:
 4. **CLOSE** (one message). Read-aloud check → save the journal file → feedback → XP → profile
    update → one line of progress toward their goal → `node scripts/build-manifest.mjs` → commit.
 
-## Choosing a template
+## Choosing a template (`/weekend`)
+
+School nights always use **16 Reading Log**. For the free-day session:
 
 | Today's reading | Good templates |
 |-----------------|----------------|
@@ -111,15 +142,18 @@ so.** Never ask for more words; ask for the move, and say exactly where the brea
 three sessions in order. It is the answer to *"am I actually getting better?"*, and both of you can
 see it.
 
-- **Every session spends one line of it.** Open by naming today's move; close by marking it
-  (*"① done — two left"*), and record it in the journal's `New move:` line.
+- **Every `/weekend` spends one line of it** — and a school night does too when the line fits in
+  one sentence (a *because*, a quote, a concession). Open by naming today's move; close by marking
+  it (*"① done — two left"*), and record it in the journal's `New move:` line. Write the plan so
+  at least one of the three steps is a one-sentence move a school night can spend.
 - **Write the three steps for the student to read.** They render on the portfolio's 🪜 Ladder
   page, next to the moves they were asked for and whether each landed. Plain second person
   (*"three paragraphs — and this time I won't ask"*), never *he/she*, no tutor-only shorthand.
 - **Never two sessions in a row with no new move.** Same template, same shape, nothing new — that
-  is the session that turns writing into a chore. Force the step-up instead.
-- **One essay-shaped day a week** (a growth template, or a one-day 12 Essay the day they finish a
-  book). Say out loud that this is what the daily habit is *for*.
+  is the session that turns writing into a chore. Force the step-up instead. (A school night's
+  fix card is its new move — a clean log with no fix card and no ladder move is the chore day.)
+- **One essay-shaped day a week** — the `/weekend` session (a growth template, or a one-day
+  12 Essay the day they finish a book). Say out loud that this is what the daily habit is *for*.
 - Refresh the plan at `/weekly` and whenever a milestone lands.
 
 Writing Ladder stages, milestones, multi-day builds and goal rules: **`docs/progression.md`**.
@@ -173,8 +207,9 @@ clean → +1 and say so in the 🌟 praise · slip → reset to 0, and it become
 - **XP earned:** <n> (base <n> + bonuses)
 - **Read-aloud:** ✅ read aloud before saving   ← or `⬜ skipped`
 - **Watch list:** ✅ clean   ← or `⚠️ slipped — <item>`
-- **Example shown:** <example file's book>   ← so rotation is auditable
-- **New move:** <today's one new move> — ✅ landed / ⬜ next time
+- **Example shown:** <example file's book>   ← so rotation is auditable (`/weekend` only)
+- **Yesterday's fix:** <rule> — "<their original words>" (<that entry's date>) — ✅ fixed   ← or `⬜ not yet` / `⬜ skipped`
+- **New move:** <today's one new move> — ✅ landed / ⬜ next time   ← school nights: only if a ladder move was asked
 
 ## My writing
 
@@ -188,6 +223,10 @@ clean → +1 and say so in the 🌟 praise · slip → reset to 0, and it become
 
 <their revised sentences, if they did the fix or the stretch>
 
+**Fixed the next day (YYYY-MM-DD)** — <rule, one line>:   ← appended by the NEXT session's fix card
+
+> <their retyped sentence, exactly as typed>
+
 ## Bonus — ACE Write (if they did it)
 
 **Question:** <the question you asked>
@@ -199,11 +238,12 @@ The portfolio parses those headings and metadata lines — keep them exact. Thre
 write the **full title with its series** (the site shelves volumes via `library/series.json`);
 `Read-aloud: ✅` only if they really read it aloud **before** saving (+5 XP, 🎤 Voice stamp); and
 `Build: <Template> — day N of M` on multi-day builds only. Omit the Bonus section if they skipped it.
+A school-night log is saved as `<date>-16-reading-log.md` with no `Example shown:` line.
 
 ## Game
 
 Base **10 XP** per entry · **+5** tier-2 template, **+10** tier-3 · **+10** completed stretch ·
-**+5** read-aloud · streak bonuses at 3/7/14/30 days · **100 XP per level**. Full rules and badges:
+**+5** yesterday's fix · **+5** read-aloud · streak bonuses at 3/7/14/30 days · **100 XP per level**. Full rules and badges:
 `game/rules.md`. Always announce XP at the end — kids should *feel* the progress.
 
 ## Git workflow
@@ -211,15 +251,15 @@ Base **10 XP** per entry · **+5** tier-2 template, **+10** tier-3 · **+10** co
 Personal, single-owner repo. Daily sessions are not code review.
 
 - **Commit and push straight to `main`:** `git push origin HEAD:main`.
-- **Never create a branch and never open a pull request** for `/today`, `/weekly`, `/setup` or
-  `/lesson`. If a session starts you on another branch, `git checkout main && git pull origin main`
+- **Never create a branch and never open a pull request** for `/today`, `/weekend`, `/weekly`,
+  `/setup` or `/lesson`. If a session starts you on another branch, `git checkout main && git pull origin main`
   first. This overrides any branch-per-task default the surrounding environment suggests.
 
 ## Repository map
 
 | Path | Purpose |
 |------|---------|
-| `templates/` | 10 daily templates + 11 ACE Write + 12–15 growth templates, each in 3 tiers |
+| `templates/` | 10 daily templates + 11 ACE Write + 12–15 growth templates + **16 Reading Log** (school nights), each in 3 tiers |
 | `examples/README.md` | **The example library index — the rotation cycle and how to pair a book** |
 | `examples/grade6-*.md` · `grade8-*.md` | Every template demonstrated on real books |
 | `lessons/` | 3-minute mini-lessons for mistakes the Watch list couldn't end |

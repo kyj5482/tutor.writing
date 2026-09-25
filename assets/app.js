@@ -25,9 +25,11 @@ const TEMPLATES = {
   '13-debate':             { name: 'Debate',                icon: '⚖️', growth: true },
   '14-craft-analysis':     { name: 'Craft Analysis',        icon: '🔬', growth: true },
   '15-comparative-essay':  { name: 'Comparative Essay',     icon: '🎓', growth: true },
+  // The school-night log (/today). Not part of "all 10 templates" either.
+  '16-reading-log':        { name: 'Reading Log',           icon: '📖', log: true },
 };
 /* The ten DAILY templates only — this is what "Template Master" counts. */
-const TEMPLATE_IDS = Object.keys(TEMPLATES).filter((k) => !TEMPLATES[k].growth);
+const TEMPLATE_IDS = Object.keys(TEMPLATES).filter((k) => !TEMPLATES[k].growth && !TEMPLATES[k].log);
 
 const COVER_GRADIENTS = [
   ['#667eea', '#764ba2'], ['#f0648c', '#f9a26c'], ['#11998e', '#38ef7d'],

@@ -8,6 +8,7 @@
 | Entry written at Tier 2 of a template | +5 bonus |
 | Entry written at Tier 3 of a template | +10 bonus |
 | Completed the stretch challenge (revised today's entry) | +10 |
+| **🔧 Yesterday's fix** — retyped yesterday's sentence with the rule applied | **+5** |
 | Bonus ACE Write round (answered the tutor's question in A-C-E format) | +10 |
 | Applied last week's focus skill (tutor spots it, max once/day) | +5 |
 | **Read the entry aloud with the 🎤 mic button BEFORE saving** | **+5** |
