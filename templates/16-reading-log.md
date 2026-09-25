@@ -2,8 +2,8 @@
 
 **Skill:** the daily record — what you read, what happened, what you think about it
 **Best when:** school days. Any amount of reading fits — five pages or five chapters.
-**Used by:** `/today` (the school-day session). Every log sits next to a 🔧 **Yesterday's fix**
-— one sentence from yesterday's log, fixed by the student — so one short sitting does two jobs.
+**Used by:** `/daily` (the school-night session). While the student writes the log, a 🔧 **fix
+card** for yesterday's log goes up on screen — so one short sitting does two jobs.
 
 Three lines, always the same three. The sameness is the point: on a school night nobody has to
 decide what to write, only what to *say*.
@@ -40,7 +40,7 @@ instead of repeating.
 ## What the log is not
 
 - **Not a summary contest.** Two true sentences beat eight vague ones.
-- **Not where length grows.** Paragraphs and shapes are `/weekend` work; the log grows by one
+- **Not where length grows.** Paragraphs and shapes are `/today` work; the log grows by one
   better sentence at a time.
-- **Not corrected tonight.** Tomorrow's 🔧 fix card comes *from* this log — the student fixes it
-  themselves, with the rule, before they write the next one.
+- **Not corrected tonight.** Tomorrow's 🔧 fix card comes *from* this log, and shows up while
+  they write the next one.

@@ -5,7 +5,7 @@
  * Only LLM time is in the data — see scripts/turn-timer.mjs — so these numbers are
  * the latency the student actually sits through, with their own typing excluded.
  *
- *   node scripts/timing-report.mjs           # /today and /weekend sessions
+ *   node scripts/timing-report.mjs           # /today and /daily sessions
  *   node scripts/timing-report.mjs --all     # every session
  *   node scripts/timing-report.mjs --json    # machine-readable
  */
@@ -38,7 +38,7 @@ const rows = readFileSync(LOG, 'utf8')
   })
   .filter((r) => r && typeof r.ms === 'number' && !r.suspect);
 
-/* A session is a /today (or /weekend) session if any of its prompts invoked the skill. Sessions are
+/* A session is a /today session if any of its prompts invoked the skill. Sessions are
  * grouped by id, and the first timestamp orders them. */
 const sessions = new Map();
 for (const r of rows) {
@@ -46,8 +46,8 @@ for (const r of rows) {
   if (!s) sessions.set(r.session, (s = { id: r.session, turns: [], isToday: false, first: r.ts }));
   s.turns.push(r);
   if (r.ts < s.first) s.first = r.ts;
-  if (/(^|\s|\/)(today|weekend)\b/i.test(r.prompt || '')) s.isToday = true;
-  if (/(^|\s|\/)weekend\b/i.test(r.prompt || '')) s.kind = 'weekend';
+  if (/(^|\s|\/)(today|daily)\b/i.test(r.prompt || '')) s.isToday = true;
+  if (/(^|\s|\/)daily\b/i.test(r.prompt || '')) s.kind = 'daily';
   // The student's name usually rides along with the invocation.
   const who = (r.prompt || '').match(/\b(Jia|Jaei)\b/i);
   if (who && !s.who) s.who = who[1];
@@ -94,21 +94,21 @@ if (!list.length) {
   console.log(
     showAll
       ? 'No sessions recorded yet.'
-      : 'No /today or /weekend sessions recorded yet. Run with --all to see every session.',
+      : 'No /today or /daily sessions recorded yet. Run with --all to see every session.',
   );
   process.exit(0);
 }
 
-/* /today: 3 turns (open → they write → close). /weekend: 4, and a 5th is the optional ACE round. */
+/* 4 turns: ask → set up → they write → close. A 5th is the optional ACE round. */
 const TURN_BUDGET = 5;
 
-const label = showAll ? 'all sessions' : '/today + /weekend sessions';
+const label = showAll ? 'all sessions' : '/today + /daily sessions';
 console.log(`\n📊 Tutor LLM time — ${label} (student typing excluded)\n`);
-console.log('  date        who    kind      turns   total LLM   slowest turn');
-console.log('  ' + '─'.repeat(62));
+console.log('  date        who    kind    turns   total LLM   slowest turn');
+console.log('  ' + '─'.repeat(60));
 for (const s of list) {
   console.log(
-    `  ${s.date}  ${s.who.padEnd(5)}  ${s.kind.padEnd(8)}  ${String(s.turns).padStart(4)}   ${fmt(s.totalMs).padStart(9)}   ${fmt(s.maxMs).padStart(11)}`,
+    `  ${s.date}  ${s.who.padEnd(5)}  ${s.kind.padEnd(6)}  ${String(s.turns).padStart(4)}   ${fmt(s.totalMs).padStart(9)}   ${fmt(s.maxMs).padStart(11)}`,
   );
 }
 
@@ -119,11 +119,12 @@ const maxes = list.map((s) => s.maxMs);
 console.log(`\n  Summary over ${list.length} session(s)`);
 console.log(`    total LLM time   median ${fmt(median(totals))} · mean ${fmt(totals.reduce((a, b) => a + b, 0) / totals.length)} · p90 ${fmt(pct(totals, 90))}`);
 console.log(`    turns/session    median ${median(turns)} · budget ${TURN_BUDGET} ${median(turns) <= TURN_BUDGET ? '✅' : '⚠️  over budget'}`);
-console.log(`    slowest turn     median ${fmt(median(maxes))} · worst ${fmt(Math.max(...maxes))} · budget 45s /today · 60s /weekend`);
-console.log(`    session total    budget 2m 30s /today · 4m 00s /weekend`);
+console.log(`    slowest turn     median ${fmt(median(maxes))} · worst ${fmt(Math.max(...maxes))} · budget 60s`);
+console.log(`    session total    budget 4m 00s`);
 console.log(
-  `\n  The budget in CLAUDE.md: /today is three turns — open → they write → close;\n` +
-    `  /weekend is four — ask → set up → they write → close (five with the ACE bonus).\n` +
-    `  More than that means a message got split up — the fix is fewer, fuller\n` +
-    `  messages, not faster typing.\n`,
+  `\n  /daily: three turns (open → they write → close), 45s a turn; the fix card posts\n` +
+    `  while they write and is not a turn they wait on.\n` +
+    `\n  The budget in CLAUDE.md is four turns: ask → set up → they write → close\n` +
+    `  (five if they take the ACE bonus). More than that means the SET UP or the\n` +
+    `  CLOSE message got split up — the fix is fewer, fuller messages, not faster typing.\n`,
 );

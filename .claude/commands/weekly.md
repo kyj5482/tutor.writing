@@ -31,9 +31,10 @@ child is waiting on it.
    cost to get there; add an item if the same concrete error appeared in 2+ entries (say **where**
    — it is usually the ACE answer). **An item stuck at 0/3 for three sessions is not reported
    again: schedule the `/lesson` and say so.** Rules: `docs/watch-list.md`.
-7. **Fix cards** — how many school-night 🔧 fixes were done (✅) out of offered, and which rules.
-   Quote one *before → after* pair from a `Fixed the next day` block — it is the clearest proof of
-   growth the week has. A rule that came up on two cards goes on the Watch list.
+7. **Fix cards** (`/daily` weeks) — how many 🔧 cards were done out of offered, and which rules.
+   Quote one ✏️ → ✅ pair from a `## Next-day fix` section, then the same rule used right in a
+   later log if there is one — that pair is the clearest proof of growth the week has. A rule on
+   two cards goes on the Watch list.
 8. **Badges & level** — anything unlocked this week.
 9. **부모님께** — 3–5 sentences in Korean: what improved, what next week's focus is, and how they
    can help (e.g. *"이번 주는 근거 문장 쓰기에 집중합니다"*).
