@@ -82,3 +82,5 @@
 {"ts":"2026-09-25T01:06:24.112Z","session":"d35624ff-d428-5457-999d-8b00890d39ab","ms":188018,"prompt":"기존 today는 그대로 두고 다른 이름 스킬로 만들어줘. 그리고 첫 메시지에 대해서 어제 작성한 것을 바로 분석하여 알려주지 말고 첫메시지 후 작성하라고 하면서 이때 sub task로 어제 문장을 분석하여 결과를 제공하는 것이다. 즉 아이가 작성하고 있는 동시에 어제 수정된 글도 함께"}
 {"ts":"2026-09-25T01:24:28.993Z","session":"d35624ff-d428-5457-999d-8b00890d39ab","ms":29427,"prompt":"머지해줘"}
 {"ts":"2026-09-25T01:24:33.169Z","session":"d35624ff-d428-5457-999d-8b00890d39ab","ms":4088,"prompt":"<task-notification> <task-type>queued-remote-notifications</task-type> <status>pending</status> <summary>2 unread notifications (GitHub activity on a subscribed"}
+{"ts":"2026-09-26T18:48:25.821Z","session":"4fa0dbb5-5b59-58e7-a574-708ee6b75a41","ms":22410,"prompt":"daily 스킬을 추가한 버전이 안보이는데"}
+{"ts":"2026-09-26T18:49:25.259Z","session":"4fa0dbb5-5b59-58e7-a574-708ee6b75a41","ms":37940,"prompt":"/daily jia"}
