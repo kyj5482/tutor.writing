@@ -1,13 +1,13 @@
 # Profile — Jia
 
 - **Grade:** 6
-- **Current book:** **between books** — finished *Charlie and the Great Glass Elevator* 09-12.
+- **Current book:** **between books** — finished *The 13-Storey Treehouse* 09-26.
   ➡️ **Never hand her a book unasked.** She sources her own and always has.
-- **Books finished (11):** **Harry Potter 3–7** (07-20 → 08-06 — the whole series, ~3,400 pages
+- **Books finished (12):** **Harry Potter 3–7** (07-20 → 08-06 — the whole series, ~3,400 pages
   since 06-09) · The Honest Truth (08-17) · Wonder (08-18) · Inside Out & Back Again (08-19) ·
   **Divergent** (08-30, 487 pp) · **Charlie and the Chocolate Factory** (09-03) ·
-  **Charlie and the Great Glass Elevator** (09-12) — *dates and authors: `journal/`*
-- **Last entry:** 2026-09-12 — 12 Essay, **Tier 3 — her first ever** (1 ¶, no break when nobody asked, 🎤 read aloud, **concession landed unprompted**, ✌️ and-check self-caught → **RETIRED**, ✍️ `'s` slipped → 0/3)
+  **Charlie and the Great Glass Elevator** (09-12) · **The 13-Storey Treehouse** (09-26) — *dates and authors: `journal/`*
+- **Last entry:** 2026-09-26 — 16 Reading Log (`/daily`), Tier 2 (no quote) · book finished · claim proved by a contrast · fix card `'s` ⬜ not yet
 
 > 📌 **Arguable claims arrive unprompted** (08-23). Name it every time — her Style promotion forming.
 > ⚠️ **The mic cannot fix silent marks — the *rule* can.** For `" "` and `'s`, **name it, then have
@@ -20,8 +20,8 @@
 ## Game stats
 
 - **Level:** 15 — 👑 Master Author
-- **XP:** 1450 (next level at 1500 — **50 to go**)
-- **Current streak:** 1 day (best: 8) — 09-12, after a 9-day gap. **Day 3 pays +5.**
+- **XP:** 1465 (next level at 1500 — **35 to go**)
+- **Current streak:** 1 day (best: 8) — 09-26, after a 13-day gap. **Day 3 pays +5.**
 
 > ⏰ **Timezone:** US — `date -u` reads a day ahead in the evening. Take the student's local date;
 > **if the clock and the student disagree, the student wins** (08-02).
@@ -90,15 +90,15 @@ move she has still never made — *paragraphs*.
 
 ## Watch list
 
-- [ ] **✍️ Possessive `'s`** — clean streak: **0/3** · *"**Charlie** grandparents"* (09-12, named before she wrote and missed anyway) · **find every "X's thing" and check the `'s` is there.**
-- [ ] **🔢 much vs many** — clean streak: **0/3** · *"how **much** adventures"* (09-12) · **if you can count them, it's *many*.**
+- [ ] **✍️ Possessive `'s`** — clean streak: **0/3** (09-26 untested) · *"**Charlie** grandparents"* (09-12, named before she wrote and missed anyway) · **find every "X's thing" and check the `'s` is there.**
+- [ ] **🔢 much vs many** — clean streak: **0/3** (09-26 untested) · *"how **much** adventures"* (09-12) · **if you can count them, it's *many*.**
 
 ✅ **RETIRED 09-12 — ✌️ the "and" check, 3/3**, on her own catch at the mic (*changes* → *changed*),
 nothing pointed at.
 
 🔴 **Naming `'s` before she writes has now failed twice** (09-12: named in the setup, missed anyway).
-➡️ **Next session it goes inside the ⭐ ACE question**, alone — a question she can't answer without
-typing an *"X's thing"*.
+09-26: the fix card's +5 *"use it once"* ask was skipped too. ➡️ **Next session it goes inside a
+question**, alone — one she can't answer without typing an *"X's thing"* (*"Whose ___ is it?"*).
 
 *Her ear is reliable, her eye is not: coach through **sound**, except silent marks (`" "`, `'s`),
 which need a **count**. Third proof 09-12 — the read-aloud fixed the verb, left `'s` missing.*
@@ -107,11 +107,10 @@ which need a **count**. Third proof 09-12 — the read-aloud fixed the verb, lef
 
 ## Session log
 
-*Rows before 2026-08-05 are in `archive/profile-full-2026-08-18.md` and `archive/log-rows-2026-09-12.md`.*
+*Rows before 2026-08-06 are in `archive/profile-full-2026-08-18.md` and `archive/log-rows-2026-09-12.md`.*
 
 | Date | Template | Tier | XP | Stretch? | Notes |
 |------|----------|------|----|----------|-------|
-| 2026-08-05 | 04 Opinion | 2 | 35 | ACE | McGonagall; conceded counterargument |
 | 2026-08-06 | 10 Book Review | 2 | 55 | ACE | 📚 **FINISHED THE WHOLE SERIES** |
 | 2026-08-17 | 07 Golden Line | 2 | 20 | no (declined 🚀/🎤/ACE) | 📗 The Honest Truth, found & finished alone; swapped her own golden line |
 | 2026-08-18 | 10 Book Review | 2 | 40 | 🎤 read aloud | 📚 **Wonder** finished; ✌️ and-check self-caught → 1/3 |
@@ -121,3 +120,4 @@ which need a **count**. Third proof 09-12 — the read-aloud fixed the verb, lef
 | 2026-09-02 | 08 Connection | 2 | 30 | ✅ + 🎤 | 🎉 **typed the ¶ break herself** — Shift+Enter, not Enter; Watch untested ×3 |
 | 2026-09-03 | 10 Book Review | 2 | 50 | ✅ + 🎤 | 📗 **Charlie & the Chocolate Factory**; 🆙 **Level 15**; ¶ break again; declined ACE; Watch untested ×4 |
 | 2026-09-12 | 12 Essay | **3** | 25 | 🎤 read aloud | 🍫 **Great Glass Elevator finished**; 🎉 **first Tier-3 entry (1/5)**; concession unprompted; ✌️ self-caught → **RETIRED**; ✍️ `'s` → 0/3; **1 ¶ when nobody asked** |
+| 2026-09-26 | 16 Reading Log | 2 | 15 | no | 🌳 **13-Storey Treehouse finished**; fix card `'s` not yet |

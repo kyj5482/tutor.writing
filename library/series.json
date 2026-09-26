@@ -445,6 +445,26 @@
           ]
         }
       ]
+    },
+    {
+      "name": "The Treehouse Books",
+      "emoji": "🌳",
+      "total": 13,
+      "match": [
+        "^(the )?\\d+[- ]?storey (tree ?)?house\\b"
+      ],
+      "volumes": [
+        {
+          "n": 1,
+          "short": "The 13-Storey Treehouse",
+          "aliases": [
+            "the 13-storey treehouse",
+            "13 storey house",
+            "13-storey treehouse",
+            "the 13 storey treehouse"
+          ]
+        }
+      ]
     }
   ]
 }

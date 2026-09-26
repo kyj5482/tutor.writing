@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-12T18:26:16.190Z",
+  "generated": "2026-09-26T18:54:18.563Z",
   "students": [
     {
       "name": "Jaei",
@@ -1341,7 +1341,7 @@
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 1450,
+      "xp": 1465,
       "level": 15,
       "streak": 1,
       "badges": [
@@ -1481,8 +1481,8 @@
         ]
       },
       "stats": {
-        "entries": 37,
-        "activeDays": 36,
+        "entries": 38,
+        "activeDays": 37,
         "templatesUsed": [
           "01-summary",
           "02-prediction",
@@ -1503,15 +1503,15 @@
         "compare": 0,
         "tier3": 1,
         "readAlouds": 18,
-        "cleanEntries": 17,
-        "cleanStreak": 10,
-        "bestCleanStreak": 10,
+        "cleanEntries": 18,
+        "cleanStreak": 11,
+        "bestCleanStreak": 11,
         "lessons": 0,
         "bookReviews": 5,
-        "booksStarted": 12,
-        "booksFinished": 9,
+        "booksStarted": 13,
+        "booksFinished": 10,
         "maxWords": 162,
-        "totalWords": 2929,
+        "totalWords": 2971,
         "maxParagraphs": 3,
         "essayShaped": 0,
         "debateShaped": 0,
@@ -1519,6 +1519,21 @@
         "streak": 1
       },
       "books": [
+        {
+          "key": "series:the treehouse books",
+          "title": "The Treehouse Books",
+          "short": "The Treehouse Books",
+          "series": "The Treehouse Books",
+          "seriesEmoji": "🌳",
+          "seriesTotal": 13,
+          "volume": null,
+          "author": "Andy Griffiths",
+          "entries": 1,
+          "words": 42,
+          "first": "2026-09-26",
+          "last": "2026-09-26",
+          "finished": true
+        },
         {
           "key": "series:charlie bucket",
           "title": "Charlie Bucket",
@@ -2813,6 +2828,36 @@
             "landed": true
           },
           "excerpt": "In Charlie and the great glass elevator, I think there were a lot of adventures. One reason is that in the book, Charlie grandparents changes their ages, they get stuck in the elev"
+        },
+        {
+          "file": "students/Jia/journal/2026-09-26-16-reading-log.md",
+          "date": "2026-09-26",
+          "slug": "16-reading-log",
+          "book": "The Treehouse Books",
+          "bookKey": "series:the treehouse books",
+          "bookShort": "The Treehouse Books",
+          "series": "The Treehouse Books",
+          "seriesEmoji": "🌳",
+          "volume": null,
+          "author": "Andy Griffiths",
+          "reading": "finished the book",
+          "tier": 2,
+          "xp": 15,
+          "words": 42,
+          "paragraphs": 1,
+          "hasRevision": false,
+          "hasBonus": false,
+          "quote": false,
+          "counter": false,
+          "craft": false,
+          "compare": false,
+          "readAloud": false,
+          "watchClean": true,
+          "watchSlip": false,
+          "build": null,
+          "exampleShown": null,
+          "newMove": null,
+          "excerpt": "I finished reading 13 storey house. Andy and Terry introuduced how they live in a tree house. I think Terry is not mature enough to live alone yet because while Andy wants to finis"
         }
       ],
       "reports": [
