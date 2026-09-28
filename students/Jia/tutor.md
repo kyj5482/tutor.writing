@@ -64,7 +64,7 @@ break. Get the keystroke in typed text FIRST, then offer the mic.
   *"X and Y ___"* blank produced neither — she fills the blanks she has content for and routes
   around the rest. **To score a habit, put it in the QUESTION, not in a slot.**
 - 🔴 **A +5 "use it once" ask on the `/daily` fix card gets skipped like a blank (09-26).** For `'s`,
-  make the ask a **question** she can't answer without it: *"Whose ___ is it?"*
+  make the ask a **question** she can't answer without it: *"Whose ___ is it?"* 09-27: the question got the title typed, capitals still missed — **add a count** (*"how many capitals?"*).
 - 🔴 **The mic always beats the ACE round when both are offered** (09-02, 09-03). If the ACE round
   is what matters that day, offer it **alone** — no mic, no choices, no second item.
 - **Never score a mishearing as her error.** The mic mangles nearly every proper noun (09-02 *Tris*

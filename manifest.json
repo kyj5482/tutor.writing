@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-26T18:54:18.563Z",
+  "generated": "2026-09-28T03:09:34.912Z",
   "students": [
     {
       "name": "Jaei",
@@ -1341,9 +1341,9 @@
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 1465,
+      "xp": 1480,
       "level": 15,
-      "streak": 1,
+      "streak": 2,
       "badges": [
         {
           "name": "First Words",
@@ -1481,8 +1481,8 @@
         ]
       },
       "stats": {
-        "entries": 38,
-        "activeDays": 37,
+        "entries": 39,
+        "activeDays": 38,
         "templatesUsed": [
           "01-summary",
           "02-prediction",
@@ -1503,20 +1503,20 @@
         "compare": 0,
         "tier3": 1,
         "readAlouds": 18,
-        "cleanEntries": 18,
-        "cleanStreak": 11,
-        "bestCleanStreak": 11,
+        "cleanEntries": 19,
+        "cleanStreak": 12,
+        "bestCleanStreak": 12,
         "lessons": 0,
         "bookReviews": 5,
         "booksStarted": 13,
         "booksFinished": 10,
         "maxWords": 162,
-        "totalWords": 2971,
+        "totalWords": 3015,
         "maxParagraphs": 3,
         "essayShaped": 0,
         "debateShaped": 0,
         "bestStreak": 8,
-        "streak": 1
+        "streak": 2
       },
       "books": [
         {
@@ -1528,10 +1528,10 @@
           "seriesTotal": 13,
           "volume": null,
           "author": "Andy Griffiths",
-          "entries": 1,
-          "words": 42,
+          "entries": 2,
+          "words": 86,
           "first": "2026-09-26",
-          "last": "2026-09-26",
+          "last": "2026-09-27",
           "finished": true
         },
         {
@@ -2858,6 +2858,36 @@
           "exampleShown": null,
           "newMove": null,
           "excerpt": "I finished reading 13 storey house. Andy and Terry introuduced how they live in a tree house. I think Terry is not mature enough to live alone yet because while Andy wants to finis"
+        },
+        {
+          "file": "students/Jia/journal/2026-09-27-16-reading-log.md",
+          "date": "2026-09-27",
+          "slug": "16-reading-log",
+          "book": "The Treehouse Books",
+          "bookKey": "series:the treehouse books",
+          "bookShort": "The Treehouse Books",
+          "series": "The Treehouse Books",
+          "seriesEmoji": "🌳",
+          "volume": null,
+          "author": "Andy Griffiths",
+          "reading": "finished the book",
+          "tier": 2,
+          "xp": 15,
+          "words": 44,
+          "paragraphs": 1,
+          "hasRevision": false,
+          "hasBonus": false,
+          "quote": false,
+          "counter": false,
+          "craft": false,
+          "compare": false,
+          "readAloud": false,
+          "watchClean": true,
+          "watchSlip": false,
+          "build": null,
+          "exampleShown": null,
+          "newMove": null,
+          "excerpt": "I finished reading The 39 storey tree house. It was mostly about how Profssor Stupio un did the whole world. I think that it was very stupid of Terry to invent once apon time machi"
         }
       ],
       "reports": [
