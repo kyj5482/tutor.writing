@@ -1,22 +1,21 @@
 # Profile — Jaei
 
 - **Grade:** 8
-- **Current book:** 📖 **Between books** — *Flashback* (#7) reviewed and closed out 2026-08-23.
-  Next up is his call: KOTLC *Legacy* (#8), or the Linda Sue Park bridge below. **He did not say
-  what he's reading now — ask first thing next session.**
+- **Current book:** 📖 KOTLC *Unraveled* (#9.5) — Keefe, Alvar, London (started by 09-27). Did he read
+  *Legacy* (#8) and *Stellarlune* (#9) in the gap? **Ask at the next `/today`** — Books finished may be short two.
 - **Books finished:** The Scorch Trials · KOTLC Everblaze · **the entire 10-book 39 Clues series**
   (07-25) · KOTLC Lodestar (07-30) · KOTLC Nightfall (08-15) · **KOTLC Flashback (08-20)**
 - 📌 **Recommendation waiting for his next between-books moment:** he read *Storm Warning* (39
   Clues #9) without knowing it was by **Linda Sue Park, a Korean-American Newbery Medal winner**
   — opening line scripted in `library/reading-ladder.md`. **Never pull him out of a book that is
   still pulling.**
-- **Last entry:** 2026-08-23 — 10 Book Review, Tier 3 (**187 words, 3 paragraphs** — the block streak broke)
+- **Last entry:** 2026-09-27 — 16 Reading Log, Tier 3 (🎬 only, 70 w — after a 5-week gap)
 
 ## Game stats
 
 - **Level:** 17 — 👑 Master Author (**levelled up 2026-08-20**)
-- **XP:** 1670 (next level at 1700 — **30 to go**)
-- **Current streak:** 1 days (best: 5). **Do not lead with the streak** — see `tutor.md`.
+- **XP:** 1690 (next level at 1700 — **10 to go**)
+- **Current streak:** 1 day (best: 5). **Do not lead with the streak** — see `tutor.md`.
 
 > ✅ **Paid 2026-08-23** — the *Flashback* finish bonus (+20) settled with the Book Review, as
 > promised. Nothing owed right now.
@@ -97,18 +96,17 @@ nobody asks on a normal day. Ask: *"Three blocks. Second one is the counter."*
 ## Watch list
 
 - [ ] **The pre-save pass — he starts it himself** — clean streak: **0/3** · 🎓 lesson 2026-08-20 (`lessons/pre-save-pass.md`). 👉 *20 seconds, out loud, before saving.* **08-23: first time it ever caught something** (*choose* → *chose*, his own catch) — but still prompted. Clean starts the night he runs it unasked.
-- [ ] **Dialogue punctuation — the marks go INSIDE** — clean streak: **2/3** · *"Ok"**,** Sophie said* → *"Ok**,**" Sophie said* · 👉 **The Tag Test:** saying-word + name → **comma**; whole sentence → **period**. Either way, **inside**.
+- [ ] **Dialogue punctuation — the marks go INSIDE** — clean streak: **0/3** (08-23 slip missed on the day; reset 09-27, told him) · quotes from the book too · *"Ok"**,** Sophie said* → *"Ok**,**" Sophie said* · 👉 **The Tag Test:** saying-word + name → **comma**; whole sentence → **period**. Either way, **inside**.
 
 ✅ **Done 2026-08-20 — the lesson was run.** For the next 3 sessions the 🔧 slot goes elsewhere;
 if it slips, **point at the check, never re-explain it.**
 
 ## Session log
 
-*Rows before 2026-08-01 are in `archive/profile-full-2026-08-18.md`.*
+*Rows before 2026-08-03 are in `archive/profile-full-2026-08-18.md`.*
 
 | Date | Template | Tier | XP | Stretch? | Notes |
 |------|----------|------|----|----------|-------|
-| 2026-08-01 | 14 Craft Analysis (day 2/2 ✅) | 3 | 80 | ✅ + lesson + ACE | 198 words, 4 paragraphs |
 | 2026-08-03 | 06 Rewrite the Scene | 3 | 50 | ✅ + ACE | Nightfall, 5 ch. |
 | 2026-08-03 | 15 Comparative Essay (day 1/4) | 3 | 50 | ✅ + ACE | 🎓 First ever comparative |
 | 2026-08-04 | 15 Comparative Essay (day 2/4) | 3 | 60 | ✅ + ACE | The *Lodestar* paragraph |
@@ -118,3 +116,4 @@ if it slips, **point at the check, never re-explain it.**
 | 2026-08-17 | 06 Rewrite the Scene | 3 | 35 | ✅ + 🔧 diagnosed | All dialogue, zero reported speech |
 | 2026-08-20 | 07 Golden Line | 3 | 30 | no + lesson | 🎉 Finished Flashback (#7); 🎓 Level 17 |
 | 2026-08-23 | 10 Book Review | 3 | 45 | open | 🧱 **3 paragraphs, 187 w**; +20 Flashback paid |
+| 2026-09-27 | 16 Reading Log | 3 | 20 | no | Unraveled; card: comma inside quote ⬜ not yet |
