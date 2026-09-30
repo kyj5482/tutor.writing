@@ -1,13 +1,13 @@
 # Profile — Jia
 
 - **Grade:** 6
-- **Current book:** **between books** — finished *The 39-Storey Treehouse* 09-27.
+- **Current book:** **between books** — finished *The 52-Storey Treehouse* 09-29.
   ➡️ **Never hand her a book unasked.** She sources her own and always has.
-- **Books finished (13):** **Harry Potter 3–7** (07-20 → 08-06 — the whole series, ~3,400 pages
+- **Books finished (14):** **Harry Potter 3–7** (07-20 → 08-06 — the whole series, ~3,400 pages
   since 06-09) · The Honest Truth (08-17) · Wonder (08-18) · Inside Out & Back Again (08-19) ·
   **Divergent** (08-30, 487 pp) · **Charlie and the Chocolate Factory** (09-03) ·
-  **Charlie and the Great Glass Elevator** (09-12) · **The 13-Storey Treehouse** (09-26) · **The 39-Storey Treehouse** (09-27) — *dates and authors: `journal/`*
-- **Last entry:** 2026-09-27 — 16 Reading Log (`/daily`), Tier 2 (no quote) · book finished · claim proved by its consequence · fix card title capitals ⬜ not yet
+  **Charlie and the Great Glass Elevator** (09-12) · **The 13-Storey Treehouse** (09-26) · **The 39-Storey Treehouse** (09-27) · **The 52-Storey Treehouse** (09-29) — *dates and authors: `journal/`*
+- **Last entry:** 2026-09-29 — 16 Reading Log (`/daily`), Tier 2 (no quote) · book finished · rebuttal of the villains' reason · fix card title capitals ✅
 
 > 📌 **Arguable claims arrive unprompted** (08-23). Name it every time — her Style promotion forming.
 > ⚠️ **The mic cannot fix silent marks — the *rule* can.** For `" "` and `'s`, **name it, then have
@@ -19,9 +19,9 @@
 
 ## Game stats
 
-- **Level:** 15 — 👑 Master Author
-- **XP:** 1480 (next level at 1500 — **20 to go**)
-- **Current streak:** 2 days (best: 8) — 09-26, 09-27. **Day 3 pays +5.**
+- **Level:** 16 — 👑 Master Author (🆙 09-29 — she picks the next free day's template)
+- **XP:** 1500 (next level at 1600 — **100 to go**)
+- **Current streak:** 1 day (best: 8) — 09-29 (restarted after 09-28). **Day 3 pays +5.**
 
 > ⏰ **Timezone:** US — `date -u` reads a day ahead in the evening. Take the student's local date;
 > **if the clock and the student disagree, the student wins** (08-02).
@@ -90,8 +90,10 @@ move she has still never made — *paragraphs*.
 
 ## Watch list
 
-- [ ] **✍️ Possessive `'s`** — clean streak: **0/3** (09-26, 09-27 untested) · *"**Charlie** grandparents"* (09-12, named before she wrote and missed anyway) · **find every "X's thing" and check the `'s` is there.**
-- [ ] **🔢 much vs many** — clean streak: **0/3** (09-26, 09-27 untested) · *"how **much** adventures"* (09-12) · **if you can count them, it's *many*.**
+- [ ] **✍️ Possessive `'s`** — clean streak: **0/3** (09-26, 09-27, 09-29 untested) · *"**Charlie** grandparents"* (09-12, named before she wrote and missed anyway) · **find every "X's thing" and check the `'s` is there.**
+- [ ] **🔢 much vs many** — clean streak: **0/3** (09-26, 09-27, 09-29 untested) · *"how **much** adventures"* (09-12) · **if you can count them, it's *many*.**
+
+📝 **Title capitals — two cards in a week** (09-27, 09-29); list full, so it waits. 09-29 she typed it right twice.
 
 ✅ **RETIRED 09-12 — ✌️ the "and" check, 3/3**, on her own catch at the mic (*changes* → *changed*),
 nothing pointed at.
@@ -107,11 +109,10 @@ which need a **count**. Third proof 09-12 — the read-aloud fixed the verb, lef
 
 ## Session log
 
-*Rows before 2026-08-06 are in `archive/profile-full-2026-08-18.md` and `archive/log-rows-2026-09-12.md`.*
+*Rows before 2026-08-18 are in `archive/profile-full-2026-08-18.md` and `archive/log-rows-2026-09-12.md`.*
 
 | Date | Template | Tier | XP | Stretch? | Notes |
 |------|----------|------|----|----------|-------|
-| 2026-08-17 | 07 Golden Line | 2 | 20 | no (declined 🚀/🎤/ACE) | 📗 The Honest Truth, found & finished alone; swapped her own golden line |
 | 2026-08-18 | 10 Book Review | 2 | 40 | 🎤 read aloud | 📚 **Wonder** finished; ✌️ and-check self-caught → 1/3 |
 | 2026-08-19 | 12 Essay (day 1 of 3) | 1 | 25 | 🎤 read aloud | 📚 **Inside Out & Back Again**; ✌️+✍️ both clean → 2/3 |
 | 2026-08-23 | 02 Prediction | 2 | 20 | 🎤 read aloud | 📕 **Divergent** started; arguable claim unprompted; Watch untested → hold 2/3 |
@@ -121,3 +122,4 @@ which need a **count**. Third proof 09-12 — the read-aloud fixed the verb, lef
 | 2026-09-12 | 12 Essay | **3** | 25 | 🎤 read aloud | 🍫 **Great Glass Elevator finished**; 🎉 **first Tier-3 entry (1/5)**; concession unprompted; ✌️ self-caught → **RETIRED**; ✍️ `'s` → 0/3; **1 ¶ when nobody asked** |
 | 2026-09-26 | 16 Reading Log | 2 | 15 | no | 🌳 **13-Storey Treehouse finished**; fix card `'s` not yet |
 | 2026-09-27 | 16 Reading Log | 2 | 15 | no | 🌳 **39-Storey Treehouse finished**; title-capitals card not yet |
+| 2026-09-29 | 16 Reading Log | 2 | 20 | fix card ✅ | 🌳 **52-Storey finished**; title capitals ✅; 🆙 **Level 16** |

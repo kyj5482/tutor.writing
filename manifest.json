@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-28T03:33:52.798Z",
+  "generated": "2026-09-30T04:14:16.724Z",
   "students": [
     {
       "name": "Jaei",
@@ -1374,9 +1374,9 @@
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 1480,
-      "level": 15,
-      "streak": 2,
+      "xp": 1500,
+      "level": 16,
+      "streak": 1,
       "badges": [
         {
           "name": "First Words",
@@ -1514,8 +1514,8 @@
         ]
       },
       "stats": {
-        "entries": 39,
-        "activeDays": 38,
+        "entries": 40,
+        "activeDays": 39,
         "templatesUsed": [
           "01-summary",
           "02-prediction",
@@ -1536,20 +1536,20 @@
         "compare": 0,
         "tier3": 1,
         "readAlouds": 18,
-        "cleanEntries": 19,
-        "cleanStreak": 12,
-        "bestCleanStreak": 12,
+        "cleanEntries": 20,
+        "cleanStreak": 13,
+        "bestCleanStreak": 13,
         "lessons": 0,
         "bookReviews": 5,
         "booksStarted": 13,
         "booksFinished": 10,
         "maxWords": 162,
-        "totalWords": 3015,
+        "totalWords": 3054,
         "maxParagraphs": 3,
         "essayShaped": 0,
         "debateShaped": 0,
         "bestStreak": 8,
-        "streak": 2
+        "streak": 1
       },
       "books": [
         {
@@ -1561,10 +1561,10 @@
           "seriesTotal": 13,
           "volume": null,
           "author": "Andy Griffiths",
-          "entries": 2,
-          "words": 86,
+          "entries": 3,
+          "words": 125,
           "first": "2026-09-26",
-          "last": "2026-09-27",
+          "last": "2026-09-29",
           "finished": true
         },
         {
@@ -2921,6 +2921,36 @@
           "exampleShown": null,
           "newMove": null,
           "excerpt": "I finished reading The 39 storey tree house. It was mostly about how Profssor Stupio un did the whole world. I think that it was very stupid of Terry to invent once apon time machi"
+        },
+        {
+          "file": "students/Jia/journal/2026-09-29-16-reading-log.md",
+          "date": "2026-09-29",
+          "slug": "16-reading-log",
+          "book": "The Treehouse Books",
+          "bookKey": "series:the treehouse books",
+          "bookShort": "The Treehouse Books",
+          "series": "The Treehouse Books",
+          "seriesEmoji": "🌳",
+          "volume": null,
+          "author": "Andy Griffiths",
+          "reading": "finished the book",
+          "tier": 2,
+          "xp": 20,
+          "words": 39,
+          "paragraphs": 1,
+          "hasRevision": false,
+          "hasBonus": false,
+          "quote": false,
+          "counter": false,
+          "craft": false,
+          "compare": false,
+          "readAloud": false,
+          "watchClean": true,
+          "watchSlip": false,
+          "build": null,
+          "exampleShown": null,
+          "newMove": null,
+          "excerpt": "I finished reading The 52-Storey Tree House. In the story, Mr. Big Nose and Jill was missing. I think that the vegetables are very mean because they didn't really do anything wrong"
         }
       ],
       "reports": [
