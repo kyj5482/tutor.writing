@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-30T04:14:16.724Z",
+  "generated": "2026-10-03T22:32:49.525Z",
   "students": [
     {
       "name": "Jaei",
@@ -1374,7 +1374,7 @@
     {
       "name": "Jia",
       "grade": "6",
-      "xp": 1500,
+      "xp": 1515,
       "level": 16,
       "streak": 1,
       "badges": [
@@ -1514,8 +1514,8 @@
         ]
       },
       "stats": {
-        "entries": 40,
-        "activeDays": 39,
+        "entries": 41,
+        "activeDays": 40,
         "templatesUsed": [
           "01-summary",
           "02-prediction",
@@ -1536,15 +1536,15 @@
         "compare": 0,
         "tier3": 1,
         "readAlouds": 18,
-        "cleanEntries": 20,
-        "cleanStreak": 13,
-        "bestCleanStreak": 13,
+        "cleanEntries": 21,
+        "cleanStreak": 14,
+        "bestCleanStreak": 14,
         "lessons": 0,
         "bookReviews": 5,
         "booksStarted": 13,
         "booksFinished": 10,
         "maxWords": 162,
-        "totalWords": 3054,
+        "totalWords": 3084,
         "maxParagraphs": 3,
         "essayShaped": 0,
         "debateShaped": 0,
@@ -1561,10 +1561,10 @@
           "seriesTotal": 13,
           "volume": null,
           "author": "Andy Griffiths",
-          "entries": 3,
-          "words": 125,
+          "entries": 4,
+          "words": 155,
           "first": "2026-09-26",
-          "last": "2026-09-29",
+          "last": "2026-10-03",
           "finished": true
         },
         {
@@ -2951,6 +2951,36 @@
           "exampleShown": null,
           "newMove": null,
           "excerpt": "I finished reading The 52-Storey Tree House. In the story, Mr. Big Nose and Jill was missing. I think that the vegetables are very mean because they didn't really do anything wrong"
+        },
+        {
+          "file": "students/Jia/journal/2026-10-03-16-reading-log.md",
+          "date": "2026-10-03",
+          "slug": "16-reading-log",
+          "book": "The Treehouse Books",
+          "bookKey": "series:the treehouse books",
+          "bookShort": "The Treehouse Books",
+          "series": "The Treehouse Books",
+          "seriesEmoji": "🌳",
+          "volume": null,
+          "author": "Andy Griffiths",
+          "reading": "finished the book",
+          "tier": 2,
+          "xp": 15,
+          "words": 30,
+          "paragraphs": 1,
+          "hasRevision": false,
+          "hasBonus": false,
+          "quote": false,
+          "counter": false,
+          "craft": false,
+          "compare": false,
+          "readAloud": false,
+          "watchClean": true,
+          "watchSlip": false,
+          "build": null,
+          "exampleShown": null,
+          "newMove": null,
+          "excerpt": "I finished reading 78 storey tree house. It was about Terry being in the movie. I think that it was kind of mean of Terry to just forget about Andy."
         }
       ],
       "reports": [
